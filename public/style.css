@@ -1,0 +1,459 @@
+/* =====================================================
+   AI News App — Style v2
+   静的構成・サーバー不要・モバイル対応
+   ===================================================== */
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans",
+               "Yu Gothic UI", "Meiryo", sans-serif;
+  background: #eef1f8;
+  color: #1e293b;
+  min-height: 100vh;
+}
+
+a { text-decoration: none; color: inherit; }
+
+/* ─── ヘッダー ─────────────────────────────────── */
+.header {
+  background: linear-gradient(135deg, #0f172a 0%, #1e3a8a 45%, #4f46e5 100%);
+  padding: 32px 20px 28px;
+  position: relative;
+  overflow: hidden;
+}
+
+/* ドット背景 */
+.header::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, rgba(255,255,255,.06) 1px, transparent 1px);
+  background-size: 28px 28px;
+  pointer-events: none;
+}
+
+.header-content {
+  max-width: 960px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+
+.header-title {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.header-icon {
+  font-size: 2.4rem;
+  filter: drop-shadow(0 2px 8px rgba(0,0,0,.4));
+}
+
+.header h1 {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.5px;
+  line-height: 1.2;
+}
+
+.header-subtitle {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,.6);
+  margin-top: 3px;
+  letter-spacing: .3px;
+}
+
+.header-meta {
+  font-size: 0.72rem;
+  color: rgba(255,255,255,.5);
+  background: rgba(255,255,255,.08);
+  border: 1px solid rgba(255,255,255,.12);
+  border-radius: 999px;
+  padding: 4px 14px;
+}
+
+/* ─── メインコンテナ ──────────────────────────── */
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 24px 16px 56px;
+}
+
+/* ─── 更新ボタン ──────────────────────────────── */
+.update-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+
+.btn-update {
+  background: linear-gradient(135deg, #4f46e5, #7c3aed);
+  color: #fff;
+  border: none;
+  border-radius: 14px;
+  padding: 13px 28px;
+  font-size: .9rem;
+  font-weight: 700;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  box-shadow: 0 4px 20px rgba(79,70,229,.4);
+  transition: transform .15s, box-shadow .15s;
+}
+
+.btn-update:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 28px rgba(79,70,229,.5);
+}
+
+.btn-update:active { transform: scale(.97); }
+
+.btn-spinner {
+  display: none;
+  width: 15px; height: 15px;
+  border: 2px solid rgba(255,255,255,.35);
+  border-top-color: #fff;
+  border-radius: 50%;
+  animation: spin .65s linear infinite;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ─── 更新手順パネル ──────────────────────────── */
+.howto-panel {
+  display: none;
+  position: relative;
+  background: #fff;
+  border: 1.5px solid #e0e7ff;
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin-bottom: 18px;
+  box-shadow: 0 4px 24px rgba(79,70,229,.1);
+}
+
+.howto-close {
+  position: absolute;
+  top: 12px; right: 16px;
+  font-size: .85rem;
+  color: #94a3b8;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 6px;
+  transition: background .15s;
+}
+.howto-close:hover { background: #f1f5f9; }
+
+.howto-title {
+  font-size: .95rem;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 6px;
+}
+
+.howto-desc {
+  font-size: .8rem;
+  color: #64748b;
+  margin-bottom: 12px;
+}
+
+.howto-code {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  background: #0f172a;
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin-bottom: 10px;
+}
+
+.howto-code code {
+  color: #7dd3fc;
+  font-family: "SF Mono", "Fira Code", monospace;
+  font-size: .82rem;
+  flex: 1;
+}
+
+.copy-btn {
+  background: rgba(255,255,255,.12);
+  color: #fff;
+  border: 1px solid rgba(255,255,255,.2);
+  border-radius: 7px;
+  padding: 5px 12px;
+  font-size: .75rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background .15s;
+}
+.copy-btn:hover { background: rgba(255,255,255,.22); }
+
+.howto-note {
+  font-size: .75rem;
+  color: #94a3b8;
+}
+
+/* ─── トレンドバー ────────────────────────────── */
+.trends-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: #fff;
+  border-radius: 14px;
+  padding: 12px 18px;
+  margin-bottom: 20px;
+  box-shadow: 0 1px 6px rgba(0,0,0,.06);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+.trends-bar::-webkit-scrollbar { display: none; }
+
+.trends-label {
+  font-size: .75rem;
+  font-weight: 800;
+  color: #f97316;
+  white-space: nowrap;
+  letter-spacing: .4px;
+}
+
+.trends-chips { display: flex; gap: 7px; }
+
+.chip {
+  background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+  color: #4338ca;
+  border: 1px solid #c7d2fe;
+  border-radius: 999px;
+  padding: 4px 13px;
+  font-size: .78rem;
+  font-weight: 600;
+  white-space: nowrap;
+  cursor: default;
+  transition: transform .12s;
+}
+.chip:hover { transform: translateY(-1px); }
+
+/* ─── カードグリッド ──────────────────────────── */
+.cards-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 18px;
+}
+
+@media (min-width: 720px) {
+  .cards-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+/* ─── カード ──────────────────────────────────── */
+.card {
+  background: #fff;
+  border-radius: 20px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  /* 立体感 */
+  box-shadow:
+    0 1px 2px rgba(0,0,0,.06),
+    0 4px 8px rgba(0,0,0,.06),
+    0 12px 24px rgba(0,0,0,.07);
+  transition: transform .2s ease, box-shadow .2s ease;
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-6px) scale(1.01);
+  box-shadow:
+    0 2px 4px rgba(0,0,0,.06),
+    0 12px 24px rgba(0,0,0,.1),
+    0 32px 56px rgba(0,0,0,.1);
+}
+
+/* 左側のアクセントライン */
+.card-accent {
+  position: absolute;
+  left: 0; top: 0; bottom: 0;
+  width: 4px;
+  border-radius: 20px 0 0 20px;
+}
+.rank-1 .card-accent { background: linear-gradient(180deg, #f59e0b, #fbbf24); }
+.rank-2 .card-accent { background: linear-gradient(180deg, #9ca3af, #d1d5db); }
+.rank-3 .card-accent { background: linear-gradient(180deg, #b45309, #d97706); }
+
+.card-inner { padding: 18px 18px 16px 22px; flex: 1; display: flex; flex-direction: column; }
+
+/* カード上部 */
+.card-top {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.medal { font-size: 1.25rem; }
+
+/* バッジ共通 */
+.badge {
+  border-radius: 6px;
+  padding: 2px 8px;
+  font-size: .68rem;
+  font-weight: 700;
+  letter-spacing: .3px;
+}
+
+/* ソースバッジ */
+.src-zenn  { background: #dbeafe; color: #1d4ed8; }
+.src-devto { background: #f1f5f9; color: #334155; }
+.src-note  { background: #d1fae5; color: #065f46; }
+
+/* NEW バッジ */
+.badge-new {
+  background: linear-gradient(135deg, #ef4444, #f97316);
+  color: #fff;
+  animation: pulse 2s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%,100% { opacity: 1; }
+  50%      { opacity: .75; }
+}
+
+/* EN→JP バッジ */
+.badge-en { background: #fce7f3; color: #9d174d; }
+
+.card-date {
+  margin-left: auto;
+  font-size: .68rem;
+  color: #cbd5e1;
+}
+
+/* タイトル */
+.card-title {
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #0f172a;
+  margin-bottom: 12px;
+}
+
+/* 要約リスト */
+.summary {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  margin-bottom: 14px;
+  flex: 1;
+}
+
+.summary li {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+  font-size: .83rem;
+  color: #475569;
+  line-height: 1.55;
+}
+
+.summary .num {
+  flex-shrink: 0;
+  width: 19px; height: 19px;
+  background: #e0e7ff;
+  color: #4338ca;
+  border-radius: 50%;
+  font-size: .65rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 2px;
+}
+
+/* ✨ すごいポイント */
+.highlight {
+  background: linear-gradient(135deg, #fffbeb, #fef3c7);
+  border: 1.5px solid #fde68a;
+  border-radius: 11px;
+  padding: 10px 13px;
+  margin-bottom: 13px;
+  display: flex;
+  align-items: flex-start;
+  gap: 7px;
+}
+
+.highlight-icon { font-size: .9rem; flex-shrink: 0; margin-top: 2px; }
+
+.highlight-text {
+  font-size: .82rem;
+  font-weight: 600;
+  color: #92400e;
+  line-height: 1.55;
+}
+
+/* カードフッター */
+.card-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 10px;
+  border-top: 1px solid #f1f5f9;
+}
+
+.stats { display: flex; gap: 10px; }
+
+.stat { font-size: .72rem; color: #94a3b8; }
+
+.read-link {
+  font-size: .76rem;
+  font-weight: 700;
+  color: #6366f1;
+  white-space: nowrap;
+}
+
+/* ─── ローディング ────────────────────────────── */
+.loading-state {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  padding: 60px 0;
+}
+
+.loading-dot {
+  width: 10px; height: 10px;
+  background: #6366f1;
+  border-radius: 50%;
+  animation: bounce .8s ease-in-out infinite;
+}
+.loading-dot:nth-child(2) { animation-delay: .15s; }
+.loading-dot:nth-child(3) { animation-delay: .3s; }
+
+@keyframes bounce {
+  0%,100% { transform: translateY(0); opacity: .4; }
+  50%      { transform: translateY(-10px); opacity: 1; }
+}
+
+/* ─── エラー / 空 ─────────────────────────────── */
+.error-state, .empty {
+  grid-column: 1 / -1;
+  text-align: center;
+  padding: 60px 20px;
+  color: #94a3b8;
+  font-size: .9rem;
+  line-height: 1.7;
+}
+
+/* ─── フッター ────────────────────────────────── */
+.footer {
+  text-align: center;
+  padding: 20px 16px 32px;
+  font-size: .72rem;
+  color: #94a3b8;
+}

@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# 環境変数（APIキーを含む！絶対にGitHubに上げない）
+.env
+
+# macOS
+.DS_Store
+
+# エディタ
+.vscode/
+.idea/
