@@ -8,11 +8,9 @@
 </head>
 <body>
 
-  <!-- ヘッダー -->
   <header class="header">
     <div class="header-content">
       <div class="header-title">
-        <span class="header-icon">🤖</span>
         <div>
           <h1>今日のAIニュース</h1>
           <p class="header-subtitle">Zenn / Dev.to / note から厳選 TOP 3</p>
@@ -24,33 +22,19 @@
 
   <main class="container">
 
-    <!-- 更新ボタン -->
     <div class="update-row">
       <button class="btn-update" id="btn-update" onclick="handleUpdate()">
         <span class="btn-spinner" id="btn-spinner"></span>
-        <span id="btn-label">🔄 最新ニュースを取得</span>
+        <span id="btn-label">最新ニュースを取得</span>
       </button>
     </div>
+    <p class="update-status" id="update-status"></p>
 
-    <!-- 更新手順パネル（初期非表示） -->
-    <div class="howto-panel" id="howto-panel">
-      <div class="howto-close" onclick="closeHowto()">✕</div>
-      <p class="howto-title">📋 手動で更新する方法</p>
-      <p class="howto-desc">ターミナル（黒い画面）で以下を実行してください：</p>
-      <div class="howto-code">
-        <code id="howto-cmd">cd ai-news-app &amp;&amp; python scripts/main.py</code>
-        <button class="copy-btn" onclick="copyCmd()">コピー</button>
-      </div>
-      <p class="howto-note">⏱ 実行後30〜60秒でページが更新されます</p>
-    </div>
-
-    <!-- トレンドキーワード -->
     <section class="trends-bar" id="trends-bar" style="display:none">
-      <span class="trends-label">🔥 トレンド</span>
+      <span class="trends-label">トレンド</span>
       <div class="trends-chips" id="trends-chips"></div>
     </section>
 
-    <!-- カードグリッド -->
     <div class="cards-grid" id="cards-grid">
       <div class="loading-state">
         <div class="loading-dot"></div>
@@ -62,27 +46,17 @@
   </main>
 
   <footer class="footer">
-    毎朝7時に自動更新 &nbsp;·&nbsp; Gemini AI で要約・翻訳
+    毎朝 7 時に自動更新 &nbsp;·&nbsp; Gemini AI で要約・翻訳
   </footer>
 
   <script>
-  // ─────────────────────────────────────────
-  // データ読み込み
-  // ─────────────────────────────────────────
-  async function loadData() {
-    const res = await fetch('public/data/articles.json?t=' + Date.now());
-    if (!res.ok) throw new Error('articles.json の読み込みに失敗しました');
-    return res.json();
-  }
+  const MEDALS  = ['🥇','🥈','🥉'];
+  const SRC_CLS = { Zenn:'zenn', 'Dev.to':'devto', note:'note' };
 
-  // ─────────────────────────────────────────
-  // 日付ユーティリティ
-  // ─────────────────────────────────────────
-  function isNew(dateStr) {
-    if (!dateStr) return false;
-    const pub  = new Date(dateStr);
-    const diff = Date.now() - pub.getTime();
-    return diff < 48 * 60 * 60 * 1000; // 48時間以内
+  function fmtDate(s) {
+    if (!s) return '';
+    const m = s.match(/(\d{4})-(\d{2})-(\d{2})/);
+    return m ? `${m[1]}.${m[2]}.${m[3]}` : s;
   }
 
   function esc(s) {
@@ -91,113 +65,122 @@
       .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
   }
 
-  // ─────────────────────────────────────────
-  // カード描画
-  // ─────────────────────────────────────────
-  const MEDALS  = ['🥇','🥈','🥉'];
-  const SRC_CLS = { Zenn:'zenn', 'Dev.to':'devto', note:'note' };
+  function isNew(dateStr) {
+    if (!dateStr) return false;
+    return Date.now() - new Date(dateStr).getTime() < 48 * 3600 * 1000;
+  }
+
+  async function loadData() {
+    const res = await fetch('data/articles.json?t=' + Date.now());
+    if (!res.ok) throw new Error('articles.json の読み込みに失敗しました');
+    return res.json();
+  }
 
   function buildCard(a) {
     const rank     = a.rank || 1;
-    const medal    = MEDALS[rank - 1] || '📄';
     const srcCls   = SRC_CLS[a.source] || 'note';
-    const newBadge = isNew(a.published_at)
-      ? '<span class="badge badge-new">NEW</span>' : '';
-    const enBadge  = a.lang === 'en'
-      ? '<span class="badge badge-en">EN→JP</span>' : '';
-    const summary  = (a.summary || [])
-      .map((t,i) => `<li><span class="num">${i+1}</span>${esc(t)}</li>`)
-      .join('');
-    const likes    = a.likes > 0
-      ? `<span class="stat">👍 ${a.likes}</span>` : '';
-    const comments = a.comments > 0
-      ? `<span class="stat">💬 ${a.comments}</span>` : '';
-    const date     = a.published_at
-      ? `<span class="stat">📅 ${esc(a.published_at)}</span>` : '';
+    const newBadge = isNew(a.published_at) ? '<span class="badge badge-new">NEW</span>' : '';
+    const enBadge  = a.lang === 'en' ? '<span class="badge badge-en">EN→JP</span>' : '';
+    const summary  = (a.summary || []).slice(0, 3)
+      .map((t,i) => `<li><span class="num">・</span>${esc(t)}</li>`).join('');
+    const likes    = a.likes    > 0 ? `<span class="stat">👍 ${a.likes}</span>`    : '';
+    const comments = a.comments > 0 ? `<span class="stat">💬 ${a.comments}</span>` : '';
+    const date     = a.published_at  ? `<span class="stat">・ ${fmtDate(a.published_at)}</span>` : '';
 
     return `
     <a class="card rank-${rank}" href="${esc(a.url)}" target="_blank" rel="noopener">
-      <div class="card-accent"></div>
       <div class="card-inner">
         <div class="card-top">
-          <span class="medal">${medal}</span>
+          <span class="medal">${MEDALS[rank-1]||'📄'}</span>
           <span class="badge src-${srcCls}">${esc(a.source)}</span>
           ${newBadge}${enBadge}
-          <span class="card-date">${esc(a.published_at||'')}</span>
+          <span class="card-date">${fmtDate(a.published_at||'')}</span>
         </div>
-        <h2 class="card-title">${esc(a.title_ja || a.title)}</h2>
-        <ul class="summary">${summary}</ul>
+        <h2 class="card-title" style="-webkit-line-clamp:2;display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden">${esc(a.title_ja || a.title)}</h2>
+        <br>
+        <ul class="summary"><small>■ 要約（ポイント）</small>${summary}</ul>
+        <br>
         <div class="highlight">
-          <span class="highlight-icon">✨</span>
           <span class="highlight-text">${esc(a.highlight||'')}</span>
         </div>
         <div class="card-footer">
           <div class="stats">${likes}${comments}${date}</div>
-          <span class="read-link">元記事を読む →</span>
+          <span class="read-link">→ 元記事を読む</span>
         </div>
       </div>
     </a>`;
   }
 
-  // ─────────────────────────────────────────
-  // レンダリング
-  // ─────────────────────────────────────────
   function render(data) {
-    // ヘッダー更新時刻
     document.getElementById('updated-at').textContent =
       data.updated_at ? '最終更新 ' + data.updated_at : '';
 
-    // トレンドキーワード
     if (data.trending_keywords?.length) {
       document.getElementById('trends-chips').innerHTML =
-        data.trending_keywords.map(k =>
-          `<span class="chip">#${esc(k)}</span>`).join('');
+        data.trending_keywords.map(k => `<span class="chip">#${esc(k)}</span>`).join('');
       document.getElementById('trends-bar').style.display = 'flex';
     }
 
-    // カード
     const grid = document.getElementById('cards-grid');
-    if (!data.articles?.length) {
-      grid.innerHTML = '<p class="empty">記事が見つかりませんでした。</p>';
-      return;
-    }
-    grid.innerHTML = data.articles.map(buildCard).join('');
+    grid.innerHTML = data.articles?.length
+      ? data.articles.map(buildCard).join('')
+      : '<p class="empty">記事が見つかりませんでした。</p>';
   }
 
-  // ─────────────────────────────────────────
-  // 初期化
-  // ─────────────────────────────────────────
   async function init() {
     try {
-      const data = await loadData();
-      render(data);
+      render(await loadData());
     } catch (e) {
       document.getElementById('cards-grid').innerHTML =
         `<div class="error-state">
-          <p>⚠️ データの読み込みに失敗しました</p>
-          <p style="font-size:.8rem;color:#888;margin-top:8px">${esc(e.message)}</p>
+           <p>データの読み込みに失敗しました</p>
+           <p style="font-size:.8rem;color:#888;margin-top:8px">${esc(e.message)}</p>
          </div>`;
     }
   }
 
-  // ─────────────────────────────────────────
-  // 更新ボタン
-  // ─────────────────────────────────────────
-  function handleUpdate() {
-    const panel = document.getElementById('howto-panel');
-    panel.style.display = panel.style.display === 'block' ? 'none' : 'block';
+  function setStatus(msg, type) {
+    const el = document.getElementById('update-status');
+    el.textContent = msg;
+    el.className   = 'update-status' + (type ? ' ' + type : '');
   }
 
-  function closeHowto() {
-    document.getElementById('howto-panel').style.display = 'none';
+  function setLoading(on) {
+    const btn     = document.getElementById('btn-update');
+    const spinner = document.getElementById('btn-spinner');
+    const label   = document.getElementById('btn-label');
+    btn.disabled          = on;
+    spinner.style.display = on ? 'inline-block' : 'none';
+    label.textContent     = on ? '取得中...' : '最新ニュースを取得';
   }
 
-  async function copyCmd() {
-    const text = 'cd ai-news-app && python scripts/main.py';
-    await navigator.clipboard.writeText(text).catch(() => {});
-    const btn = document.querySelector('.copy-btn');
-    btn.textContent = '✅ コピー済み';
-    setTimeout(() => btn.textContent = 'コピー', 2000);
+  async function handleUpdate() {
+    setLoading(true);
+    setStatus('記事を取得中です... 約30〜60秒かかります');
+    try {
+      const UPDATE_URL = window.location.port === '8080'
+        ? '/update'
+        : 'http://localhost:8080/update';
+      const res  = await fetch(UPDATE_URL, { cache: 'no-store' });
+      const json = await res.json().catch(() => ({}));
+      if (res.ok) {
+        setStatus('更新完了しました', 'success');
+        setTimeout(async () => { await init(); setStatus(''); }, 1000);
+      } else if (res.status === 429) {
+        setStatus('更新処理が実行中です。しばらくお待ちください。', 'warn');
+      } else {
+        throw new Error(json.message || `サーバーエラー (${res.status})`);
+      }
+    } catch (e) {
+      const isServerDown = e.message.includes('Failed to fetch')
+        || e.message.includes('NetworkError')
+        || e.message.includes('404');
+      setStatus(isServerDown
+        ? 'サーバーが停止中です。ターミナルで python scripts/server.py を実行してください。'
+        : 'エラー: ' + e.message, 'error');
+    } finally {
+      setLoading(false);
+    }
   }
 
   init();
