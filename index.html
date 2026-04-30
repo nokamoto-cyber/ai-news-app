@@ -71,8 +71,8 @@
   }
 
   async function loadData() {
-    const res = await fetch('data/articles.json?t=' + Date.now());
-    if (!res.ok) throw new Error('articles.json の読み込みに失敗しました');
+    const res = await fetch('/api/news?t=' + Date.now());
+    if (!res.ok) throw new Error('/api/news の読み込みに失敗しました');
     return res.json();
   }
 
