@@ -70,7 +70,7 @@
   // データ読み込み
   // ─────────────────────────────────────────
   async function loadData() {
-    const res = await fetch('data/articles.json?t=' + Date.now());
+    const res = await fetch('public/data/articles.json?t=' + Date.now());
     if (!res.ok) throw new Error('articles.json の読み込みに失敗しました');
     return res.json();
   }
