@@ -29,6 +29,7 @@
       </button>
     </div>
     <p class="update-status" id="update-status"></p>
+    
 
     <section class="trends-bar" id="trends-bar" style="display:none">
       <span class="trends-label">トレンド</span>
@@ -154,30 +155,15 @@
     label.textContent     = on ? '取得中...' : '最新ニュースを取得';
   }
 
-  async function handleUpdate() {
+ async function handleUpdate() {
     setLoading(true);
-    setStatus('記事を取得中です... 約30〜60秒かかります');
+    setStatus('データを再読み込み中...');
     try {
-      const UPDATE_URL = window.location.port === '8080'
-        ? '/update'
-        : 'http://localhost:8080/update';
-      const res  = await fetch(UPDATE_URL, { cache: 'no-store' });
-      const json = await res.json().catch(() => ({}));
-      if (res.ok) {
-        setStatus('更新完了しました', 'success');
-        setTimeout(async () => { await init(); setStatus(''); }, 1000);
-      } else if (res.status === 429) {
-        setStatus('更新処理が実行中です。しばらくお待ちください。', 'warn');
-      } else {
-        throw new Error(json.message || `サーバーエラー (${res.status})`);
-      }
+      await init();
+      setStatus('更新しました', 'success');
+      setTimeout(() => setStatus(''), 2000);
     } catch (e) {
-      const isServerDown = e.message.includes('Failed to fetch')
-        || e.message.includes('NetworkError')
-        || e.message.includes('404');
-      setStatus(isServerDown
-        ? 'サーバーが停止中です。ターミナルで python scripts/server.py を実行してください。'
-        : 'エラー: ' + e.message, 'error');
+      setStatus('エラー: ' + e.message, 'error');
     } finally {
       setLoading(false);
     }
