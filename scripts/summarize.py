@@ -27,9 +27,10 @@ load_dotenv()
 # 定数
 # ============================================================
 
-MODEL = "gemini-2.0-flash"   # 無料枠対応・高速モデル
-MAX_RETRIES = 3
-RETRY_WAIT_SEC = 2
+# クォータ超過時のフォールバック順
+MODELS = ["gemini-2.0-flash", "gemini-2.0-flash-lite", "gemini-2.5-flash"]
+MAX_RETRIES = 2
+RETRY_WAIT_SEC = 5
 
 
 # ============================================================
@@ -130,33 +131,37 @@ def summarize_article(
     prompt = build_prompt(title, content, lang)
     last_error = None
 
-    for attempt in range(1, MAX_RETRIES + 1):
-        try:
-            response = client.models.generate_content(
-                model=MODEL,
-                contents=prompt,
-            )
-            raw_text = response.text.strip()
-            result = extract_json(raw_text)
+    for model in MODELS:
+        for attempt in range(1, MAX_RETRIES + 1):
+            try:
+                response = client.models.generate_content(
+                    model=model,
+                    contents=prompt,
+                )
+                raw_text = response.text.strip()
+                result = extract_json(raw_text)
 
-            # 必須フィールドの検証
-            assert "title_ja" in result, "title_ja がありません"
-            assert isinstance(result.get("summary"), list) and len(result["summary"]) == 3, \
-                "summary は3要素のリストが必要です"
-            assert "highlight" in result, "highlight がありません"
+                assert "title_ja" in result, "title_ja がありません"
+                assert isinstance(result.get("summary"), list) and len(result["summary"]) == 3, \
+                    "summary は3要素のリストが必要です"
+                assert "highlight" in result, "highlight がありません"
 
-            return result
+                print(f"  ✅ モデル: {model}")
+                return result
 
-        except json.JSONDecodeError as e:
-            last_error = f"JSONパースエラー: {e}"
-        except AssertionError as e:
-            last_error = f"バリデーションエラー: {e}"
-        except Exception as e:
-            last_error = f"{type(e).__name__}: {e}"
+            except json.JSONDecodeError as e:
+                last_error = f"JSONパースエラー: {e}"
+            except AssertionError as e:
+                last_error = f"バリデーションエラー: {e}"
+            except Exception as e:
+                last_error = f"{type(e).__name__}: {e}"
+                if "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e):
+                    print(f"  ⚠️  {model} クォータ超過 → 次のモデルへ切り替え")
+                    break
 
-        if attempt < MAX_RETRIES:
-            print(f"  ⚠️  試行{attempt}/{MAX_RETRIES} 失敗: {last_error} → リトライ...")
-            time.sleep(RETRY_WAIT_SEC)
+            if attempt < MAX_RETRIES:
+                print(f"  ⚠️  {model} 試行{attempt}/{MAX_RETRIES} 失敗 → リトライ...")
+                time.sleep(RETRY_WAIT_SEC)
 
     print(f"  ❌ 要約失敗: {url[:60]}\n     理由: {last_error}")
     return _fallback(title, lang)
@@ -207,9 +212,9 @@ def summarize_articles(articles: list[dict]) -> list[dict]:
         )
         article.update(result)
 
-        # 無料枠: 1分15リクエスト制限への対策
+        # 無料枠: レート制限対策
         if i < len(articles):
-            time.sleep(1)
+            time.sleep(5)
 
     print("  ✅ 全記事の要約完了")
     return articles
