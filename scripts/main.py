@@ -25,7 +25,7 @@ from summarize import summarize_articles
 # ============================================================
 
 JST = timezone(timedelta(hours=9))
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "public", "data", "articles.json")
+OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "articles.json")
 
 # トレンドキーワードとして抽出する候補
 TREND_KEYWORDS = [
