@@ -155,13 +155,16 @@
     label.textContent     = on ? '取得中...' : '最新ニュースを取得';
   }
 
- async function handleUpdate() {
+  async function handleUpdate() {
     setLoading(true);
-    setStatus('データを再読み込み中...');
+    setStatus('GitHub Actions を起動中...');
     try {
-      await init();
-      setStatus('更新しました', 'success');
-      setTimeout(() => setStatus(''), 2000);
+      // GitHub Actions を起動
+      const res = await fetch('/api/trigger', { method: 'POST' });
+      const json = await res.json();
+      if (!res.ok) throw new Error(json.error || 'エラーが発生しました');
+
+      setStatus('更新ジョブを起動しました。約2〜3分後に反映されます。ページを再読み込みしてください。', 'success');
     } catch (e) {
       setStatus('エラー: ' + e.message, 'error');
     } finally {
