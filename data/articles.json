@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-30 20:28",
+  "updated_at": "2026-05-01 10:07",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,56 @@
       "title": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
       "title_ja": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
       "url": "https://zenn.dev/htakasu/articles/bf6b694144e55a",
-      "likes": 224,
+      "likes": 244,
       "comments": 0,
       "published_at": "2026-04-28",
       "lang": "ja",
-      "score": 232.0,
+      "score": 252.0,
       "summary": [
-        "AIが会社の仕事に加わり、若手社員も早く成果を出せるようになった。",
-        "AIが仕事の情報を整理し、新人が難しい設計まで提案できるように。",
-        "全ての会社で仕事の進め方が変わり、誰もがより早く力を発揮できる時代が来ます。"
+        "仕事のチャットにAIが入ると、すごい効果があった話",
+        "経験が浅い人でも、早くから大切な仕事に関われる",
+        "これからの仕事では、AIが頼れる相棒になるだろう"
       ],
-      "highlight": "AIがチームに加われば、若手がたった1週間で仕事の根本設計に踏み込めるようになった。"
+      "highlight": "AIが仕事を手伝うことで、新人でも会社の重要な部分に意見を言えるようになった"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "Are We Using AI at the Wrong Scale?",
-      "title_ja": "[翻訳失敗] Are We Using AI at the Wrong Scale?",
+      "title_ja": "AIの使い方は規模が大きすぎる？もっと身近に使える？",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "likes": 54,
-      "comments": 14,
+      "likes": 55,
+      "comments": 16,
       "published_at": "2026-04-28",
       "lang": "en",
-      "score": 90.0,
+      "score": 95.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIは大きな課題だけでなく、身近な困りごとにもっと使える",
+        "小さな問題にAIを使えば、日々の生活がより便利に変わる",
+        "AIは特別なものではなく、誰もが身近に使える道具になる"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIが、あなたの身近な困りごとを解決してくれる、便利な道具になった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AI Daily Digest — April 30, 2026: Big Tech's AI Spending Hits $725B as Google Soars",
-      "title_ja": "AI Daily Digest — April 30, 2026: Big Tech's AI Spending Hits $725B as Google Soars",
-      "url": "https://note.com/c8c/n/n936984bddceb",
+      "title": "データをOpenAIに送らないツールを、OpenAIが作った",
+      "title_ja": "データをOpenAIに送らないツールを、OpenAIが作った",
+      "url": "https://note.com/lucky_allium8251/n/n1c0959124c29",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-04-30",
+      "published_at": "2026-05-01",
       "lang": "ja",
-      "score": 81.0,
+      "score": 78.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "OpenAIが、情報を送らず使えるAIツールを発表",
+        "大事な情報が外に漏れる心配なくAIを使える",
+        "企業や個人がAIをより安全に利用できるようになる"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "大事な情報が外に漏れる心配なくAIを使えるようになった"
     }
   ],
   "trending_keywords": [
-    "Google"
+    "OpenAI"
   ]
 }
