@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01 10:07",
+  "updated_at": "2026-05-01 16:20",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,57 @@
       "title": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
       "title_ja": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
       "url": "https://zenn.dev/htakasu/articles/bf6b694144e55a",
-      "likes": 244,
+      "likes": 255,
       "comments": 0,
       "published_at": "2026-04-28",
       "lang": "ja",
-      "score": 252.0,
+      "score": 263.0,
       "summary": [
-        "仕事のチャットにAIが入ると、すごい効果があった話",
-        "経験が浅い人でも、早くから大切な仕事に関われる",
-        "これからの仕事では、AIが頼れる相棒になるだろう"
+        "AIが仕事のチャットに入り、プロジェクトの課題解決を助けた話です",
+        "経験の浅い社員が、たった1週間で重要な改善案を出せるようになりました",
+        "仕事の進め方が変わり、誰もが成果を出しやすくなる未来を示しています"
       ],
-      "highlight": "AIが仕事を手伝うことで、新人でも会社の重要な部分に意見を言えるようになった"
+      "highlight": "AIがチームにいることで、新人が短期間でプロ並みの提案ができるようになった"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "Are We Using AI at the Wrong Scale?",
-      "title_ja": "AIの使い方は規模が大きすぎる？もっと身近に使える？",
+      "title_ja": "私たちはAIを間違った規模で使っているのか？",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "likes": 55,
-      "comments": 16,
+      "likes": 58,
+      "comments": 17,
       "published_at": "2026-04-28",
       "lang": "en",
-      "score": 95.0,
+      "score": 100.0,
       "summary": [
-        "AIは大きな課題だけでなく、身近な困りごとにもっと使える",
-        "小さな問題にAIを使えば、日々の生活がより便利に変わる",
-        "AIは特別なものではなく、誰もが身近に使える道具になる"
+        "AIの導入規模や方法について考える記事です。",
+        "小さくても賢いAIが役立つ場合もあると示唆。",
+        "私たちの生活に役立つAIが増えるヒントに。"
       ],
-      "highlight": "AIが、あなたの身近な困りごとを解決してくれる、便利な道具になった"
+      "highlight": "AIを上手に使うことで、身近な問題が解決され生活がもっと便利になります。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "データをOpenAIに送らないツールを、OpenAIが作った",
-      "title_ja": "データをOpenAIに送らないツールを、OpenAIが作った",
-      "url": "https://note.com/lucky_allium8251/n/n1c0959124c29",
+      "title": "ChatGPTを自分専用のnote編集者にするプロンプト集",
+      "title_ja": "ChatGPTを自分専用のnote編集者にするプロンプト集",
+      "url": "https://note.com/rosy_aster269/n/nf004d205d1f8",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-05-01",
       "lang": "ja",
-      "score": 78.0,
+      "score": 57.0,
       "summary": [
-        "OpenAIが、情報を送らず使えるAIツールを発表",
-        "大事な情報が外に漏れる心配なくAIを使える",
-        "企業や個人がAIをより安全に利用できるようになる"
+        "ChatGPTを使ってnote記事作りを楽にする方法を紹介しています",
+        "記事のアイデア出しから構成、文章修正までAIが手伝います",
+        "誰でもAIの力を借りて質の高い記事を効率よく書けるようになります"
       ],
-      "highlight": "大事な情報が外に漏れる心配なくAIを使えるようになった"
+      "highlight": "AIがまるであなただけの編集者のように記事作りを助けてくれるようになった"
     }
   ],
   "trending_keywords": [
-    "OpenAI"
+    "ChatGPT",
+    "GPT"
   ]
 }
