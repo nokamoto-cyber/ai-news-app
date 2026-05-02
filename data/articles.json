@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-01 16:20",
+  "updated_at": "2026-05-02 14:58",
   "articles": [
     {
       "rank": 1,
@@ -7,57 +7,57 @@
       "title": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
       "title_ja": "大規模案件のSlackにAI社員3人を常駐させたら、2年目が参画1週間で設計根本に踏み込んだ",
       "url": "https://zenn.dev/htakasu/articles/bf6b694144e55a",
-      "likes": 255,
+      "likes": 265,
       "comments": 0,
       "published_at": "2026-04-28",
       "lang": "ja",
-      "score": 263.0,
+      "score": 273.0,
       "summary": [
-        "AIが仕事のチャットに入り、プロジェクトの課題解決を助けた話です",
-        "経験の浅い社員が、たった1週間で重要な改善案を出せるようになりました",
-        "仕事の進め方が変わり、誰もが成果を出しやすくなる未来を示しています"
+        "AIを職場のチャットに入れたら、仕事の進め方が大きく変わったという話です。",
+        "特に、経験が浅い人も大事な設計にすぐ意見できるようになったのが特徴です。",
+        "AIが職場の情報共有を助け、これからの仕事のやり方が変わるかもしれません。"
       ],
-      "highlight": "AIがチームにいることで、新人が短期間でプロ並みの提案ができるようになった"
+      "highlight": "AIが職場にいることで、経験が浅い人でもすぐにプロ並みの重要な提案ができるようになった。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "Are We Using AI at the Wrong Scale?",
-      "title_ja": "私たちはAIを間違った規模で使っているのか？",
+      "title_ja": "AIの使い方は本当にこれでいいの？",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "likes": 58,
+      "likes": 62,
       "comments": 17,
       "published_at": "2026-04-28",
       "lang": "en",
-      "score": 100.0,
+      "score": 104.0,
       "summary": [
-        "AIの導入規模や方法について考える記事です。",
-        "小さくても賢いAIが役立つ場合もあると示唆。",
-        "私たちの生活に役立つAIが増えるヒントに。"
+        "AIを最適な形で使う方法を考える記事",
+        "もっと効率的なAIの活用法が見つかる",
+        "AIが今後、より身近で役立つようになる"
       ],
-      "highlight": "AIを上手に使うことで、身近な問題が解決され生活がもっと便利になります。"
+      "highlight": "AIが日々の困り事から社会課題まで解決できるようになる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPTを自分専用のnote編集者にするプロンプト集",
-      "title_ja": "ChatGPTを自分専用のnote編集者にするプロンプト集",
-      "url": "https://note.com/rosy_aster269/n/nf004d205d1f8",
+      "title": "【AI/LLM学習用生データ】「Incompressible Knowledge Probe（IKP）」、AIモデルサイズ、LLM・外部メモリ・RAG（+データベース）の分離設計",
+      "title_ja": "【AI/LLM学習用生データ】「Incompressible Knowledge Probe（IKP）」、AIモデルサイズ、LLM・外部メモリ・RAG（+データベース）の分離設計",
+      "url": "https://note.com/jack4manastalk/n/n50c44cfcce0c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-01",
+      "published_at": "2026-05-02",
       "lang": "ja",
-      "score": 57.0,
+      "score": 78.0,
       "summary": [
-        "ChatGPTを使ってnote記事作りを楽にする方法を紹介しています",
-        "記事のアイデア出しから構成、文章修正までAIが手伝います",
-        "誰でもAIの力を借りて質の高い記事を効率よく書けるようになります"
+        "AIが賢くなるための知識の使い方や、情報の保存方法について。",
+        "AIが全ての情報を覚えずに、必要な時に外部の情報を参照し、より正確に答える。",
+        "私たちの使うAIが、より賢く便利になり、生活がより豊かになります。"
       ],
-      "highlight": "AIがまるであなただけの編集者のように記事作りを助けてくれるようになった"
+      "highlight": "AIが自分の記憶と外部の情報を賢く組み合わせ、質問に的確に答えられるようになった。"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT"
+    "LLM",
+    "RAG"
   ]
 }
