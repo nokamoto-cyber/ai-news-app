@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-05-03 07:38",
+  "updated_at": "2026-05-04 07:38",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Are We Using AI at the Wrong Scale?",
-      "title_ja": "AIの使い方は規模が間違っている？",
+      "title_ja": "AIはもっと小さく使うべき？",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "likes": 65,
-      "comments": 19,
+      "likes": 66,
+      "comments": 21,
       "published_at": "2026-04-28",
       "lang": "en",
-      "score": 111.0,
+      "score": 116.0,
       "summary": [
-        "AIをどのように使うのが最も効果的か考える記事。",
-        "AIをどこまで広げるべきかを見直すきっかけに。",
-        "身近な生活に役立つAIのあり方を探っていきます。"
+        "AIは巨大なだけでなく、賢い使い方が重要",
+        "小さなAIを組み合わせ、もっと賢く便利に",
+        "AIを使う人全員の生活が、より快適に変わる"
       ],
-      "highlight": "AIの適切な使い方を見つけることで、私たちの生活がもっと便利に変わります。"
+      "highlight": "AIが賢く連携し、身近な場所で特定の仕事をより正確にこなせるようになった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AI(ちゃっくん)と僕(コーイチ)のおしやぺりミライ日誌                                                              ファイナルエピソード",
-      "title_ja": "AI(ちゃっくん)と僕(コーイチ)のおしやぺりミライ日誌 ファイナルエピソード",
-      "url": "https://note.com/nasu1005/n/nffcf7eefe1a7",
+      "title": "Claude Codeの初期設定",
+      "title_ja": "Claude Codeの初期設定",
+      "url": "https://note.com/jolly_dog9835/n/n7f84bf2837ec",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-02",
+      "published_at": "2026-05-03",
       "lang": "ja",
-      "score": 84.0,
+      "score": 69.0,
       "summary": [
-        "AIが私たちの生活にもっと身近になる未来。",
-        "友達のようにAIとおしゃべりできる毎日が来る。",
-        "AIが人々の暮らしを豊かにする新しい関係。"
+        "AIのClaudeを使ってプログラムを作るための準備方法",
+        "プログラミングが初めてでもAIが色々手伝ってくれる",
+        "AIと協力して自分のアイデアを形にできる未来が広がる"
       ],
-      "highlight": "AIが私たちの身近なパートナーとなり、一緒に未来を語り合えるようになった。"
+      "highlight": "プログラミングの知識がなくても、AIが代わりにコードを書いてくれるようになった"
     },
     {
       "rank": 3,
@@ -43,18 +43,20 @@
       "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
       "title_ja": "5年間のRails開発者がDDDに出会って考えが変わった話",
       "url": "https://zenn.dev/kazukiogushi/articles/b843fc78203295",
-      "likes": 25,
+      "likes": 45,
       "comments": 0,
       "published_at": "2026-05-01",
       "lang": "ja",
-      "score": 43.0,
+      "score": 53.0,
       "summary": [
-        "アプリ開発のプロが考え方を変えた話",
-        "複雑なシステムをもっと良く作るヒント",
-        "私たちが使うアプリの品質が上がるかも"
+        "長年ITシステムを作ってきた人が、新しい考え方で仕事への向き合い方が変わった話。",
+        "複雑なシステムを、ビジネスの現場の言葉で分かりやすく設計できるようになる。",
+        "会社のITシステムが、もっと使いやすく、変化に強く進化するきっかけになる。"
       ],
-      "highlight": "多くの人が使うアプリが、もっと使いやすく長持ちするようになる。"
+      "highlight": "複雑なシステム開発が、ビジネスの視点でより分かりやすく、使いやすくなる。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Claude"
+  ]
 }
