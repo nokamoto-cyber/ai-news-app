@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-05-04 07:38",
+  "updated_at": "2026-05-05 07:55",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Are We Using AI at the Wrong Scale?",
-      "title_ja": "AIはもっと小さく使うべき？",
+      "title_ja": "AIの使い方は規模を間違っているのか？",
       "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
       "likes": 66,
-      "comments": 21,
+      "comments": 23,
       "published_at": "2026-04-28",
       "lang": "en",
-      "score": 116.0,
+      "score": 120.0,
       "summary": [
-        "AIは巨大なだけでなく、賢い使い方が重要",
-        "小さなAIを組み合わせ、もっと賢く便利に",
-        "AIを使う人全員の生活が、より快適に変わる"
+        "AIは「大きい方が良い」とは限らないという話",
+        "小さな問題には小さなAIが無駄なく便利に使える",
+        "身の回りのAIがもっと賢く変わっていくかも"
       ],
-      "highlight": "AIが賢く連携し、身近な場所で特定の仕事をより正確にこなせるようになった。"
+      "highlight": "私たちの生活を支えるAIが、もっと無駄なく賢くなるように変わります"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Claude Codeの初期設定",
-      "title_ja": "Claude Codeの初期設定",
-      "url": "https://note.com/jolly_dog9835/n/n7f84bf2837ec",
+      "title": "Anthropicが狙う「安全性ファースト」のエンタープライズAI市場",
+      "title_ja": "Anthropicが狙う「安全性ファースト」のエンタープライズAI市場",
+      "url": "https://note.com/got/n/n93a85be1d6b1",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-03",
+      "published_at": "2026-05-04",
       "lang": "ja",
-      "score": 69.0,
+      "score": 90.0,
       "summary": [
-        "AIのClaudeを使ってプログラムを作るための準備方法",
-        "プログラミングが初めてでもAIが色々手伝ってくれる",
-        "AIと協力して自分のアイデアを形にできる未来が広がる"
+        "AI開発のAnthropicが企業向けに安全なAIを提供することを目指します",
+        "企業が不適切な情報を出さない、より信頼できるAIを使えるようになります",
+        "これにより企業でのAI活用がさらに進み、私たちも恩恵を受けます"
       ],
-      "highlight": "プログラミングの知識がなくても、AIが代わりにコードを書いてくれるようになった"
+      "highlight": "企業がAIを安心して導入できるようになり、私たちの身近な場所でAIの活用が大きく広がる"
     },
     {
       "rank": 3,
@@ -43,20 +43,20 @@
       "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
       "title_ja": "5年間のRails開発者がDDDに出会って考えが変わった話",
       "url": "https://zenn.dev/kazukiogushi/articles/b843fc78203295",
-      "likes": 45,
+      "likes": 52,
       "comments": 0,
       "published_at": "2026-05-01",
       "lang": "ja",
-      "score": 53.0,
+      "score": 60.0,
       "summary": [
-        "長年ITシステムを作ってきた人が、新しい考え方で仕事への向き合い方が変わった話。",
-        "複雑なシステムを、ビジネスの現場の言葉で分かりやすく設計できるようになる。",
-        "会社のITシステムが、もっと使いやすく、変化に強く進化するきっかけになる。"
+        "アプリ開発のプロが新しい考え方を学んだ話",
+        "会社の仕事内容をプログラムに活かすことで",
+        "私たちが使うサービスがもっと便利になります"
       ],
-      "highlight": "複雑なシステム開発が、ビジネスの視点でより分かりやすく、使いやすくなる。"
+      "highlight": "開発のプロが新しい設計方法を学ぶことで、私たちが使うウェブサービスが、もっと使いやすく便利になるようになりました。"
     }
   ],
   "trending_keywords": [
-    "Claude"
+    "Anthropic"
   ]
 }
