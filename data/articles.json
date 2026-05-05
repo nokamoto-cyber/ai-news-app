@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-05-05 07:55",
+  "updated_at": "2026-05-06 07:53",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Are We Using AI at the Wrong Scale?",
-      "title_ja": "AIの使い方は規模を間違っているのか？",
-      "url": "https://dev.to/kernelpryanic/are-we-using-ai-at-the-wrong-scale-2klo",
-      "likes": 66,
-      "comments": 23,
-      "published_at": "2026-04-28",
+      "title": "The 4 Cognitive Archetypes of Developers Using AI",
+      "title_ja": "AIを使いこなす開発者の4つの思考タイプ",
+      "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
+      "likes": 56,
+      "comments": 24,
+      "published_at": "2026-05-04",
       "lang": "en",
-      "score": 120.0,
+      "score": 122.0,
       "summary": [
-        "AIは「大きい方が良い」とは限らないという話",
-        "小さな問題には小さなAIが無駄なく便利に使える",
-        "身の回りのAIがもっと賢く変わっていくかも"
+        "AIを使う開発者がどんな考え方をするか、4つのタイプに分類。",
+        "自分のタイプを知ることで、AIをより効果的に活用できます。",
+        "AIと人の協力が進み、開発の未来がさらに広がります。"
       ],
-      "highlight": "私たちの生活を支えるAIが、もっと無駄なく賢くなるように変わります"
+      "highlight": "開発者のAI活用タイプが明確になり、誰でもAIの力を最大限に引き出せるようになった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Anthropicが狙う「安全性ファースト」のエンタープライズAI市場",
-      "title_ja": "Anthropicが狙う「安全性ファースト」のエンタープライズAI市場",
-      "url": "https://note.com/got/n/n93a85be1d6b1",
+      "title": "Anthropic、ゴールドマンサックスと合弁｜AI副業者必読の3変化",
+      "title_ja": "Anthropic、ゴールドマンサックスと合弁｜AI副業者必読の3変化",
+      "url": "https://note.com/e_ai/n/n77703b712aa5",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-04",
+      "published_at": "2026-05-05",
       "lang": "ja",
-      "score": 90.0,
+      "score": 49.0,
       "summary": [
-        "AI開発のAnthropicが企業向けに安全なAIを提供することを目指します",
-        "企業が不適切な情報を出さない、より信頼できるAIを使えるようになります",
-        "これにより企業でのAI活用がさらに進み、私たちも恩恵を受けます"
+        "AIを作る会社と大手銀行が協力し始めました。",
+        "これにより、AIを使った副業の形が大きく変わるでしょう。",
+        "私たちの生活や稼ぎ方にも、新しいチャンスが生まれそうです。"
       ],
-      "highlight": "企業がAIを安心して導入できるようになり、私たちの身近な場所でAIの活用が大きく広がる"
+      "highlight": "AIが私たちの身近な存在になり、新しい働き方や稼ぎ方が見つかりやすくなります。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "5年間のRails開発者がDDDに出会って考えが変わった話",
-      "title_ja": "5年間のRails開発者がDDDに出会って考えが変わった話",
-      "url": "https://zenn.dev/kazukiogushi/articles/b843fc78203295",
-      "likes": 52,
+      "title": "生成AI時代のOSSはバズったもん勝ち？",
+      "title_ja": "生成AI時代のOSSはバズったもん勝ち？",
+      "url": "https://zenn.dev/tkithrta/articles/aa1b9acfc27b7c",
+      "likes": 3,
       "comments": 0,
-      "published_at": "2026-05-01",
+      "published_at": "2026-05-05",
       "lang": "ja",
-      "score": 60.0,
+      "score": 39.0,
       "summary": [
-        "アプリ開発のプロが新しい考え方を学んだ話",
-        "会社の仕事内容をプログラムに活かすことで",
-        "私たちが使うサービスがもっと便利になります"
+        "AIが自動で物を作る時代の技術の広まり方について。",
+        "みんなが使えるAI技術は話題になることがとても重要。",
+        "世の中のAIは人々の注目度で発展していく時代になる。"
       ],
-      "highlight": "開発のプロが新しい設計方法を学ぶことで、私たちが使うウェブサービスが、もっと使いやすく便利になるようになりました。"
+      "highlight": "AIの技術が、多くの人に注目されて話題になることで大きく発展するようになった。"
     }
   ],
   "trending_keywords": [
-    "Anthropic"
+    "Anthropic",
+    "生成AI"
   ]
 }
