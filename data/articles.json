@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-05-06 07:53",
+  "updated_at": "2026-05-07 07:51",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "The 4 Cognitive Archetypes of Developers Using AI",
-      "title_ja": "AIを使いこなす開発者の4つの思考タイプ",
-      "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
-      "likes": 56,
-      "comments": 24,
-      "published_at": "2026-05-04",
+      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
+      "title_ja": "AIは賢い！使いこなせてないのは設定のせい",
+      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
+      "likes": 93,
+      "comments": 48,
+      "published_at": "2026-05-02",
       "lang": "en",
-      "score": 122.0,
+      "score": 203.0,
       "summary": [
-        "AIを使う開発者がどんな考え方をするか、4つのタイプに分類。",
-        "自分のタイプを知ることで、AIをより効果的に活用できます。",
-        "AIと人の協力が進み、開発の未来がさらに広がります。"
+        "AIが賢くないと感じるのは、AI本体ではなく、使い方や設定が原因です。",
+        "正しく使えば、AIは賢く、もっと便利にあなたの役に立つでしょう。",
+        "AIを使うすべての人にとって、活用術が学べる記事です。"
       ],
-      "highlight": "開発者のAI活用タイプが明確になり、誰でもAIの力を最大限に引き出せるようになった。"
+      "highlight": "誰でもAIを賢く使いこなし、想像以上の結果を出せるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Anthropic、ゴールドマンサックスと合弁｜AI副業者必読の3変化",
-      "title_ja": "Anthropic、ゴールドマンサックスと合弁｜AI副業者必読の3変化",
-      "url": "https://note.com/e_ai/n/n77703b712aa5",
+      "title": "副業AIで月5万｜5タイプ別・最短ルート診断",
+      "title_ja": "副業AIで月5万｜5タイプ別・最短ルート診断",
+      "url": "https://note.com/yuki_datsusara/n/na3f5c6304de8",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-05",
+      "published_at": "2026-05-06",
       "lang": "ja",
-      "score": 49.0,
+      "score": 156.0,
       "summary": [
-        "AIを作る会社と大手銀行が協力し始めました。",
-        "これにより、AIを使った副業の形が大きく変わるでしょう。",
-        "私たちの生活や稼ぎ方にも、新しいチャンスが生まれそうです。"
+        "AIを使った副業で、月5万円稼ぐ方法",
+        "タイプ別に、自分に合った稼ぎ方がわかる",
+        "AIで新しい収入源を作りたい人向け"
       ],
-      "highlight": "AIが私たちの身近な存在になり、新しい働き方や稼ぎ方が見つかりやすくなります。"
+      "highlight": "AIが身近になり、自分に合った副業でお金を稼げるようになった。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "生成AI時代のOSSはバズったもん勝ち？",
-      "title_ja": "生成AI時代のOSSはバズったもん勝ち？",
-      "url": "https://zenn.dev/tkithrta/articles/aa1b9acfc27b7c",
-      "likes": 3,
+      "title": "Google ChatのAPI制限を乗り越えて、GitHub Copilotに「現場の文脈」を理解させるAI同僚を誕生させた話",
+      "title_ja": "Google ChatのAPI制限を乗り越えて、GitHub Copilotに「現場の文脈」を理解させるAI同僚を誕生させた話",
+      "url": "https://zenn.dev/matsuken3bar/articles/00da35b7751639",
+      "likes": 4,
       "comments": 0,
-      "published_at": "2026-05-05",
+      "published_at": "2026-05-06",
       "lang": "ja",
-      "score": 39.0,
+      "score": 47.0,
       "summary": [
-        "AIが自動で物を作る時代の技術の広まり方について。",
-        "みんなが使えるAI技術は話題になることがとても重要。",
-        "世の中のAIは人々の注目度で発展していく時代になる。"
+        "職場のAIがもっと賢く進化しました",
+        "チャットの会話から仕事内容を学習",
+        "私たちの仕事のやり方が変わるかも"
       ],
-      "highlight": "AIの技術が、多くの人に注目されて話題になることで大きく発展するようになった。"
+      "highlight": "AIがまるで人間の同僚のように、仕事の背景を理解して手助けしてくれるようになりました。"
     }
   ],
   "trending_keywords": [
-    "Anthropic",
-    "生成AI"
+    "Copilot",
+    "Google"
   ]
 }
