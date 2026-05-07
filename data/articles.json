@@ -1,63 +1,66 @@
 {
-  "updated_at": "2026-05-07 07:51",
+  "updated_at": "2026-05-08 07:59",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "AI Isn't Stupid. Your Setup Is. 🛠️",
-      "title_ja": "AIは賢い！使いこなせてないのは設定のせい",
-      "url": "https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn",
-      "likes": 93,
-      "comments": 48,
-      "published_at": "2026-05-02",
+      "title": "The 4 Cognitive Archetypes of Developers Using AI",
+      "title_ja": "AIを使う開発者の4つの考え方",
+      "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
+      "likes": 94,
+      "comments": 37,
+      "published_at": "2026-05-04",
       "lang": "en",
-      "score": 203.0,
+      "score": 176.0,
       "summary": [
-        "AIが賢くないと感じるのは、AI本体ではなく、使い方や設定が原因です。",
-        "正しく使えば、AIは賢く、もっと便利にあなたの役に立つでしょう。",
-        "AIを使うすべての人にとって、活用術が学べる記事です。"
+        "AIを利用する人々の様々な考え方について",
+        "自分に合ったAIの活用法が見つかるヒントに",
+        "AI時代を生きるすべての人に関係するでしょう"
       ],
-      "highlight": "誰でもAIを賢く使いこなし、想像以上の結果を出せるようになった"
+      "highlight": "AIが身近になる中で、より自分らしく活用できるようになる"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "副業AIで月5万｜5タイプ別・最短ルート診断",
-      "title_ja": "副業AIで月5万｜5タイプ別・最短ルート診断",
-      "url": "https://note.com/yuki_datsusara/n/na3f5c6304de8",
+      "title": "AIO時代の必修「llms.txt」をPython 80行で自動生成 ― Claude/ChatGPT/Geminiにブログ記事を\"正しく\"読ませる3つのコツ【2026年5月版】",
+      "title_ja": "AIO時代の必修「llms.txt」をPython 80行で自動生成 ― Claude/ChatGPT/Geminiにブログ記事を\"正しく\"読ませる3つのコツ【2026年5月版】",
+      "url": "https://note.com/mindorbit_bot_ai/n/n326fb7fe0f88",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-06",
+      "published_at": "2026-05-07",
       "lang": "ja",
-      "score": 156.0,
+      "score": 86.0,
       "summary": [
-        "AIを使った副業で、月5万円稼ぐ方法",
-        "タイプ別に、自分に合った稼ぎ方がわかる",
-        "AIで新しい収入源を作りたい人向け"
+        "AIにブログなどの情報を正しく理解させる方法を紹介しています。",
+        "簡単なプログラムでAIへの指示書を自動で作成できるようになります。",
+        "ウェブで情報を発信する全ての人がAIと上手に付き合えるようになります。"
       ],
-      "highlight": "AIが身近になり、自分に合った副業でお金を稼げるようになった。"
+      "highlight": "AIがあなたのブログ記事を正確に理解し、誤解なく情報を使えるようになる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Google ChatのAPI制限を乗り越えて、GitHub Copilotに「現場の文脈」を理解させるAI同僚を誕生させた話",
-      "title_ja": "Google ChatのAPI制限を乗り越えて、GitHub Copilotに「現場の文脈」を理解させるAI同僚を誕生させた話",
-      "url": "https://zenn.dev/matsuken3bar/articles/00da35b7751639",
-      "likes": 4,
+      "title": "AIのPlan Modeをなんとなく承認しないために",
+      "title_ja": "AIのPlan Modeをなんとなく承認しないために",
+      "url": "https://zenn.dev/lv/articles/9438e1678c873a",
+      "likes": 9,
       "comments": 0,
-      "published_at": "2026-05-06",
+      "published_at": "2026-05-07",
       "lang": "ja",
-      "score": 47.0,
+      "score": 42.0,
       "summary": [
-        "職場のAIがもっと賢く進化しました",
-        "チャットの会話から仕事内容を学習",
-        "私たちの仕事のやり方が変わるかも"
+        "AIが立てた計画を安易に信用せず、確認すべきだと伝えています。",
+        "AI任せにせず、人がその計画をよく見て判断するようになります。",
+        "AIを使う全員が、その行動結果に責任を持つことが大切です。"
       ],
-      "highlight": "AIがまるで人間の同僚のように、仕事の背景を理解して手助けしてくれるようになりました。"
+      "highlight": "AIが考えた行動計画を人がしっかり確認する責任が生まれました。"
     }
   ],
   "trending_keywords": [
-    "Copilot",
-    "Google"
+    "ChatGPT",
+    "GPT",
+    "Claude",
+    "Gemini",
+    "LLM"
   ]
 }
