@@ -1,66 +1,60 @@
 {
-  "updated_at": "2026-05-08 07:59",
+  "updated_at": "2026-05-09 07:54",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The 4 Cognitive Archetypes of Developers Using AI",
-      "title_ja": "AIを使う開発者の4つの考え方",
+      "title_ja": "AIと協力する人の4つのタイプ",
       "url": "https://dev.to/javz/the-4-cognitive-archetypes-of-developers-using-ai-382n",
-      "likes": 94,
-      "comments": 37,
+      "likes": 99,
+      "comments": 45,
       "published_at": "2026-05-04",
       "lang": "en",
-      "score": 176.0,
+      "score": 197.0,
       "summary": [
-        "AIを利用する人々の様々な考え方について",
-        "自分に合ったAIの活用法が見つかるヒントに",
-        "AI時代を生きるすべての人に関係するでしょう"
+        "AIを仕事に活かす人のタイプを分類",
+        "AIが仕事の進め方を大きく変える",
+        "あなたの仕事がAIでどう変わるかのヒント"
       ],
-      "highlight": "AIが身近になる中で、より自分らしく活用できるようになる"
+      "highlight": "AIは、どんな人でも自分に合ったやり方で、仕事の幅を広げられるようになりました。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AIO時代の必修「llms.txt」をPython 80行で自動生成 ― Claude/ChatGPT/Geminiにブログ記事を\"正しく\"読ませる3つのコツ【2026年5月版】",
-      "title_ja": "AIO時代の必修「llms.txt」をPython 80行で自動生成 ― Claude/ChatGPT/Geminiにブログ記事を\"正しく\"読ませる3つのコツ【2026年5月版】",
-      "url": "https://note.com/mindorbit_bot_ai/n/n326fb7fe0f88",
+      "title": "『自分には関係ない』と思っていた私がAIを使い始めた理由",
+      "title_ja": "『自分には関係ない』と思っていた私がAIを使い始めた理由",
+      "url": "https://note.com/raso_air295/n/n0f9a50e1ba8a",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-07",
+      "published_at": "2026-05-08",
       "lang": "ja",
-      "score": 86.0,
+      "score": 63.0,
       "summary": [
-        "AIにブログなどの情報を正しく理解させる方法を紹介しています。",
-        "簡単なプログラムでAIへの指示書を自動で作成できるようになります。",
-        "ウェブで情報を発信する全ての人がAIと上手に付き合えるようになります。"
+        "AIは、関係ないと思っていた人の生活も便利にする。",
+        "難しい作業や考えることが、AIで手軽に解決できる。",
+        "誰でもAIを使いこなし、これからの毎日がもっと豊かになる。"
       ],
-      "highlight": "AIがあなたのブログ記事を正確に理解し、誤解なく情報を使えるようになる"
+      "highlight": "AIは、特別な人だけでなく、誰もが便利に使える道具になった。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIのPlan Modeをなんとなく承認しないために",
-      "title_ja": "AIのPlan Modeをなんとなく承認しないために",
-      "url": "https://zenn.dev/lv/articles/9438e1678c873a",
-      "likes": 9,
+      "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
+      "title_ja": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
+      "url": "https://zenn.dev/sangun/articles/74653f4d78eb7b",
+      "likes": 33,
       "comments": 0,
       "published_at": "2026-05-07",
       "lang": "ja",
-      "score": 42.0,
+      "score": 51.0,
       "summary": [
-        "AIが立てた計画を安易に信用せず、確認すべきだと伝えています。",
-        "AI任せにせず、人がその計画をよく見て判断するようになります。",
-        "AIを使う全員が、その行動結果に責任を持つことが大切です。"
+        "AIがアプリの画面デザインを作る時代に大事なこと",
+        "AIに希望通りのデザインを作らせる準備ができる",
+        "AIと協力して良いものを作るヒントになる話"
       ],
-      "highlight": "AIが考えた行動計画を人がしっかり確認する責任が生まれました。"
+      "highlight": "AIにアプリの画面作りを頼む前に、自分の考えを整理して伝えられるようになった"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "Claude",
-    "Gemini",
-    "LLM"
-  ]
+  "trending_keywords": []
 }
