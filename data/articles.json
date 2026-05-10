@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-05-10 07:40",
+  "updated_at": "2026-05-11 07:43",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "What Even Is AI? (I Took a Break & Had to Relearn Everything)",
-      "title_ja": "AIって結局何？（休んだら全部学び直しだった）",
-      "url": "https://dev.to/aws/what-even-is-ai-i-took-a-break-had-to-relearn-everything-3dpj",
-      "likes": 58,
-      "comments": 15,
-      "published_at": "2026-05-05",
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "title_ja": "AIと人間で同じもの作りを比較：何が変わる？",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "likes": 48,
+      "comments": 21,
+      "published_at": "2026-05-06",
       "lang": "en",
-      "score": 96.0,
+      "score": 104.0,
       "summary": [
-        "AIの進化は速く日々変化していること",
-        "AIが私たちの生活や仕事を便利にする方法",
-        "誰もがAIを理解し未来を考える大切さ"
+        "AIを使うやり方と使わないやり方を比較。",
+        "AIが作業を速くし、質も高めることが判明。",
+        "私たちの生活や仕事の進め方が変わりそう。"
       ],
-      "highlight": "AIの進化により、私たちの生活や仕事のやり方が大きく変わる"
+      "highlight": "AIのおかげで、同じものを驚くほど速く、質良く作れるようになった。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AIの情報が増えるほど、「止まる人」が増えている気がする",
-      "title_ja": "AIの情報が増えるほど、「止まる人」が増えている気がする",
-      "url": "https://note.com/tamutamuco/n/n85714377aacd",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-09",
-      "lang": "ja",
-      "score": 73.0,
-      "summary": [
-        "AIに関する情報が増えすぎて、かえって「どう使えばいいか」迷う人が増えている。",
-        "AIの便利さに気づきながらも、たくさんの情報に圧倒されて行動に移せない人がいる。",
-        "新しいことに挑戦したい人が、AIとの付き合い方を見つけるヒントになるでしょう。"
-      ],
-      "highlight": "AIの情報が豊富になりすぎたことで、かえって活用に迷う人が増える、という逆転現象が起きている。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
       "title_ja": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
       "url": "https://zenn.dev/sangun/articles/74653f4d78eb7b",
-      "likes": 57,
+      "likes": 63,
       "comments": 1,
       "published_at": "2026-05-07",
       "lang": "ja",
-      "score": 67.0,
+      "score": 73.0,
       "summary": [
-        "AIにアプリの画面デザインを任せる前に、人が基本的な方針を決める大切さを伝えています。",
-        "その基本方針を簡単に見つけられる新しい道具が生まれました。",
-        "より良いアプリ開発やAIとの協力がスムーズになります。"
+        "AIがアプリやサイトのデザインを手伝う時代に、人間はどう関わるべきかを解説。",
+        "自分のイメージ通りのデザインの基本を、自分で決められる新しいツールが登場しました。",
+        "デザインの専門家でなくても、AIを使う誰もが関わる未来を提示しています。"
       ],
-      "highlight": "AIがアプリ画面をデザインする際に、人が基本となる方針を簡単に決められるようになりました。"
+      "highlight": "AIがデザインを作る時代に、人間が思い描くアイデアを簡単に形にできるようになる"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "LLM時代の最重要スキル ── ビジネスパーソンのためのMarkdown × Mermaid記法、完全実践ガイド。",
+      "title_ja": "LLM時代の最重要スキル ── ビジネスパーソンのためのMarkdown × Mermaid記法、完全実践ガイド。",
+      "url": "https://note.com/satoshi_yamauchi/n/na71d8373ddd7",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-10",
+      "lang": "ja",
+      "score": 70.0,
+      "summary": [
+        "AI時代に役立つ文章作成のコツを紹介",
+        "文字で分かりやすい資料や図が作れる",
+        "仕事で資料を作る人におすすめのスキル"
+      ],
+      "highlight": "AIを使って誰でも簡単に分かりやすい資料や図を作成できるようになった"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "LLM"
+  ]
 }
