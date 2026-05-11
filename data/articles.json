@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-05-11 07:43",
+  "updated_at": "2026-05-12 07:52",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "title_ja": "AIと人間で同じもの作りを比較：何が変わる？",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "likes": 48,
-      "comments": 21,
-      "published_at": "2026-05-06",
-      "lang": "en",
-      "score": 104.0,
+      "source": "note",
+      "title": "【国内】GrokがGoogle『AIサイバー攻撃』警鐘バズ投稿を分析したら、他AIがそれぞれ本気で警戒し始めた結果",
+      "title_ja": "【国内】GrokがGoogle『AIサイバー攻撃』警鐘バズ投稿を分析したら、他AIがそれぞれ本気で警戒し始めた結果",
+      "url": "https://note.com/malcolmx/n/n889c7d412ddf",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-11",
+      "lang": "ja",
+      "score": 172.0,
       "summary": [
-        "AIを使うやり方と使わないやり方を比較。",
-        "AIが作業を速くし、質も高めることが判明。",
-        "私たちの生活や仕事の進め方が変わりそう。"
+        "イーロン・マスクのAIが、AIを使った攻撃の警告を分析した。",
+        "その結果、他のAIたちも危険性を知り対策を考え始めた。",
+        "AIが悪用される危険から、身を守る対策が今後重要になる。"
       ],
-      "highlight": "AIのおかげで、同じものを驚くほど速く、質良く作れるようになった。"
+      "highlight": "AIが進化し、便利なだけでなく悪い攻撃にも使われる時代になった。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
-      "title_ja": "AIにUIを作らせる前に、デザインの土台を自分で決めるツールを作った",
-      "url": "https://zenn.dev/sangun/articles/74653f4d78eb7b",
-      "likes": 63,
-      "comments": 1,
-      "published_at": "2026-05-07",
-      "lang": "ja",
-      "score": 73.0,
+      "source": "Dev.to",
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "title_ja": "AIと非AIの比較：同じプロジェクトを二度作ってみたら",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "likes": 50,
+      "comments": 24,
+      "published_at": "2026-05-06",
+      "lang": "en",
+      "score": 112.0,
       "summary": [
-        "AIがアプリやサイトのデザインを手伝う時代に、人間はどう関わるべきかを解説。",
-        "自分のイメージ通りのデザインの基本を、自分で決められる新しいツールが登場しました。",
-        "デザインの専門家でなくても、AIを使う誰もが関わる未来を提示しています。"
+        "AIを使うことで、これまで大変だった物作りがどれだけ楽になるかを比較した記事です。",
+        "専門知識がなくても、AIがあなたのアイデアを形にするのを手伝ってくれるようになります。",
+        "今後、AIが多くの人の物作りを助け、新しい時代が来ることを示唆しています。"
       ],
-      "highlight": "AIがデザインを作る時代に、人間が思い描くアイデアを簡単に形にできるようになる"
+      "highlight": "AIを使うと、専門家でなくても、自分のアイデアを簡単に形にできるようになりました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "LLM時代の最重要スキル ── ビジネスパーソンのためのMarkdown × Mermaid記法、完全実践ガイド。",
-      "title_ja": "LLM時代の最重要スキル ── ビジネスパーソンのためのMarkdown × Mermaid記法、完全実践ガイド。",
-      "url": "https://note.com/satoshi_yamauchi/n/na71d8373ddd7",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "AI時代こそ、エンジニアは「師匠」が要る",
+      "title_ja": "AI時代こそ、エンジニアは「師匠」が要る",
+      "url": "https://zenn.dev/kight5six/articles/2e8d38ad383dd3",
+      "likes": 74,
       "comments": 0,
-      "published_at": "2026-05-10",
+      "published_at": "2026-05-08",
       "lang": "ja",
-      "score": 70.0,
+      "score": 82.0,
       "summary": [
-        "AI時代に役立つ文章作成のコツを紹介",
-        "文字で分かりやすい資料や図が作れる",
-        "仕事で資料を作る人におすすめのスキル"
+        "AIが進化しても、人に教わることの大切さ",
+        "ベテランが若手を育て、能力が伸びる",
+        "良い技術者が増え、生活が豊かになる"
       ],
-      "highlight": "AIを使って誰でも簡単に分かりやすい資料や図を作成できるようになった"
+      "highlight": "AI時代でも、人から教わることで技術者の成長がより早くなる。"
     }
   ],
   "trending_keywords": [
-    "LLM"
+    "Google"
   ]
 }
