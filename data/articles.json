@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-05-12 07:52",
+  "updated_at": "2026-05-13 07:58",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "【国内】GrokがGoogle『AIサイバー攻撃』警鐘バズ投稿を分析したら、他AIがそれぞれ本気で警戒し始めた結果",
-      "title_ja": "【国内】GrokがGoogle『AIサイバー攻撃』警鐘バズ投稿を分析したら、他AIがそれぞれ本気で警戒し始めた結果",
-      "url": "https://note.com/malcolmx/n/n889c7d412ddf",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-11",
-      "lang": "ja",
-      "score": 172.0,
+      "source": "Dev.to",
+      "title": "AI vs Non-AI: Building the Same Project Twice",
+      "title_ja": "AIを使う場合と使わない場合：同じプロジェクトを2回作ってみたら",
+      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
+      "likes": 58,
+      "comments": 30,
+      "published_at": "2026-05-06",
+      "lang": "en",
+      "score": 132.0,
       "summary": [
-        "イーロン・マスクのAIが、AIを使った攻撃の警告を分析した。",
-        "その結果、他のAIたちも危険性を知り対策を考え始めた。",
-        "AIが悪用される危険から、身を守る対策が今後重要になる。"
+        "AIを使うともの作りがどれだけ変わるか検証しました。",
+        "AIは企画から完成までを早く簡単にできるようになります。",
+        "私たちの仕事や生活がAIによって大きく変わっていくでしょう。"
       ],
-      "highlight": "AIが進化し、便利なだけでなく悪い攻撃にも使われる時代になった。"
+      "highlight": "AIの力で、複雑なプロジェクトも短期間で完成させられるようになりました。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "title_ja": "AIと非AIの比較：同じプロジェクトを二度作ってみたら",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "likes": 50,
-      "comments": 24,
-      "published_at": "2026-05-06",
-      "lang": "en",
-      "score": 112.0,
+      "source": "Zenn",
+      "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
+      "title_ja": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
+      "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
+      "likes": 95,
+      "comments": 0,
+      "published_at": "2026-05-12",
+      "lang": "ja",
+      "score": 128.0,
       "summary": [
-        "AIを使うことで、これまで大変だった物作りがどれだけ楽になるかを比較した記事です。",
-        "専門知識がなくても、AIがあなたのアイデアを形にするのを手伝ってくれるようになります。",
-        "今後、AIが多くの人の物作りを助け、新しい時代が来ることを示唆しています。"
+        "AIで書いた記事をそのまま公開しない方が良いと伝えています。",
+        "中身のない記事が増えるのを防ぎ、読む人の時間を大切にできます。",
+        "情報を発信する人、受け取る人みんなに信頼が生まれます。"
       ],
-      "highlight": "AIを使うと、専門家でなくても、自分のアイデアを簡単に形にできるようになりました。"
+      "highlight": "AIに記事を書かせても、中身のない記事は無価値だと警鐘が鳴らされました。"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "AI時代こそ、エンジニアは「師匠」が要る",
-      "title_ja": "AI時代こそ、エンジニアは「師匠」が要る",
-      "url": "https://zenn.dev/kight5six/articles/2e8d38ad383dd3",
-      "likes": 74,
+      "source": "note",
+      "title": "月63円でClaude相当のAIが使える。中国4社が12日で変えたコストの常識",
+      "title_ja": "月63円でClaude相当のAIが使える。中国4社が12日で変えたコストの常識",
+      "url": "https://note.com/fireshitaiyo/n/n2dbd77836cba",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-08",
+      "published_at": "2026-05-12",
       "lang": "ja",
-      "score": 82.0,
+      "score": 58.0,
       "summary": [
-        "AIが進化しても、人に教わることの大切さ",
-        "ベテランが若手を育て、能力が伸びる",
-        "良い技術者が増え、生活が豊かになる"
+        "高性能なAIの利用料が大幅に安くなった",
+        "月々わずか63円で使えるようになった",
+        "AIが身近になり生活が便利になる"
       ],
-      "highlight": "AI時代でも、人から教わることで技術者の成長がより早くなる。"
+      "highlight": "高性能なAIの利用料が驚くほど安く、誰でも気軽に使えるようになった"
     }
   ],
   "trending_keywords": [
-    "Google"
+    "Claude"
   ]
 }
