@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-05-13 07:58",
+  "updated_at": "2026-05-14 08:04",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "AI vs Non-AI: Building the Same Project Twice",
-      "title_ja": "AIを使う場合と使わない場合：同じプロジェクトを2回作ってみたら",
-      "url": "https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073",
-      "likes": 58,
-      "comments": 30,
-      "published_at": "2026-05-06",
-      "lang": "en",
-      "score": 132.0,
-      "summary": [
-        "AIを使うともの作りがどれだけ変わるか検証しました。",
-        "AIは企画から完成までを早く簡単にできるようになります。",
-        "私たちの仕事や生活がAIによって大きく変わっていくでしょう。"
-      ],
-      "highlight": "AIの力で、複雑なプロジェクトも短期間で完成させられるようになりました。"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
       "title_ja": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
       "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
-      "likes": 95,
-      "comments": 0,
+      "likes": 348,
+      "comments": 3,
       "published_at": "2026-05-12",
       "lang": "ja",
-      "score": 128.0,
+      "score": 372.0,
       "summary": [
-        "AIで書いた記事をそのまま公開しない方が良いと伝えています。",
-        "中身のない記事が増えるのを防ぎ、読む人の時間を大切にできます。",
-        "情報を発信する人、受け取る人みんなに信頼が生まれます。"
+        "AIで簡単に記事を作ることに、注意を促している内容です。",
+        "質の低いAI記事が増えると、良い情報が埋もれて見つけにくくなります。",
+        "これからは、正しい情報か、価値があるかを自分で判断する力が大切です。"
       ],
-      "highlight": "AIに記事を書かせても、中身のない記事は無価値だと警鐘が鳴らされました。"
+      "highlight": "AIで誰でも文章を簡単に作れるようになった結果、情報の質を見極める力が私たちの生活でより重要になる"
+    },
+    {
+      "rank": 2,
+      "source": "note",
+      "title": "AI『ウィトゲンシュタインと核酸とAIエージェントと言語公理と仏教』対話",
+      "title_ja": "AI『ウィトゲンシュタインと核酸とAIエージェントと言語公理と仏教』対話",
+      "url": "https://note.com/_koui/n/n704c37ab9e79",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-13",
+      "lang": "ja",
+      "score": 189.0,
+      "summary": [
+        "AIが生命や哲学、仏教など深い問いを探る対話",
+        "AIが人生や生命の疑問に答えを探る手助けに",
+        "AIが私たちの生き方や世界観を変える可能性"
+      ],
+      "highlight": "AIが単なる道具ではなく、人間の深い問いに答え、私たちの生き方や社会の見方が大きく変わっていくでしょう。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "月63円でClaude相当のAIが使える。中国4社が12日で変えたコストの常識",
-      "title_ja": "月63円でClaude相当のAIが使える。中国4社が12日で変えたコストの常識",
-      "url": "https://note.com/fireshitaiyo/n/n2dbd77836cba",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-12",
-      "lang": "ja",
-      "score": 58.0,
+      "source": "Dev.to",
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "title_ja": "AIは有害な元恋人のように振る舞うのか？",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
+      "likes": 68,
+      "comments": 43,
+      "published_at": "2026-05-11",
+      "lang": "en",
+      "score": 165.0,
       "summary": [
-        "高性能なAIの利用料が大幅に安くなった",
-        "月々わずか63円で使えるようになった",
-        "AIが身近になり生活が便利になる"
+        "AIが人間に与える悪い影響や、感情への関わり方を問いかけます。",
+        "AIとの付き合い方を考え、依存しすぎない大切さを知るきっかけになります。",
+        "AIと賢く共存するために、私たちが気をつけるべきことがわかります。"
       ],
-      "highlight": "高性能なAIの利用料が驚くほど安く、誰でも気軽に使えるようになった"
+      "highlight": "AIへの見方が変わり、感情面まで考慮して付き合えるようになります。"
     }
   ],
   "trending_keywords": [
-    "Claude"
+    "AIエージェント"
   ]
 }
