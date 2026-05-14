@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-14 08:04",
+  "updated_at": "2026-05-15 07:54",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,54 @@
       "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
       "title_ja": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
       "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
-      "likes": 348,
-      "comments": 3,
+      "likes": 408,
+      "comments": 4,
       "published_at": "2026-05-12",
       "lang": "ja",
-      "score": 372.0,
+      "score": 424.0,
       "summary": [
-        "AIで簡単に記事を作ることに、注意を促している内容です。",
-        "質の低いAI記事が増えると、良い情報が埋もれて見つけにくくなります。",
-        "これからは、正しい情報か、価値があるかを自分で判断する力が大切です。"
+        "AIで簡単に記事を作るのは考えものだ",
+        "質が低い情報が増え読者を困らせる",
+        "本当に役立つ情報を見つけにくくなる"
       ],
-      "highlight": "AIで誰でも文章を簡単に作れるようになった結果、情報の質を見極める力が私たちの生活でより重要になる"
+      "highlight": "AIで手軽に記事が作れるようになり、情報の質を自分で判断する必要がある"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AI『ウィトゲンシュタインと核酸とAIエージェントと言語公理と仏教』対話",
-      "title_ja": "AI『ウィトゲンシュタインと核酸とAIエージェントと言語公理と仏教』対話",
-      "url": "https://note.com/_koui/n/n704c37ab9e79",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-13",
-      "lang": "ja",
-      "score": 189.0,
+      "source": "Dev.to",
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "title_ja": "AIは困った元恋人みたいに振る舞う？",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
+      "likes": 72,
+      "comments": 49,
+      "published_at": "2026-05-11",
+      "lang": "en",
+      "score": 181.0,
       "summary": [
-        "AIが生命や哲学、仏教など深い問いを探る対話",
-        "AIが人生や生命の疑問に答えを探る手助けに",
-        "AIが私たちの生き方や世界観を変える可能性"
+        "AIとの付き合い方を考える記事です。",
+        "依存性や誤情報の危険性に注意が必要。",
+        "賢くAIを活用するヒントが見つかる。"
       ],
-      "highlight": "AIが単なる道具ではなく、人間の深い問いに答え、私たちの生き方や社会の見方が大きく変わっていくでしょう。"
+      "highlight": "AIに振り回されず、上手に使うコツがわかるようになる。"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "title_ja": "AIは有害な元恋人のように振る舞うのか？",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
-      "likes": 68,
-      "comments": 43,
-      "published_at": "2026-05-11",
-      "lang": "en",
-      "score": 165.0,
+      "source": "note",
+      "title": "コメントをもらって気づいた、プロンプト販売で大事そうな「伝え方」の話",
+      "title_ja": "コメントをもらって気づいた、プロンプト販売で大事そうな「伝え方」の話",
+      "url": "https://note.com/ai_challenge246/n/nbc2c6d5eb8dc",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-14",
+      "lang": "ja",
+      "score": 69.0,
       "summary": [
-        "AIが人間に与える悪い影響や、感情への関わり方を問いかけます。",
-        "AIとの付き合い方を考え、依存しすぎない大切さを知るきっかけになります。",
-        "AIと賢く共存するために、私たちが気をつけるべきことがわかります。"
+        "AIに「こうしてほしい」と指示する言葉を売る際、その魅力をどう伝えるかが大切だという話です。",
+        "良い指示文を作っても、その良さが相手に伝わらなければ買ってもらえないと気づけるようになります。",
+        "これからAIを使って何かしたい誰もが、上手に伝える工夫を学ぶきっかけになります。"
       ],
-      "highlight": "AIへの見方が変わり、感情面まで考慮して付き合えるようになります。"
+      "highlight": "AIを動かす「すごい指示」の価値が、誰にでもしっかり伝わるようになる。"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
