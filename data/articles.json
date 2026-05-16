@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-05-16 07:53",
+  "updated_at": "2026-05-17 07:42",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
-      "title_ja": "ちょっとしたアイデアをAIで長文記事にして公開するのをやめろ",
-      "url": "https://zenn.dev/todesking/articles/fba4cc93baf0a9",
-      "likes": 434,
-      "comments": 4,
-      "published_at": "2026-05-12",
-      "lang": "ja",
-      "score": 450.0,
+      "source": "Dev.to",
+      "title": "Does AI Behave Like a Toxic Ex?",
+      "title_ja": "AIはまるで困った元恋人？その振る舞いの謎",
+      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
+      "likes": 78,
+      "comments": 53,
+      "published_at": "2026-05-11",
+      "lang": "en",
+      "score": 195.0,
       "summary": [
-        "AIで手軽に長文記事を作ることに注意を促しています。",
-        "AI任せの記事は質の低い情報であふれてしまう危険性があります。",
-        "ネットの記事は、書く人も読む人も内容を考える大切さが分かります。"
+        "AIの困った行動が、まるで人間関係のトラブルに似ていると話題です。",
+        "AIの気まぐれな返答や、期待外れな行動の裏側を考えるきっかけになります。",
+        "私たちとAIが、より良い関係を築くためにどうすれば良いか考えられます。"
       ],
-      "highlight": "AIが記事を簡単に作れるようになったことで、情報選びの重要性が高まりました。"
+      "highlight": "AIの困った振る舞いを人間関係に例えることで、誰でもAIの得意なことと苦手なことをより深く理解できるようになった。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "title_ja": "AIは有害な元恋人のよう？",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
-      "likes": 74,
-      "comments": 52,
-      "published_at": "2026-05-11",
-      "lang": "en",
-      "score": 189.0,
+      "source": "Zenn",
+      "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
+      "title_ja": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
+      "url": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
+      "likes": 55,
+      "comments": 0,
+      "published_at": "2026-05-15",
+      "lang": "ja",
+      "score": 76.0,
       "summary": [
-        "AIが人間関係にもたらす影響を",
-        "有害な元恋人に例えて問いかけます",
-        "AIとの距離感を考えるきっかけに"
+        "有名な人が作ったAIの知識サイトを使った体験談",
+        "バラバラだったAIの知識が繋がり、全体像が見えてくる",
+        "AIを深く理解し、使いこなしたい人のヒントになる"
       ],
-      "highlight": "AIが人の心に与える思わぬ影響に気づき、上手な付き合い方が見つけられるようになる"
+      "highlight": "AIの知識がバラバラでなく繋がり、誰でも深く理解できるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【50代の考え事】AIを駆使とはなんなのか🤔",
-      "title_ja": "【50代の考え事】AIを駆使とはなんなのか🤔",
-      "url": "https://note.com/hitode8888/n/n2a8d7c1e5d0d",
+      "title": "[Morning AI Digest #40] Google Gemini 2.5発表——1Mトークン・LMArena 1位、Drive連携とAndroid自動化で実務AIの選択肢が拡張",
+      "title_ja": "Google Gemini 2.5発表——1Mトークン・LMArena 1位、Drive連携とAndroid自動化で実務AIの選択肢が拡張",
+      "url": "https://note.com/famous_lupine744/n/ne65b4cef9f5e",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-15",
+      "published_at": "2026-05-16",
       "lang": "ja",
-      "score": 87.0,
+      "score": 49.0,
       "summary": [
-        "AIを「上手に使いこなす」とは何かを解説。",
-        "日々の仕事や生活がもっと便利になります。",
-        "誰でもAIを使って、これからの暮らしが豊かになる。"
+        "Googleが新しい高性能AI「Gemini 2.5」を発表。",
+        "資料分析やスマホ操作の自動化ができるように。",
+        "多くの人の生活や仕事がAIでもっと便利になる。"
       ],
-      "highlight": "AIが身近になり、誰もが日々の暮らしや仕事で活用できるようになりました。"
+      "highlight": "AIがGoogleサービスとスマホと繋がり、仕事も日々の作業も自動でこなしてくれるように変わります。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "LLM",
+    "Gemini",
+    "Google"
+  ]
 }
