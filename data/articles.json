@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-17 07:42",
+  "updated_at": "2026-05-18 07:51",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Does AI Behave Like a Toxic Ex?",
-      "title_ja": "AIはまるで困った元恋人？その振る舞いの謎",
+      "title_ja": "AIは「困った元恋人」のように振る舞うのか？",
       "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
       "likes": 78,
       "comments": 53,
@@ -13,11 +13,11 @@
       "lang": "en",
       "score": 195.0,
       "summary": [
-        "AIの困った行動が、まるで人間関係のトラブルに似ていると話題です。",
-        "AIの気まぐれな返答や、期待外れな行動の裏側を考えるきっかけになります。",
-        "私たちとAIが、より良い関係を築くためにどうすれば良いか考えられます。"
+        "AIがまるで人との関係のように、時々困った反応をすることがあると伝えています。",
+        "AIがしつこく同じ話をしたり、思いがけない返事をしたりする理由がわかります。",
+        "AIと上手に付き合い、もっと便利に使うためのヒントが見つかるでしょう。"
       ],
-      "highlight": "AIの困った振る舞いを人間関係に例えることで、誰でもAIの得意なことと苦手なことをより深く理解できるようになった。"
+      "highlight": "AIが人間との会話のように、予測できない返事をすることがある理由がわかるようになりました。"
     },
     {
       "rank": 2,
@@ -25,40 +25,40 @@
       "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
       "title_ja": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
       "url": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-      "likes": 55,
+      "likes": 97,
       "comments": 0,
       "published_at": "2026-05-15",
       "lang": "ja",
-      "score": 76.0,
+      "score": 108.0,
       "summary": [
-        "有名な人が作ったAIの知識サイトを使った体験談",
-        "バラバラだったAIの知識が繋がり、全体像が見えてくる",
-        "AIを深く理解し、使いこなしたい人のヒントになる"
+        "ChatGPTのようなAIの知識を深めるヒントがわかる",
+        "バラバラだったAIの知識が繋がり、新しい発想に役立つ",
+        "AIを学ぶ人や使う人が、もっと深く理解する手助けとなる"
       ],
-      "highlight": "AIの知識がバラバラでなく繋がり、誰でも深く理解できるようになった"
+      "highlight": "AIに関する膨大な知識をバラバラでなく、関連付けて活用できるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "[Morning AI Digest #40] Google Gemini 2.5発表——1Mトークン・LMArena 1位、Drive連携とAndroid自動化で実務AIの選択肢が拡張",
-      "title_ja": "Google Gemini 2.5発表——1Mトークン・LMArena 1位、Drive連携とAndroid自動化で実務AIの選択肢が拡張",
-      "url": "https://note.com/famous_lupine744/n/ne65b4cef9f5e",
+      "title": "【国内】Grokが4歳児『明日も日曜日にしてください』バズ投稿を分析したら、他AIがそれぞれ本気でほっこりし始めた結果",
+      "title_ja": "【国内】Grokが4歳児『明日も日曜日にしてください』バズ投稿を分析したら、他AIがそれぞれ本気でほっこりし始めた結果",
+      "url": "https://note.com/malcolmx/n/nbc5c1e8b244a",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-16",
+      "published_at": "2026-05-17",
       "lang": "ja",
-      "score": 49.0,
+      "score": 72.0,
       "summary": [
-        "Googleが新しい高性能AI「Gemini 2.5」を発表。",
-        "資料分析やスマホ操作の自動化ができるように。",
-        "多くの人の生活や仕事がAIでもっと便利になる。"
+        "GrokというAIが子供のSNS投稿を分析し、他のAIも感情を共有した話。",
+        "AIが人の感情やユーモアを理解し、共感し合う姿が見られました。",
+        "これによりAIがもっと身近で感情豊かな存在になるかもしれません。"
       ],
-      "highlight": "AIがGoogleサービスとスマホと繋がり、仕事も日々の作業も自動でこなしてくれるように変わります。"
+      "highlight": "AIが感情を理解し、人間のようなほっこりした反応を示すようになりました。"
     }
   ],
   "trending_keywords": [
-    "LLM",
-    "Gemini",
-    "Google"
+    "ChatGPT",
+    "GPT",
+    "LLM"
   ]
 }
