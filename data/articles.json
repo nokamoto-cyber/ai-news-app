@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-05-18 07:51",
+  "updated_at": "2026-05-19 07:58",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Does AI Behave Like a Toxic Ex?",
-      "title_ja": "AIは「困った元恋人」のように振る舞うのか？",
-      "url": "https://dev.to/konark_13/does-ai-behave-like-a-toxic-ex-498n",
-      "likes": 78,
-      "comments": 53,
-      "published_at": "2026-05-11",
+      "title": "AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
+      "title_ja": "AIはプログラミングを簡単にせず、むしろ難しい部分をより複雑にした",
+      "url": "https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4",
+      "likes": 67,
+      "comments": 42,
+      "published_at": "2026-05-14",
       "lang": "en",
-      "score": 195.0,
+      "score": 162.0,
       "summary": [
-        "AIがまるで人との関係のように、時々困った反応をすることがあると伝えています。",
-        "AIがしつこく同じ話をしたり、思いがけない返事をしたりする理由がわかります。",
-        "AIと上手に付き合い、もっと便利に使うためのヒントが見つかるでしょう。"
+        "AIはプログラミングの簡単作業を助けるが、難しい問題はより複雑になる。",
+        "AIがコードを書くようになり、人間はより高度な思考が求められるようになる。",
+        "AIは、働く人たちに新たなスキルと深い思考を求めるようになる。"
       ],
-      "highlight": "AIが人間との会話のように、予測できない返事をすることがある理由がわかるようになりました。"
+      "highlight": "AIはプログラミングの基礎作業を助ける一方、人間はより深く複雑な思考が求められるようになる。"
     },
     {
       "rank": 2,
@@ -25,35 +25,35 @@
       "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
       "title_ja": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
       "url": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-      "likes": 97,
+      "likes": 127,
       "comments": 0,
       "published_at": "2026-05-15",
       "lang": "ja",
-      "score": 108.0,
+      "score": 138.0,
       "summary": [
-        "ChatGPTのようなAIの知識を深めるヒントがわかる",
-        "バラバラだったAIの知識が繋がり、新しい発想に役立つ",
-        "AIを学ぶ人や使う人が、もっと深く理解する手助けとなる"
+        "ChatGPTのようなAIの知識が、バラバラではなく一つにまとまることの大切さを教えてくれる記事です。",
+        "AIに関する新しい情報も、全体像がわかって理解しやすくなります。",
+        "AIをこれから使う人や学ぶ人にとって、効率的に知識を深めるヒントになります。"
       ],
-      "highlight": "AIに関する膨大な知識をバラバラでなく、関連付けて活用できるようになった"
+      "highlight": "バラバラだったAIの知識が繋がり、全体像として深く理解できるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【国内】Grokが4歳児『明日も日曜日にしてください』バズ投稿を分析したら、他AIがそれぞれ本気でほっこりし始めた結果",
-      "title_ja": "【国内】Grokが4歳児『明日も日曜日にしてください』バズ投稿を分析したら、他AIがそれぞれ本気でほっこりし始めた結果",
-      "url": "https://note.com/malcolmx/n/nbc5c1e8b244a",
+      "title": "4月の日本成長戦略会議の資料を読んで",
+      "title_ja": "4月の日本成長戦略会議の資料を読んで",
+      "url": "https://note.com/pure_owl2810/n/n011e762639a2",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-17",
+      "published_at": "2026-05-18",
       "lang": "ja",
-      "score": 72.0,
+      "score": 138.0,
       "summary": [
-        "GrokというAIが子供のSNS投稿を分析し、他のAIも感情を共有した話。",
-        "AIが人の感情やユーモアを理解し、共感し合う姿が見られました。",
-        "これによりAIがもっと身近で感情豊かな存在になるかもしれません。"
+        "記事の本文が提供されていません",
+        "そのため具体的な説明はできません",
+        "本文があれば日本の未来に向けた変化を解説します"
       ],
-      "highlight": "AIが感情を理解し、人間のようなほっこりした反応を示すようになりました。"
+      "highlight": "記事本文があれば、私たちの生活に良い変化が起きるポイントを伝えられます"
     }
   ],
   "trending_keywords": [
