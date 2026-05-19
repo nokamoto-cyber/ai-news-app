@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-05-19 07:58",
+  "updated_at": "2026-05-20 08:00",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
-      "title_ja": "AIはプログラミングを簡単にせず、むしろ難しい部分をより複雑にした",
+      "title_ja": "[翻訳失敗] AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
       "url": "https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4",
-      "likes": 67,
-      "comments": 42,
+      "likes": 81,
+      "comments": 56,
       "published_at": "2026-05-14",
       "lang": "en",
-      "score": 162.0,
+      "score": 204.0,
       "summary": [
-        "AIはプログラミングの簡単作業を助けるが、難しい問題はより複雑になる。",
-        "AIがコードを書くようになり、人間はより高度な思考が求められるようになる。",
-        "AIは、働く人たちに新たなスキルと深い思考を求めるようになる。"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIはプログラミングの基礎作業を助ける一方、人間はより深く複雑な思考が求められるようになる。"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
-      "title_ja": "Andrej Karpathy氏のLLM Wikiを1ヶ月運用してわかった、LLMの知識を『繋げる力』",
-      "url": "https://zenn.dev/tsurubee/articles/llm-wiki-connecting-knowledge",
-      "likes": 127,
+      "source": "note",
+      "title": "【速報】Googleが「Gemini Spark」発表——PCを閉じても24時間動き続けるAIエージェントとは？",
+      "title_ja": "【速報】Googleが「Gemini Spark」発表——PCを閉じても24時間動き続けるAIエージェントとは？",
+      "url": "https://note.com/withwit/n/ndaf366a5a8f0",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-15",
+      "published_at": "2026-05-19",
       "lang": "ja",
-      "score": 138.0,
+      "score": 76.0,
       "summary": [
-        "ChatGPTのようなAIの知識が、バラバラではなく一つにまとまることの大切さを教えてくれる記事です。",
-        "AIに関する新しい情報も、全体像がわかって理解しやすくなります。",
-        "AIをこれから使う人や学ぶ人にとって、効率的に知識を深めるヒントになります。"
+        "Googleが「Gemini Spark」という新しいAIを発表しました。",
+        "パソコンの電源を切っても24時間ずっとAIが動いてくれます。",
+        "私たちの生活や仕事がAIでさらに便利になることが期待されます。"
       ],
-      "highlight": "バラバラだったAIの知識が繋がり、全体像として深く理解できるようになった"
+      "highlight": "AIがパソコンを閉じても動き続け、いつでもあなたのサポートをしてくれるようになりました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "4月の日本成長戦略会議の資料を読んで",
-      "title_ja": "4月の日本成長戦略会議の資料を読んで",
-      "url": "https://note.com/pure_owl2810/n/n011e762639a2",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "AIを5本同時に走らせても、俺の脳みそは1個しかない",
+      "title_ja": "AIを5本同時に走らせても、俺の脳みそは1個しかない",
+      "url": "https://zenn.dev/sangun/articles/9baa6271b2055d",
+      "likes": 16,
       "comments": 0,
-      "published_at": "2026-05-18",
+      "published_at": "2026-05-19",
       "lang": "ja",
-      "score": 138.0,
+      "score": 49.0,
       "summary": [
-        "記事の本文が提供されていません",
-        "そのため具体的な説明はできません",
-        "本文があれば日本の未来に向けた変化を解説します"
+        "AIが同時にたくさんの仕事をこなせるようになった分、",
+        "人間がそれらをどう理解し、使いこなすかが重要になる、",
+        "というAIと人間の関係について伝えています。"
       ],
-      "highlight": "記事本文があれば、私たちの生活に良い変化が起きるポイントを伝えられます"
+      "highlight": "たくさんのAIが同時に活躍する時代になり、人間がAIをどう上手に使うかが大事になった"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "LLM"
+    "Gemini",
+    "Google",
+    "AIエージェント"
   ]
 }
