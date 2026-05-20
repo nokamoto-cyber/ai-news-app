@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-05-20 08:00",
+  "updated_at": "2026-05-21 08:10",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
-      "title_ja": "[翻訳失敗] AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
-      "url": "https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4",
-      "likes": 81,
-      "comments": 56,
-      "published_at": "2026-05-14",
-      "lang": "en",
-      "score": 204.0,
+      "source": "note",
+      "title": "【AI 教育】子供のAI活用、長期の能力との両立 ── AIと教育の関係、子供のAI活用 ── AIの男 #42",
+      "title_ja": "AI教育：子どもたちがAIを使いこなし、将来役立つ力を育てるには",
+      "url": "https://note.com/baripro001/n/nd020f2abfe76",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-20",
+      "lang": "ja",
+      "score": 225.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIを子どもたちが使うとき、考える力など大事な能力を失わずに済む方法を説明。",
+        "AIを便利に使いつつ、将来社会で必要になる問題を解決する力を育てるヒントを紹介。",
+        "子どもの教育を考える親や先生にとって、AI時代に役立つ考え方がわかるでしょう。"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIを上手に使うことで、子どもの考える力や、新しいものを生み出す力が伸びます。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "【速報】Googleが「Gemini Spark」発表——PCを閉じても24時間動き続けるAIエージェントとは？",
-      "title_ja": "【速報】Googleが「Gemini Spark」発表——PCを閉じても24時間動き続けるAIエージェントとは？",
-      "url": "https://note.com/withwit/n/ndaf366a5a8f0",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-19",
-      "lang": "ja",
-      "score": 76.0,
+      "source": "Dev.to",
+      "title": "AI Didn't Make Software Engineering Easier. It Made the Hard Parts Harder.",
+      "title_ja": "AIはソフト開発を楽にせず、難所をより困難にした",
+      "url": "https://dev.to/iampraveen/ai-didnt-make-software-engineering-easier-it-made-the-hard-parts-harder-39n4",
+      "likes": 88,
+      "comments": 59,
+      "published_at": "2026-05-14",
+      "lang": "en",
+      "score": 217.0,
       "summary": [
-        "Googleが「Gemini Spark」という新しいAIを発表しました。",
-        "パソコンの電源を切っても24時間ずっとAIが動いてくれます。",
-        "私たちの生活や仕事がAIでさらに便利になることが期待されます。"
+        "AIはソフト開発を楽にせず、逆に難しくしている",
+        "簡単な作業はAI任せに。複雑な問題解決は人の腕の見せ所",
+        "私達が使うアプリやサービス作りが、より高度になる"
       ],
-      "highlight": "AIがパソコンを閉じても動き続け、いつでもあなたのサポートをしてくれるようになりました。"
+      "highlight": "AIがプログラミングを楽にするどころか、人間の考える力への期待が大きく変わった"
     },
     {
       "rank": 3,
@@ -43,22 +43,18 @@
       "title": "AIを5本同時に走らせても、俺の脳みそは1個しかない",
       "title_ja": "AIを5本同時に走らせても、俺の脳みそは1個しかない",
       "url": "https://zenn.dev/sangun/articles/9baa6271b2055d",
-      "likes": 16,
+      "likes": 47,
       "comments": 0,
       "published_at": "2026-05-19",
       "lang": "ja",
-      "score": 49.0,
+      "score": 65.0,
       "summary": [
-        "AIが同時にたくさんの仕事をこなせるようになった分、",
-        "人間がそれらをどう理解し、使いこなすかが重要になる、",
-        "というAIと人間の関係について伝えています。"
+        "AIは多くの仕事を同時にこなせるけど、人間には一つずつしかできないというお話。",
+        "AIにたくさんの作業を任せることで、人間は大事な判断に集中できます。",
+        "AIを使いこなすことで、私たちはもっと大切なことに時間を使えるようになります。"
       ],
-      "highlight": "たくさんのAIが同時に活躍する時代になり、人間がAIをどう上手に使うかが大事になった"
+      "highlight": "AIが同時に多くの作業をこなせるようになったため、人は限られた脳力を最も重要なことに使えるようになった。"
     }
   ],
-  "trending_keywords": [
-    "Gemini",
-    "Google",
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
