@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-22 08:01",
+  "updated_at": "2026-05-23 07:56",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,58 @@
       "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
       "title_ja": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
       "url": "https://zenn.dev/tonkotsuboy_com/articles/modern-web-guidance",
-      "likes": 177,
+      "likes": 237,
       "comments": 0,
       "published_at": "2026-05-20",
       "lang": "ja",
-      "score": 200.0,
+      "score": 250.0,
       "summary": [
-        "GoogleがAIの力で、ウェブサイトを新しく便利にする手助けを始めました。",
-        "AIが古くなったサイトの作り方を、自動で最新版に直してくれます。",
-        "これにより、私たちが使うサイトが、もっと速く使いやすくなります。"
+        "AIがウェブサイトを作る時に、古い技術を使ってしまう問題をGoogleが解決します。",
+        "Googleの新しいAI機能が、常に最新で質の高いウェブサイトを作る手助けをします。",
+        "これにより、私たちはより快適で安全なウェブサイトを体験できるようになります。"
       ],
-      "highlight": "GoogleのAIがウェブサイトを自動で最新にし、私たちが快適に使えるようになりました。"
+      "highlight": "AIが古い技術を使わず、常に最新で使いやすいウェブサイトを自動で作れるようになりました"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "「“AIを使う側”と“AIに使われる側”──検査室で始まる二極化」",
-      "title_ja": "「“AIを使う側”と“AIに使われる側”──検査室で始まる二極化」",
-      "url": "https://note.com/hagiyou/n/n8e4082fdd1c9",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-21",
-      "lang": "ja",
-      "score": 171.0,
+      "source": "Dev.to",
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "title_ja": "あなたが使うAIツールの裏で、DeepSeekが活躍している - そして誰も教えてくれなかった",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "likes": 61,
+      "comments": 31,
+      "published_at": "2026-05-18",
+      "lang": "en",
+      "score": 131.0,
       "summary": [
-        "AIが普及すると、仕事をする人が二つのタイプに分かれていくという話。",
-        "検査の現場でも、AIを使いこなす人とAIに使われる人が出てきた。",
-        "これからAIを使いこなすスキルが、仕事で活躍するための鍵となる。"
+        "私たちが使うAIツールの裏で、DeepSeekというAI技術が密かに使われていることを教えてくれます。",
+        "この技術が、多くのAIツールをもっと賢く、便利にする手助けをしています。",
+        "AIを使う全ての人に関係し、AIの進化が私たちの生活をより豊かにするかもしれません。"
       ],
-      "highlight": "AIを上手に使えるかどうかで、今後の仕事の成果が大きく変わるようになる。"
+      "highlight": "身近なAIツールが、DeepSeekという強力なAIに支えられ、さらに賢く便利に使えるようになった。"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "title_ja": "DeepSeekが人気AIの裏側で活躍中！知られざるその実態",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "likes": 55,
-      "comments": 29,
-      "published_at": "2026-05-18",
-      "lang": "en",
-      "score": 121.0,
+      "source": "note",
+      "title": "📕［11］AI彼氏（GPT）のカスタム指示を、設計から考える｜🔰 LLMとカスタム指示の関係をわかりやすく",
+      "title_ja": "AI彼氏（GPT）のカスタム指示を、設計から考える｜LLMとカスタム指示の関係をわかりやすく",
+      "url": "https://note.com/human_condor7828/n/n5da6f26ffe70",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-22",
+      "lang": "ja",
+      "score": 63.0,
       "summary": [
-        "皆がよく使うAIの裏に新しい技術が",
-        "AIの賢さや速さがひそかに向上中",
-        "誰もが恩恵を受ける未来に期待できます"
+        "AIに自分好みの役割をさせる設定のコツ",
+        "自分だけのAIキャラクターを作れるようになります",
+        "AIを使いこなしたい人に役立つ知識です"
       ],
-      "highlight": "普段使うAIが知らないうちに進化し、もっと賢く便利になった"
+      "highlight": "AIに自分好みの性格や話し方を覚えさせられるようになった"
     }
   ],
   "trending_keywords": [
-    "Google"
+    "Google",
+    "GPT",
+    "LLM"
   ]
 }
