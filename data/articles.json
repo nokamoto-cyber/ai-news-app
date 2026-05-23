@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-23 07:56",
+  "updated_at": "2026-05-24 07:51",
   "articles": [
     {
       "rank": 1,
@@ -7,58 +7,57 @@
       "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
       "title_ja": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
       "url": "https://zenn.dev/tonkotsuboy_com/articles/modern-web-guidance",
-      "likes": 237,
+      "likes": 252,
       "comments": 0,
       "published_at": "2026-05-20",
       "lang": "ja",
-      "score": 250.0,
+      "score": 265.0,
       "summary": [
-        "AIがウェブサイトを作る時に、古い技術を使ってしまう問題をGoogleが解決します。",
-        "Googleの新しいAI機能が、常に最新で質の高いウェブサイトを作る手助けをします。",
-        "これにより、私たちはより快適で安全なウェブサイトを体験できるようになります。"
+        "GoogleのAIがウェブサイト作りを助けます",
+        "ウェブサイトが常に新しく快適に保たれます",
+        "ウェブサイトがより快適に使えるようになります"
       ],
-      "highlight": "AIが古い技術を使わず、常に最新で使いやすいウェブサイトを自動で作れるようになりました"
+      "highlight": "GoogleのAIがウェブサイトを常に最新の状態に保ち、使う人が快適になる"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "title_ja": "あなたが使うAIツールの裏で、DeepSeekが活躍している - そして誰も教えてくれなかった",
+      "title_ja": "あなたのAIツール、実はDeepSeekが動いてるかも？ - 誰も教えてくれなかったその事実",
       "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
       "likes": 61,
-      "comments": 31,
+      "comments": 32,
       "published_at": "2026-05-18",
       "lang": "en",
-      "score": 131.0,
+      "score": 133.0,
       "summary": [
-        "私たちが使うAIツールの裏で、DeepSeekというAI技術が密かに使われていることを教えてくれます。",
-        "この技術が、多くのAIツールをもっと賢く、便利にする手助けをしています。",
-        "AIを使う全ての人に関係し、AIの進化が私たちの生活をより豊かにするかもしれません。"
+        "よく使うAIツールの裏でDeepSeekというAIが活躍中。",
+        "知らず知らずのうちに高性能なAIを使えている。",
+        "今後AIを選ぶ基準や使い方が変わるかも。"
       ],
-      "highlight": "身近なAIツールが、DeepSeekという強力なAIに支えられ、さらに賢く便利に使えるようになった。"
+      "highlight": "普段使うAIの裏側で、実はすごい技術が活躍していると知れるようになりました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "📕［11］AI彼氏（GPT）のカスタム指示を、設計から考える｜🔰 LLMとカスタム指示の関係をわかりやすく",
-      "title_ja": "AI彼氏（GPT）のカスタム指示を、設計から考える｜LLMとカスタム指示の関係をわかりやすく",
-      "url": "https://note.com/human_condor7828/n/n5da6f26ffe70",
+      "title": "【毎朝AIニュース】AIが人間の速度を超えた日、OpenAIが80年の数学を反証 (5/24)",
+      "title_ja": "記事本文が提供されていないため要約できません",
+      "url": "https://note.com/ai_masaki/n/n486ebcb110f9",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-22",
+      "published_at": "2026-05-23",
       "lang": "ja",
-      "score": 63.0,
+      "score": 59.0,
       "summary": [
-        "AIに自分好みの役割をさせる設定のコツ",
-        "自分だけのAIキャラクターを作れるようになります",
-        "AIを使いこなしたい人に役立つ知識です"
+        "AI記事の本文が入力されていないため、内容を要約できません。",
+        "記事に何が書いてあるか不明なため、具体的な説明ができません。",
+        "情報がないため、記事の要点や生活への影響をお伝えできません。"
       ],
-      "highlight": "AIに自分好みの性格や話し方を覚えさせられるようになった"
+      "highlight": "記事本文が提供されなかったため、要約を作成できませんでした。"
     }
   ],
   "trending_keywords": [
     "Google",
-    "GPT",
-    "LLM"
+    "OpenAI"
   ]
 }
