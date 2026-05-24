@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-05-24 07:51",
+  "updated_at": "2026-05-25 07:55",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
-      "title_ja": "GoogleのModern Web Guidanceスキル登場。AIが古いCSS・JSを書く問題を解決する",
-      "url": "https://zenn.dev/tonkotsuboy_com/articles/modern-web-guidance",
-      "likes": 252,
-      "comments": 0,
-      "published_at": "2026-05-20",
-      "lang": "ja",
-      "score": 265.0,
+      "source": "Dev.to",
+      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
+      "title_ja": "あなたのAIツールに最新AI「DeepSeek」が、こっそり搭載されていた",
+      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
+      "likes": 64,
+      "comments": 34,
+      "published_at": "2026-05-18",
+      "lang": "en",
+      "score": 140.0,
       "summary": [
-        "GoogleのAIがウェブサイト作りを助けます",
-        "ウェブサイトが常に新しく快適に保たれます",
-        "ウェブサイトがより快適に使えるようになります"
+        "使っているAIの裏で新AIが活躍中と知らずにいた",
+        "知らぬ間にAIの性能が上がり賢くなっていた可能性",
+        "AIを使う誰もが恩恵を受け進化が身近になる"
       ],
-      "highlight": "GoogleのAIがウェブサイトを常に最新の状態に保ち、使う人が快適になる"
+      "highlight": "私たちが使うAIが、知らないうちに最新技術でどんどん賢く進化していた"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "title_ja": "あなたのAIツール、実はDeepSeekが動いてるかも？ - 誰も教えてくれなかったその事実",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "likes": 61,
-      "comments": 32,
-      "published_at": "2026-05-18",
-      "lang": "en",
-      "score": 133.0,
+      "source": "note",
+      "title": "「チャッピー、その設定どこにあるの？」第４話",
+      "title_ja": "「チャッピー、その設定どこにあるの？」第４話",
+      "url": "https://note.com/rapid_fish5814/n/n2aca8ed979ad",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-24",
+      "lang": "ja",
+      "score": 91.0,
       "summary": [
-        "よく使うAIツールの裏でDeepSeekというAIが活躍中。",
-        "知らず知らずのうちに高性能なAIを使えている。",
-        "今後AIを選ぶ基準や使い方が変わるかも。"
+        "記事の本文が提供されていないため",
+        "具体的な内容を要約できません",
+        "したがって情報をお伝えできません"
       ],
-      "highlight": "普段使うAIの裏側で、実はすごい技術が活躍していると知れるようになりました。"
+      "highlight": "記事本文がないため、何がすごいか判断できません"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "【毎朝AIニュース】AIが人間の速度を超えた日、OpenAIが80年の数学を反証 (5/24)",
-      "title_ja": "記事本文が提供されていないため要約できません",
-      "url": "https://note.com/ai_masaki/n/n486ebcb110f9",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "AIチームでゲーム開発（Claude Code Agent Teams + Godot）",
+      "title_ja": "AIチームでゲーム開発",
+      "url": "https://zenn.dev/yurinchi/articles/537a7640b59ee8",
+      "likes": 1,
       "comments": 0,
-      "published_at": "2026-05-23",
+      "published_at": "2026-05-24",
       "lang": "ja",
-      "score": 59.0,
+      "score": 39.0,
       "summary": [
-        "AI記事の本文が入力されていないため、内容を要約できません。",
-        "記事に何が書いてあるか不明なため、具体的な説明ができません。",
-        "情報がないため、記事の要点や生活への影響をお伝えできません。"
+        "AIたちが協力してゲームを作る、という新しい方法について",
+        "AIがゲームのアイデアを出したり、プログラムを書いたりする",
+        "ゲーム開発がもっと身近になり、新しいゲームが増える可能性"
       ],
-      "highlight": "記事本文が提供されなかったため、要約を作成できませんでした。"
+      "highlight": "複数のAIがチームになって、人間のように協力してゲーム開発ができるようになった"
     }
   ],
   "trending_keywords": [
-    "Google",
-    "OpenAI"
+    "Claude"
   ]
 }
