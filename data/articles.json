@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-05-25 07:55",
+  "updated_at": "2026-05-26 07:58",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "DeepSeek Is Running Inside Your Favorite AI Tool – And Nobody Told You",
-      "title_ja": "あなたのAIツールに最新AI「DeepSeek」が、こっそり搭載されていた",
-      "url": "https://dev.to/harsh2644/deepseek-is-running-inside-your-favorite-ai-tool-and-nobody-told-you-5g47",
-      "likes": 64,
-      "comments": 34,
-      "published_at": "2026-05-18",
+      "title": "The Most Concerning AI Risk of 2026",
+      "title_ja": "2026年に最も懸念されるAIのリスク",
+      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
+      "likes": 61,
+      "comments": 22,
+      "published_at": "2026-05-22",
       "lang": "en",
-      "score": 140.0,
+      "score": 119.0,
       "summary": [
-        "使っているAIの裏で新AIが活躍中と知らずにいた",
-        "知らぬ間にAIの性能が上がり賢くなっていた可能性",
-        "AIを使う誰もが恩恵を受け進化が身近になる"
+        "2026年までにAIがもたらす危険性",
+        "私たちの生活に潜む新たな問題点",
+        "社会全体で注意し備えるべき課題"
       ],
-      "highlight": "私たちが使うAIが、知らないうちに最新技術でどんどん賢く進化していた"
+      "highlight": "AIが大きく進化することで、思わぬ問題が私たちの生活に影響するかもしれない"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "「チャッピー、その設定どこにあるの？」第４話",
-      "title_ja": "「チャッピー、その設定どこにあるの？」第４話",
-      "url": "https://note.com/rapid_fish5814/n/n2aca8ed979ad",
+      "title": "麦AGI開発物語32(16)-無題",
+      "title_ja": "麦AGI開発物語32(16)-無題",
+      "url": "https://note.com/bakuakita/n/n9462a732beca",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-24",
+      "published_at": "2026-05-25",
       "lang": "ja",
-      "score": 91.0,
+      "score": 65.0,
       "summary": [
-        "記事の本文が提供されていないため",
-        "具体的な内容を要約できません",
-        "したがって情報をお伝えできません"
+        "AI開発の連載記事ですが、今回はまだ書きかけです",
+        "読むことができる具体的な情報はまだ書かれていません",
+        "今後のAI開発の進展は、次回以降の記事に期待しましょう"
       ],
-      "highlight": "記事本文がないため、何がすごいか判断できません"
+      "highlight": "今回はまだ、AI開発の新しい動きや情報はありません"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIチームでゲーム開発（Claude Code Agent Teams + Godot）",
-      "title_ja": "AIチームでゲーム開発",
-      "url": "https://zenn.dev/yurinchi/articles/537a7640b59ee8",
-      "likes": 1,
+      "title": "AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの",
+      "title_ja": "AI時代の競争優位は「統合」にしかない —— エンジニアと組織が、今投資すべきもの",
+      "url": "https://zenn.dev/ttiger/articles/f2cfcd8b625202",
+      "likes": 21,
       "comments": 0,
-      "published_at": "2026-05-24",
+      "published_at": "2026-05-25",
       "lang": "ja",
-      "score": 39.0,
+      "score": 54.0,
       "summary": [
-        "AIたちが協力してゲームを作る、という新しい方法について",
-        "AIがゲームのアイデアを出したり、プログラムを書いたりする",
-        "ゲーム開発がもっと身近になり、新しいゲームが増える可能性"
+        "AIで企業が勝つには、バラバラなものを「一つにまとめる力」が重要だと伝えています。",
+        "AI技術やデータをうまく連携させると、今までになかった便利なサービスが生まれるでしょう。",
+        "この考え方が広まれば、私たちの生活はもっと便利になり、社会全体も豊かになるはずです。"
       ],
-      "highlight": "複数のAIがチームになって、人間のように協力してゲーム開発ができるようになった"
+      "highlight": "AIのバラバラな機能やデータを一つにまとめることで、世の中にこれまでなかった画期的なサービスが生まれるようになる。"
     }
   ],
-  "trending_keywords": [
-    "Claude"
-  ]
+  "trending_keywords": []
 }
