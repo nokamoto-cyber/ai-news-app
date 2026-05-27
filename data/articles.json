@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-05-27 08:07",
+  "updated_at": "2026-05-28 08:15",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "The Most Concerning AI Risk of 2026",
-      "title_ja": "2026年に最も懸念されるAIのリスク",
-      "url": "https://dev.to/sachagreif/the-most-concerning-ai-risk-of-2026-3m0d",
-      "likes": 71,
-      "comments": 35,
-      "published_at": "2026-05-22",
+      "title": "How Are Developers Actually Using AI At Work?",
+      "title_ja": "開発者は仕事でAIをどう活用している？",
+      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
+      "likes": 59,
+      "comments": 58,
+      "published_at": "2026-05-27",
       "lang": "en",
-      "score": 155.0,
+      "score": 208.0,
       "summary": [
-        "AIが2026年までに引き起こす恐れのある危険な問題について説明しています。",
-        "AIの進化が原因で私たちの生活や社会に予期せぬ悪い影響が出るかもしれません。",
-        "これは私たち全員の未来に関わることで、今から対策を考える必要があります。"
+        "開発者がAIを仕事にどう活用しているかを説明。",
+        "AIがプログラム作成や問題解決を効率化する。",
+        "開発が速くなり、私たちの生活も便利になる。"
       ],
-      "highlight": "AIの進化により、私たちの生活や社会のあり方が危険な方向へ変わる可能性が指摘されています。"
+      "highlight": "AIがプログラマーの作業を助け、便利なサービスがどんどん生まれるようになった。"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "国内ベンダーの争奪戦！Anthropic、OpenAI、Googleの「日本パートナー戦略」の違いを徹底比較",
+      "title_ja": "国内ベンダーの争奪戦！Anthropic、OpenAI、Googleの「日本パートナー戦略」の違いを徹底比較",
+      "url": "https://note.com/pika2_hikaru/n/n469e389fb2c0",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-05-27",
+      "lang": "ja",
+      "score": 82.0,
+      "summary": [
+        "大手AI企業が日本でどんな会社と協力したいかを紹介しています",
+        "日本の会社がAIを導入しやすくなります",
+        "私たちの毎日にAIがもっと入り込んでくるでしょう"
+      ],
+      "highlight": "私たちの身近なサービスに最先端のAIが取り入れられるようになる"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）",
       "title_ja": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる",
       "url": "https://zenn.dev/thujikun/articles/91824e55b7fc9c",
-      "likes": 21,
+      "likes": 35,
       "comments": 0,
       "published_at": "2026-05-26",
       "lang": "ja",
-      "score": 57.0,
+      "score": 56.0,
       "summary": [
-        "AIが作ったプログラムを、別のAIが間違いなく動くかチェックします",
-        "人間がチェックするよりも速く、しかも品質の良いプログラムが作れます",
-        "私たちが使うアプリやサービスが、もっと早く良くなることにつながります"
+        "AIが作るプログラムの確認をAI自身が行うこと。",
+        "プログラムの間違い探しが速く正確になり、質も上がる。",
+        "私たちが使うAIサービスが早く進化し、便利になる。"
       ],
-      "highlight": "AIがAIの作ったプログラムをチェックするようになり、開発のスピードと品質が大きく変わります"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "AI開発は、使い放題からコスト設計の時代へ",
-      "title_ja": "AI開発は、使い放題からコスト設計の時代へ",
-      "url": "https://note.com/sane_mink364/n/n5007f60f8c90",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-05-26",
-      "lang": "ja",
-      "score": 55.0,
-      "summary": [
-        "AIを開発・利用する際に、これからはお金のことをしっかり考える時代になります。",
-        "今までのように無料で使う感覚から、費用を意識して賢く使うように変わります。",
-        "企業は無駄なく価値あるAIを作るようになり、私たちの生活もさらに便利になるでしょう。"
-      ],
-      "highlight": "AIの利用に費用がかかる意識が広がり、私たちの生活に役立つサービスが増えるでしょう。"
+      "highlight": "AIがプログラムのチェックまで担うことで、開発が速く、質も高まるようになった。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "OpenAI",
+    "Anthropic",
+    "Google"
+  ]
 }
