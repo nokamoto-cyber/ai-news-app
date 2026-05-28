@@ -1,64 +1,62 @@
 {
-  "updated_at": "2026-05-28 08:15",
+  "updated_at": "2026-05-29 08:13",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "How Are Developers Actually Using AI At Work?",
-      "title_ja": "開発者は仕事でAIをどう活用している？",
+      "title_ja": "開発者は仕事でAIをどう活用しているか",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "likes": 59,
-      "comments": 58,
+      "likes": 94,
+      "comments": 127,
       "published_at": "2026-05-27",
       "lang": "en",
-      "score": 208.0,
+      "score": 366.0,
       "summary": [
-        "開発者がAIを仕事にどう活用しているかを説明。",
-        "AIがプログラム作成や問題解決を効率化する。",
-        "開発が速くなり、私たちの生活も便利になる。"
+        "開発者がAIを仕事でどう使っているか",
+        "AIがプログラム作りを手伝い効率化",
+        "開発者の働き方が変わり、製品が早く良くなる"
       ],
-      "highlight": "AIがプログラマーの作業を助け、便利なサービスがどんどん生まれるようになった。"
+      "highlight": "AIが開発者の仕事を大きく変え、私たちの生活をもっと便利にするサービスがどんどん生まれるようになった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "国内ベンダーの争奪戦！Anthropic、OpenAI、Googleの「日本パートナー戦略」の違いを徹底比較",
-      "title_ja": "国内ベンダーの争奪戦！Anthropic、OpenAI、Googleの「日本パートナー戦略」の違いを徹底比較",
-      "url": "https://note.com/pika2_hikaru/n/n469e389fb2c0",
+      "title": "【未来予測】5年後も生き残るデザイナーの条件。グラフィックから「体験設計」へのシフト",
+      "title_ja": "【未来予測】5年後も生き残るデザイナーの条件。グラフィックから「体験設計」へのシフト",
+      "url": "https://note.com/yunoka_design/n/nef5856d54d8c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-27",
+      "published_at": "2026-05-28",
       "lang": "ja",
-      "score": 82.0,
+      "score": 81.0,
       "summary": [
-        "大手AI企業が日本でどんな会社と協力したいかを紹介しています",
-        "日本の会社がAIを導入しやすくなります",
-        "私たちの毎日にAIがもっと入り込んでくるでしょう"
+        "デザイナーの仕事が今後どう変わるかを予測した記事です。",
+        "見た目の美しさだけでなく、使う人の体験を重視します。",
+        "未来のサービスや商品がもっと使いやすくなるでしょう。"
       ],
-      "highlight": "私たちの身近なサービスに最先端のAIが取り入れられるようになる"
+      "highlight": "デザイナーは見た目だけでなく、使う人の体験を設計する役割に変わる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる（連載Part 3）",
-      "title_ja": "AIが書いたコードはAIが見る ── レビューが詰まらず、品質はむしろ上がる",
-      "url": "https://zenn.dev/thujikun/articles/91824e55b7fc9c",
-      "likes": 35,
+      "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
+      "title_ja": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
+      "url": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
+      "likes": 45,
       "comments": 0,
-      "published_at": "2026-05-26",
+      "published_at": "2026-05-25",
       "lang": "ja",
       "score": 56.0,
       "summary": [
-        "AIが作るプログラムの確認をAI自身が行うこと。",
-        "プログラムの間違い探しが速く正確になり、質も上がる。",
-        "私たちが使うAIサービスが早く進化し、便利になる。"
+        "会社の大事な知識をAIが拾い集め、活用する方法",
+        "社員が探す手間なく、必要な情報がすぐ手に入る",
+        "仕事のムダが減り、会社の力が強くなる"
       ],
-      "highlight": "AIがプログラムのチェックまで担うことで、開発が速く、質も高まるようになった。"
+      "highlight": "会社のあらゆる知識をAIが整理し、誰でも使えるようになった"
     }
   ],
   "trending_keywords": [
-    "OpenAI",
-    "Anthropic",
-    "Google"
+    "LLM"
   ]
 }
