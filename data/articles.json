@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-05-29 08:13",
+  "updated_at": "2026-05-30 08:09",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "How Are Developers Actually Using AI At Work?",
-      "title_ja": "開発者は仕事でAIをどう活用しているか",
+      "title_ja": "開発者はAIをどう仕事に活かしている？",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "likes": 94,
-      "comments": 127,
+      "likes": 124,
+      "comments": 157,
       "published_at": "2026-05-27",
       "lang": "en",
-      "score": 366.0,
+      "score": 446.0,
       "summary": [
-        "開発者がAIを仕事でどう使っているか",
-        "AIがプログラム作りを手伝い効率化",
-        "開発者の働き方が変わり、製品が早く良くなる"
+        "開発者がAIを仕事でどう使っているかを解説",
+        "AIがプログラム作りや間違い探しを助け、開発が速く",
+        "AIが身近なアプリやサービスを、より早く便利に変えていく"
       ],
-      "highlight": "AIが開発者の仕事を大きく変え、私たちの生活をもっと便利にするサービスがどんどん生まれるようになった。"
+      "highlight": "AIが開発者の仕事を変え、誰もが使うアプリやサービスがもっと早く良くなるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【未来予測】5年後も生き残るデザイナーの条件。グラフィックから「体験設計」へのシフト",
-      "title_ja": "【未来予測】5年後も生き残るデザイナーの条件。グラフィックから「体験設計」へのシフト",
-      "url": "https://note.com/yunoka_design/n/nef5856d54d8c",
+      "title": "AI時代のデータセンターは、「土地」ではなく「電力」で決まる",
+      "title_ja": "AI時代のデータセンターは、「土地」ではなく「電力」で決まる",
+      "url": "https://note.com/clever_dill727/n/n8a8dfb5d8e52",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-28",
+      "published_at": "2026-05-29",
       "lang": "ja",
-      "score": 81.0,
+      "score": 93.0,
       "summary": [
-        "デザイナーの仕事が今後どう変わるかを予測した記事です。",
-        "見た目の美しさだけでなく、使う人の体験を重視します。",
-        "未来のサービスや商品がもっと使いやすくなるでしょう。"
+        "AIを動かすための大きなコンピューター施設は、大量の電気を必要とします",
+        "そのため、施設の場所選びは、広さよりも安定した電気供給で決まります",
+        "私たちの使うAIサービスを支える電気が、これまで以上に重要になります"
       ],
-      "highlight": "デザイナーは見た目だけでなく、使う人の体験を設計する役割に変わる"
+      "highlight": "AIの進化で、巨大施設の場所は『電力』で決まる時代へと大きく変わった"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
-      "title_ja": "社内の知見をAIが漏らさず拾う唯一の設計思想 ― Karpathy氏のLLM Wikiを実践して分かったこと",
-      "url": "https://zenn.dev/nori_handa/articles/llm-knowledge-base-karpathy-wiki",
-      "likes": 45,
+      "title": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
+      "title_ja": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
+      "url": "https://zenn.dev/s_tajima/articles/policy-for-frontier-ai",
+      "likes": 29,
       "comments": 0,
-      "published_at": "2026-05-25",
+      "published_at": "2026-05-29",
       "lang": "ja",
-      "score": 56.0,
+      "score": 62.0,
       "summary": [
-        "会社の大事な知識をAIが拾い集め、活用する方法",
-        "社員が探す手間なく、必要な情報がすぐ手に入る",
-        "仕事のムダが減り、会社の力が強くなる"
+        "最新のAIがもたらす危険に、企業がどう対応するかを伝える",
+        "AIを安全に使うためのルールや対策を決めていくことについて",
+        "AIを使う企業と利用者が、安心してサービスを使えるようになる"
       ],
-      "highlight": "会社のあらゆる知識をAIが整理し、誰でも使えるようになった"
+      "highlight": "最先端AIの新たな危険に備え、企業が対策を進める"
     }
   ],
-  "trending_keywords": [
-    "LLM"
-  ]
+  "trending_keywords": []
 }
