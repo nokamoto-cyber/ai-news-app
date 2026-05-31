@@ -1,62 +1,66 @@
 {
-  "updated_at": "2026-05-31 07:56",
+  "updated_at": "2026-06-01 07:57",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "How Are Developers Actually Using AI At Work?",
-      "title_ja": "開発者は職場でAIをどう活用しているの？",
+      "title_ja": "プログラマーは仕事でAIをどう使っているの？",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "likes": 141,
-      "comments": 178,
+      "likes": 151,
+      "comments": 192,
       "published_at": "2026-05-27",
       "lang": "en",
-      "score": 505.0,
+      "score": 543.0,
       "summary": [
-        "開発者が仕事でAIをどう使っているかを解説",
-        "プログラム作成やミス探しが効率化される",
-        "私たちの使うサービスがより便利になる"
+        "プログラマーがAIをどのように活用し、仕事が変わったかを伝えます。",
+        "AIはプログラミングを速く正確に助け、ミスを減らします。",
+        "これにより、より良いアプリやサービスが早くでき、私たちの生活が便利になります。"
       ],
-      "highlight": "AIがプログラム作りを助け、色々なサービスがもっと早く便利になる"
+      "highlight": "AIがプログラマーの強力な相棒となり、便利なサービスが早く生まれるようになりました。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【2026年5月31日号】AIインフラに資金殺到──決算・脆弱性発見・規制改正が示す\"次のフェーズ\"タグ：#AI #人工知能 #業務効率化 #マーケティング #自動化 #生成AI #DX #ビジネス #AIツール",
-      "title_ja": "【2026年5月31日号】AIインフラに資金殺到──決算・脆弱性発見・規制改正が示す\"次のフェーズ\"",
-      "url": "https://note.com/ai_conversion/n/nca3217f35207",
+      "title": "Claude Opus×Haiku でトークン1/5・品質90.2%改善 — Anthropic公式Multi-AgentパターンをPythonで動かす【2026-06】",
+      "title_ja": "AIが賢く安く動く！新しい仕組みで私たちの生活がもっと便利に",
+      "url": "https://note.com/mindorbit_bot_ai/n/n2206263b3bf2",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-30",
+      "published_at": "2026-05-31",
       "lang": "ja",
-      "score": 86.0,
+      "score": 74.0,
       "summary": [
-        "AIを動かすための設備に、お金がたくさん集まっています。",
-        "AIを動かす技術やルールが大きく進化し、新しい時代が始まります。",
-        "これから私たちの生活や仕事に、AIがもっと身近になるでしょう。"
+        "AIの賢さを保ちながら、使う費用を安くする新しい技術の話です。",
+        "賢いAIと軽いAIを組み合わせ、費用を安くし性能を向上させます。",
+        "AIを使う企業は費用を抑えられ、より良いAIサービスが私たちの生活に増えるでしょう。"
       ],
-      "highlight": "AIを動かす準備が整い、私たちの生活が大きく変わり始めます。"
+      "highlight": "AIが賢さを保ちつつ、安く使えるようになり、私たちの生活がより便利に変わるでしょう。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
-      "title_ja": "フロンティアAI による脅威変化を踏まえたFinatextグループとしての対応方針",
-      "url": "https://zenn.dev/s_tajima/articles/policy-for-frontier-ai",
-      "likes": 32,
+      "title": "AI向けドキュメントはどれで書くべき？ Claude・Gemini・ChatGPTに聞き比べてみた",
+      "title_ja": "AI向けドキュメントはどれで書くべき？ Claude・Gemini・ChatGPTに聞き比べてみた",
+      "url": "https://zenn.dev/shomitei/articles/ai-doc-format-3models",
+      "likes": 2,
       "comments": 0,
-      "published_at": "2026-05-29",
+      "published_at": "2026-05-31",
       "lang": "ja",
-      "score": 50.0,
+      "score": 48.0,
       "summary": [
-        "この記事は、進化するAIがもたらす新しい危険と、それに対してFinatextグループという会社がどう対応するかを説明しています。",
-        "AIがもっと賢くなる中で、会社が私たちの情報や金融サービスをどう安全に守り、どう新しいサービスに活かしていくかの考え方が書かれています。",
-        "最新AIが私たちの生活や社会にどう影響するか、そして企業がそれに対してどう備えるかを知ることができます。"
+        "AIを使って資料を作る最適な方法を教えてくれます。",
+        "３種類のAIがどんな文章作成に得意か分かります。",
+        "書類作りが苦手な人もAIで楽になるでしょう。"
       ],
-      "highlight": "最新のAIが進化する中で、私たちの生活や社会の安全を守るために、企業がどう対応していくかがわかるようになった"
+      "highlight": "AIが資料作りを手伝い、誰でも高品質な文章を簡単に作れるようになった。"
     }
   ],
   "trending_keywords": [
-    "生成AI"
+    "Claude",
+    "Anthropic",
+    "ChatGPT",
+    "GPT",
+    "Gemini"
   ]
 }
