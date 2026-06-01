@@ -1,66 +1,62 @@
 {
-  "updated_at": "2026-06-01 07:57",
+  "updated_at": "2026-06-02 08:25",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "How Are Developers Actually Using AI At Work?",
-      "title_ja": "プログラマーは仕事でAIをどう使っているの？",
+      "title_ja": "開発者は仕事でAIをどう使ってる？",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "likes": 151,
-      "comments": 192,
+      "likes": 159,
+      "comments": 220,
       "published_at": "2026-05-27",
       "lang": "en",
-      "score": 543.0,
+      "score": 607.0,
       "summary": [
-        "プログラマーがAIをどのように活用し、仕事が変わったかを伝えます。",
-        "AIはプログラミングを速く正確に助け、ミスを減らします。",
-        "これにより、より良いアプリやサービスが早くでき、私たちの生活が便利になります。"
+        "プログラマーなど開発者がAIをどう使っているか",
+        "コード作成や間違い探しをAIが手伝い仕事効率アップ",
+        "私たちが使う色々な製品やサービスにAIが使われる"
       ],
-      "highlight": "AIがプログラマーの強力な相棒となり、便利なサービスが早く生まれるようになりました。"
+      "highlight": "開発者がAIの力を借りて、もっと早く便利なものを作れるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Claude Opus×Haiku でトークン1/5・品質90.2%改善 — Anthropic公式Multi-AgentパターンをPythonで動かす【2026-06】",
-      "title_ja": "AIが賢く安く動く！新しい仕組みで私たちの生活がもっと便利に",
-      "url": "https://note.com/mindorbit_bot_ai/n/n2206263b3bf2",
+      "title": "【速報06/02】AI/IT関連ニュース（AIエージェント×量子×フィジカルAI）",
+      "title_ja": "【速報06/02】AI/IT関連ニュース（AIエージェント×量子×フィジカルAI）",
+      "url": "https://note.com/it_daytrading/n/n5ee8a5219d34",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-05-31",
+      "published_at": "2026-06-01",
       "lang": "ja",
-      "score": 74.0,
+      "score": 81.0,
       "summary": [
-        "AIの賢さを保ちながら、使う費用を安くする新しい技術の話です。",
-        "賢いAIと軽いAIを組み合わせ、費用を安くし性能を向上させます。",
-        "AIを使う企業は費用を抑えられ、より良いAIサービスが私たちの生活に増えるでしょう。"
+        "AIの新しい技術の進化を解説します",
+        "AIが自ら判断し現実世界で活躍します",
+        "私たちの生活や仕事が大きく変わります"
       ],
-      "highlight": "AIが賢さを保ちつつ、安く使えるようになり、私たちの生活がより便利に変わるでしょう。"
+      "highlight": "AIが自分で考えて行動できるようになり、私たちの暮らしや仕事が大きく便利に変わる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AI向けドキュメントはどれで書くべき？ Claude・Gemini・ChatGPTに聞き比べてみた",
-      "title_ja": "AI向けドキュメントはどれで書くべき？ Claude・Gemini・ChatGPTに聞き比べてみた",
-      "url": "https://zenn.dev/shomitei/articles/ai-doc-format-3models",
-      "likes": 2,
+      "title": "【IssueWeaver】流れて消える議論を、GitHub Issueと仕様書に織り上げるAIエージェント",
+      "title_ja": "【IssueWeaver】流れて消える議論を、GitHub Issueと仕様書に織り上げるAIエージェント",
+      "url": "https://zenn.dev/snowman1219/articles/issueweaver-zenn-ai-agent",
+      "likes": 5,
       "comments": 0,
-      "published_at": "2026-05-31",
+      "published_at": "2026-06-01",
       "lang": "ja",
-      "score": 48.0,
+      "score": 41.0,
       "summary": [
-        "AIを使って資料を作る最適な方法を教えてくれます。",
-        "３種類のAIがどんな文章作成に得意か分かります。",
-        "書類作りが苦手な人もAIで楽になるでしょう。"
+        "AIが、チャットや会議で話した内容を自動で整理してくれる話です。",
+        "バラバラになりがちな情報を、後から見返せる記録や計画書に変えてくれます。",
+        "これで、チームで何かを作る人たちの仕事がもっとスムーズになります。"
       ],
-      "highlight": "AIが資料作りを手伝い、誰でも高品質な文章を簡単に作れるようになった。"
+      "highlight": "AIが、バラバラに話された内容から大切な情報を見つけ出し、仕事の計画書やタスクリストを自動で作れるようになった。"
     }
   ],
   "trending_keywords": [
-    "Claude",
-    "Anthropic",
-    "ChatGPT",
-    "GPT",
-    "Gemini"
+    "AIエージェント"
   ]
 }
