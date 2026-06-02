@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-06-02 08:25",
+  "updated_at": "2026-06-03 08:43",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "How Are Developers Actually Using AI At Work?",
-      "title_ja": "開発者は仕事でAIをどう使ってる？",
+      "title_ja": "開発者は仕事でAIをどう使っている？",
       "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "likes": 159,
-      "comments": 220,
+      "likes": 162,
+      "comments": 229,
       "published_at": "2026-05-27",
       "lang": "en",
-      "score": 607.0,
+      "score": 628.0,
       "summary": [
-        "プログラマーなど開発者がAIをどう使っているか",
-        "コード作成や間違い探しをAIが手伝い仕事効率アップ",
-        "私たちが使う色々な製品やサービスにAIが使われる"
+        "開発者が仕事でAIをどう活用しているか",
+        "プログラム作成や間違い探しが速く正確に",
+        "私たちの生活を豊かにするものが早く"
       ],
-      "highlight": "開発者がAIの力を借りて、もっと早く便利なものを作れるようになった"
+      "highlight": "AIが開発のスピードを劇的に上げ、私たちがより便利になるサービスが早く手に入るようになった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【速報06/02】AI/IT関連ニュース（AIエージェント×量子×フィジカルAI）",
-      "title_ja": "【速報06/02】AI/IT関連ニュース（AIエージェント×量子×フィジカルAI）",
-      "url": "https://note.com/it_daytrading/n/n5ee8a5219d34",
+      "title": "AI最新ニュース|2026年6月2日",
+      "title_ja": "AI最新ニュース|2026年6月2日",
+      "url": "https://note.com/ai_diet_coach/n/nd7647052aa04",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-01",
+      "published_at": "2026-06-02",
       "lang": "ja",
-      "score": 81.0,
+      "score": 290.0,
       "summary": [
-        "AIの新しい技術の進化を解説します",
-        "AIが自ら判断し現実世界で活躍します",
-        "私たちの生活や仕事が大きく変わります"
+        "記事の本文が提供されていないため、",
+        "具体的な内容を要約できません。",
+        "詳細な情報が書かれていません。"
       ],
-      "highlight": "AIが自分で考えて行動できるようになり、私たちの暮らしや仕事が大きく便利に変わる"
+      "highlight": "記事本文がないため、何がすごいかをお伝えできません。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "【IssueWeaver】流れて消える議論を、GitHub Issueと仕様書に織り上げるAIエージェント",
-      "title_ja": "【IssueWeaver】流れて消える議論を、GitHub Issueと仕様書に織り上げるAIエージェント",
-      "url": "https://zenn.dev/snowman1219/articles/issueweaver-zenn-ai-agent",
-      "likes": 5,
-      "comments": 0,
+      "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
+      "title_ja": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
+      "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
+      "likes": 44,
+      "comments": 1,
       "published_at": "2026-06-01",
       "lang": "ja",
-      "score": 41.0,
+      "score": 54.0,
       "summary": [
-        "AIが、チャットや会議で話した内容を自動で整理してくれる話です。",
-        "バラバラになりがちな情報を、後から見返せる記録や計画書に変えてくれます。",
-        "これで、チームで何かを作る人たちの仕事がもっとスムーズになります。"
+        "AIがプログラムを作るのが当たり前になる未来",
+        "AIが作る複雑なプログラムは、人の考える力を鈍らせる",
+        "AIと人がどう協力すべきか、みんなで考えるきっかけ"
       ],
-      "highlight": "AIが、バラバラに話された内容から大切な情報を見つけ出し、仕事の計画書やタスクリストを自動で作れるようになった。"
+      "highlight": "AI任せにしないことで、人間が自分で考え、創造する力の価値が再発見される時代になった。"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
