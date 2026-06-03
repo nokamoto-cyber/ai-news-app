@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-06-03 08:43",
+  "updated_at": "2026-06-04 08:41",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "How Are Developers Actually Using AI At Work?",
-      "title_ja": "開発者は仕事でAIをどう使っている？",
-      "url": "https://dev.to/sylwia-lask/how-are-developers-actually-using-ai-at-work-4g9c",
-      "likes": 162,
-      "comments": 229,
-      "published_at": "2026-05-27",
+      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
+      "title_ja": "AIプログラムの不具合修正は、作成時間の10倍かかる",
+      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
+      "likes": 64,
+      "comments": 119,
+      "published_at": "2026-05-28",
       "lang": "en",
-      "score": 628.0,
+      "score": 313.0,
       "summary": [
-        "開発者が仕事でAIをどう活用しているか",
-        "プログラム作成や間違い探しが速く正確に",
-        "私たちの生活を豊かにするものが早く"
+        "AIの開発は、不具合を見つけて直すのが大変",
+        "そのため、新しいAIの登場が遅れることもあります",
+        "便利なAIを早く使うための工夫が求められます"
       ],
-      "highlight": "AIが開発のスピードを劇的に上げ、私たちがより便利になるサービスが早く手に入るようになった。"
+      "highlight": "AIの不具合修正がもっと簡単になれば、AIの進化が加速し私たちの生活も大きく変わる"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AI最新ニュース|2026年6月2日",
-      "title_ja": "AI最新ニュース|2026年6月2日",
-      "url": "https://note.com/ai_diet_coach/n/nd7647052aa04",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-06-02",
-      "lang": "ja",
-      "score": 290.0,
-      "summary": [
-        "記事の本文が提供されていないため、",
-        "具体的な内容を要約できません。",
-        "詳細な情報が書かれていません。"
-      ],
-      "highlight": "記事本文がないため、何がすごいかをお伝えできません。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
       "title_ja": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
       "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-      "likes": 44,
+      "likes": 83,
       "comments": 1,
       "published_at": "2026-06-01",
       "lang": "ja",
-      "score": 54.0,
+      "score": 93.0,
       "summary": [
-        "AIがプログラムを作るのが当たり前になる未来",
-        "AIが作る複雑なプログラムは、人の考える力を鈍らせる",
-        "AIと人がどう協力すべきか、みんなで考えるきっかけ"
+        "AIの進化でプログラムの作り方が変わった",
+        "AIが自分で複雑なプログラムを作るように",
+        "IT業界だけでなく誰もがAIと関わる未来"
       ],
-      "highlight": "AI任せにしないことで、人間が自分で考え、創造する力の価値が再発見される時代になった。"
+      "highlight": "AIが自分でプログラムを作成するようになったため、人間は指示するだけの役割へと変わる。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "AIエージェント時代が本格始動──企業導入が加速する転換点【2026年6月4日号】",
+      "title_ja": "AIエージェント時代が本格始動──企業導入が加速する転換点",
+      "url": "https://note.com/ai_conversion/n/ndee14d18093a",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-03",
+      "lang": "ja",
+      "score": 73.0,
+      "summary": [
+        "AIが自分で考えて動く時代が来た",
+        "会社でAIが活躍し仕事が変わる",
+        "働き方や暮らしが大きく変わる"
+      ],
+      "highlight": "AIが自分で目標を立てて行動し、私たちの仕事や生活が大きく変わる"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "AIエージェント"
+  ]
 }
