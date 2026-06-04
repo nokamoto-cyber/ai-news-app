@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-04 08:41",
+  "updated_at": "2026-06-05 08:07",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "I Spent 10x Longer Debugging AI Code Than Writing It",
-      "title_ja": "AIプログラムの不具合修正は、作成時間の10倍かかる",
-      "url": "https://dev.to/harsh2644/i-spent-10x-longer-debugging-ai-code-than-writing-it-15h4",
-      "likes": 64,
-      "comments": 119,
-      "published_at": "2026-05-28",
+      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
+      "title_ja": "AIモデルを言い争わせ、ヘルメスが判定した話",
+      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
+      "likes": 54,
+      "comments": 41,
+      "published_at": "2026-05-30",
       "lang": "en",
-      "score": 313.0,
+      "score": 147.0,
       "summary": [
-        "AIの開発は、不具合を見つけて直すのが大変",
-        "そのため、新しいAIの登場が遅れることもあります",
-        "便利なAIを早く使うための工夫が求められます"
+        "AIが互いに意見を出し合い判断する試み",
+        "より賢く信頼できるAIが生まれる可能性",
+        "AIが社会の様々な問題解決に役立つ未来"
       ],
-      "highlight": "AIの不具合修正がもっと簡単になれば、AIの進化が加速し私たちの生活も大きく変わる"
+      "highlight": "AIがただ指示に従うだけでなく、互いに議論し最善策を見つけられるようになった"
     },
     {
       "rank": 2,
@@ -25,38 +25,36 @@
       "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
       "title_ja": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
       "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-      "likes": 83,
+      "likes": 103,
       "comments": 1,
       "published_at": "2026-06-01",
       "lang": "ja",
-      "score": 93.0,
+      "score": 113.0,
       "summary": [
-        "AIの進化でプログラムの作り方が変わった",
-        "AIが自分で複雑なプログラムを作るように",
-        "IT業界だけでなく誰もがAIと関わる未来"
+        "AIにプログラムを書いてもらうことの、良い面だけでなく難しい面も紹介します。",
+        "AIの得意なことと苦手なことを知り、人がどう関わるべきかのヒントが得られます。",
+        "AIを使う誰もが、AIとの賢い付き合い方を考えるきっかけになるでしょう。"
       ],
-      "highlight": "AIが自分でプログラムを作成するようになったため、人間は指示するだけの役割へと変わる。"
+      "highlight": "AIに何でも任せるのは危険だと知り、これからの付き合い方が変わります。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIエージェント時代が本格始動──企業導入が加速する転換点【2026年6月4日号】",
-      "title_ja": "AIエージェント時代が本格始動──企業導入が加速する転換点",
-      "url": "https://note.com/ai_conversion/n/ndee14d18093a",
+      "title": "【タイトル】【VRAM8GBの壁】Gemma 4 12B Unified：2026年6月最新多モードモデル、8GB環境での現実的運用ガイド",
+      "title_ja": "【VRAM8GBの壁】Gemma 4 12B Unified：2026年6月最新多モードモデル、8GB環境での現実的運用ガイド",
+      "url": "https://note.com/juicy_viola3871/n/na4fbfdd080e4",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-03",
+      "published_at": "2026-06-04",
       "lang": "ja",
-      "score": 73.0,
+      "score": 94.0,
       "summary": [
-        "AIが自分で考えて動く時代が来た",
-        "会社でAIが活躍し仕事が変わる",
-        "働き方や暮らしが大きく変わる"
+        "メモリが少ない普通のパソコンでも最新AIを動かす方法",
+        "画像なども扱える高性能AIが手軽に使えるようになる",
+        "最新のAI技術がより身近になり、多くの人が試せる"
       ],
-      "highlight": "AIが自分で目標を立てて行動し、私たちの仕事や生活が大きく変わる"
+      "highlight": "メモリが少ない普通のパソコンでも最新の高性能AIが使えるようになった"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
