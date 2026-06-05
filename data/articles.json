@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-06-05 08:07",
+  "updated_at": "2026-06-06 08:05",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "I Made My AI Models Argue, Then Let Hermes Be the Judge",
-      "title_ja": "AIモデルを言い争わせ、ヘルメスが判定した話",
-      "url": "https://dev.to/arqamwd/i-made-my-ai-models-argue-then-let-hermes-be-the-judge-5e6c",
-      "likes": 54,
-      "comments": 41,
-      "published_at": "2026-05-30",
+      "title": "From vibe coding to clear thinking: what non-technical builders need in the age of AI",
+      "title_ja": "AI時代、ITが苦手な人も活躍！「なんとなく」から「はっきり」考える時代へ",
+      "url": "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
+      "likes": 50,
+      "comments": 43,
+      "published_at": "2026-06-01",
       "lang": "en",
-      "score": 147.0,
+      "score": 144.0,
       "summary": [
-        "AIが互いに意見を出し合い判断する試み",
-        "より賢く信頼できるAIが生まれる可能性",
-        "AIが社会の様々な問題解決に役立つ未来"
+        "AIで誰でも作れる今、感覚だけでなく思考が大事",
+        "漠然としたアイデアも、AIに正確に伝えれば形にできる",
+        "IT知識がなくても、AI活用で新しい価値を生み出せる"
       ],
-      "highlight": "AIがただ指示に従うだけでなく、互いに議論し最善策を見つけられるようになった"
+      "highlight": "AIの進化で、ITが苦手な人も、はっきり考える力があればすごいものが作れる"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
-      "title_ja": "僕が AI にコーディングをさせなくなった理由（2026 年 5月版）",
-      "url": "https://zenn.dev/nishiken_zenn/articles/why-stopping-coding-for-ai-ja",
-      "likes": 103,
-      "comments": 1,
-      "published_at": "2026-06-01",
-      "lang": "ja",
-      "score": 113.0,
+      "source": "Dev.to",
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "title_ja": "AIの進化、私には速すぎる？",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "likes": 53,
+      "comments": 35,
+      "published_at": "2026-06-03",
+      "lang": "en",
+      "score": 137.0,
       "summary": [
-        "AIにプログラムを書いてもらうことの、良い面だけでなく難しい面も紹介します。",
-        "AIの得意なことと苦手なことを知り、人がどう関わるべきかのヒントが得られます。",
-        "AIを使う誰もが、AIとの賢い付き合い方を考えるきっかけになるでしょう。"
+        "AIがすごい勢いで進化していること",
+        "AIが人の作業を助け、効率が上がる",
+        "AIとどう向き合うかがこれからの課題"
       ],
-      "highlight": "AIに何でも任せるのは危険だと知り、これからの付き合い方が変わります。"
+      "highlight": "AIの進化で、私たちの働き方や学ぶ内容が大きく変わっていく"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "【タイトル】【VRAM8GBの壁】Gemma 4 12B Unified：2026年6月最新多モードモデル、8GB環境での現実的運用ガイド",
-      "title_ja": "【VRAM8GBの壁】Gemma 4 12B Unified：2026年6月最新多モードモデル、8GB環境での現実的運用ガイド",
-      "url": "https://note.com/juicy_viola3871/n/na4fbfdd080e4",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
+      "title_ja": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
+      "url": "https://zenn.dev/shinue/articles/4f06bde08a90d4",
+      "likes": 33,
       "comments": 0,
       "published_at": "2026-06-04",
       "lang": "ja",
-      "score": 94.0,
+      "score": 51.0,
       "summary": [
-        "メモリが少ない普通のパソコンでも最新AIを動かす方法",
-        "画像なども扱える高性能AIが手軽に使えるようになる",
-        "最新のAI技術がより身近になり、多くの人が試せる"
+        "AIが開発中のプログラムチェックを効率化し",
+        "確認作業の待ち時間を約7割も減らせた話です",
+        "これにより新しいアプリやサービスが早く使えるようになります"
       ],
-      "highlight": "メモリが少ない普通のパソコンでも最新の高性能AIが使えるようになった"
+      "highlight": "AIが開発の確認作業を減らし、新サービスが早く届くようになった"
     }
   ],
   "trending_keywords": []
