@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-06-06 08:05",
+  "updated_at": "2026-06-07 08:00",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "From vibe coding to clear thinking: what non-technical builders need in the age of AI",
-      "title_ja": "AI時代、ITが苦手な人も活躍！「なんとなく」から「はっきり」考える時代へ",
+      "title_ja": "AI時代、ITの専門知識がない人が成功するには？なんとなくの作り方から、きちんとした考え方へ",
       "url": "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
-      "likes": 50,
-      "comments": 43,
+      "likes": 51,
+      "comments": 48,
       "published_at": "2026-06-01",
       "lang": "en",
-      "score": 144.0,
+      "score": 155.0,
       "summary": [
-        "AIで誰でも作れる今、感覚だけでなく思考が大事",
-        "漠然としたアイデアも、AIに正確に伝えれば形にできる",
-        "IT知識がなくても、AI活用で新しい価値を生み出せる"
+        "AI時代、IT専門知識がない人が何かを作るには、きちんと考えを整理する力が必要です。",
+        "AIに何をさせるか明確にすることで、より複雑で質の高いものを作れるようになります。",
+        "IT知識がなくてもAIで何かを創りたい人にとって大切な考え方です。"
       ],
-      "highlight": "AIの進化で、ITが苦手な人も、はっきり考える力があればすごいものが作れる"
+      "highlight": "なんとなくのやり方から、きちんと考えることで、誰もがAIで質の高いものを作れるようになった。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "title_ja": "AIの進化、私には速すぎる？",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "likes": 53,
-      "comments": 35,
-      "published_at": "2026-06-03",
-      "lang": "en",
-      "score": 137.0,
+      "source": "note",
+      "title": "AI初心者の勘違いシリーズ① Claudeの日本語は自然らしい。 でも正直、私はそこまで違いがわからなかった話。",
+      "title_ja": "AI初心者の勘違いシリーズ① Claudeの日本語は自然らしい。 でも正直、私はそこまで違いがわからなかった話。",
+      "url": "https://note.com/aszo4q/n/n939e2c6dcedd",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-06",
+      "lang": "ja",
+      "score": 91.0,
       "summary": [
-        "AIがすごい勢いで進化していること",
-        "AIが人の作業を助け、効率が上がる",
-        "AIとどう向き合うかがこれからの課題"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIの進化で、私たちの働き方や学ぶ内容が大きく変わっていく"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 3,
@@ -43,18 +43,20 @@
       "title": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
       "title_ja": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
       "url": "https://zenn.dev/shinue/articles/4f06bde08a90d4",
-      "likes": 33,
+      "likes": 41,
       "comments": 0,
       "published_at": "2026-06-04",
       "lang": "ja",
-      "score": 51.0,
+      "score": 49.0,
       "summary": [
-        "AIが開発中のプログラムチェックを効率化し",
-        "確認作業の待ち時間を約7割も減らせた話です",
-        "これにより新しいアプリやサービスが早く使えるようになります"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIが開発の確認作業を減らし、新サービスが早く届くようになった"
+      "highlight": "要約の生成に失敗しました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Claude"
+  ]
 }
