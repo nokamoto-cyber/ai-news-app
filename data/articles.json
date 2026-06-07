@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-06-07 08:00",
+  "updated_at": "2026-06-08 08:02",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "From vibe coding to clear thinking: what non-technical builders need in the age of AI",
-      "title_ja": "AI時代、ITの専門知識がない人が成功するには？なんとなくの作り方から、きちんとした考え方へ",
-      "url": "https://dev.to/javz/from-vibe-coding-to-clear-thinking-what-non-technical-builders-need-in-the-age-of-ai-4nbd",
-      "likes": 51,
-      "comments": 48,
-      "published_at": "2026-06-01",
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "title_ja": "AI時代、私たちは遅いのか？",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "likes": 70,
+      "comments": 42,
+      "published_at": "2026-06-03",
       "lang": "en",
-      "score": 155.0,
+      "score": 168.0,
       "summary": [
-        "AI時代、IT専門知識がない人が何かを作るには、きちんと考えを整理する力が必要です。",
-        "AIに何をさせるか明確にすることで、より複雑で質の高いものを作れるようになります。",
-        "IT知識がなくてもAIで何かを創りたい人にとって大切な考え方です。"
+        "AI技術が猛スピードで進化中、その影響を考えます。",
+        "AIは働き方や毎日の暮らしを大きく変えていきます。",
+        "誰もがAIと共存する時代、前向きな姿勢が重要です。"
       ],
-      "highlight": "なんとなくのやり方から、きちんと考えることで、誰もがAIで質の高いものを作れるようになった。"
+      "highlight": "AIと協力すれば、これまで難しかったことが誰でもできるようになる。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AI初心者の勘違いシリーズ① Claudeの日本語は自然らしい。 でも正直、私はそこまで違いがわからなかった話。",
-      "title_ja": "AI初心者の勘違いシリーズ① Claudeの日本語は自然らしい。 でも正直、私はそこまで違いがわからなかった話。",
-      "url": "https://note.com/aszo4q/n/n939e2c6dcedd",
+      "title": "NEEのセミナー「地域とともに成長するAI時代の学び〜高専、学校、民間の取組事例から〜を聞い",
+      "title_ja": "NEEのセミナー「地域とともに成長するAI時代の学び〜高専、学校、民間の取組事例から〜を聞い",
+      "url": "https://note.com/kabu0110/n/n9e9a2dbb1bf3",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-06",
+      "published_at": "2026-06-07",
       "lang": "ja",
-      "score": 91.0,
+      "score": 75.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AI時代の新しい学び方を地域と協力して進める大切さを伝える記事です。",
+        "学校や会社がAI教育にどう取り組み、地域と手を取り合うかを紹介します。",
+        "学生や先生、地域の企業にとって、これからのAI教育のヒントになるでしょう。"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AI時代に、学校や会社が地域と協力し、誰もが新しい学びを得られる道が開かれます。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
-      "title_ja": "PR 前後で AI レビューを2段構えにしたら、レビュー待ちが約70%減った話",
-      "url": "https://zenn.dev/shinue/articles/4f06bde08a90d4",
-      "likes": 41,
+      "title": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
+      "title_ja": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
+      "url": "https://zenn.dev/abalol/articles/579296fa31056f",
+      "likes": 8,
       "comments": 0,
-      "published_at": "2026-06-04",
+      "published_at": "2026-06-07",
       "lang": "ja",
-      "score": 49.0,
+      "score": 44.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "何も知らないAIを立派に育てる方法です",
+        "計画的に育てて賢いAIが作れます",
+        "私たちの生活がより便利になるでしょう"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "何も知らないAIでも、計画的に育てて一人前にできるようになった"
     }
   ],
-  "trending_keywords": [
-    "Claude"
-  ]
+  "trending_keywords": []
 }
