@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-06-08 08:02",
+  "updated_at": "2026-06-09 08:10",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "title_ja": "AI時代、私たちは遅いのか？",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "likes": 70,
-      "comments": 42,
-      "published_at": "2026-06-03",
+      "title": "I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.",
+      "title_ja": "[翻訳失敗] I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.",
+      "url": "https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh",
+      "likes": 55,
+      "comments": 67,
+      "published_at": "2026-06-02",
       "lang": "en",
-      "score": 168.0,
+      "score": 200.0,
       "summary": [
-        "AI技術が猛スピードで進化中、その影響を考えます。",
-        "AIは働き方や毎日の暮らしを大きく変えていきます。",
-        "誰もがAIと共存する時代、前向きな姿勢が重要です。"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIと協力すれば、これまで難しかったことが誰でもできるようになる。"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "NEEのセミナー「地域とともに成長するAI時代の学び〜高専、学校、民間の取組事例から〜を聞い",
-      "title_ja": "NEEのセミナー「地域とともに成長するAI時代の学び〜高専、学校、民間の取組事例から〜を聞い",
-      "url": "https://note.com/kabu0110/n/n9e9a2dbb1bf3",
+      "title": "AIで5社内定、ChatGPT上場——今週気になったAIニュース4選",
+      "title_ja": "AIで5社内定、ChatGPT上場——今週気になったAIニュース4選",
+      "url": "https://note.com/supersonic_ai/n/n509b853dd72b",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-07",
+      "published_at": "2026-06-08",
       "lang": "ja",
-      "score": 75.0,
+      "score": 54.0,
       "summary": [
-        "AI時代の新しい学び方を地域と協力して進める大切さを伝える記事です。",
-        "学校や会社がAI教育にどう取り組み、地域と手を取り合うかを紹介します。",
-        "学生や先生、地域の企業にとって、これからのAI教育のヒントになるでしょう。"
+        "AIが就職活動に役立ったり、AIを作る会社が大きく成長していることが分かります。",
+        "AIを使うことで仕事探しが効率的になり、AIを開発する企業の価値も高まっています。",
+        "これからの社会や働き方がAIによって大きく変わっていく兆しが見えてきています。"
       ],
-      "highlight": "AI時代に、学校や会社が地域と協力し、誰もが新しい学びを得られる道が開かれます。"
+      "highlight": "AIが私たちの働き方や、社会の仕組みを大きく変え始めています。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
-      "title_ja": "AIウォーターフォール開発：コンテキストゼロのAIを一人前にする仕組み",
-      "url": "https://zenn.dev/abalol/articles/579296fa31056f",
+      "title": "Claude Managed Agent ですべてのプロジェクトマネジメント業務を AI に任せる",
+      "title_ja": "Claude Managed Agent ですべてのプロジェクトマネジメント業務を AI に任せる",
+      "url": "https://zenn.dev/joe_re/articles/6c93306e28dff0",
       "likes": 8,
       "comments": 0,
-      "published_at": "2026-06-07",
+      "published_at": "2026-06-08",
       "lang": "ja",
-      "score": 44.0,
+      "score": 46.0,
       "summary": [
-        "何も知らないAIを立派に育てる方法です",
-        "計画的に育てて賢いAIが作れます",
-        "私たちの生活がより便利になるでしょう"
+        "AIが仕事の計画や管理を全部してくれる話です。",
+        "人の代わりにAIが仕事の進行を管理できるようになります。",
+        "会社で働く人の仕事の進め方が大きく変わるでしょう。"
       ],
-      "highlight": "何も知らないAIでも、計画的に育てて一人前にできるようになった"
+      "highlight": "人が行っていたプロジェクト管理のほぼ全てをAIが担えるようになりました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT",
+    "Claude"
+  ]
 }
