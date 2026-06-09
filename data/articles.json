@@ -1,64 +1,62 @@
 {
-  "updated_at": "2026-06-09 08:10",
+  "updated_at": "2026-06-10 08:16",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.",
-      "title_ja": "[翻訳失敗] I Thought AI Would Make Me Code Faster. Then I Spent 6 Hours Debugging One Line.",
-      "url": "https://dev.to/trojanmocx/i-thought-ai-would-make-me-code-faster-then-i-spent-6-hours-debugging-one-line-3ffh",
-      "likes": 55,
-      "comments": 67,
-      "published_at": "2026-06-02",
+      "title": "Am I Becoming Too Slow for the AI World?",
+      "title_ja": "AIの進化に、私はもう遅れているのか？",
+      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
+      "likes": 89,
+      "comments": 50,
+      "published_at": "2026-06-03",
       "lang": "en",
-      "score": 200.0,
+      "score": 203.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIの進化はとても速く、人がついていけないのではという不安を伝える記事です。",
+        "AIによって仕事や日々の生活が大きく変わり、新しい知識やスキルが求められます。",
+        "変化を受け入れ、AIと協力しながら学ぶことが今後とても大切になると伝えています。"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIの急速な進化によって、私たちの働き方や学び方が大きく変わります"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AIで5社内定、ChatGPT上場——今週気になったAIニュース4選",
-      "title_ja": "AIで5社内定、ChatGPT上場——今週気になったAIニュース4選",
-      "url": "https://note.com/supersonic_ai/n/n509b853dd72b",
+      "title": "Claude Fable 5 は、AIモデルを「賢さ」だけで比べる時代を終わらせる",
+      "title_ja": "Claude Fable 5 は、AIモデルを「賢さ」だけで比べる時代を終わらせる",
+      "url": "https://note.com/gp_lab/n/n8d9f40559203",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-08",
+      "published_at": "2026-06-09",
       "lang": "ja",
-      "score": 54.0,
+      "score": 63.0,
       "summary": [
-        "AIが就職活動に役立ったり、AIを作る会社が大きく成長していることが分かります。",
-        "AIを使うことで仕事探しが効率的になり、AIを開発する企業の価値も高まっています。",
-        "これからの社会や働き方がAIによって大きく変わっていく兆しが見えてきています。"
+        "新しいAI「Claude Fable 5」が、AIの比べ方を変えるという話です。",
+        "これからは、賢さ以外の色々な面でAIを選ぶようになります。",
+        "私たちも、より自分に合ったAIを見つけられるようになるでしょう。"
       ],
-      "highlight": "AIが私たちの働き方や、社会の仕組みを大きく変え始めています。"
+      "highlight": "AIを賢さだけで評価する時代が終わり、多様な視点で選べるようになる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Claude Managed Agent ですべてのプロジェクトマネジメント業務を AI に任せる",
-      "title_ja": "Claude Managed Agent ですべてのプロジェクトマネジメント業務を AI に任せる",
-      "url": "https://zenn.dev/joe_re/articles/6c93306e28dff0",
-      "likes": 8,
+      "title": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
+      "title_ja": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
+      "url": "https://zenn.dev/rapls/articles/7456767a19af06",
+      "likes": 44,
       "comments": 0,
-      "published_at": "2026-06-08",
+      "published_at": "2026-06-07",
       "lang": "ja",
-      "score": 46.0,
+      "score": 52.0,
       "summary": [
-        "AIが仕事の計画や管理を全部してくれる話です。",
-        "人の代わりにAIが仕事の進行を管理できるようになります。",
-        "会社で働く人の仕事の進め方が大きく変わるでしょう。"
+        "AIが作ったプログラムを長く使い続けるための工夫を紹介",
+        "AIが書いたものでも、後から人間が直したり変えたりしやすくなる",
+        "AIの利用が広がる社会で、安心して技術を使うヒントになる"
       ],
-      "highlight": "人が行っていたプロジェクト管理のほぼ全てをAIが担えるようになりました。"
+      "highlight": "AIが作ったシステムも、人間が後から直せて長く使えるようになる"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
     "Claude"
   ]
 }
