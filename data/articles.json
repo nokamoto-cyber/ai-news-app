@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-06-10 08:16",
+  "updated_at": "2026-06-11 08:24",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Am I Becoming Too Slow for the AI World?",
-      "title_ja": "AIの進化に、私はもう遅れているのか？",
-      "url": "https://dev.to/marcosomma/am-i-becoming-too-slow-for-the-ai-world-1904",
-      "likes": 89,
-      "comments": 50,
-      "published_at": "2026-06-03",
+      "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
+      "title_ja": "私の経験をAIスキル化し解雇、AIが故障しCTOが給料5倍で助けを求めた話",
+      "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
+      "likes": 54,
+      "comments": 32,
+      "published_at": "2026-06-08",
       "lang": "en",
-      "score": 203.0,
+      "score": 129.0,
       "summary": [
-        "AIの進化はとても速く、人がついていけないのではという不安を伝える記事です。",
-        "AIによって仕事や日々の生活が大きく変わり、新しい知識やスキルが求められます。",
-        "変化を受け入れ、AIと協力しながら学ぶことが今後とても大切になると伝えています。"
+        "AIが人の知識を吸収しても人の代わりにはなれないこと",
+        "AIが人の知識を再現できても、トラブル時の対応は難しい",
+        "AI活用には人間の知識や経験が不可欠だと改めて気づかされる"
       ],
-      "highlight": "AIの急速な進化によって、私たちの働き方や学び方が大きく変わります"
+      "highlight": "AIに置き換えられない人間の価値が改めて注目され、AIと人が協力する未来が見えてきた"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Claude Fable 5 は、AIモデルを「賢さ」だけで比べる時代を終わらせる",
-      "title_ja": "Claude Fable 5 は、AIモデルを「賢さ」だけで比べる時代を終わらせる",
-      "url": "https://note.com/gp_lab/n/n8d9f40559203",
+      "title": "LLM（大規模言語モデル）とは？やさしくわかる基礎解説",
+      "title_ja": "LLM（大規模言語モデル）とは？やさしくわかる基礎解説",
+      "url": "https://note.com/goukaku_ken/n/n5a9e8653e545",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-09",
+      "published_at": "2026-06-10",
       "lang": "ja",
-      "score": 63.0,
+      "score": 51.0,
       "summary": [
-        "新しいAI「Claude Fable 5」が、AIの比べ方を変えるという話です。",
-        "これからは、賢さ以外の色々な面でAIを選ぶようになります。",
-        "私たちも、より自分に合ったAIを見つけられるようになるでしょう。"
+        "たくさんの言葉を学んだAI（LLM）の基本を解説",
+        "文章作成や質問応答など様々なことが可能に",
+        "私たちの生活や仕事に大きな変化をもたらします"
       ],
-      "highlight": "AIを賢さだけで評価する時代が終わり、多様な視点で選べるようになる"
+      "highlight": "AIが私たちの言葉を理解し、まるで人間のように会話して様々なことを手伝ってくれるようになった"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
-      "title_ja": "AIに8割書かせたコードを、半年後の自分が保守できるようにするために実際にやっていること",
-      "url": "https://zenn.dev/rapls/articles/7456767a19af06",
-      "likes": 44,
+      "title": "チケット1枚から設計を回すAIオーケストレーターを育てた話 ②実践編：SKILL.md全文と使い方",
+      "title_ja": "チケット1枚から設計を回すAIオーケストレーターを育てた話 ②実践編：SKILL.md全文と使い方",
+      "url": "https://zenn.dev/echolimitless/articles/e4b1e80dd97e7f",
+      "likes": 11,
       "comments": 0,
-      "published_at": "2026-06-07",
+      "published_at": "2026-06-10",
       "lang": "ja",
-      "score": 52.0,
+      "score": 44.0,
       "summary": [
-        "AIが作ったプログラムを長く使い続けるための工夫を紹介",
-        "AIが書いたものでも、後から人間が直したり変えたりしやすくなる",
-        "AIの利用が広がる社会で、安心して技術を使うヒントになる"
+        "AIが仕事の計画を自動で進める仕組みを紹介しています。",
+        "AIが細かい仕事も全体も自動で調整できるように詳しく解説。",
+        "人間は大切な仕事に集中でき、働き方が大きく変わります。"
       ],
-      "highlight": "AIが作ったシステムも、人間が後から直せて長く使えるようになる"
+      "highlight": "AIが小さなきっかけから複雑なプロジェクト設計を自律的に進められるようになった"
     }
   ],
   "trending_keywords": [
-    "Claude"
+    "LLM"
   ]
 }
