@@ -1,62 +1,65 @@
 {
-  "updated_at": "2026-06-11 08:24",
+  "updated_at": "2026-06-12 08:19",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
-      "title_ja": "私の経験をAIスキル化し解雇、AIが故障しCTOが給料5倍で助けを求めた話",
+      "title_ja": "私の12年の経験、AIに奪われた？でも結局AIが動かず、元の5倍の給料で呼び戻された話。",
       "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
-      "likes": 54,
-      "comments": 32,
+      "likes": 66,
+      "comments": 41,
       "published_at": "2026-06-08",
       "lang": "en",
-      "score": 129.0,
+      "score": 159.0,
       "summary": [
-        "AIが人の知識を吸収しても人の代わりにはなれないこと",
-        "AIが人の知識を再現できても、トラブル時の対応は難しい",
-        "AI活用には人間の知識や経験が不可欠だと改めて気づかされる"
+        "AIで仕事が自動化されると思いきや、人間の知恵や経験が意外と重要だとわかる話です。",
+        "AIはあくまで道具であり、人間の経験や問題解決能力が改めて評価されるようになります。",
+        "AI活用を考える企業や、自分の仕事の未来を心配する多くの人に関係するでしょう。"
       ],
-      "highlight": "AIに置き換えられない人間の価値が改めて注目され、AIと人が協力する未来が見えてきた"
+      "highlight": "AIは万能ではないと分かり、人間の経験や判断力がいかに重要か改めて知ることになった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "LLM（大規模言語モデル）とは？やさしくわかる基礎解説",
-      "title_ja": "LLM（大規模言語モデル）とは？やさしくわかる基礎解説",
-      "url": "https://note.com/goukaku_ken/n/n5a9e8653e545",
+      "title": "ChatGPTとClaude、どちらが向いているか試した結果",
+      "title_ja": "ChatGPTとClaude、どちらが向いているか試した結果",
+      "url": "https://note.com/umizora_ai/n/n27308c1345fa",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-10",
+      "published_at": "2026-06-11",
       "lang": "ja",
-      "score": 51.0,
+      "score": 60.0,
       "summary": [
-        "たくさんの言葉を学んだAI（LLM）の基本を解説",
-        "文章作成や質問応答など様々なことが可能に",
-        "私たちの生活や仕事に大きな変化をもたらします"
+        "人気のAIであるChatGPTとClaudeの違いを解説します。",
+        "AIで文章作成や調べ物をする時、最適なAIを選べます。",
+        "AIを使う人も使いたい人も、より賢く活用できます。"
       ],
-      "highlight": "AIが私たちの言葉を理解し、まるで人間のように会話して様々なことを手伝ってくれるようになった"
+      "highlight": "AIを自分の目的に合わせて使い分け、生活や仕事がもっと便利に変わる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "チケット1枚から設計を回すAIオーケストレーターを育てた話 ②実践編：SKILL.md全文と使い方",
-      "title_ja": "チケット1枚から設計を回すAIオーケストレーターを育てた話 ②実践編：SKILL.md全文と使い方",
-      "url": "https://zenn.dev/echolimitless/articles/e4b1e80dd97e7f",
-      "likes": 11,
+      "title": "Claude CodeでOSS更新を監視し、自社実装と照合して、NotionにR&Dチケットを自動起票するAIエージェント",
+      "title_ja": "Claude CodeでOSS更新を監視し、自社実装と照合して、NotionにR&Dチケットを自動起票するAIエージェント",
+      "url": "https://zenn.dev/nskh1matsuda/articles/ce4bedfa021726",
+      "likes": 2,
       "comments": 0,
-      "published_at": "2026-06-10",
+      "published_at": "2026-06-11",
       "lang": "ja",
-      "score": 44.0,
+      "score": 43.0,
       "summary": [
-        "AIが仕事の計画を自動で進める仕組みを紹介しています。",
-        "AIが細かい仕事も全体も自動で調整できるように詳しく解説。",
-        "人間は大切な仕事に集中でき、働き方が大きく変わります。"
+        "AIがプログラム更新を自動監視",
+        "会社システムとの違いを記録",
+        "改善点を提案し効率を上げる"
       ],
-      "highlight": "AIが小さなきっかけから複雑なプロジェクト設計を自律的に進められるようになった"
+      "highlight": "AIが、人が手作業でしていたシステム改善のための情報収集や記録作業を自動化し、会社の開発を大きく効率化できるようになった。"
     }
   ],
   "trending_keywords": [
-    "LLM"
+    "Claude",
+    "ChatGPT",
+    "GPT",
+    "AIエージェント"
   ]
 }
