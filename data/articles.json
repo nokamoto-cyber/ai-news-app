@@ -1,65 +1,63 @@
 {
-  "updated_at": "2026-06-12 08:19",
+  "updated_at": "2026-06-13 08:15",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
-      "title_ja": "私の12年の経験、AIに奪われた？でも結局AIが動かず、元の5倍の給料で呼び戻された話。",
+      "title_ja": "12年の経験をAI化され解雇された私。AIが壊れ、CTOから5倍の給料で連絡が",
       "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
-      "likes": 66,
-      "comments": 41,
+      "likes": 71,
+      "comments": 50,
       "published_at": "2026-06-08",
       "lang": "en",
-      "score": 159.0,
+      "score": 182.0,
       "summary": [
-        "AIで仕事が自動化されると思いきや、人間の知恵や経験が意外と重要だとわかる話です。",
-        "AIはあくまで道具であり、人間の経験や問題解決能力が改めて評価されるようになります。",
-        "AI活用を考える企業や、自分の仕事の未来を心配する多くの人に関係するでしょう。"
+        "AIは人の豊富な経験や直感をまだ完全に再現できない",
+        "AIは便利だが、思わぬ問題が起きた時に人の助けが必要",
+        "人の知識と経験はAI時代でも変わらず大切な価値を持つ"
       ],
-      "highlight": "AIは万能ではないと分かり、人間の経験や判断力がいかに重要か改めて知ることになった。"
+      "highlight": "AI時代でも、人間の深い知識や経験がどれほど大切かが改めて分かった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "ChatGPTとClaude、どちらが向いているか試した結果",
-      "title_ja": "ChatGPTとClaude、どちらが向いているか試した結果",
-      "url": "https://note.com/umizora_ai/n/n27308c1345fa",
+      "title": "【AI最新情報】OpenAI値下げ検討——アルトマンが認めた「AIコスト問題」全解説",
+      "title_ja": "【AI最新情報】OpenAI値下げ検討——アルトマンが認めた「AIコスト問題」全解説",
+      "url": "https://note.com/ai_thy/n/n7e29f3e2ec15",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-11",
+      "published_at": "2026-06-12",
       "lang": "ja",
-      "score": 60.0,
+      "score": 64.0,
       "summary": [
-        "人気のAIであるChatGPTとClaudeの違いを解説します。",
-        "AIで文章作成や調べ物をする時、最適なAIを選べます。",
-        "AIを使う人も使いたい人も、より賢く活用できます。"
+        "有名AI会社が利用料の値下げを検討中",
+        "AIを動かす費用問題について解説しています",
+        "AIが私たちの生活に身近になるきっかけです"
       ],
-      "highlight": "AIを自分の目的に合わせて使い分け、生活や仕事がもっと便利に変わる"
+      "highlight": "AIの利用料金が下がることで、これまで費用が高かったAIサービスがもっと身近になり、私たちの生活がより便利になるきっかけになります。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Claude CodeでOSS更新を監視し、自社実装と照合して、NotionにR&Dチケットを自動起票するAIエージェント",
-      "title_ja": "Claude CodeでOSS更新を監視し、自社実装と照合して、NotionにR&Dチケットを自動起票するAIエージェント",
-      "url": "https://zenn.dev/nskh1matsuda/articles/ce4bedfa021726",
-      "likes": 2,
+      "title": "Claude Code Channelsで遊び始めたらいつ間にかアバターAIアシスタントになった",
+      "title_ja": "Claude Code Channelsで遊び始めたらいつ間にかアバターAIアシスタントになった",
+      "url": "https://zenn.dev/hamasato0000/articles/e323c365cbe2b2",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-11",
+      "published_at": "2026-06-12",
       "lang": "ja",
-      "score": 43.0,
+      "score": 38.0,
       "summary": [
-        "AIがプログラム更新を自動監視",
-        "会社システムとの違いを記録",
-        "改善点を提案し効率を上げる"
+        "AIで遊んだら、自分だけの賢い分身が",
+        "生まれ、指示通りに動いてくれるように",
+        "なりました。将来は誰もがAIを持てるかも"
       ],
-      "highlight": "AIが、人が手作業でしていたシステム改善のための情報収集や記録作業を自動化し、会社の開発を大きく効率化できるようになった。"
+      "highlight": "AIが、まるで自分の分身のように自動で動き、あなたを助けてくれるようになった"
     }
   ],
   "trending_keywords": [
-    "Claude",
-    "ChatGPT",
-    "GPT",
-    "AIエージェント"
+    "OpenAI",
+    "Claude"
   ]
 }
