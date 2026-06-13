@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-06-13 08:15",
+  "updated_at": "2026-06-14 08:02",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
-      "title_ja": "12年の経験をAI化され解雇された私。AIが壊れ、CTOから5倍の給料で連絡が",
+      "title_ja": "私の経験がAIに、私は解雇。でもAI故障で社長が5倍の給料で助けを要請。",
       "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
-      "likes": 71,
-      "comments": 50,
+      "likes": 75,
+      "comments": 63,
       "published_at": "2026-06-08",
       "lang": "en",
-      "score": 182.0,
+      "score": 212.0,
       "summary": [
-        "AIは人の豊富な経験や直感をまだ完全に再現できない",
-        "AIは便利だが、思わぬ問題が起きた時に人の助けが必要",
-        "人の知識と経験はAI時代でも変わらず大切な価値を持つ"
+        "AIが人の経験を吸収し、その人を解雇。しかしAI故障で助けを求める話。",
+        "AIは人の仕事を代行できるが、緊急時は人間の専門知識が必要になる。",
+        "AI化が進む中で、人の価値や役割について考えるきっかけになる。"
       ],
-      "highlight": "AI時代でも、人間の深い知識や経験がどれほど大切かが改めて分かった"
+      "highlight": "AIが人間の経験を学習できるようになったが、複雑な問題解決にはまだ人間の知恵が必要だとわかった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【AI最新情報】OpenAI値下げ検討——アルトマンが認めた「AIコスト問題」全解説",
-      "title_ja": "【AI最新情報】OpenAI値下げ検討——アルトマンが認めた「AIコスト問題」全解説",
-      "url": "https://note.com/ai_thy/n/n7e29f3e2ec15",
+      "title": "Manus徹底活用ガイド｜できること・使い方・AI連携・最強の組み合わせ",
+      "title_ja": "Manus徹底活用ガイド｜できること・使い方・AI連携・最強の組み合わせ",
+      "url": "https://note.com/agent0998/n/n0db426980fe9",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-12",
+      "published_at": "2026-06-13",
       "lang": "ja",
-      "score": 64.0,
+      "score": 72.0,
       "summary": [
-        "有名AI会社が利用料の値下げを検討中",
-        "AIを動かす費用問題について解説しています",
-        "AIが私たちの生活に身近になるきっかけです"
+        "Manusという便利な道具の活用法やAI連携を紹介。",
+        "AIと繋げば作業が楽に、もっと便利に使えるようになります。",
+        "誰もが日々の生活や仕事でその恩恵を受けられます。"
       ],
-      "highlight": "AIの利用料金が下がることで、これまで費用が高かったAIサービスがもっと身近になり、私たちの生活がより便利になるきっかけになります。"
+      "highlight": "ManusとAIの連携で、あなたの仕事や創作活動が大きく変わる。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Claude Code Channelsで遊び始めたらいつ間にかアバターAIアシスタントになった",
-      "title_ja": "Claude Code Channelsで遊び始めたらいつ間にかアバターAIアシスタントになった",
-      "url": "https://zenn.dev/hamasato0000/articles/e323c365cbe2b2",
-      "likes": 0,
+      "title": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
+      "title_ja": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
+      "url": "https://zenn.dev/ssknaoya/articles/d9becba1164230",
+      "likes": 1,
       "comments": 0,
-      "published_at": "2026-06-12",
+      "published_at": "2026-06-14",
       "lang": "ja",
-      "score": 38.0,
+      "score": 44.0,
       "summary": [
-        "AIで遊んだら、自分だけの賢い分身が",
-        "生まれ、指示通りに動いてくれるように",
-        "なりました。将来は誰もがAIを持てるかも"
+        "記事本文が提供されていないため、要約できません。",
+        "複数のAIツールを渡り歩く状況を伝える記事と推測されます。",
+        "具体的な内容については、記事本文をご提示ください。"
       ],
-      "highlight": "AIが、まるで自分の分身のように自動で動き、あなたを助けてくれるようになった"
+      "highlight": "記事本文がないため、AI技術のすごい点や生活への影響を説明できません。"
     }
   ],
   "trending_keywords": [
-    "OpenAI",
-    "Claude"
+    "Copilot",
+    "Google"
   ]
 }
