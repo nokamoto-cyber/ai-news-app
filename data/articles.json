@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-06-14 08:02",
+  "updated_at": "2026-06-15 08:06",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "My company packaged 12 years of my experience into an AI Skill, then laid me off. When it crashed, the CTO called at 5x my salary.",
-      "title_ja": "私の経験がAIに、私は解雇。でもAI故障で社長が5倍の給料で助けを要請。",
+      "title_ja": "私の12年経験、AIが吸収し、私は解雇。AIが壊れると、CTOは5倍給料で私を呼んだ",
       "url": "https://dev.to/xulingfeng/my-company-packaged-12-years-of-my-experience-into-an-ai-skill-then-laid-me-off-when-it-crashed-4b3e",
       "likes": 75,
-      "comments": 63,
+      "comments": 66,
       "published_at": "2026-06-08",
       "lang": "en",
-      "score": 212.0,
+      "score": 218.0,
       "summary": [
-        "AIが人の経験を吸収し、その人を解雇。しかしAI故障で助けを求める話。",
-        "AIは人の仕事を代行できるが、緊急時は人間の専門知識が必要になる。",
-        "AI化が進む中で、人の価値や役割について考えるきっかけになる。"
+        "人の経験を学んだAIが壊れ、元社員が助けに呼ばれた話。",
+        "AIは人の知識を活かすが、トラブル対応はまだ難しい。",
+        "AIと人の協力が重要で、人の価値は変わらないと分かる。"
       ],
-      "highlight": "AIが人間の経験を学習できるようになったが、複雑な問題解決にはまだ人間の知恵が必要だとわかった。"
+      "highlight": "AIが人間の仕事をまねできても、困った時は人の知恵が一番と分かった。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Manus徹底活用ガイド｜できること・使い方・AI連携・最強の組み合わせ",
-      "title_ja": "Manus徹底活用ガイド｜できること・使い方・AI連携・最強の組み合わせ",
-      "url": "https://note.com/agent0998/n/n0db426980fe9",
+      "title": "看護師向け心電図AIが登場！？",
+      "title_ja": "看護師向け心電図AIが登場！？",
+      "url": "https://note.com/hiikarusama8839/n/nd132a7af5ecc",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-13",
+      "published_at": "2026-06-14",
       "lang": "ja",
-      "score": 72.0,
+      "score": 116.0,
       "summary": [
-        "Manusという便利な道具の活用法やAI連携を紹介。",
-        "AIと繋げば作業が楽に、もっと便利に使えるようになります。",
-        "誰もが日々の生活や仕事でその恩恵を受けられます。"
+        "看護師の心電図の判断を助けるAIの話です",
+        "AIが難しい判断を手伝い、看護師の負担が減る",
+        "患者さんも早く適切な治療を受けられるかも"
       ],
-      "highlight": "ManusとAIの連携で、あなたの仕事や創作活動が大きく変わる。"
+      "highlight": "看護師がAIの助けで心電図の難しい判断をスムーズにできるようになる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
-      "title_ja": "GitHub Copilot 難民 ～ Cluade Code ～ Google AI Studio ～ そして Codex へ",
-      "url": "https://zenn.dev/ssknaoya/articles/d9becba1164230",
-      "likes": 1,
+      "title": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+      "title_ja": "個人開発はなぜ誰も使わないのか──AIで「作る壁」が消えた時代に大事になること",
+      "url": "https://zenn.dev/yun_bow/articles/6e6bcbf127072a",
+      "likes": 7,
       "comments": 0,
       "published_at": "2026-06-14",
       "lang": "ja",
-      "score": 44.0,
+      "score": 40.0,
       "summary": [
-        "記事本文が提供されていないため、要約できません。",
-        "複数のAIツールを渡り歩く状況を伝える記事と推測されます。",
-        "具体的な内容については、記事本文をご提示ください。"
+        "AIで開発が簡単になっても、個人作品が使われない理由を説明。",
+        "AIの力で、プログラミングしなくても、もの作りができる。",
+        "誰でも作れる時代に、本当に人の心をつかむ方法が分かる。"
       ],
-      "highlight": "記事本文がないため、AI技術のすごい点や生活への影響を説明できません。"
+      "highlight": "AIの登場で、プログラミングの知識がなくても、誰もが簡単にものを作れるようになった。"
     }
   ],
-  "trending_keywords": [
-    "Copilot",
-    "Google"
-  ]
+  "trending_keywords": []
 }
