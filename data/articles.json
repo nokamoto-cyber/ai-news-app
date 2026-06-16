@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16 08:43",
+  "updated_at": "2026-06-17 08:23",
   "articles": [
     {
       "rank": 1,
@@ -7,53 +7,53 @@
       "title": "AIエージェントはCloudflareに賭けろ",
       "title_ja": "AIエージェントはCloudflareに賭けろ",
       "url": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
-      "likes": 221,
-      "comments": 0,
+      "likes": 325,
+      "comments": 2,
       "published_at": "2026-06-15",
       "lang": "ja",
-      "score": 257.0,
+      "score": 350.0,
       "summary": [
-        "AIがもっと便利になるための話です。",
-        "AIを動かす場所が速く安全になります。",
-        "私たちのAIサービスが快適になります。"
+        "AIが賢く働くために大切なこと。",
+        "インターネットの裏方技術がAIを支える。",
+        "未来のAIがもっと身近で安全になる。"
       ],
-      "highlight": "AIがインターネットで速く安全に動く新しい方法が登場しました。"
+      "highlight": "AIがもっと速く安全に動くようになり、私たちの生活が大きく変わる。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "本物の写真も、5〜7割が「AIだ」と答えた",
-      "title_ja": "本物の写真も、5〜7割が「AIだ」と答えた",
-      "url": "https://note.com/koyunoshiteyai/n/n21289cdec72c",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-06-15",
-      "lang": "ja",
-      "score": 81.0,
+      "source": "Dev.to",
+      "title": "I Got Flagged by Sloan. Sloan Is a Guy I Know.",
+      "title_ja": "スローンに目をつけられた私。彼は私の知人だ。",
+      "url": "https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e",
+      "likes": 36,
+      "comments": 31,
+      "published_at": "2026-06-16",
+      "lang": "en",
+      "score": 134.0,
       "summary": [
-        "AIが作った画像が、本物の写真と区別できないほどリアルになったことが分かります。",
-        "その結果、人が本物の写真を見てもAIが作ったものだと誤解するようになりました。",
-        "写真が真実かどうかの判断が難しくなり、社会に大きな影響を与えます。"
+        "AIが個人のデータや行動を分析し",
+        "私達のデータから特徴を自動で見つける",
+        "個人のプライバシーについて考えさせられる"
       ],
-      "highlight": "AIが作る画像が、本物の写真と見分けがつかないほどに進化しました"
+      "highlight": "AIが個人の行動やデータを自動で分析し、注目すべき点を特定できるようになった"
     },
     {
       "rank": 3,
       "source": "Dev.to",
       "title": "CSS – only a Nerdy Hobby?",
-      "title_ja": "CSSは単なるオタクの趣味？",
+      "title_ja": "CSSはただのオタクの趣味？",
       "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "likes": 39,
-      "comments": 15,
+      "likes": 42,
+      "comments": 16,
       "published_at": "2026-06-10",
       "lang": "en",
-      "score": 80.0,
+      "score": 85.0,
       "summary": [
-        "ウェブサイトの見た目を整えるCSSについて解説",
-        "ただの趣味ではなく仕事や生活に役立つ技術",
-        "身近なウェブサイトがより魅力的になるヒント"
+        "CSSが実は身近で大切な技術だとわかる",
+        "ウェブサイトがきれいになり使いやすくなる",
+        "私たちの毎日を便利で快適にする技術です"
       ],
-      "highlight": "CSSが単なる趣味ではなく、ウェブサイトの見た目を大きく変える力を持つことが理解できるようになった。"
+      "highlight": "ウェブサイトのデザインが整い、誰でも快適に使えるようになりました"
     }
   ],
   "trending_keywords": [
