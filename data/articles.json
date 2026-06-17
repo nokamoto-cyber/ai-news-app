@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17 08:23",
+  "updated_at": "2026-06-18 08:21",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,57 @@
       "title": "AIエージェントはCloudflareに賭けろ",
       "title_ja": "AIエージェントはCloudflareに賭けろ",
       "url": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
-      "likes": 325,
+      "likes": 367,
       "comments": 2,
       "published_at": "2026-06-15",
       "lang": "ja",
-      "score": 350.0,
+      "score": 382.0,
       "summary": [
-        "AIが賢く働くために大切なこと。",
-        "インターネットの裏方技術がAIを支える。",
-        "未来のAIがもっと身近で安全になる。"
+        "AIが自動で仕事をする未来で、ITの縁の下の力持ちが大切",
+        "AIはより速く安全に動き、私たちの暮らしをもっと便利にする",
+        "これからAIは身近になり、私たちの生活がもっと便利になる"
       ],
-      "highlight": "AIがもっと速く安全に動くようになり、私たちの生活が大きく変わる。"
+      "highlight": "AIが裏側の技術によって、私たちの生活を大きく便利にできるようになった"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "I Got Flagged by Sloan. Sloan Is a Guy I Know.",
-      "title_ja": "スローンに目をつけられた私。彼は私の知人だ。",
-      "url": "https://dev.to/dannwaneri/i-got-flagged-by-sloan-sloan-is-a-guy-i-know-3d0e",
-      "likes": 36,
-      "comments": 31,
-      "published_at": "2026-06-16",
+      "title": "Building a Chrome Extension to Make AI Use More Intentional",
+      "title_ja": "AIをもっと意味のある使い方にするChrome拡張機能の開発",
+      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
+      "likes": 40,
+      "comments": 15,
+      "published_at": "2026-06-15",
       "lang": "en",
-      "score": 134.0,
+      "score": 81.0,
       "summary": [
-        "AIが個人のデータや行動を分析し",
-        "私達のデータから特徴を自動で見つける",
-        "個人のプライバシーについて考えさせられる"
+        "AIを漫然と使うのではなく、もっと意識的に使うための新しい道具の話です。",
+        "AIに質問する前に、何がほしいか考えてから使うようになります。",
+        "普段AIを使う人にとって、無駄なく効果的に使えるようになります。"
       ],
-      "highlight": "AIが個人の行動やデータを自動で分析し、注目すべき点を特定できるようになった"
+      "highlight": "みんながAIと向き合う姿勢が変わり、もっと賢くAIを使えるようになった"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "CSS – only a Nerdy Hobby?",
-      "title_ja": "CSSはただのオタクの趣味？",
-      "url": "https://dev.to/ingosteinke/css-only-a-nerdy-hobby-17hf",
-      "likes": 42,
-      "comments": 16,
-      "published_at": "2026-06-10",
-      "lang": "en",
-      "score": 85.0,
+      "source": "note",
+      "title": "Google AI Mode 10億ユーザーと検索広告モデルの終わり——AIに検索が食われると、お金の流れはどこへ行く",
+      "title_ja": "Google AI Mode 10億ユーザーと検索広告モデルの終わり——AIに検索が食われると、お金の流れはどこへ行く",
+      "url": "https://note.com/soda_labo/n/n4c7f9aa55387",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-17",
+      "lang": "ja",
+      "score": 59.0,
       "summary": [
-        "CSSが実は身近で大切な技術だとわかる",
-        "ウェブサイトがきれいになり使いやすくなる",
-        "私たちの毎日を便利で快適にする技術です"
+        "GoogleのAIが多くの人に使われ、検索の仕方が変わる話です",
+        "AIが直接答えを出すようになり、検索広告の仕組みも変わります",
+        "情報の探し方が変わり、企業のお金儲けも変化する可能性があります"
       ],
-      "highlight": "ウェブサイトのデザインが整い、誰でも快適に使えるようになりました"
+      "highlight": "AIが検索の主流になることで、情報収集のやり方も広告のあり方も大きく変わります"
     }
   ],
   "trending_keywords": [
-    "AIエージェント"
+    "AIエージェント",
+    "Google"
   ]
 }
