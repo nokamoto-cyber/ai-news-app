@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-06-18 08:21",
+  "updated_at": "2026-06-19 08:43",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
       "title": "AIエージェントはCloudflareに賭けろ",
-      "title_ja": "AIエージェントはCloudflareに賭けろ",
+      "title_ja": "AIを動かす次世代の仕組みとCloudflare",
       "url": "https://zenn.dev/yusukebe/articles/ccb1f953e48ee1",
-      "likes": 367,
+      "likes": 397,
       "comments": 2,
       "published_at": "2026-06-15",
       "lang": "ja",
-      "score": 382.0,
+      "score": 412.0,
       "summary": [
-        "AIが自動で仕事をする未来で、ITの縁の下の力持ちが大切",
-        "AIはより速く安全に動き、私たちの暮らしをもっと便利にする",
-        "これからAIは身近になり、私たちの生活がもっと便利になる"
+        "AIが自分で考えて動く「AIエージェント」がこれから増える。",
+        "Cloudflareという会社が、そのAIを安全に動かす手助けをする。",
+        "これによって、私たちの生活はAIでさらに便利になるでしょう。"
       ],
-      "highlight": "AIが裏側の技術によって、私たちの生活を大きく便利にできるようになった"
+      "highlight": "AIが自分で考えて動く未来が、より安全で速く実現する。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "Building a Chrome Extension to Make AI Use More Intentional",
-      "title_ja": "AIをもっと意味のある使い方にするChrome拡張機能の開発",
-      "url": "https://dev.to/javz/building-a-chrome-extension-to-make-ai-use-more-intentional-20k0",
-      "likes": 40,
-      "comments": 15,
-      "published_at": "2026-06-15",
+      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
+      "title_ja": "夕暮れ前の塔：人間とAIのためのパズルゲームを作りました",
+      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
+      "likes": 39,
+      "comments": 25,
+      "published_at": "2026-06-18",
       "lang": "en",
-      "score": 81.0,
+      "score": 122.0,
       "summary": [
-        "AIを漫然と使うのではなく、もっと意識的に使うための新しい道具の話です。",
-        "AIに質問する前に、何がほしいか考えてから使うようになります。",
-        "普段AIを使う人にとって、無駄なく効果的に使えるようになります。"
+        "AIと人間が一緒に楽しめるパズルゲームができたことを紹介しています。",
+        "AIが人のように遊び方を学び、協力したり競争したりできるようになりました。",
+        "これにより、AIはもっと身近な存在になり、私たちの遊び方も変わっていくでしょう。"
       ],
-      "highlight": "みんながAIと向き合う姿勢が変わり、もっと賢くAIを使えるようになった"
+      "highlight": "AIが人間と一緒に遊べるようになり、ゲームの世界が変わります。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Google AI Mode 10億ユーザーと検索広告モデルの終わり——AIに検索が食われると、お金の流れはどこへ行く",
-      "title_ja": "Google AI Mode 10億ユーザーと検索広告モデルの終わり——AIに検索が食われると、お金の流れはどこへ行く",
-      "url": "https://note.com/soda_labo/n/n4c7f9aa55387",
+      "title": "【6/19】今朝のAIトレンド5選｜Claude CodeとCodexの使い分け、公式が配り始めた「職種別AI」",
+      "title_ja": "【6/19】今朝のAIトレンド5選｜Claude CodeとCodexの使い分け、公式が配り始めた「職種別AI」",
+      "url": "https://note.com/piske_cc/n/n9977c18ebdc2",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-17",
+      "published_at": "2026-06-18",
       "lang": "ja",
-      "score": 59.0,
+      "score": 76.0,
       "summary": [
-        "GoogleのAIが多くの人に使われ、検索の仕方が変わる話です",
-        "AIが直接答えを出すようになり、検索広告の仕組みも変わります",
-        "情報の探し方が変わり、企業のお金儲けも変化する可能性があります"
+        "AIに関する最新の注目すべき情報が紹介されています",
+        "仕事の種類に合わせたAIの活用が進んでいくでしょう",
+        "あなたの仕事がもっと便利に効率的になるはずです"
       ],
-      "highlight": "AIが検索の主流になることで、情報収集のやり方も広告のあり方も大きく変わります"
+      "highlight": "それぞれの仕事に合わせたAIが登場し、より効率的に作業できるようになりました"
     }
   ],
   "trending_keywords": [
     "AIエージェント",
-    "Google"
+    "Claude"
   ]
 }
