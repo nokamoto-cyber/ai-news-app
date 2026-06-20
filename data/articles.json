@@ -1,65 +1,62 @@
 {
-  "updated_at": "2026-06-20 07:54",
+  "updated_at": "2026-06-21 08:05",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "ローカルLLMをいつ使うべきか？",
-      "title_ja": "ローカルLLMをいつ使うべきか？",
-      "url": "https://zenn.dev/magatarou/articles/74624afa03040c",
-      "likes": 155,
-      "comments": 0,
-      "published_at": "2026-06-16",
-      "lang": "ja",
-      "score": 163.0,
+      "source": "Dev.to",
+      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
+      "title_ja": "黄昏の塔：人間とAIが遊ぶパズルゲームを作りました",
+      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
+      "likes": 43,
+      "comments": 37,
+      "published_at": "2026-06-18",
+      "lang": "en",
+      "score": 125.0,
       "summary": [
-        "自分のパソコンで動くAI「ローカルLLM」の使いどころを解説。",
-        "インターネット不要で、大切な情報を安全にAIとやりとり可能に。",
-        "ネットがない場所や、費用を抑えたい場合にもAIが活用できるようになる。"
+        "AIと人間が一緒に遊ぶパズルゲームを開発した話です。",
+        "AIがゲーム体験を広げる新しい可能性を示唆しています。",
+        "ゲーム好きやAIに関心ある人々の生活に影響を与えるでしょう。"
       ],
-      "highlight": "大切な情報も外部に漏れる心配なく、AIと相談できるようになりました。"
+      "highlight": "AIがゲームの中で、人間と一緒に謎を解いたり考えたりするようになった"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
-      "title_ja": "黄昏の塔：人間とAIのためのパズルゲームを作った",
-      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
-      "likes": 43,
-      "comments": 36,
-      "published_at": "2026-06-18",
-      "lang": "en",
-      "score": 133.0,
+      "source": "note",
+      "title": "Claudeに今の仕事の辞め時を相談したら、5分で結論が出た",
+      "title_ja": "Claudeに今の仕事の辞め時を相談したら、5分で結論が出た",
+      "url": "https://note.com/sabori_ai/n/n3fe9efff6a51",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-20",
+      "lang": "ja",
+      "score": 109.0,
       "summary": [
-        "AIと人が一緒に遊べるパズルゲームを開発した話",
-        "AIが賢い対戦相手や協力者として活躍します",
-        "ゲーム好きはもちろんAIとの遊び方が広がります"
+        "AIに仕事の相談をしたら、たった5分で答えが出た",
+        "複雑な相談でもAIが短時間で解決策を示せる",
+        "仕事や人生の決断に悩む人の助けになる"
       ],
-      "highlight": "AIがあなたの動きを理解し、ゲームの面白さを広げてくれるようになりました。"
+      "highlight": "AIが人の大切な決断を素早くサポートできるようになった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "Claude Artifacts＆Copilotノートブック完全解説——AIを「対話」から「作業場」に変える2大機能2026年、生成AIは「チャットボットに質問して回答を得る」という受動的なフェーズを完全に超えた。今、私たちが向き合っているのは、ビジネスの現場で具体的な成果を生み出す「実務遂行型ツール」としてのAIだ。",
-      "title_ja": "Claude Artifacts＆Copilotノートブック完全解説——AIを「対話」から「作業場」に変える2大機能",
-      "url": "https://note.com/right_flax5716/n/n3612b2fc383e",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-06-19",
+      "source": "Zenn",
+      "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
+      "title_ja": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
+      "url": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
+      "likes": 32,
+      "comments": 2,
+      "published_at": "2026-06-20",
       "lang": "ja",
-      "score": 62.0,
+      "score": 69.0,
       "summary": [
-        "AIはただ質問に答えるだけでなく、大きく進化しています。",
-        "仕事で結果を出せる「実用的な道具」として使えるようになりました。",
-        "これからの働き方や私たちの生活が大きく変わるでしょう。"
+        "AIがシステムを作る仕事の未来を予測しています。",
+        "AIが自動でシステム開発を手助けするようになります。",
+        "開発する側も頼む側も大きな変化が起こるでしょう。"
       ],
-      "highlight": "AIがただの会話相手から、実際に仕事を進めるための強力な道具に変わりました。"
+      "highlight": "AIが自動でシステムを作るようになり開発の常識が変わります。"
     }
   ],
   "trending_keywords": [
-    "LLM",
-    "Claude",
-    "Copilot",
-    "生成AI"
+    "Claude"
   ]
 }
