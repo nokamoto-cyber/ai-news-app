@@ -1,62 +1,64 @@
 {
-  "updated_at": "2026-06-21 08:05",
+  "updated_at": "2026-06-22 08:10",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
-      "title_ja": "黄昏の塔：人間とAIが遊ぶパズルゲームを作りました",
-      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
-      "likes": 43,
-      "comments": 37,
-      "published_at": "2026-06-18",
+      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
+      "title_ja": "私のAI、会話の途中で賢くなくなった？その原因は…",
+      "url": "https://dev.to/rapls/my-ai-agent-got-dumber-mid-session-i-measured-the-context-window-before-blaming-mcp-4c3l",
+      "likes": 20,
+      "comments": 54,
+      "published_at": "2026-06-17",
       "lang": "en",
-      "score": 125.0,
+      "score": 139.0,
       "summary": [
-        "AIと人間が一緒に遊ぶパズルゲームを開発した話です。",
-        "AIがゲーム体験を広げる新しい可能性を示唆しています。",
-        "ゲーム好きやAIに関心ある人々の生活に影響を与えるでしょう。"
+        "AIとの会話が長くなると、内容を忘れて賢くなくなることがある、という話。",
+        "AIが覚えられる情報量には限界があり、それを超えると古いことを忘れてしまうと分かる。",
+        "AIとの長い会話で、途中で返事がおかしくなっても、それがAIの限界だと理解できます。"
       ],
-      "highlight": "AIがゲームの中で、人間と一緒に謎を解いたり考えたりするようになった"
+      "highlight": "AIが一度に覚えられる情報量の限界がわかり、AIをより上手に使えるようになりました。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "Claudeに今の仕事の辞め時を相談したら、5分で結論が出た",
-      "title_ja": "Claudeに今の仕事の辞め時を相談したら、5分で結論が出た",
-      "url": "https://note.com/sabori_ai/n/n3fe9efff6a51",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-06-20",
-      "lang": "ja",
-      "score": 109.0,
-      "summary": [
-        "AIに仕事の相談をしたら、たった5分で答えが出た",
-        "複雑な相談でもAIが短時間で解決策を示せる",
-        "仕事や人生の決断に悩む人の助けになる"
-      ],
-      "highlight": "AIが人の大切な決断を素早くサポートできるようになった"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
       "title_ja": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
       "url": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
-      "likes": 32,
-      "comments": 2,
+      "likes": 103,
+      "comments": 3,
       "published_at": "2026-06-20",
       "lang": "ja",
-      "score": 69.0,
+      "score": 127.0,
       "summary": [
-        "AIがシステムを作る仕事の未来を予測しています。",
-        "AIが自動でシステム開発を手助けするようになります。",
-        "開発する側も頼む側も大きな変化が起こるでしょう。"
+        "AIが普及し、企業がアプリなどを作る仕事がどう変わるかの予測記事です。",
+        "AIがプログラミングや設計を手伝うため、人手がかかる作業が減るでしょう。",
+        "システムを作る側も使う側も、より早く良いものが手に入りやすくなります。"
       ],
-      "highlight": "AIが自動でシステムを作るようになり開発の常識が変わります。"
+      "highlight": "AIがアプリ開発を手伝い、もっと早く良いシステムが作れるようになる"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "【2026年6月22日】AIニュース5選：ノーベル賞研究者がAnthropicへ・Apple次世代Siri AI発表・ChatGPTが医療精度71%改善——明日から使える実践ポイント付き",
+      "title_ja": "【2026年6月22日】AIニュース5選：ノーベル賞研究者がAnthropicへ・Apple次世代Siri AI発表・ChatGPTが医療精度71%改善——明日から使える実践ポイント付き",
+      "url": "https://note.com/clever_shark607/n/n20b160d8c03a",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-21",
+      "lang": "ja",
+      "score": 88.0,
+      "summary": [
+        "AI（人工知能）の最新の大きなニュースがいくつか発表されました。",
+        "AIはSiriを賢くし、病気診断の精度を向上させます。",
+        "AIは私たちの生活を便利に、健康を安心に変えます。"
+      ],
+      "highlight": "AIがスマホを賢くし、病気の診断精度も大幅に向上する。"
     }
   ],
   "trending_keywords": [
-    "Claude"
+    "ChatGPT",
+    "GPT",
+    "Anthropic"
   ]
 }
