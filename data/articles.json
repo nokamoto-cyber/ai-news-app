@@ -1,64 +1,62 @@
 {
-  "updated_at": "2026-06-22 08:10",
+  "updated_at": "2026-06-23 08:17",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
-      "title_ja": "私のAI、会話の途中で賢くなくなった？その原因は…",
-      "url": "https://dev.to/rapls/my-ai-agent-got-dumber-mid-session-i-measured-the-context-window-before-blaming-mcp-4c3l",
-      "likes": 20,
-      "comments": 54,
-      "published_at": "2026-06-17",
-      "lang": "en",
-      "score": 139.0,
-      "summary": [
-        "AIとの会話が長くなると、内容を忘れて賢くなくなることがある、という話。",
-        "AIが覚えられる情報量には限界があり、それを超えると古いことを忘れてしまうと分かる。",
-        "AIとの長い会話で、途中で返事がおかしくなっても、それがAIの限界だと理解できます。"
-      ],
-      "highlight": "AIが一度に覚えられる情報量の限界がわかり、AIをより上手に使えるようになりました。"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
       "title_ja": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
       "url": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
-      "likes": 103,
+      "likes": 148,
       "comments": 3,
       "published_at": "2026-06-20",
       "lang": "ja",
-      "score": 127.0,
+      "score": 162.0,
       "summary": [
-        "AIが普及し、企業がアプリなどを作る仕事がどう変わるかの予測記事です。",
-        "AIがプログラミングや設計を手伝うため、人手がかかる作業が減るでしょう。",
-        "システムを作る側も使う側も、より早く良いものが手に入りやすくなります。"
+        "AIが普及した未来のシステム開発の変化を予測",
+        "AIがシステム設計や作成の多くの作業を助けます",
+        "開発会社だけでなく私たちの生活にも関係します"
       ],
-      "highlight": "AIがアプリ開発を手伝い、もっと早く良いシステムが作れるようになる"
+      "highlight": "AIがシステム開発を早く簡単にし、私たちの生活を豊かにします。"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "My AI agent got dumber mid-session. I measured the context window before blaming MCP.",
+      "title_ja": "使っていたAIが会話途中で急に賢くなくなった原因は？",
+      "url": "https://dev.to/rapls/my-ai-agent-got-dumber-mid-session-i-measured-the-context-window-before-blaming-mcp-4c3l",
+      "likes": 20,
+      "comments": 62,
+      "published_at": "2026-06-17",
+      "lang": "en",
+      "score": 155.0,
+      "summary": [
+        "自分が使っているAIが会話途中で急に賢くなくなる現象について",
+        "AIが一度に覚えられる情報量には限界があり、それが原因だと記事は指摘",
+        "これを知れば、AIをより賢く使いこなし、日常でのAI活用が便利になるでしょう"
+      ],
+      "highlight": "AIが途中で性能が落ちる理由がわかり、普段のAI活用がもっと便利になるきっかけになる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【2026年6月22日】AIニュース5選：ノーベル賞研究者がAnthropicへ・Apple次世代Siri AI発表・ChatGPTが医療精度71%改善——明日から使える実践ポイント付き",
-      "title_ja": "【2026年6月22日】AIニュース5選：ノーベル賞研究者がAnthropicへ・Apple次世代Siri AI発表・ChatGPTが医療精度71%改善——明日から使える実践ポイント付き",
-      "url": "https://note.com/clever_shark607/n/n20b160d8c03a",
+      "title": "LLMの次の勝負所は「モデル」より「メモリ設計」かもしれない",
+      "title_ja": "LLMの次の勝負所は「モデル」より「メモリ設計」かもしれない",
+      "url": "https://note.com/nouchinho/n/ne0b2e6080b65",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-21",
+      "published_at": "2026-06-22",
       "lang": "ja",
-      "score": 88.0,
+      "score": 140.0,
       "summary": [
-        "AI（人工知能）の最新の大きなニュースがいくつか発表されました。",
-        "AIはSiriを賢くし、病気診断の精度を向上させます。",
-        "AIは私たちの生活を便利に、健康を安心に変えます。"
+        "AIの頭脳の進化だけでなく、情報の覚え方が重要になる話",
+        "AIがもっと多くの情報を覚え、賢く早く動けるようになる",
+        "スマホなど身近な機器で、高性能AIが使えるようになる"
       ],
-      "highlight": "AIがスマホを賢くし、病気の診断精度も大幅に向上する。"
+      "highlight": "AIが一度にたくさんの情報を覚えて、もっと賢く便利に使えるようになる"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "Anthropic"
+    "LLM"
   ]
 }
