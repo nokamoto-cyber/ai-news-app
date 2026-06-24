@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-06-24 08:06",
+  "updated_at": "2026-06-25 08:02",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "AI画像生成で稼く副業アイデア20選｜ストック・グッズ・素材販売完全版",
-      "title_ja": "AI画像生成で稼く副業アイデア20選｜ストック・グッズ・素材販売完全版",
-      "url": "https://note.com/sakura_mode_note/n/ndc64ec927f74",
-      "likes": 0,
-      "comments": 0,
+      "source": "Dev.to",
+      "title": "Too cheap to be good? Think again.",
+      "title_ja": "安すぎるものは良くない？考え直して。",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
+      "likes": 39,
+      "comments": 57,
       "published_at": "2026-06-23",
-      "lang": "ja",
-      "score": 231.0,
+      "lang": "en",
+      "score": 171.0,
       "summary": [
-        "AIが作った絵で副業するヒントがわかる",
-        "絵が苦手でもAIが絵を描き副業に活かせる",
-        "新しい副業を探す人にチャンスが広がる"
+        "記事の本文が提供されていないため",
+        "内容を要約することができませんでした。",
+        "本文を提供いただけると説明します。"
       ],
-      "highlight": "絵が描けない人でもAIが描いた絵で稼ぐ道が開かれた"
+      "highlight": "記事本文がないため、何がすごいかは不明です。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
-      "title_ja": "AI以後の受託システム開発はどうなっていくのか（2026年6月版）",
-      "url": "https://zenn.dev/terurou/articles/eb9e7a4ca7b364",
-      "likes": 170,
-      "comments": 3,
-      "published_at": "2026-06-20",
+      "source": "note",
+      "title": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.20  AI案件探し・仕事探しへ、AIを差し込んでみる。",
+      "title_ja": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.20 AI案件探し・仕事探しへ、AIを差し込んでみる。",
+      "url": "https://note.com/note_id_hiderock/n/n69e6335989b2",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-24",
       "lang": "ja",
-      "score": 184.0,
+      "score": 129.0,
       "summary": [
-        "AIが広がることで、システムを作る仕事がどう変わるか",
-        "AIがシステム開発を助け、もっと早く簡単に作れるようになる",
-        "企業や開発者の働き方が変わり、未来の生活も便利に"
+        "AIを使いこなして仕事を探すコツを紹介",
+        "人工知能があなたの仕事探しを助けてくれる",
+        "副業したい人や新しい仕事を探す人向け"
       ],
-      "highlight": "AIがシステム開発を自動化し、私たちの生活がもっと便利になる"
+      "highlight": "AIがあなたの代わりに副業や仕事を探してくれる時代になった"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "Tower Before Dusk: I Built a Puzzle Game for Humans and AI",
-      "title_ja": "夜明け前の塔：人間とAIが遊べるパズルゲームを作りました",
-      "url": "https://dev.to/gramli/tower-before-dusk-i-built-a-puzzle-game-for-humans-and-ai-oao",
-      "likes": 56,
-      "comments": 47,
-      "published_at": "2026-06-18",
-      "lang": "en",
-      "score": 158.0,
+      "source": "Zenn",
+      "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+      "title_ja": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
+      "url": "https://zenn.dev/a_kadowaki/articles/14a874a9f423bb",
+      "likes": 44,
+      "comments": 0,
+      "published_at": "2026-06-23",
+      "lang": "ja",
+      "score": 67.0,
       "summary": [
-        "人間もAIも楽しめる新しいパズルゲームを作った話",
-        "AIと人が力を合わせたり競い合ったりできるようになる",
-        "将来AIがもっと身近な遊び相手になるかもしれません"
+        "AI時代に大切な「知識の整理術」について紹介",
+        "Googleが使う情報整理の仕組みで、知識を活かす方法がわかる",
+        "仕事の効率が上がり、みんなの働き方が良くなるヒントがある"
       ],
-      "highlight": "AIがゲームの敵ではなく、人間と一緒に遊べる身近な存在に変わった"
+      "highlight": "AIの力で、散らばっていた情報が誰でも使える貴重な財産に変わるようになった。"
     }
   ],
   "trending_keywords": [
-    "画像生成"
+    "Google"
   ]
 }
