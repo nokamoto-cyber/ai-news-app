@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-06-25 08:02",
+  "updated_at": "2026-06-26 08:15",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Too cheap to be good? Think again.",
-      "title_ja": "安すぎるものは良くない？考え直して。",
+      "title_ja": "安価でも高品質？AIの常識が変わるかも",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-      "likes": 39,
-      "comments": 57,
+      "likes": 62,
+      "comments": 92,
       "published_at": "2026-06-23",
       "lang": "en",
-      "score": 171.0,
+      "score": 254.0,
       "summary": [
-        "記事の本文が提供されていないため",
-        "内容を要約することができませんでした。",
-        "本文を提供いただけると説明します。"
+        "安価なAIでも、高いものに負けないすごい性能を持つものが増えています",
+        "これまで高くて使えなかった人も、手軽にAIを活用できるようになります",
+        "私たちの生活や仕事にAIがもっと身近になり、様々な場所で役立つでしょう"
       ],
-      "highlight": "記事本文がないため、何がすごいかは不明です。"
+      "highlight": "これまで高価だったAIが、安価でも高性能になり、誰でもその恩恵を受けられるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.20  AI案件探し・仕事探しへ、AIを差し込んでみる。",
-      "title_ja": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.20 AI案件探し・仕事探しへ、AIを差し込んでみる。",
-      "url": "https://note.com/note_id_hiderock/n/n69e6335989b2",
+      "title": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.24  AI納品前チェックへ、AIを差し込んでみる。",
+      "title_ja": "AIが副業に？作ったもののチェックもAIがします",
+      "url": "https://note.com/note_id_hiderock/n/n18b571c9e19e",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-24",
+      "published_at": "2026-06-25",
       "lang": "ja",
-      "score": 129.0,
+      "score": 156.0,
       "summary": [
-        "AIを使いこなして仕事を探すコツを紹介",
-        "人工知能があなたの仕事探しを助けてくれる",
-        "副業したい人や新しい仕事を探す人向け"
+        "AIが作ったもの（文章など）の品質を、別のAIがチェックする新しい方法です。",
+        "これにより人の確認作業が減り、間違いが減って、より高品質なものが作られます。",
+        "AIを使う人やAIサービスを使う人にとって、仕事の質が変わり便利になります。"
       ],
-      "highlight": "AIがあなたの代わりに副業や仕事を探してくれる時代になった"
+      "highlight": "AIが自分の成果物をチェックできるようになり、私たちの仕事がよりスムーズで高品質になります。"
     },
     {
       "rank": 3,
@@ -43,17 +43,17 @@
       "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
       "title_ja": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
       "url": "https://zenn.dev/a_kadowaki/articles/14a874a9f423bb",
-      "likes": 44,
+      "likes": 68,
       "comments": 0,
       "published_at": "2026-06-23",
       "lang": "ja",
-      "score": 67.0,
+      "score": 81.0,
       "summary": [
-        "AI時代に大切な「知識の整理術」について紹介",
-        "Googleが使う情報整理の仕組みで、知識を活かす方法がわかる",
-        "仕事の効率が上がり、みんなの働き方が良くなるヒントがある"
+        "AIが進む時代に大切な知識の管理方法について",
+        "Googleが実践するOKFという知識の整理術がわかる",
+        "仕事で情報を扱う人や効率化したい人に役立つ"
       ],
-      "highlight": "AIの力で、散らばっていた情報が誰でも使える貴重な財産に変わるようになった。"
+      "highlight": "AIが進む時代でも、会社やチームの知識がもっと活用できるようになる"
     }
   ],
   "trending_keywords": [
