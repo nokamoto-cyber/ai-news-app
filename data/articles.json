@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-06-26 08:15",
+  "updated_at": "2026-06-27 08:03",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Too cheap to be good? Think again.",
-      "title_ja": "安価でも高品質？AIの常識が変わるかも",
+      "title_ja": "安すぎると品質が悪い？そんな考えはもう古い！",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-      "likes": 62,
-      "comments": 92,
+      "likes": 75,
+      "comments": 102,
       "published_at": "2026-06-23",
       "lang": "en",
-      "score": 254.0,
+      "score": 287.0,
       "summary": [
-        "安価なAIでも、高いものに負けないすごい性能を持つものが増えています",
-        "これまで高くて使えなかった人も、手軽にAIを活用できるようになります",
-        "私たちの生活や仕事にAIがもっと身近になり、様々な場所で役立つでしょう"
+        "「安価なものは品質が悪い」という常識が変わる",
+        "AIがムダをなくし費用を大幅に削減できるようになった",
+        "質の高い製品やサービスが手軽に利用できる時代へ"
       ],
-      "highlight": "これまで高価だったAIが、安価でも高性能になり、誰でもその恩恵を受けられるようになった"
+      "highlight": "AIが常識を覆し、安くても高品質なものが手に入る時代になった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.24  AI納品前チェックへ、AIを差し込んでみる。",
-      "title_ja": "AIが副業に？作ったもののチェックもAIがします",
-      "url": "https://note.com/note_id_hiderock/n/n18b571c9e19e",
+      "title": "Claude Tag完全ガイド｜Slackの「@Claude」が変える、チームAIの新常識【2026年6月最新】",
+      "title_ja": "Claude Tag完全ガイド｜Slackの「@Claude」が変える、チームAIの新常識【2026年6月最新】",
+      "url": "https://note.com/natty_quoll9640/n/n2fed24e9046e",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-25",
+      "published_at": "2026-06-26",
       "lang": "ja",
-      "score": 156.0,
+      "score": 141.0,
       "summary": [
-        "AIが作ったもの（文章など）の品質を、別のAIがチェックする新しい方法です。",
-        "これにより人の確認作業が減り、間違いが減って、より高品質なものが作られます。",
-        "AIを使う人やAIサービスを使う人にとって、仕事の質が変わり便利になります。"
+        "この記事は、職場のチャットでAIを使う新しい方法を紹介",
+        "チャットにAIを呼んで、みんなで相談や作業ができるように",
+        "仕事の進め方が変わり、AIがより身近な存在になっていく"
       ],
-      "highlight": "AIが自分の成果物をチェックできるようになり、私たちの仕事がよりスムーズで高品質になります。"
+      "highlight": "仕事のチャットにAIを呼んで、チームみんなで賢く作業できるようになる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
-      "title_ja": "AI時代のナレッジ管理手法 - Googleの「OKF」を解説",
-      "url": "https://zenn.dev/a_kadowaki/articles/14a874a9f423bb",
-      "likes": 68,
+      "title": "AI 時代だからこそコードを読もう",
+      "title_ja": "AI 時代だからこそコードを読もう",
+      "url": "https://zenn.dev/chillout2san/articles/6f510abfc3fa72",
+      "likes": 92,
       "comments": 0,
-      "published_at": "2026-06-23",
+      "published_at": "2026-06-25",
       "lang": "ja",
-      "score": 81.0,
+      "score": 110.0,
       "summary": [
-        "AIが進む時代に大切な知識の管理方法について",
-        "Googleが実践するOKFという知識の整理術がわかる",
-        "仕事で情報を扱う人や効率化したい人に役立つ"
+        "AIが進化する今、プログラミングの理解が大切です",
+        "AIを賢く使いこなす力が身につくことでしょう",
+        "これは将来役立つ、みんなに必要なスキルです"
       ],
-      "highlight": "AIが進む時代でも、会社やチームの知識がもっと活用できるようになる"
+      "highlight": "AIが作ったプログラムを理解し、自分の意図通りに動かせるようになりました"
     }
   ],
   "trending_keywords": [
-    "Google"
+    "Claude"
   ]
 }
