@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-06-27 08:03",
+  "updated_at": "2026-06-28 08:00",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Too cheap to be good? Think again.",
-      "title_ja": "安すぎると品質が悪い？そんな考えはもう古い！",
+      "title_ja": "安すぎるから質が悪い？もう一度考えてみてください。",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-      "likes": 75,
-      "comments": 102,
+      "likes": 77,
+      "comments": 110,
       "published_at": "2026-06-23",
       "lang": "en",
-      "score": 287.0,
+      "score": 305.0,
       "summary": [
-        "「安価なものは品質が悪い」という常識が変わる",
-        "AIがムダをなくし費用を大幅に削減できるようになった",
-        "質の高い製品やサービスが手軽に利用できる時代へ"
+        "AI技術は、安価でも高品質なものが増えていることを伝えています。",
+        "高いお金を払わなくても、高性能なAIサービスを使えるようになります。",
+        "誰もがAIを気軽に活用し、新しいことに挑戦できるようになるでしょう。"
       ],
-      "highlight": "AIが常識を覆し、安くても高品質なものが手に入る時代になった"
+      "highlight": "これまで高価だったAI技術が、手軽な料金で誰でも使えるようになりました。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "Claude Tag完全ガイド｜Slackの「@Claude」が変える、チームAIの新常識【2026年6月最新】",
-      "title_ja": "Claude Tag完全ガイド｜Slackの「@Claude」が変える、チームAIの新常識【2026年6月最新】",
-      "url": "https://note.com/natty_quoll9640/n/n2fed24e9046e",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-06-26",
-      "lang": "ja",
-      "score": 141.0,
-      "summary": [
-        "この記事は、職場のチャットでAIを使う新しい方法を紹介",
-        "チャットにAIを呼んで、みんなで相談や作業ができるように",
-        "仕事の進め方が変わり、AIがより身近な存在になっていく"
-      ],
-      "highlight": "仕事のチャットにAIを呼んで、チームみんなで賢く作業できるようになる"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AI 時代だからこそコードを読もう",
       "title_ja": "AI 時代だからこそコードを読もう",
       "url": "https://zenn.dev/chillout2san/articles/6f510abfc3fa72",
-      "likes": 92,
+      "likes": 103,
       "comments": 0,
       "published_at": "2026-06-25",
       "lang": "ja",
-      "score": 110.0,
+      "score": 111.0,
       "summary": [
-        "AIが進化する今、プログラミングの理解が大切です",
-        "AIを賢く使いこなす力が身につくことでしょう",
-        "これは将来役立つ、みんなに必要なスキルです"
+        "AIが進化する今だからこそ、プログラムの仕組みを知る大切さ",
+        "AIを正しく理解し、自分のアイデアを実現できるようになる",
+        "AIを使いこなせる人が、これからの社会で活躍できる"
       ],
-      "highlight": "AIが作ったプログラムを理解し、自分の意図通りに動かせるようになりました"
+      "highlight": "AIが身近になるこれからの時代、プログラムの考え方を知ることで、誰もがAIを自分の味方につけて、もっと便利に使えるようになる"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "AIを使うようになって、考える量が減ると思っていた。",
+      "title_ja": "AIを使うようになって、考える量が減ると思っていた。",
+      "url": "https://note.com/magic_owl5171/n/nc0ff10de4dc0",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-06-27",
+      "lang": "ja",
+      "score": 92.0,
+      "summary": [
+        "AIを使っても、人の考える量は減らないという発見",
+        "AIが下準備し、人はより大切なことに集中できる",
+        "AIを使いこなす上で、全ての人が知るべきこと"
+      ],
+      "highlight": "AIを上手に使うことで、私たちはより質の高い思考ができるようになった。"
     }
   ],
-  "trending_keywords": [
-    "Claude"
-  ]
+  "trending_keywords": []
 }
