@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-06-30 07:53",
+  "updated_at": "2026-07-01 08:08",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Too cheap to be good? Think again.",
-      "title_ja": "安すぎて質が悪い？そんな考えはもう古い！",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/too-cheap-to-be-good-think-again-4nj0",
-      "likes": 84,
-      "comments": 113,
-      "published_at": "2026-06-23",
+      "title": "What's Next for AI?",
+      "title_ja": "AIの次なる進化とは？",
+      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
+      "likes": 119,
+      "comments": 159,
+      "published_at": "2026-06-29",
       "lang": "en",
-      "score": 318.0,
+      "score": 458.0,
       "summary": [
-        "安価なサービスでも十分な品質を持つ時代になったことを伝えています",
-        "これまで高価だったAIなどの技術が気軽に利用できるようになりました",
-        "私たちの生活や仕事がより便利でお得に変わっていくでしょう"
+        "記事の本文が空欄のため、",
+        "内容を読み取ることができませんでした。",
+        "記事を追記して、再度お試しください。"
       ],
-      "highlight": "安価なAIサービスでも高品質なものが増え、誰もが気軽に最新技術を活用できるようになった"
+      "highlight": "記事本文がないため、AIの進化について説明できませんでした。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.31AI副業の怪しい募集文へ、AIを差し込んでみる。",
-      "title_ja": "じーぴーてえーあんたAIって副業やってくれんのかい。Vol.31AI副業の怪しい募集文へ、AIを差し込んでみる。",
-      "url": "https://note.com/note_id_hiderock/n/n956ec33fc2c1",
+      "title": "【毎朝AIニュース】値下げと警告が同じ朝に——Claude Sonnet 5(7/1)",
+      "title_ja": "【毎朝AIニュース】値下げと警告が同じ朝に——Claude Sonnet 5(7/1)",
+      "url": "https://note.com/ai_masaki/n/n07f5108e0930",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-29",
+      "published_at": "2026-06-30",
       "lang": "ja",
-      "score": 141.0,
+      "score": 60.0,
       "summary": [
-        "AIを副業にどう活かすかを紹介します",
-        "怪しい副業募集をAIで解決するヒント",
-        "副業を探す多くの人に役立つ情報です"
+        "人気のAIサービス「Claude Sonnet 5」の利用料が安くなった",
+        "しかし同時に、AIを使う上での大切な注意点も発表されました",
+        "AIがもっと身近になる一方で、賢く安全に使う意識が重要になります"
       ],
-      "highlight": "AIを使うことで怪しい副業の見極めが簡単にできるようになる"
+      "highlight": "AIの利用料金が安くなって手軽になる一方、安全に正しく使うための意識がより求められるようになりました"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIエージェントをUIにすることで、誰でも地理データを扱えるWebGISができた。",
-      "title_ja": "AIエージェントをUIにすることで、誰でも地理データを扱えるWebGISができた。",
-      "url": "https://zenn.dev/shimizu/articles/c1d19c39202eb3",
-      "likes": 7,
+      "title": "Cloudflareで始めるAI ― Workers AIとAI Gatewayで「動かす」と「運用する」",
+      "title_ja": "Cloudflareで始めるAI ― Workers AIとAI Gatewayで「動かす」と「運用する」",
+      "url": "https://zenn.dev/smv_r_nakazaki/articles/98047cfb394da0",
+      "likes": 4,
       "comments": 0,
-      "published_at": "2026-06-29",
+      "published_at": "2026-06-30",
       "lang": "ja",
       "score": 43.0,
       "summary": [
-        "AIが地図データを誰もが扱えるようにした話です。",
-        "AIが案内役になり地図の操作がとても楽になりました。",
-        "専門知識なしで地図情報を活用できる未来が来ます。"
+        "Cloudflareという会社が、AIをもっと簡単に使えるようにするサービスを出したという話です。",
+        "AIを「動かす」だけでなく、上手に「管理して使い続ける」ための仕組みが誰でも手軽に使えるようになります。",
+        "これにより、お店や会社がAIを日常的に利用しやすくなり、私たちの身の回りにAIがさらに広がっていくでしょう。"
       ],
-      "highlight": "AIが案内役になり、誰でも地図情報を簡単に使えるようになりました。"
+      "highlight": "これまで専門的な知識が必要だったAIの利用や管理が、もっと身近で手軽にできるようになりました。"
     }
   ],
   "trending_keywords": [
-    "AIエージェント"
+    "Claude"
   ]
 }
