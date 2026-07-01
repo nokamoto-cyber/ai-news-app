@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-07-01 08:08",
+  "updated_at": "2026-07-02 08:11",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "What's Next for AI?",
-      "title_ja": "AIの次なる進化とは？",
+      "title_ja": "AIの未来はどうなる？",
       "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "likes": 119,
-      "comments": 159,
+      "likes": 162,
+      "comments": 202,
       "published_at": "2026-06-29",
       "lang": "en",
-      "score": 458.0,
+      "score": 577.0,
       "summary": [
-        "記事の本文が空欄のため、",
-        "内容を読み取ることができませんでした。",
-        "記事を追記して、再度お試しください。"
+        "AIがこれからどのように進化していくかを紹介しています。",
+        "私たちの暮らしや仕事がより便利に、楽しく変わります。",
+        "誰もがAIを使いこなし、社会全体が大きく変化します。"
       ],
-      "highlight": "記事本文がないため、AIの進化について説明できませんでした。"
+      "highlight": "AIがもっと賢くなり、私たちの生活や仕事を大きく変えることができるようになりました。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【毎朝AIニュース】値下げと警告が同じ朝に——Claude Sonnet 5(7/1)",
-      "title_ja": "【毎朝AIニュース】値下げと警告が同じ朝に——Claude Sonnet 5(7/1)",
-      "url": "https://note.com/ai_masaki/n/n07f5108e0930",
+      "title": "可能性分布としての世界、可能性分布としての意味／量子論・LLM・パーソナライズされた創造性の接続点",
+      "title_ja": "可能性分布としての世界、可能性分布としての意味／量子論・LLM・パーソナライズされた創造性の接続点",
+      "url": "https://note.com/earth_commons/n/n9c235cf77362",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-06-30",
+      "published_at": "2026-07-01",
       "lang": "ja",
-      "score": 60.0,
+      "score": 123.0,
       "summary": [
-        "人気のAIサービス「Claude Sonnet 5」の利用料が安くなった",
-        "しかし同時に、AIを使う上での大切な注意点も発表されました",
-        "AIがもっと身近になる一方で、賢く安全に使う意識が重要になります"
+        "AIが言葉や情報を理解する能力と、私たちの創造性のつながりを解説",
+        "AIが一人ひとりのアイデアに合わせて新しいものを生み出す手助けをする",
+        "未来のAIは私たちの想像力を広げ生活をより豊かにしてくれるでしょう"
       ],
-      "highlight": "AIの利用料金が安くなって手軽になる一方、安全に正しく使うための意識がより求められるようになりました"
+      "highlight": "AIが一人ひとりの個性に合わせて、まだ見ぬアイデアや作品を生み出す手助けをしてくれるようになった"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Cloudflareで始めるAI ― Workers AIとAI Gatewayで「動かす」と「運用する」",
-      "title_ja": "Cloudflareで始めるAI ― Workers AIとAI Gatewayで「動かす」と「運用する」",
-      "url": "https://zenn.dev/smv_r_nakazaki/articles/98047cfb394da0",
-      "likes": 4,
+      "title": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
+      "title_ja": "優秀な人ばかりなのに、組織が重い ── AI時代に複利で膨らむ『認識負債』の話",
+      "url": "https://zenn.dev/hatamasa/articles/0c01a3124b8480",
+      "likes": 31,
       "comments": 0,
-      "published_at": "2026-06-30",
+      "published_at": "2026-07-01",
       "lang": "ja",
-      "score": 43.0,
+      "score": 49.0,
       "summary": [
-        "Cloudflareという会社が、AIをもっと簡単に使えるようにするサービスを出したという話です。",
-        "AIを「動かす」だけでなく、上手に「管理して使い続ける」ための仕組みが誰でも手軽に使えるようになります。",
-        "これにより、お店や会社がAIを日常的に利用しやすくなり、私たちの身の回りにAIがさらに広がっていくでしょう。"
+        "優秀な人が集まっても組織がうまく回らない原因は、人々の認識のズレである「認識負債」が積み重なるから",
+        "みんなの理解を合わせる工夫で、組織がスムーズに動くようになる",
+        "会社やチームで働く全ての人に関係し、AI時代にはさらに重要になる"
       ],
-      "highlight": "これまで専門的な知識が必要だったAIの利用や管理が、もっと身近で手軽にできるようになりました。"
+      "highlight": "これまでの組織の悩みが解決し、会社全体がスムーズに動けるようになる"
     }
   ],
   "trending_keywords": [
-    "Claude"
+    "LLM"
   ]
 }
