@@ -1,60 +1,63 @@
 {
-  "updated_at": "2026-07-06 07:59",
+  "updated_at": "2026-07-07 08:04",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "What's Next for AI?",
-      "title_ja": "AIの次に何が来るのか？",
-      "url": "https://dev.to/sylwia-lask/whats-next-for-ai-219i",
-      "likes": 194,
-      "comments": 253,
-      "published_at": "2026-06-29",
+      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
+      "title_ja": "アンソロピック社の「AIが自らを作る時」を読んで、AIやプログラミングへの考え方が変わった",
+      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
+      "likes": 128,
+      "comments": 89,
+      "published_at": "2026-06-30",
       "lang": "en",
-      "score": 711.0,
+      "score": 336.0,
       "summary": [
-        "この記事には本文がなく、具体的な内容は",
-        "説明できません。AIの未来や今後の進化",
-        "について書かれていると推測されます。"
+        "AIが自分でプログラムを作る未来の話です",
+        "AIがプログラミングの大部分を担うようになります",
+        "これからの社会や仕事のやり方に影響します"
       ],
-      "highlight": "記事本文がないため、AIの進化について何がすごいか説明できません。"
+      "highlight": "人間が指示するだけで、AIが自分でプログラムを作ってくれるようになる"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "デジタル資本主義の新リスク：AI自律ループが引き起こす「トークン破産」という洗礼",
-      "title_ja": "デジタル資本主義の新リスク：AI自律ループが引き起こす「トークン破産」という洗礼",
-      "url": "https://note.com/drive_my_car/n/ne6fef80db1b3",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-07-05",
-      "lang": "ja",
-      "score": 183.0,
-      "summary": [
-        "AIが勝手に動き出すことで起きる、新しいお金の危険について。",
-        "私たちのデジタル資産が、突然使えなくなる可能性があります。",
-        "これからのデジタル社会で、誰もがお金で困るかもしれません。"
-      ],
-      "highlight": "AIが自分で動くことで、私たちのデジタルなお金が突然使えなくなる新しい時代に突入しました。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
       "title_ja": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
       "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-      "likes": 108,
+      "likes": 147,
       "comments": 0,
       "published_at": "2026-07-02",
       "lang": "ja",
-      "score": 116.0,
+      "score": 155.0,
       "summary": [
-        "AIが作ったプログラムの成果と課題がわかる",
-        "AIを仕事に使うときの成功例と失敗例を紹介",
-        "これからのAI活用に役立つ情報が手に入る"
+        "AIが作ったプログラムを半年間使ってみた結果",
+        "AIの得意なことと苦手なことがわかる内容です",
+        "AIを仕事に活用するヒントが見つかるでしょう"
       ],
-      "highlight": "AIが人の仕事をどこまでできるのか、その現実的な答えが見つかった"
+      "highlight": "AIと人間が協力することで、より効率的に良いものが作れるようになった"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "LLMは人間の言語能力を説明できるのか　　生成文法・学習理論・AIのあいだで揺れる「理解」の概念",
+      "title_ja": "LLMは人間の言語能力を説明できるのか　　生成文法・学習理論・AIのあいだで揺れる「理解」の概念",
+      "url": "https://note.com/empetsu_1/n/ne4a935edddee",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-06",
+      "lang": "ja",
+      "score": 99.0,
+      "summary": [
+        "AIが人間の言葉をどこまで本当に理解しているのかを探ります。",
+        "AIの「理解」が、人間が思う理解とどう違うのか議論されています。",
+        "私たちがAIを使う上で、その能力を改めて考えるきっかけになるでしょう。"
+      ],
+      "highlight": "AIが言葉を『理解する』とはどういうことか、その深さが今、問い直されている。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Anthropic",
+    "LLM"
+  ]
 }
