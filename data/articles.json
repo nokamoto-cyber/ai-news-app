@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-07-07 08:04",
+  "updated_at": "2026-07-08 07:58",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "Reading Anthropic's \"When AI Builds Itself\" Changed How I Think About AI and Software Engineering",
-      "title_ja": "アンソロピック社の「AIが自らを作る時」を読んで、AIやプログラミングへの考え方が変わった",
-      "url": "https://dev.to/hemapriya_kanagala/reading-anthropics-when-ai-builds-itself-changed-how-i-think-about-ai-and-software-engineering-3eh",
-      "likes": 128,
-      "comments": 89,
-      "published_at": "2026-06-30",
-      "lang": "en",
-      "score": 336.0,
-      "summary": [
-        "AIが自分でプログラムを作る未来の話です",
-        "AIがプログラミングの大部分を担うようになります",
-        "これからの社会や仕事のやり方に影響します"
-      ],
-      "highlight": "人間が指示するだけで、AIが自分でプログラムを作ってくれるようになる"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
       "title_ja": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
       "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-      "likes": 147,
+      "likes": 175,
       "comments": 0,
       "published_at": "2026-07-02",
       "lang": "ja",
-      "score": 155.0,
+      "score": 183.0,
       "summary": [
-        "AIが作ったプログラムを半年間使ってみた結果",
-        "AIの得意なことと苦手なことがわかる内容です",
-        "AIを仕事に活用するヒントが見つかるでしょう"
+        "AIが作ったプログラムが実際にどうだったかを説明",
+        "AIと人が上手に協力するヒントが見つかる",
+        "AIが私たちの生活をどう変えるか分かる"
       ],
-      "highlight": "AIと人間が協力することで、より効率的に良いものが作れるようになった"
+      "highlight": "AIにどこまで任せるべきか、その賢い使い方が分かるようになった"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
+      "title_ja": "Harness EngineeringからEvalsへ：AIエンジニアリングの最新トレンド",
+      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
+      "likes": 64,
+      "comments": 22,
+      "published_at": "2026-07-01",
+      "lang": "en",
+      "score": 119.0,
+      "summary": [
+        "AI開発が、昔と今で大きく変わったことを伝えています。",
+        "これからはAIが、より安全に使えるようになります。",
+        "私たちがAIを安心して使える未来につながります。"
+      ],
+      "highlight": "AIがただ動けばいいのではなく、本当に役立つか安全かを評価する時代になりました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "LLMは人間の言語能力を説明できるのか　　生成文法・学習理論・AIのあいだで揺れる「理解」の概念",
-      "title_ja": "LLMは人間の言語能力を説明できるのか　　生成文法・学習理論・AIのあいだで揺れる「理解」の概念",
-      "url": "https://note.com/empetsu_1/n/ne4a935edddee",
+      "title": "AIってそもそも何?——「すごいらしい」で止まっている人のための、いちばん現実的な話",
+      "title_ja": "AIってそもそも何?——「すごいらしい」で止まっている人のための、いちばん現実的な話",
+      "url": "https://note.com/ai_beginner615/n/ne9b269046861",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-06",
+      "published_at": "2026-07-07",
       "lang": "ja",
-      "score": 99.0,
+      "score": 51.0,
       "summary": [
-        "AIが人間の言葉をどこまで本当に理解しているのかを探ります。",
-        "AIの「理解」が、人間が思う理解とどう違うのか議論されています。",
-        "私たちがAIを使う上で、その能力を改めて考えるきっかけになるでしょう。"
+        "AIがどんなものか、基本的なことを説明",
+        "AIが身の回りでどう役立つかを説明",
+        "みんなの暮らしと未来を考えるヒント"
       ],
-      "highlight": "AIが言葉を『理解する』とはどういうことか、その深さが今、問い直されている。"
+      "highlight": "AIが、私たちの生活を便利にする道具として、誰もが使えるようになった"
     }
   ],
-  "trending_keywords": [
-    "Anthropic",
-    "LLM"
-  ]
+  "trending_keywords": []
 }
