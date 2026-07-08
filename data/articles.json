@@ -1,60 +1,66 @@
 {
-  "updated_at": "2026-07-08 07:58",
+  "updated_at": "2026-07-09 08:02",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
-      "title_ja": "AIに8割書かせたコード、半年運用の答え合わせ。効いた3つと、腐った3つ",
-      "url": "https://zenn.dev/rapls/articles/7a1bac83df8b21",
-      "likes": 175,
+      "source": "note",
+      "title": "AIの向き不向き図鑑①｜ChatGPT・Gemini・Claudeは何が違う？実際に使って分かった特徴を比較",
+      "title_ja": "AIの向き不向き図鑑①｜ChatGPT・Gemini・Claudeは何が違う？実際に使って分かった特徴を比較",
+      "url": "https://note.com/rich_loris8944/n/nb502092fb775",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-02",
+      "published_at": "2026-07-08",
       "lang": "ja",
-      "score": 183.0,
+      "score": 192.0,
       "summary": [
-        "AIが作ったプログラムが実際にどうだったかを説明",
-        "AIと人が上手に協力するヒントが見つかる",
-        "AIが私たちの生活をどう変えるか分かる"
+        "ChatGPT、Gemini、Claudeという代表的なAIの違いと特徴を解説しています。",
+        "それぞれのAIが得意なことが分かるので、自分に合ったAIを選んで使えます。",
+        "AIを使う人が、用途に応じてAIを使い分け、もっと便利に活用できます。"
       ],
-      "highlight": "AIにどこまで任せるべきか、その賢い使い方が分かるようになった"
+      "highlight": "たくさんのAIの中から、目的にぴったりのものを選んで、誰でもAIを使いこなせるようになりました"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "From Harness Engineering to Evals: What’s Trending at AI Engineer",
-      "title_ja": "Harness EngineeringからEvalsへ：AIエンジニアリングの最新トレンド",
-      "url": "https://dev.to/dailycontext/from-harness-engineering-to-evals-4212",
-      "likes": 64,
-      "comments": 22,
-      "published_at": "2026-07-01",
+      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
+      "title_ja": "AIが書いた文章がイマイチなのはなぜ？ その原因の半分はあなたかも",
+      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
+      "likes": 41,
+      "comments": 24,
+      "published_at": "2026-07-06",
       "lang": "en",
-      "score": 119.0,
+      "score": 103.0,
       "summary": [
-        "AI開発が、昔と今で大きく変わったことを伝えています。",
-        "これからはAIが、より安全に使えるようになります。",
-        "私たちがAIを安心して使える未来につながります。"
+        "AIはまだ完璧な文章をまだ書けない",
+        "その問題の半分は使うあなたにある",
+        "AIと賢く付き合う方法が学べる"
       ],
-      "highlight": "AIがただ動けばいいのではなく、本当に役立つか安全かを評価する時代になりました。"
+      "highlight": "AIが書く文章の質は、あなたの指示次第で劇的に変わるようになった。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "AIってそもそも何?——「すごいらしい」で止まっている人のための、いちばん現実的な話",
-      "title_ja": "AIってそもそも何?——「すごいらしい」で止まっている人のための、いちばん現実的な話",
-      "url": "https://note.com/ai_beginner615/n/ne9b269046861",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
+      "likes": 77,
       "comments": 0,
       "published_at": "2026-07-07",
       "lang": "ja",
-      "score": 51.0,
+      "score": 100.0,
       "summary": [
-        "AIがどんなものか、基本的なことを説明",
-        "AIが身の回りでどう役立つかを説明",
-        "みんなの暮らしと未来を考えるヒント"
+        "AIを使って物語やゲームの世界を豊かにする方法についてです",
+        "ゲーム開発者や物語を作る人がAIを役立てやすくなります",
+        "私たちのエンターテイメント体験がより進化するでしょう"
       ],
-      "highlight": "AIが、私たちの生活を便利にする道具として、誰もが使えるようになった"
+      "highlight": "AIが物語やゲームの世界をより想像力豊かにする手助けができるようになった。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT",
+    "Claude",
+    "Gemini",
+    "Anthropic"
+  ]
 }
