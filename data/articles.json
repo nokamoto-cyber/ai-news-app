@@ -1,29 +1,11 @@
 {
-  "updated_at": "2026-07-09 08:02",
+  "updated_at": "2026-07-10 08:09",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "AIの向き不向き図鑑①｜ChatGPT・Gemini・Claudeは何が違う？実際に使って分かった特徴を比較",
-      "title_ja": "AIの向き不向き図鑑①｜ChatGPT・Gemini・Claudeは何が違う？実際に使って分かった特徴を比較",
-      "url": "https://note.com/rich_loris8944/n/nb502092fb775",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-07-08",
-      "lang": "ja",
-      "score": 192.0,
-      "summary": [
-        "ChatGPT、Gemini、Claudeという代表的なAIの違いと特徴を解説しています。",
-        "それぞれのAIが得意なことが分かるので、自分に合ったAIを選んで使えます。",
-        "AIを使う人が、用途に応じてAIを使い分け、もっと便利に活用できます。"
-      ],
-      "highlight": "たくさんのAIの中から、目的にぴったりのものを選んで、誰でもAIを使いこなせるようになりました"
-    },
-    {
-      "rank": 2,
       "source": "Dev.to",
       "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
-      "title_ja": "AIが書いた文章がイマイチなのはなぜ？ その原因の半分はあなたかも",
+      "title_ja": "AIがまだ上手な文章を書けない理由と、その問題の半分は使う人にあること",
       "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
       "likes": 41,
       "comments": 24,
@@ -31,36 +13,51 @@
       "lang": "en",
       "score": 103.0,
       "summary": [
-        "AIはまだ完璧な文章をまだ書けない",
-        "その問題の半分は使うあなたにある",
-        "AIと賢く付き合う方法が学べる"
+        "AIが書く文章はまだ完璧でなく、得意なことには限界がある。",
+        "良い文章をAIに書かせるには、質問の仕方など使う側の工夫が必要。",
+        "AIを日常で使う全ての人が、より上手に活用できるヒントとなる話。"
       ],
-      "highlight": "AIが書く文章の質は、あなたの指示次第で劇的に変わるようになった。"
+      "highlight": "AIが書く文章の質は、使う人がする質問の仕方ひとつで大きく変わるとわかる"
     },
     {
-      "rank": 3,
+      "rank": 2,
       "source": "Zenn",
       "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
       "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
       "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
-      "likes": 77,
+      "likes": 87,
       "comments": 0,
       "published_at": "2026-07-07",
       "lang": "ja",
       "score": 100.0,
       "summary": [
-        "AIを使って物語やゲームの世界を豊かにする方法についてです",
-        "ゲーム開発者や物語を作る人がAIを役立てやすくなります",
-        "私たちのエンターテイメント体験がより進化するでしょう"
+        "AI開発のAnthropicが未来の",
+        "AI活用法を具体的に紹介しました",
+        "誰もがAIを使いこなせる時代が来ます"
       ],
-      "highlight": "AIが物語やゲームの世界をより想像力豊かにする手助けができるようになった。"
+      "highlight": "AIが私たちの創造力を引き出し、新しい物語を生み出す道具となることが示された"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "3-2.AnthropicのClaude戦略を読む",
+      "title_ja": "3-2.AnthropicのClaude戦略を読む",
+      "url": "https://note.com/kagawatomo/n/ndd48aadedadc",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-09",
+      "lang": "ja",
+      "score": 77.0,
+      "summary": [
+        "この記事はアンスロピック社のAI「クロード」の戦略について解説します",
+        "AIを開発する会社がどんな未来を描いているのかがわかります",
+        "今後のAIの進化が私たちの生活にどう影響するか想像できます"
+      ],
+      "highlight": "最先端のAIが今後どのように発展していくか、その方向性が見えてくるようになりました"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "Claude",
-    "Gemini",
-    "Anthropic"
+    "Anthropic",
+    "Claude"
   ]
 }
