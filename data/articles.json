@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-07-10 08:09",
+  "updated_at": "2026-07-11 07:57",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "Why AI Still Can't Write Well and Which Half of That Problem Is Actually Yours",
-      "title_ja": "AIがまだ上手な文章を書けない理由と、その問題の半分は使う人にあること",
-      "url": "https://dev.to/dannwaneri/why-ai-still-cant-write-well-and-which-half-of-that-problem-is-actually-yours-kh4",
-      "likes": 41,
-      "comments": 24,
-      "published_at": "2026-07-06",
-      "lang": "en",
-      "score": 103.0,
+      "source": "note",
+      "title": "「学習」という言葉が背負わされすぎている――生成AIを理解する第一歩は、「学習」を分解すること",
+      "title_ja": "「学習」という言葉が背負わされすぎている――生成AIを理解する第一歩は、「学習」を分解すること",
+      "url": "https://note.com/leal_swan1250/n/n908d9f00d98e",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-10",
+      "lang": "ja",
+      "score": 126.0,
       "summary": [
-        "AIが書く文章はまだ完璧でなく、得意なことには限界がある。",
-        "良い文章をAIに書かせるには、質問の仕方など使う側の工夫が必要。",
-        "AIを日常で使う全ての人が、より上手に活用できるヒントとなる話。"
+        "AIの学習は人間の勉強と違うと伝えます",
+        "AIが何を学んでいるか分かりやすくなります",
+        "AIと賢く付き合うための考え方が変わる"
       ],
-      "highlight": "AIが書く文章の質は、使う人がする質問の仕方ひとつで大きく変わるとわかる"
+      "highlight": "AIがどんなものか、誰もがもっと深く理解できるようになる"
     },
     {
       "rank": 2,
+      "source": "Dev.to",
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "title_ja": "AIアバターのすごい進化！かっこいい動きと声、楽しいアニメーション！ (v15: VS CodeとChromeで使えるよ)",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "likes": 51,
+      "comments": 25,
+      "published_at": "2026-07-08",
+      "lang": "en",
+      "score": 112.0,
+      "summary": [
+        "AIアバターがさらに進化して登場しました。",
+        "かっこいい演出や声、楽しい動きが増えました。",
+        "誰でも手軽にAIアバターを使えるようになります。"
+      ],
+      "highlight": "AIアバターがまるで生きているかのように動き、話せるようになった"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
       "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
       "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
-      "likes": 87,
+      "likes": 94,
       "comments": 0,
       "published_at": "2026-07-07",
       "lang": "ja",
-      "score": 100.0,
+      "score": 107.0,
       "summary": [
-        "AI開発のAnthropicが未来の",
-        "AI活用法を具体的に紹介しました",
-        "誰もがAIを使いこなせる時代が来ます"
+        "AIを使って物語の世界をより豊かにする方法が紹介されました",
+        "ゲームや物語の登場人物がAIで自然に会話できるようになります",
+        "ゲームや物語をより深く楽しめる未来が期待されます"
       ],
-      "highlight": "AIが私たちの創造力を引き出し、新しい物語を生み出す道具となることが示された"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "3-2.AnthropicのClaude戦略を読む",
-      "title_ja": "3-2.AnthropicのClaude戦略を読む",
-      "url": "https://note.com/kagawatomo/n/ndd48aadedadc",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-07-09",
-      "lang": "ja",
-      "score": 77.0,
-      "summary": [
-        "この記事はアンスロピック社のAI「クロード」の戦略について解説します",
-        "AIを開発する会社がどんな未来を描いているのかがわかります",
-        "今後のAIの進化が私たちの生活にどう影響するか想像できます"
-      ],
-      "highlight": "最先端のAIが今後どのように発展していくか、その方向性が見えてくるようになりました"
+      "highlight": "AIの力で、ゲームや物語の世界がこれまで以上にリアルに楽しめるようになります"
     }
   ],
   "trending_keywords": [
-    "Anthropic",
-    "Claude"
+    "生成AI",
+    "Anthropic"
   ]
 }
