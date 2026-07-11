@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-07-11 07:57",
+  "updated_at": "2026-07-12 07:43",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "「学習」という言葉が背負わされすぎている――生成AIを理解する第一歩は、「学習」を分解すること",
-      "title_ja": "「学習」という言葉が背負わされすぎている――生成AIを理解する第一歩は、「学習」を分解すること",
-      "url": "https://note.com/leal_swan1250/n/n908d9f00d98e",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
+      "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
+      "likes": 109,
       "comments": 0,
-      "published_at": "2026-07-10",
+      "published_at": "2026-07-07",
       "lang": "ja",
-      "score": 126.0,
+      "score": 122.0,
       "summary": [
-        "AIの学習は人間の勉強と違うと伝えます",
-        "AIが何を学んでいるか分かりやすくなります",
-        "AIと賢く付き合うための考え方が変わる"
+        "有名AI企業のAnthropicが、AIの新しい使い方を発表しました。",
+        "これまでの常識を超えた、創造的なAI活用法が示されます。",
+        "AIが私たちの仕事や生活を、もっと豊かにする未来に期待です。"
       ],
-      "highlight": "AIがどんなものか、誰もがもっと深く理解できるようになる"
+      "highlight": "AIが人間の想像力を広げ、新しいアイデアを形にする道具として進化しました。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "title_ja": "AIアバターのすごい進化！かっこいい動きと声、楽しいアニメーション！ (v15: VS CodeとChromeで使えるよ)",
+      "title_ja": "AIアバター第15版：かっこいいエフェクト、音声読み上げ、楽しいアニメーション（VS CodeとChrome拡張機能）",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "likes": 51,
-      "comments": 25,
+      "likes": 54,
+      "comments": 26,
       "published_at": "2026-07-08",
       "lang": "en",
-      "score": 112.0,
+      "score": 117.0,
       "summary": [
-        "AIアバターがさらに進化して登場しました。",
-        "かっこいい演出や声、楽しい動きが増えました。",
-        "誰でも手軽にAIアバターを使えるようになります。"
+        "AIアバターが進化し、新しい機能が登場しました。",
+        "音声読み上げや楽しいアニメ、かっこいい演出で動画が作れるように。",
+        "誰でも手軽に魅力的な動画やプレゼンを作れるようになります。"
       ],
-      "highlight": "AIアバターがまるで生きているかのように動き、話せるようになった"
+      "highlight": "AIアバターが進化し、誰でも楽しい動画やプレゼンを簡単に作れるようになった"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
-      "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
-      "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
-      "likes": 94,
+      "source": "note",
+      "title": "AppleがOpenAI提訴の報道、会社員が備える3点",
+      "title_ja": "AppleがOpenAI提訴の報道、会社員が備える3点",
+      "url": "https://note.com/ainewssaizen/n/n3ff735d5fad3",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-07",
+      "published_at": "2026-07-11",
       "lang": "ja",
-      "score": 107.0,
+      "score": 71.0,
       "summary": [
-        "AIを使って物語の世界をより豊かにする方法が紹介されました",
-        "ゲームや物語の登場人物がAIで自然に会話できるようになります",
-        "ゲームや物語をより深く楽しめる未来が期待されます"
+        "大手IT企業間の動きと、AI時代の仕事の備え",
+        "会社員がAI時代にどう準備すべきかを紹介",
+        "将来の働き方に不安がある人におすすめ"
       ],
-      "highlight": "AIの力で、ゲームや物語の世界がこれまで以上にリアルに楽しめるようになります"
+      "highlight": "AIの進化で、誰もが仕事のやり方を見直し、新しい力を身につける必要が出てくる"
     }
   ],
   "trending_keywords": [
-    "生成AI",
-    "Anthropic"
+    "Anthropic",
+    "OpenAI"
   ]
 }
