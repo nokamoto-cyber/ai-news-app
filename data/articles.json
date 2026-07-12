@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-07-12 07:43",
+  "updated_at": "2026-07-13 07:43",
   "articles": [
     {
       "rank": 1,
+      "source": "Dev.to",
+      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
+      "title_ja": "AIアバターの最新版！楽しい演出と音声機能で、もっと身近に",
+      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
+      "likes": 62,
+      "comments": 29,
+      "published_at": "2026-07-08",
+      "lang": "en",
+      "score": 131.0,
+      "summary": [
+        "AIアバターの最新版が発表されました",
+        "動きや声で表現がとても豊かになります",
+        "ネットでの表現がより面白くなるでしょう"
+      ],
+      "highlight": "AIのアバターが声を出して話したり、かっこいい動きをするようになり、誰でも手軽にウェブ上で使えるようになりました。"
+    },
+    {
+      "rank": 2,
       "source": "Zenn",
       "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
       "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
       "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
-      "likes": 109,
+      "likes": 117,
       "comments": 0,
       "published_at": "2026-07-07",
       "lang": "ja",
-      "score": 122.0,
+      "score": 130.0,
       "summary": [
-        "有名AI企業のAnthropicが、AIの新しい使い方を発表しました。",
-        "これまでの常識を超えた、創造的なAI活用法が示されます。",
-        "AIが私たちの仕事や生活を、もっと豊かにする未来に期待です。"
+        "大手AI開発企業が、新しいAIの使い方を公開しました",
+        "AIが文章作成だけでなく、様々な場面で活躍する時代へ",
+        "私たちの仕事や暮らしが、もっと便利になる可能性があります"
       ],
-      "highlight": "AIが人間の想像力を広げ、新しいアイデアを形にする道具として進化しました。"
-    },
-    {
-      "rank": 2,
-      "source": "Dev.to",
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "title_ja": "AIアバター第15版：かっこいいエフェクト、音声読み上げ、楽しいアニメーション（VS CodeとChrome拡張機能）",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "likes": 54,
-      "comments": 26,
-      "published_at": "2026-07-08",
-      "lang": "en",
-      "score": 117.0,
-      "summary": [
-        "AIアバターが進化し、新しい機能が登場しました。",
-        "音声読み上げや楽しいアニメ、かっこいい演出で動画が作れるように。",
-        "誰でも手軽に魅力的な動画やプレゼンを作れるようになります。"
-      ],
-      "highlight": "AIアバターが進化し、誰でも楽しい動画やプレゼンを簡単に作れるようになった"
+      "highlight": "AIが単なる指示役ではなく、もっと賢いパートナーのように使えるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AppleがOpenAI提訴の報道、会社員が備える3点",
-      "title_ja": "AppleがOpenAI提訴の報道、会社員が備える3点",
-      "url": "https://note.com/ainewssaizen/n/n3ff735d5fad3",
+      "title": "AIがあなたを覚えてくれる日",
+      "title_ja": "AIがあなたを覚えてくれる日",
+      "url": "https://note.com/matoi_studio/n/n72c2f62239f9",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-11",
+      "published_at": "2026-07-12",
       "lang": "ja",
-      "score": 71.0,
+      "score": 127.0,
       "summary": [
-        "大手IT企業間の動きと、AI時代の仕事の備え",
-        "会社員がAI時代にどう準備すべきかを紹介",
-        "将来の働き方に不安がある人におすすめ"
+        "AIがあなたのことを記憶する未来の話",
+        "過去の好みや会話をAIが覚えてくれる",
+        "AIとの会話や生活がもっと便利になる"
       ],
-      "highlight": "AIの進化で、誰もが仕事のやり方を見直し、新しい力を身につける必要が出てくる"
+      "highlight": "AIがあなたの情報を記憶し、一人ひとりに合わせた最適なサービスを提供できるようになる"
     }
   ],
   "trending_keywords": [
-    "Anthropic",
-    "OpenAI"
+    "Anthropic"
   ]
 }
