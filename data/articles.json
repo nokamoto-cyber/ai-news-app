@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-07-13 07:43",
+  "updated_at": "2026-07-14 07:53",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "title_ja": "AIアバターの最新版！楽しい演出と音声機能で、もっと身近に",
+      "title_ja": "AIアバターの最新版：かっこいいエフェクトと楽しいアニメーション（VS CodeとChrome拡張機能）",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
       "likes": 62,
-      "comments": 29,
+      "comments": 35,
       "published_at": "2026-07-08",
       "lang": "en",
-      "score": 131.0,
+      "score": 143.0,
       "summary": [
-        "AIアバターの最新版が発表されました",
-        "動きや声で表現がとても豊かになります",
-        "ネットでの表現がより面白くなるでしょう"
+        "AIアバターの最新版に進化しました。",
+        "かっこいい演出や自動音声が加わり、",
+        "手軽に動画やプレゼンで使えます。"
       ],
-      "highlight": "AIのアバターが声を出して話したり、かっこいい動きをするようになり、誰でも手軽にウェブ上で使えるようになりました。"
+      "highlight": "AIアバターが、かっこいい演出と自動音声で、誰でも簡単に魅力的な動画やプレゼンを作れるようになりました。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "Fable時代のAI活用法を、Anthropicの開発者が公開",
-      "title_ja": "Fable時代のAI活用法を、Anthropicの開発者が公開",
-      "url": "https://zenn.dev/a_kadowaki/articles/283244af941a2d",
-      "likes": 117,
+      "source": "note",
+      "title": "Microsoft AI Copilotはタイムワープ AI”派手な3人AGを横目に、静かに世 界を支えるインフラAI",
+      "title_ja": "Microsoft AI Copilotはタイムワープ AI”派手な3人AGを横目に、静かに世 界を支えるインフラAI",
+      "url": "https://note.com/tarou_wakamatsu/n/n3f49bb2c651c",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-07",
+      "published_at": "2026-07-13",
       "lang": "ja",
-      "score": 130.0,
+      "score": 97.0,
       "summary": [
-        "大手AI開発企業が、新しいAIの使い方を公開しました",
-        "AIが文章作成だけでなく、様々な場面で活躍する時代へ",
-        "私たちの仕事や暮らしが、もっと便利になる可能性があります"
+        "マイクロソフトのAIが社会を支える",
+        "時間短縮や作業の効率化を進めます",
+        "将来的にすべての人が恩恵を受けます"
       ],
-      "highlight": "AIが単なる指示役ではなく、もっと賢いパートナーのように使えるようになった"
+      "highlight": "AIが裏側で時間を節約し、私たちの毎日を効率化してくれるようになった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "AIがあなたを覚えてくれる日",
-      "title_ja": "AIがあなたを覚えてくれる日",
-      "url": "https://note.com/matoi_studio/n/n72c2f62239f9",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
+      "title_ja": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
+      "url": "https://zenn.dev/ni_narinari/articles/4319a84dece1ba",
+      "likes": 17,
       "comments": 0,
-      "published_at": "2026-07-12",
+      "published_at": "2026-07-13",
       "lang": "ja",
-      "score": 127.0,
+      "score": 50.0,
       "summary": [
-        "AIがあなたのことを記憶する未来の話",
-        "過去の好みや会話をAIが覚えてくれる",
-        "AIとの会話や生活がもっと便利になる"
+        "AIにできることだけでなく、人間がやるべきことや、AIに任せきれないことを話した記事です。",
+        "AIと人間が協力して、より良いものを作るためのヒントが、この記事から得られるでしょう。",
+        "AIを使う全ての人にとって、賢くAIと付き合うためのヒントになります。"
       ],
-      "highlight": "AIがあなたの情報を記憶し、一人ひとりに合わせた最適なサービスを提供できるようになる"
+      "highlight": "AIが苦手なことを知り、人間が本当に得意なことに集中して、新しい価値を生み出せるようになる。"
     }
   ],
   "trending_keywords": [
-    "Anthropic"
+    "Copilot",
+    "Microsoft"
   ]
 }
