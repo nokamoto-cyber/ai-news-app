@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-07-14 07:53",
+  "updated_at": "2026-07-15 07:55",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "title_ja": "AIアバターの最新版：かっこいいエフェクトと楽しいアニメーション（VS CodeとChrome拡張機能）",
+      "title_ja": "AIアバターv15：クールなエフェクト、読み上げ機能、楽しいアニメーションが登場（VS CodeとChrome拡張機能）",
       "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "likes": 62,
+      "likes": 65,
       "comments": 35,
       "published_at": "2026-07-08",
       "lang": "en",
-      "score": 143.0,
+      "score": 146.0,
       "summary": [
-        "AIアバターの最新版に進化しました。",
-        "かっこいい演出や自動音声が加わり、",
-        "手軽に動画やプレゼンで使えます。"
+        "AIが作るキャラクター、AIアバターが大幅に進化しました。",
+        "文字を自動で読み上げ、派手な演出や楽しい動きを見せます。",
+        "誰でも簡単に利用でき、動画作成などがもっと楽しくなります。"
       ],
-      "highlight": "AIアバターが、かっこいい演出と自動音声で、誰でも簡単に魅力的な動画やプレゼンを作れるようになりました。"
+      "highlight": "特別な技術がなくても、AIアバターがかっこいい演出と音声で話せるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Microsoft AI Copilotはタイムワープ AI”派手な3人AGを横目に、静かに世 界を支えるインフラAI",
-      "title_ja": "Microsoft AI Copilotはタイムワープ AI”派手な3人AGを横目に、静かに世 界を支えるインフラAI",
-      "url": "https://note.com/tarou_wakamatsu/n/n3f49bb2c651c",
+      "title": "AIに「あなたのはうっすらなのよ」と言われたので手相を極太にしました",
+      "title_ja": "AIに「あなたのはうっすらなのよ」と言われたので手相を極太にしました",
+      "url": "https://note.com/noted_furaffy/n/n8185a5d24c8e",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-13",
+      "published_at": "2026-07-14",
       "lang": "ja",
-      "score": 97.0,
+      "score": 80.0,
       "summary": [
-        "マイクロソフトのAIが社会を支える",
-        "時間短縮や作業の効率化を進めます",
-        "将来的にすべての人が恩恵を受けます"
+        "AIが人の特徴を判断した時、人間がどう反応し行動を変えるかを示しています。",
+        "AIが識別しやすいよう、表現や見せ方を変える必要が出てくるかもしれません。",
+        "AIと関わる機会が増え、誰もが自分の見せ方を工夫するようになるでしょう。"
       ],
-      "highlight": "AIが裏側で時間を節約し、私たちの毎日を効率化してくれるようになった"
+      "highlight": "AIの評価を元に、人間が自分をどう見せるかを考える時代の変化を感じられます。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
-      "title_ja": "【スクフェス仙台2026】初参加の初登壇でQAが「AIにやらせないこと」を話してきた",
-      "url": "https://zenn.dev/ni_narinari/articles/4319a84dece1ba",
-      "likes": 17,
-      "comments": 0,
-      "published_at": "2026-07-13",
+      "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
+      "title_ja": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
+      "url": "https://zenn.dev/thujikun/articles/3b8e60fcaab4b7",
+      "likes": 12,
+      "comments": 13,
+      "published_at": "2026-07-14",
       "lang": "ja",
-      "score": 50.0,
+      "score": 74.0,
       "summary": [
-        "AIにできることだけでなく、人間がやるべきことや、AIに任せきれないことを話した記事です。",
-        "AIと人間が協力して、より良いものを作るためのヒントが、この記事から得られるでしょう。",
-        "AIを使う全ての人にとって、賢くAIと付き合うためのヒントになります。"
+        "AIシステムが個人情報を守りつつ、うまく動くように見張る仕組みの話。",
+        "個人情報を守りながらAIが素早く問題を自動で直すことができるようになります。",
+        "AIサービスを使う誰もが、より安心して利用できる未来につながります。"
       ],
-      "highlight": "AIが苦手なことを知り、人間が本当に得意なことに集中して、新しい価値を生み出せるようになる。"
+      "highlight": "個人情報を守りながら、AIがシステムの不具合を自動で直せるようになった"
     }
   ],
-  "trending_keywords": [
-    "Copilot",
-    "Microsoft"
-  ]
+  "trending_keywords": []
 }
