@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-07-15 07:55",
+  "updated_at": "2026-07-16 07:56",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "✨Cool Effects, TTS, and Fun Animations (AI Avatar v15: VS Code and Chrome Extension)",
-      "title_ja": "AIアバターv15：クールなエフェクト、読み上げ機能、楽しいアニメーションが登場（VS CodeとChrome拡張機能）",
-      "url": "https://dev.to/webdeveloperhyper/cool-effects-tts-and-fun-animations-ai-avatar-v15-vs-code-and-chrome-extension-3oec",
-      "likes": 65,
-      "comments": 35,
-      "published_at": "2026-07-08",
+      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
+      "title_ja": "開発者がYouTube動画を1本見ただけで自信満々に説明する8つのこと",
+      "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
+      "likes": 64,
+      "comments": 29,
+      "published_at": "2026-07-14",
       "lang": "en",
-      "score": 146.0,
+      "score": 140.0,
       "summary": [
-        "AIが作るキャラクター、AIアバターが大幅に進化しました。",
-        "文字を自動で読み上げ、派手な演出や楽しい動きを見せます。",
-        "誰でも簡単に利用でき、動画作成などがもっと楽しくなります。"
+        "ネット動画の知識で専門家気分になる現象を説明",
+        "表面的な情報だけで判断する危険性を伝えています",
+        "情報の真偽を見極める力が求められます"
       ],
-      "highlight": "特別な技術がなくても、AIアバターがかっこいい演出と音声で話せるようになった"
+      "highlight": "手軽な情報源が普及し、情報を見極める力がより重要になった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AIに「あなたのはうっすらなのよ」と言われたので手相を極太にしました",
-      "title_ja": "AIに「あなたのはうっすらなのよ」と言われたので手相を極太にしました",
-      "url": "https://note.com/noted_furaffy/n/n8185a5d24c8e",
+      "title": "【速報07/16】AI/IT関連ニュース（AI国家戦略×フィジカルAI×半導体基盤）",
+      "title_ja": "【速報07/16】AI/IT関連ニュース（AI国家戦略×フィジカルAI×半導体基盤）",
+      "url": "https://note.com/it_daytrading/n/ne7524cb6796b",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-14",
+      "published_at": "2026-07-15",
       "lang": "ja",
-      "score": 80.0,
+      "score": 69.0,
       "summary": [
-        "AIが人の特徴を判断した時、人間がどう反応し行動を変えるかを示しています。",
-        "AIが識別しやすいよう、表現や見せ方を変える必要が出てくるかもしれません。",
-        "AIと関わる機会が増え、誰もが自分の見せ方を工夫するようになるでしょう。"
+        "国全体でAIの発展を進める動きがある",
+        "賢いロボットAIが身近な生活を助ける",
+        "日本の未来がAIで便利に変わっていく"
       ],
-      "highlight": "AIの評価を元に、人間が自分をどう見せるかを考える時代の変化を感じられます。"
+      "highlight": "国が力を入れてAIの進化を進めることで、私たちの暮らしや社会が大きく便利になる時代が来ます"
     },
     {
       "rank": 3,
@@ -43,17 +43,17 @@
       "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
       "title_ja": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
       "url": "https://zenn.dev/thujikun/articles/3b8e60fcaab4b7",
-      "likes": 12,
-      "comments": 13,
+      "likes": 15,
+      "comments": 12,
       "published_at": "2026-07-14",
       "lang": "ja",
-      "score": 74.0,
+      "score": 60.0,
       "summary": [
-        "AIシステムが個人情報を守りつつ、うまく動くように見張る仕組みの話。",
-        "個人情報を守りながらAIが素早く問題を自動で直すことができるようになります。",
-        "AIサービスを使う誰もが、より安心して利用できる未来につながります。"
+        "AIが広がる時代に、大切な個人情報を守りつつAIを賢く活用し、システムの問題を自動で直す仕組みを解説しています。",
+        "これにより、個人情報を守りながらAIがシステムの問題を素早く見つけ、自動で解決できるようになります。",
+        "AIサービスを提供する企業だけでなく、それを利用する私たち全員の生活がより安全で便利になります。"
       ],
-      "highlight": "個人情報を守りながら、AIがシステムの不具合を自動で直せるようになった"
+      "highlight": "大切な個人情報を守りながら、AIがシステムの問題を自動で見つけて直せるようになったのが最もすごい点です。"
     }
   ],
   "trending_keywords": []
