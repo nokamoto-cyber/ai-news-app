@@ -1,60 +1,66 @@
 {
-  "updated_at": "2026-07-16 07:56",
+  "updated_at": "2026-07-17 07:54",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "title_ja": "開発者がYouTube動画を1本見ただけで自信満々に説明する8つのこと",
+      "title_ja": "YouTube動画を1本見ただけで、開発者が自信満々に説明する8つのこと",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "likes": 64,
-      "comments": 29,
+      "likes": 101,
+      "comments": 56,
       "published_at": "2026-07-14",
       "lang": "en",
-      "score": 140.0,
+      "score": 221.0,
       "summary": [
-        "ネット動画の知識で専門家気分になる現象を説明",
-        "表面的な情報だけで判断する危険性を伝えています",
-        "情報の真偽を見極める力が求められます"
+        "ITの専門家が、動画を見て学んだことを過信する傾向について。",
+        "新しい情報を学ぶ難しさや、表面的な理解で終わる危険性。",
+        "私たちは情報に振り回されず、本質を見抜く力が求められます。"
       ],
-      "highlight": "手軽な情報源が普及し、情報を見極める力がより重要になった"
+      "highlight": "誰もが情報発信できる時代で、本物の知識か見抜く力が重要になった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【速報07/16】AI/IT関連ニュース（AI国家戦略×フィジカルAI×半導体基盤）",
-      "title_ja": "【速報07/16】AI/IT関連ニュース（AI国家戦略×フィジカルAI×半導体基盤）",
-      "url": "https://note.com/it_daytrading/n/ne7524cb6796b",
+      "title": "生成AIスクール3社比較｜東京AI・バイテック・DMMはどこがおすすめ？",
+      "title_ja": "生成AIスクール3社比較｜東京AI・バイテック・DMMはどこがおすすめ？",
+      "url": "https://note.com/kind_llama672/n/nb27a6835a040",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-15",
+      "published_at": "2026-07-16",
       "lang": "ja",
-      "score": 69.0,
+      "score": 60.0,
       "summary": [
-        "国全体でAIの発展を進める動きがある",
-        "賢いロボットAIが身近な生活を助ける",
-        "日本の未来がAIで便利に変わっていく"
+        "AIを学べる学校を比較している記事です",
+        "自分に合ったAIスクールが選べます",
+        "AIを学びたい人や仕事で使いたい人向け"
       ],
-      "highlight": "国が力を入れてAIの進化を進めることで、私たちの暮らしや社会が大きく便利になる時代が来ます"
+      "highlight": "AIの学び方を知ることで、誰でもAIの力を生活や仕事に活かせるようになります。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
-      "title_ja": "AI時代のObservability設計 - PIIとAIの検索性を両立させ、自動修復する（実践編）",
-      "url": "https://zenn.dev/thujikun/articles/3b8e60fcaab4b7",
-      "likes": 15,
-      "comments": 12,
-      "published_at": "2026-07-14",
+      "title": "Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる",
+      "title_ja": "Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる",
+      "url": "https://zenn.dev/thegatebreaker/articles/ai_platform_monetization_stacks",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-16",
       "lang": "ja",
-      "score": 60.0,
+      "score": 51.0,
       "summary": [
-        "AIが広がる時代に、大切な個人情報を守りつつAIを賢く活用し、システムの問題を自動で直す仕組みを解説しています。",
-        "これにより、個人情報を守りながらAIがシステムの問題を素早く見つけ、自動で解決できるようになります。",
-        "AIサービスを提供する企業だけでなく、それを利用する私たち全員の生活がより安全で便利になります。"
+        "有名企業がＡＩでどう儲けるか解説",
+        "生活を変えるＡＩが色々生まれる",
+        "私たちの暮らしがもっと便利になる"
       ],
-      "highlight": "大切な個人情報を守りながら、AIがシステムの問題を自動で見つけて直せるようになったのが最もすごい点です。"
+      "highlight": "ＡＩが生活や仕事の常識を大きく変え始めている"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "生成AI",
+    "OpenAI",
+    "Anthropic",
+    "Google",
+    "Microsoft"
+  ]
 }
