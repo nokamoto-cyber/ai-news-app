@@ -1,66 +1,60 @@
 {
-  "updated_at": "2026-07-17 07:54",
+  "updated_at": "2026-07-18 07:45",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "title_ja": "YouTube動画を1本見ただけで、開発者が自信満々に説明する8つのこと",
+      "title_ja": "YouTube動画1本で開発者が語りだす8つのこと",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "likes": 101,
-      "comments": 56,
+      "likes": 124,
+      "comments": 74,
       "published_at": "2026-07-14",
       "lang": "en",
-      "score": 221.0,
+      "score": 280.0,
       "summary": [
-        "ITの専門家が、動画を見て学んだことを過信する傾向について。",
-        "新しい情報を学ぶ難しさや、表面的な理解で終わる危険性。",
-        "私たちは情報に振り回されず、本質を見抜く力が求められます。"
+        "プロが少しの知識で自信過剰になりがちな話",
+        "誰もが専門家のように話せる時代になりました",
+        "情報が溢れる中で見極める力がより重要に"
       ],
-      "highlight": "誰もが情報発信できる時代で、本物の知識か見抜く力が重要になった"
+      "highlight": "誰でも手軽に専門知識のさわりを習得し、自信を持って語れるようになった"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "生成AIスクール3社比較｜東京AI・バイテック・DMMはどこがおすすめ？",
-      "title_ja": "生成AIスクール3社比較｜東京AI・バイテック・DMMはどこがおすすめ？",
-      "url": "https://note.com/kind_llama672/n/nb27a6835a040",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+      "title_ja": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
+      "url": "https://zenn.dev/little_hand_s/articles/6aa18c80496ec6",
+      "likes": 55,
       "comments": 0,
-      "published_at": "2026-07-16",
+      "published_at": "2026-07-17",
       "lang": "ja",
-      "score": 60.0,
+      "score": 88.0,
       "summary": [
-        "AIを学べる学校を比較している記事です",
-        "自分に合ったAIスクールが選べます",
-        "AIを学びたい人や仕事で使いたい人向け"
+        "AI（人工知能）の能力を評価する方法が、これまでとは違う新しい考え方で進んでいることを紹介しています。",
+        "これまでのAI任せのチェックでは見つけにくかった、AIの隠れた弱点や危険な間違いを効率よく発見できるようになります。",
+        "この方法は、AIを使う私たち全員が、より安心してAIと付き合える未来につながると考えられています。"
       ],
-      "highlight": "AIの学び方を知ることで、誰でもAIの力を生活や仕事に活かせるようになります。"
+      "highlight": "AIの思わぬ弱点を見つけ出し、もっと安全で安心して使えるAIが作れるようになる"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる",
-      "title_ja": "Meta・X・OpenAI・Anthropic・Google・Microsoft──「AIの稼ぎ方」を6社で比べてみる",
-      "url": "https://zenn.dev/thegatebreaker/articles/ai_platform_monetization_stacks",
+      "source": "note",
+      "title": "入口はAI、出口は自社――顧客の購買行動に生まれた新しい分業",
+      "title_ja": "入口はAI、出口は自社――顧客の購買行動に生まれた新しい分業",
+      "url": "https://note.com/threeplussix/n/nfd9aad51a251",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-16",
+      "published_at": "2026-07-17",
       "lang": "ja",
-      "score": 51.0,
+      "score": 84.0,
       "summary": [
-        "有名企業がＡＩでどう儲けるか解説",
-        "生活を変えるＡＩが色々生まれる",
-        "私たちの暮らしがもっと便利になる"
+        "買い物の方法がAIで変わりつつある",
+        "AIがあなたに合う商品を代わりに探してくれる",
+        "消費者も企業も、この変化に対応する必要がある"
       ],
-      "highlight": "ＡＩが生活や仕事の常識を大きく変え始めている"
+      "highlight": "AIが最初に商品を探してくれるので、買い物体験が大きく変わる"
     }
   ],
-  "trending_keywords": [
-    "生成AI",
-    "OpenAI",
-    "Anthropic",
-    "Google",
-    "Microsoft"
-  ]
+  "trending_keywords": []
 }
