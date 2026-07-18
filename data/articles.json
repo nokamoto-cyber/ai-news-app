@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-18 07:45",
+  "updated_at": "2026-07-19 07:44",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "title_ja": "YouTube動画1本で開発者が語りだす8つのこと",
+      "title_ja": "開発者がYouTube動画を1つ見ただけで自信満々に説明する8つのこと",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "likes": 124,
-      "comments": 74,
+      "likes": 136,
+      "comments": 84,
       "published_at": "2026-07-14",
       "lang": "en",
-      "score": 280.0,
+      "score": 312.0,
       "summary": [
-        "プロが少しの知識で自信過剰になりがちな話",
-        "誰もが専門家のように話せる時代になりました",
-        "情報が溢れる中で見極める力がより重要に"
+        "動画で専門知識を学ぶとき、注意すべき点を教えてくれます。",
+        "表面的な理解と深い知識の違いがわかり、賢く学べるように変わります。",
+        "ネットの情報をうまく使って、本当に役立つ知識を身につけたい人に役立ちます。"
       ],
-      "highlight": "誰でも手軽に専門知識のさわりを習得し、自信を持って語れるようになった"
+      "highlight": "YouTube動画一本で誰もがITの最新知識を知り、すぐに語れるようになった。"
     },
     {
       "rank": 2,
@@ -25,36 +25,39 @@
       "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "title_ja": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "url": "https://zenn.dev/little_hand_s/articles/6aa18c80496ec6",
-      "likes": 55,
+      "likes": 133,
       "comments": 0,
       "published_at": "2026-07-17",
       "lang": "ja",
-      "score": 88.0,
+      "score": 151.0,
       "summary": [
-        "AI（人工知能）の能力を評価する方法が、これまでとは違う新しい考え方で進んでいることを紹介しています。",
-        "これまでのAI任せのチェックでは見つけにくかった、AIの隠れた弱点や危険な間違いを効率よく発見できるようになります。",
-        "この方法は、AIを使う私たち全員が、より安心してAIと付き合える未来につながると考えられています。"
+        "AIの弱点を見つける新しいやり方が注目されています。",
+        "わざとAIをだまして、隠れた間違いを探し出します。",
+        "私たちが使うAIサービスがもっと安全になります。"
       ],
-      "highlight": "AIの思わぬ弱点を見つけ出し、もっと安全で安心して使えるAIが作れるようになる"
+      "highlight": "AIの隠れた弱点を見つけて、より信頼できるAIが作れるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "入口はAI、出口は自社――顧客の購買行動に生まれた新しい分業",
-      "title_ja": "入口はAI、出口は自社――顧客の購買行動に生まれた新しい分業",
-      "url": "https://note.com/threeplussix/n/nfd9aad51a251",
+      "title": "【決定版】図表でわかるGPT-5.6 SolとClaude Fable 5の違い",
+      "title_ja": "【決定版】図表でわかるGPT-5.6 SolとClaude Fable 5の違い",
+      "url": "https://note.com/got/n/n1279334db5ec",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-17",
+      "published_at": "2026-07-18",
       "lang": "ja",
-      "score": 84.0,
+      "score": 75.0,
       "summary": [
-        "買い物の方法がAIで変わりつつある",
-        "AIがあなたに合う商品を代わりに探してくれる",
-        "消費者も企業も、この変化に対応する必要がある"
+        "最新のAI二種類の違いを説明しています",
+        "どんなAIが何に強いか、具体的に分かります",
+        "これからの生活や仕事でAI活用が進みます"
       ],
-      "highlight": "AIが最初に商品を探してくれるので、買い物体験が大きく変わる"
+      "highlight": "最新のAIが登場し、誰でも賢いAIを選んで、もっと便利に使えるようになりました"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "GPT",
+    "Claude"
+  ]
 }
