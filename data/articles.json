@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-19 07:44",
+  "updated_at": "2026-07-20 07:48",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "title_ja": "開発者がYouTube動画を1つ見ただけで自信満々に説明する8つのこと",
+      "title_ja": "開発者も陥る「動画一本で分かった気」の罠",
       "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "likes": 136,
-      "comments": 84,
+      "likes": 150,
+      "comments": 86,
       "published_at": "2026-07-14",
       "lang": "en",
-      "score": 312.0,
+      "score": 330.0,
       "summary": [
-        "動画で専門知識を学ぶとき、注意すべき点を教えてくれます。",
-        "表面的な理解と深い知識の違いがわかり、賢く学べるように変わります。",
-        "ネットの情報をうまく使って、本当に役立つ知識を身につけたい人に役立ちます。"
+        "開発者が動画学習後に陥りがちな勘違いを解説します。",
+        "表面的な知識の危うさや、学びの深さが変わります。",
+        "ネット情報を活用する上で大切な姿勢が身につきます。"
       ],
-      "highlight": "YouTube動画一本で誰もがITの最新知識を知り、すぐに語れるようになった。"
+      "highlight": "ネット動画で学ぶ時の注意点を知り、情報の見方が変わるようになった"
     },
     {
       "rank": 2,
@@ -25,39 +25,36 @@
       "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "title_ja": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "url": "https://zenn.dev/little_hand_s/articles/6aa18c80496ec6",
-      "likes": 133,
+      "likes": 191,
       "comments": 0,
       "published_at": "2026-07-17",
       "lang": "ja",
-      "score": 151.0,
+      "score": 199.0,
       "summary": [
-        "AIの弱点を見つける新しいやり方が注目されています。",
-        "わざとAIをだまして、隠れた間違いを探し出します。",
-        "私たちが使うAIサービスがもっと安全になります。"
+        "AIの性能を確かめる新しい方法が紹介されています。",
+        "AIの弱点を意図的に見つけることで、より信頼できるAIが作れるようになります。",
+        "私たちが使うAIサービスが、もっと安全で役立つものに進化していくでしょう。"
       ],
-      "highlight": "AIの隠れた弱点を見つけて、より信頼できるAIが作れるようになった"
+      "highlight": "AIの弱点を攻める新しいテスト方法で、私たちが使うAIが、より安心で頼れるものに進化する。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【決定版】図表でわかるGPT-5.6 SolとClaude Fable 5の違い",
-      "title_ja": "【決定版】図表でわかるGPT-5.6 SolとClaude Fable 5の違い",
-      "url": "https://note.com/got/n/n1279334db5ec",
+      "title": "AIに意思はない。それでも、意思があるように見える理由",
+      "title_ja": "AIに意思はない。それでも、意思があるように見える理由",
+      "url": "https://note.com/leal_swan1250/n/nf47e594d2735",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-18",
+      "published_at": "2026-07-19",
       "lang": "ja",
-      "score": 75.0,
+      "score": 111.0,
       "summary": [
-        "最新のAI二種類の違いを説明しています",
-        "どんなAIが何に強いか、具体的に分かります",
-        "これからの生活や仕事でAI活用が進みます"
+        "AIがまるで心を持つように感じる理由を説明する記事です。",
+        "AIが賢く見える仕組みを知り、上手に活用できるようになります。",
+        "AIを使う全ての人が、より安心して利用できるようになります。"
       ],
-      "highlight": "最新のAIが登場し、誰でも賢いAIを選んで、もっと便利に使えるようになりました"
+      "highlight": "AIが賢く見える本当の理由を知り、私たちの生活に役立てられるようになった。"
     }
   ],
-  "trending_keywords": [
-    "GPT",
-    "Claude"
-  ]
+  "trending_keywords": []
 }
