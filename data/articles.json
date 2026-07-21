@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-07-21 07:57",
+  "updated_at": "2026-07-22 07:53",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "8 Things Developers Confidently Explain After Watching One YouTube Video",
-      "title_ja": "YouTube動画1本で開発者が得意げに話す8つのこと",
-      "url": "https://dev.to/sylwia-lask/8-things-developers-confidently-explain-after-watching-one-youtube-video-3jio",
-      "likes": 151,
-      "comments": 88,
-      "published_at": "2026-07-14",
-      "lang": "en",
-      "score": 335.0,
-      "summary": [
-        "ITの専門家でも、動画一本で分かった気になることがある話です。",
-        "専門家の話もすぐに信じず、自分で考えるきっかけになります。",
-        "これからは情報源を比べ、自分で判断する力が大切になります。"
-      ],
-      "highlight": "ITの専門家の話でも、情報の深さを見極める力がつくでしょう。"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "title_ja": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "url": "https://zenn.dev/little_hand_s/articles/6aa18c80496ec6",
-      "likes": 239,
+      "likes": 300,
       "comments": 3,
       "published_at": "2026-07-17",
       "lang": "ja",
-      "score": 253.0,
+      "score": 314.0,
       "summary": [
-        "AIのチェック方法が新しくなると伝えています",
-        "AIの隠れた問題を見つけやすくなります",
-        "誰もがより安心してAIを使えるようになります"
+        "AIの性能や安全性をチェックする、新しい方法が紹介されています。",
+        "人間が一つずつ確認するよりも、AI自身が互いの弱点を探し出すことで、効率よくAIを検証できます。",
+        "これにより、わたしたちが使うAIが、これまでより安全で信頼性の高いものに早く進化するでしょう。"
       ],
-      "highlight": "AIがもっと頼れる存在になり、生活が大きく変わる"
+      "highlight": "AI同士が協力して欠点を見つけ合うことで、より安全で信頼できるAIを早く作れるようになった。"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
+      "title_ja": "AIが作るプログラムのコードは小さな借金、いつか返済が必要",
+      "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
+      "likes": 48,
+      "comments": 62,
+      "published_at": "2026-07-16",
+      "lang": "en",
+      "score": 180.0,
+      "summary": [
+        "AIが作ったプログラムには後で手間がかかる。",
+        "便利さの裏に直しや管理の作業が増える可能性。",
+        "AIを使う人はそのリスクを考え賢く使うべき。"
+      ],
+      "highlight": "AIがプログラムを簡単に作ってくれるが、その後にかかる見えないコストや手間を意識することが必要になった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Copilotに「使った量」と「品質ゲート」が来た──AIコーディングは、便利ツールから管理対象へ動き始めた",
-      "title_ja": "Copilotに「使った量」と「品質ゲート」が来た──AIコーディングは、便利ツールから管理対象へ動き始めた",
-      "url": "https://note.com/ai_tofumaru/n/n92e3e28e0d42",
+      "title": "【速報07/22】AI/IT関連ニュース（AIエージェント×AI半導体×フィジカルAI）",
+      "title_ja": "【速報07/22】AI/IT関連ニュース（AIエージェント×AI半導体×フィジカルAI）",
+      "url": "https://note.com/it_daytrading/n/nc73c7390d571",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-20",
+      "published_at": "2026-07-21",
       "lang": "ja",
-      "score": 52.0,
+      "score": 89.0,
       "summary": [
-        "AIでプログラムを作る道具（Copilot）が、使われ方を管理されるようになった話です。",
-        "企業はAIがどれだけ使われたか、その品質はどうかをチェックできるようになります。",
-        "プログラマーの仕事や、AIツールを使う企業でのルール作りが進んでいきそうです。"
+        "AIの進化が社会や生活をどう変えるかを紹介。",
+        "AIが自分で考え働き、ロボットも賢くなります。",
+        "誰もがAIの恩恵を受け生活が便利になるでしょう。"
       ],
-      "highlight": "AIでプログラムを作る道具が、企業でも安心して使えるように管理されるようになりました。"
+      "highlight": "AIが自分で考え働き、社会も生活も大きく便利に変わります。"
     }
   ],
   "trending_keywords": [
-    "Copilot"
+    "AIエージェント"
   ]
 }
