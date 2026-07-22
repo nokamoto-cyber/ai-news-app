@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 07:53",
+  "updated_at": "2026-07-23 07:59",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,54 @@
       "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "title_ja": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
       "url": "https://zenn.dev/little_hand_s/articles/6aa18c80496ec6",
-      "likes": 300,
-      "comments": 3,
+      "likes": 343,
+      "comments": 4,
       "published_at": "2026-07-17",
       "lang": "ja",
-      "score": 314.0,
+      "score": 359.0,
       "summary": [
-        "AIの性能や安全性をチェックする、新しい方法が紹介されています。",
-        "人間が一つずつ確認するよりも、AI自身が互いの弱点を探し出すことで、効率よくAIを検証できます。",
-        "これにより、わたしたちが使うAIが、これまでより安全で信頼性の高いものに早く進化するでしょう。"
+        "AIの性能をより厳しく確かめる新しい方法が注目されています。",
+        "わざとAIを困らせて弱点を見つけることで、より信頼できるAIが作れます。",
+        "私たちが使うAIが、より安心で安全なものになっていくでしょう。"
       ],
-      "highlight": "AI同士が協力して欠点を見つけ合うことで、より安全で信頼できるAIを早く作れるようになった。"
+      "highlight": "AIの評価方法が進化したことで、より頼りになるAIが使えるようになりました。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back",
-      "title_ja": "AIが作るプログラムのコードは小さな借金、いつか返済が必要",
-      "url": "https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6",
-      "likes": 48,
-      "comments": 62,
-      "published_at": "2026-07-16",
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "title_ja": "AIとコードの所有権：生成されたコードの責任は誰にあるのか？",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "likes": 72,
+      "comments": 56,
+      "published_at": "2026-07-20",
       "lang": "en",
-      "score": 180.0,
+      "score": 195.0,
       "summary": [
-        "AIが作ったプログラムには後で手間がかかる。",
-        "便利さの裏に直しや管理の作業が増える可能性。",
-        "AIを使う人はそのリスクを考え賢く使うべき。"
+        "AIが作ったプログラムの責任について",
+        "プログラムの所有者や責任が変わります",
+        "AIを使う開発者や企業に影響します"
       ],
-      "highlight": "AIがプログラムを簡単に作ってくれるが、その後にかかる見えないコストや手間を意識することが必要になった。"
+      "highlight": "AIが作ったプログラムの責任の考え方が変わります"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【速報07/22】AI/IT関連ニュース（AIエージェント×AI半導体×フィジカルAI）",
-      "title_ja": "【速報07/22】AI/IT関連ニュース（AIエージェント×AI半導体×フィジカルAI）",
-      "url": "https://note.com/it_daytrading/n/nc73c7390d571",
+      "title": "【速報07/23】AI/IT関連ニュース（AI半導体×自律型AI×フィジカルAI）",
+      "title_ja": "【速報07/23】AI/IT関連ニュース（AI半導体×自律型AI×フィジカルAI）",
+      "url": "https://note.com/it_daytrading/n/nd976941f5740",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-21",
+      "published_at": "2026-07-22",
       "lang": "ja",
-      "score": 89.0,
+      "score": 76.0,
       "summary": [
-        "AIの進化が社会や生活をどう変えるかを紹介。",
-        "AIが自分で考え働き、ロボットも賢くなります。",
-        "誰もがAIの恩恵を受け生活が便利になるでしょう。"
+        "AIの頭脳となるコンピューター部品や、自分で考えて動くAIの進化",
+        "ロボットのように現実世界で活躍するAIが注目されています",
+        "私たちの仕事や生活が大きく変化していくことが予想されます"
       ],
-      "highlight": "AIが自分で考え働き、社会も生活も大きく便利に変わります。"
+      "highlight": "AIがまるで人間のように考え、現実世界で行動できるようになり、社会全体が大きく変わる"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
