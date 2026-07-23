@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-07-23 07:59",
+  "updated_at": "2026-07-24 07:53",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
-      "title_ja": "AIに「レビューして」はもう古い？「敵対的検証」のすすめ",
-      "url": "https://zenn.dev/little_hand_s/articles/6aa18c80496ec6",
-      "likes": 343,
-      "comments": 4,
-      "published_at": "2026-07-17",
-      "lang": "ja",
-      "score": 359.0,
+      "source": "Dev.to",
+      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
+      "title_ja": "AIとコードの所有権：生成されたコードは誰の責任？",
+      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
+      "likes": 82,
+      "comments": 66,
+      "published_at": "2026-07-20",
+      "lang": "en",
+      "score": 225.0,
       "summary": [
-        "AIの性能をより厳しく確かめる新しい方法が注目されています。",
-        "わざとAIを困らせて弱点を見つけることで、より信頼できるAIが作れます。",
-        "私たちが使うAIが、より安心で安全なものになっていくでしょう。"
+        "AIが自動で作るプログラムの責任は誰か",
+        "便利な反面、誰が責任を取るか未解決",
+        "今後の社会で新しいルールが必要になる"
       ],
-      "highlight": "AIの評価方法が進化したことで、より頼りになるAIが使えるようになりました。"
+      "highlight": "AIが自動でプログラムを作る時代になり、誰が責任を持つかという新しい問題が起きています。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "title_ja": "AIとコードの所有権：生成されたコードの責任は誰にあるのか？",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "likes": 72,
-      "comments": 56,
-      "published_at": "2026-07-20",
-      "lang": "en",
-      "score": 195.0,
+      "source": "note",
+      "title": "中国AI「Kimi K3」が世界を驚かせた3日間——その先に立ちはだかった「物理的な壁」の正体",
+      "title_ja": "中国AI「Kimi K3」が世界を驚かせた3日間——その先に立ちはだかった「物理的な壁」の正体",
+      "url": "https://note.com/natty_quoll9640/n/n02cc10828df2",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-23",
+      "lang": "ja",
+      "score": 71.0,
       "summary": [
-        "AIが作ったプログラムの責任について",
-        "プログラムの所有者や責任が変わります",
-        "AIを使う開発者や企業に影響します"
+        "中国のAIがすごいと話題だが、その進化には限界がある",
+        "AIの進化には、電気や高性能な機械が不可欠だと分かった",
+        "AIは環境や資源と深く関わるため、誰もがその影響を考えるようになる"
       ],
-      "highlight": "AIが作ったプログラムの責任の考え方が変わります"
+      "highlight": "AIがどれほど賢くなっても、実は電気や機械の資源が必要だと分かった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "【速報07/23】AI/IT関連ニュース（AI半導体×自律型AI×フィジカルAI）",
-      "title_ja": "【速報07/23】AI/IT関連ニュース（AI半導体×自律型AI×フィジカルAI）",
-      "url": "https://note.com/it_daytrading/n/nd976941f5740",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+      "title_ja": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
+      "url": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
+      "likes": 51,
       "comments": 0,
-      "published_at": "2026-07-22",
+      "published_at": "2026-07-19",
       "lang": "ja",
-      "score": 76.0,
+      "score": 62.0,
       "summary": [
-        "AIの頭脳となるコンピューター部品や、自分で考えて動くAIの進化",
-        "ロボットのように現実世界で活躍するAIが注目されています",
-        "私たちの仕事や生活が大きく変化していくことが予想されます"
+        "とても軽いAI「Bonsai」の活用方法を解説",
+        "普通のパソコンで賢いAIを動かせます",
+        "誰でもAIを自分のパソコンで使える未来が来る"
       ],
-      "highlight": "AIがまるで人間のように考え、現実世界で行動できるようになり、社会全体が大きく変わる"
+      "highlight": "ごく普通のパソコンで、賢いAIを誰でも自由に使えるようになりました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "LLM"
+  ]
 }
