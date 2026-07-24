@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-07-24 07:53",
+  "updated_at": "2026-07-25 07:58",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "title_ja": "AIとコードの所有権：生成されたコードは誰の責任？",
+      "title_ja": "AIが作ったプログラム、誰のもの？誰が責任を取るの？",
       "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "likes": 82,
-      "comments": 66,
+      "likes": 96,
+      "comments": 84,
       "published_at": "2026-07-20",
       "lang": "en",
-      "score": 225.0,
+      "score": 275.0,
       "summary": [
-        "AIが自動で作るプログラムの責任は誰か",
-        "便利な反面、誰が責任を取るか未解決",
-        "今後の社会で新しいルールが必要になる"
+        "AIがプログラムを作るようになり持ち主や責任が問題",
+        "AI開発や利用における新しいルール作りが必要になる",
+        "AIを使う開発者や企業、未来の社会に関わる課題"
       ],
-      "highlight": "AIが自動でプログラムを作る時代になり、誰が責任を持つかという新しい問題が起きています。"
+      "highlight": "AIが自分でプログラムを作るようになり、誰が責任を取るかが問われる時代になった"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "中国AI「Kimi K3」が世界を驚かせた3日間——その先に立ちはだかった「物理的な壁」の正体",
-      "title_ja": "中国AI「Kimi K3」が世界を驚かせた3日間——その先に立ちはだかった「物理的な壁」の正体",
-      "url": "https://note.com/natty_quoll9640/n/n02cc10828df2",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-07-23",
-      "lang": "ja",
-      "score": 71.0,
-      "summary": [
-        "中国のAIがすごいと話題だが、その進化には限界がある",
-        "AIの進化には、電気や高性能な機械が不可欠だと分かった",
-        "AIは環境や資源と深く関わるため、誰もがその影響を考えるようになる"
-      ],
-      "highlight": "AIがどれほど賢くなっても、実は電気や機械の資源が必要だと分かった"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
       "title_ja": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
       "url": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
-      "likes": 51,
+      "likes": 55,
       "comments": 0,
       "published_at": "2026-07-19",
       "lang": "ja",
-      "score": 62.0,
+      "score": 66.0,
       "summary": [
-        "とても軽いAI「Bonsai」の活用方法を解説",
-        "普通のパソコンで賢いAIを動かせます",
-        "誰でもAIを自分のパソコンで使える未来が来る"
+        "AIが少ないデータで動く新しい技術と、その活用法を説明しています。",
+        "個人でも高性能なAIを自分のパソコンで、手軽に使えるようになる点が特徴です。",
+        "AIの活用がより広がり、私たちの生活が便利になる可能性を秘めています。"
       ],
-      "highlight": "ごく普通のパソコンで、賢いAIを誰でも自由に使えるようになりました。"
+      "highlight": "少ないデータで動く高性能AIが開発され、誰でも自分のパソコンで手軽に使えるようになりました。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "AI時代の学習ってさ。",
+      "title_ja": "AI時代の学習ってさ。",
+      "url": "https://note.com/ready_tern4711/n/n52d1f8883940",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-24",
+      "lang": "ja",
+      "score": 45.0,
+      "summary": [
+        "AIが私たちの学習方法を大きく変える話",
+        "一人ひとりに合った学び方を提供してくれます",
+        "誰もが新しい方法で学べる時代が来るでしょう"
+      ],
+      "highlight": "AIの力で、誰でも自分にぴったりの学び方が見つけられるようになった"
     }
   ],
   "trending_keywords": [
