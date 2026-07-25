@@ -1,62 +1,64 @@
 {
-  "updated_at": "2026-07-25 07:58",
+  "updated_at": "2026-07-26 07:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "AI And Code Ownership: Who Is Responsible For Generated Code?",
-      "title_ja": "AIが作ったプログラム、誰のもの？誰が責任を取るの？",
-      "url": "https://dev.to/nazar-boyko/ai-and-code-ownership-who-is-responsible-for-generated-code-1dnj",
-      "likes": 96,
-      "comments": 84,
-      "published_at": "2026-07-20",
+      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
+      "title_ja": "AIを自動で動かす技術の知られざる課題",
+      "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
+      "likes": 101,
+      "comments": 97,
+      "published_at": "2026-07-23",
       "lang": "en",
-      "score": 275.0,
+      "score": 306.0,
       "summary": [
-        "AIがプログラムを作るようになり持ち主や責任が問題",
-        "AI開発や利用における新しいルール作りが必要になる",
-        "AIを使う開発者や企業、未来の社会に関わる課題"
+        "AIが自分で考えて行動する技術には、まだ知られていない問題点があることを解説。",
+        "AIにすべて任せられない現実を知り、賢く利用するためのヒントが得られます。",
+        "私たちの生活にAIが広がる中で、そのメリットと課題を正しく理解できます。"
       ],
-      "highlight": "AIが自分でプログラムを作るようになり、誰が責任を取るかが問われる時代になった"
+      "highlight": "AIが完璧ではないという現実を理解することで、今後のAIとの付き合い方がより現実的になりました。"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "【構造批評】-Gemini Spark実装拡張編-検索とクラウドを動かす自律型AI、基盤モデルの深化とは分けて見るGoogleの進化‼️",
+      "title_ja": "【構造批評】-Gemini Spark実装拡張編-検索とクラウドを動かす自律型AI、基盤モデルの深化とは分けて見るGoogleの進化‼️",
+      "url": "https://note.com/gifted_mango8323/n/n6f9f9983fbcb",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-25",
+      "lang": "ja",
+      "score": 75.0,
+      "summary": [
+        "GoogleのAIが検索やクラウドを動かす仕組み",
+        "AIが自分で考え働きサービスがより便利になる",
+        "Google利用者の生活や仕事が大きく変わっていく"
+      ],
+      "highlight": "GoogleのAIが、検索やクラウドを自分で動かせるようになった"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
       "title_ja": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
       "url": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
-      "likes": 55,
+      "likes": 57,
       "comments": 0,
       "published_at": "2026-07-19",
       "lang": "ja",
-      "score": 66.0,
+      "score": 68.0,
       "summary": [
-        "AIが少ないデータで動く新しい技術と、その活用法を説明しています。",
-        "個人でも高性能なAIを自分のパソコンで、手軽に使えるようになる点が特徴です。",
-        "AIの活用がより広がり、私たちの生活が便利になる可能性を秘めています。"
+        "パソコンで動かせる軽いAIの紹介",
+        "ネットなしで賢いAIが使えるようになる",
+        "AIがもっと身近になり活用が進む"
       ],
-      "highlight": "少ないデータで動く高性能AIが開発され、誰でも自分のパソコンで手軽に使えるようになりました。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "AI時代の学習ってさ。",
-      "title_ja": "AI時代の学習ってさ。",
-      "url": "https://note.com/ready_tern4711/n/n52d1f8883940",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-07-24",
-      "lang": "ja",
-      "score": 45.0,
-      "summary": [
-        "AIが私たちの学習方法を大きく変える話",
-        "一人ひとりに合った学び方を提供してくれます",
-        "誰もが新しい方法で学べる時代が来るでしょう"
-      ],
-      "highlight": "AIの力で、誰でも自分にぴったりの学び方が見つけられるようになった"
+      "highlight": "スマホのアプリ並の軽さで、賢いAIを自分のパソコンで動かせるようになった"
     }
   ],
   "trending_keywords": [
+    "Gemini",
+    "Google",
     "LLM"
   ]
 }
