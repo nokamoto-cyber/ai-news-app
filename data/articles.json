@@ -1,64 +1,63 @@
 {
-  "updated_at": "2026-07-26 07:52",
+  "updated_at": "2026-07-27 07:57",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-      "title_ja": "AIを自動で動かす技術の知られざる課題",
+      "title_ja": "AIエージェントの意外な落とし穴（実演付き 🚀）",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "likes": 101,
-      "comments": 97,
+      "likes": 111,
+      "comments": 110,
       "published_at": "2026-07-23",
       "lang": "en",
-      "score": 306.0,
+      "score": 342.0,
       "summary": [
-        "AIが自分で考えて行動する技術には、まだ知られていない問題点があることを解説。",
-        "AIにすべて任せられない現実を知り、賢く利用するためのヒントが得られます。",
-        "私たちの生活にAIが広がる中で、そのメリットと課題を正しく理解できます。"
+        "AIがあなたの代わりに動く機能の、まだ知られていない問題点や限界がわかる",
+        "AIの得意なことと苦手なことが具体的に理解でき、より賢く使いこなせるようになる",
+        "AIを仕事や生活に取り入れたい人が、そのメリットと課題を正しく把握できる"
       ],
-      "highlight": "AIが完璧ではないという現実を理解することで、今後のAIとの付き合い方がより現実的になりました。"
+      "highlight": "AIが何でもできるわけではないと理解し、私たちの生活で賢くAIと付き合えるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【構造批評】-Gemini Spark実装拡張編-検索とクラウドを動かす自律型AI、基盤モデルの深化とは分けて見るGoogleの進化‼️",
-      "title_ja": "【構造批評】-Gemini Spark実装拡張編-検索とクラウドを動かす自律型AI、基盤モデルの深化とは分けて見るGoogleの進化‼️",
-      "url": "https://note.com/gifted_mango8323/n/n6f9f9983fbcb",
+      "title": "「選ぶAI」と「作るAI」の違い。生成AIが話題なのは、この機能に秘密があった",
+      "title_ja": "「選ぶAI」と「作るAI」の違い。生成AIが話題なのは、この機能に秘密があった",
+      "url": "https://note.com/no_code_oji/n/ne4070599d5e3",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-25",
+      "published_at": "2026-07-26",
       "lang": "ja",
-      "score": 75.0,
+      "score": 63.0,
       "summary": [
-        "GoogleのAIが検索やクラウドを動かす仕組み",
-        "AIが自分で考え働きサービスがより便利になる",
-        "Google利用者の生活や仕事が大きく変わっていく"
+        "AIには「情報を探すAI」と「新しいものを作るAI」があります。",
+        "最近話題のAIは、文章や絵などを自分で新しく生み出せます。",
+        "誰もがAIを使って、色々なものを簡単に作れるようになります。"
       ],
-      "highlight": "GoogleのAIが、検索やクラウドを自分で動かせるようになった"
+      "highlight": "誰でもAIの力で、これまでは人間しかできなかった文章や絵の創作が簡単にできるようになった"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
-      "title_ja": "1-bit LLM「Bonsai」活用ガイド — 1.15GB で動く 8B モデルをローカルで使い倒す",
-      "url": "https://zenn.dev/tkou15/articles/bonsai-1bit-llm-guide",
-      "likes": 57,
+      "title": "自社のレビュー履歴からAIコードレビュアーをつくる方法",
+      "title_ja": "自社のレビュー履歴からAIコードレビュアーをつくる方法",
+      "url": "https://zenn.dev/tiwanari/articles/f0f114389662ba",
+      "likes": 51,
       "comments": 0,
-      "published_at": "2026-07-19",
+      "published_at": "2026-07-21",
       "lang": "ja",
-      "score": 68.0,
+      "score": 59.0,
       "summary": [
-        "パソコンで動かせる軽いAIの紹介",
-        "ネットなしで賢いAIが使えるようになる",
-        "AIがもっと身近になり活用が進む"
+        "会社独自のAIでプログラムのチェックを自動化する話",
+        "過去のデータでAIがプログラムのミスを自動で見つけます",
+        "より高品質なアプリやサービスが早く手に入るようになります"
       ],
-      "highlight": "スマホのアプリ並の軽さで、賢いAIを自分のパソコンで動かせるようになった"
+      "highlight": "会社独自のノウハウをAIが学び、プログラムの品質管理を自動でできるようになりました"
     }
   ],
   "trending_keywords": [
-    "Gemini",
-    "Google",
-    "LLM"
+    "AIエージェント",
+    "生成AI"
   ]
 }
