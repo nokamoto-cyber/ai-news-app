@@ -1,60 +1,65 @@
 {
-  "updated_at": "2026-07-28 07:57",
+  "updated_at": "2026-07-29 07:55",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-      "title_ja": "AIが自動で動くプログラムの意外な落とし穴（デモ付き）",
+      "title_ja": "AIエージェントの隠された秘密（デモ付き）",
       "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "likes": 124,
-      "comments": 125,
+      "likes": 128,
+      "comments": 130,
       "published_at": "2026-07-23",
       "lang": "en",
-      "score": 385.0,
+      "score": 399.0,
       "summary": [
-        "AIが自分で考えて動くプログラムには、まだ知られざる弱点がある。",
-        "期待通りに動かない場合もあり、使う前によく知ることが大切です。",
-        "AIを日々の生活で使う上で、その限界を知り賢く活用しましょう。"
+        "この記事はAIが自動で色々できると見えても、実はまだ完璧ではないことを教えてくれます。",
+        "AIが賢い指示を出すには、人間が適切な準備や手助けが必要な場合があることがわかります。",
+        "AIを使う誰もが、AIの能力と限界を正しく理解し、賢く付き合っていくヒントになります。"
       ],
-      "highlight": "AIが自動で働くプログラムは便利ですが、まだ万能ではないと知り、賢く活用できるようになります。"
+      "highlight": "AIの賢さを過信せず、私たち人間がより効果的にAIを使いこなせるようになりました。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "実績ゼロでも作れるAI副業商品の見つけ方｜自分の経験を小さな商品に変える棚卸し術",
-      "title_ja": "実績ゼロでも作れるAI副業商品の見つけ方｜自分の経験を小さな商品に変える棚卸し術",
-      "url": "https://note.com/nikkei225_trader/n/nfbe6866c1560",
+      "title": "ChatGPTは「使う人」と「使わない人」で、1年後に大きな差がつくかもしれない",
+      "title_ja": "ChatGPTは「使う人」と「使わない人」で、1年後に大きな差がつくかもしれない",
+      "url": "https://note.com/no_te1n/n/n817c58793337",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-27",
+      "published_at": "2026-07-28",
       "lang": "ja",
-      "score": 129.0,
+      "score": 69.0,
       "summary": [
-        "AIを使って、実績がなくても副業の商品を作る方法を教えてくれます。",
-        "自分の経験をAIで整理し、売れる商品に変えるコツが分かります。",
-        "副業を始めたい人や、自分の得意を活かしたい人に役立ちます。"
+        "ChatGPTを使いこなすかどうかで、",
+        "あなたの仕事や学習の効率が変わり、",
+        "将来の生活に大きな差が生まれます"
       ],
-      "highlight": "AIの力で、あなたの経験がお金になる商品に変わります。"
+      "highlight": "AIを使いこなすかどうかが、あなたの未来を大きく変えるようになった"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "自社のレビュー履歴からAIコードレビュアーをつくる方法",
-      "title_ja": "自社のレビュー履歴からAIコードレビュアーをつくる方法",
-      "url": "https://zenn.dev/tiwanari/articles/f0f114389662ba",
-      "likes": 54,
+      "title": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
+      "title_ja": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
+      "url": "https://zenn.dev/nikoniko_dely/articles/7a27a44c06b30a",
+      "likes": 5,
       "comments": 0,
-      "published_at": "2026-07-21",
+      "published_at": "2026-07-28",
       "lang": "ja",
-      "score": 62.0,
+      "score": 44.0,
       "summary": [
-        "会社が過去に直した記録を元にAIが学ぶ",
-        "AIがプログラムの誤りや改善点を自動で発見",
-        "より速く正確なシステム開発が進む"
+        "AIが文章の中から個人情報を自動で見つけて、隠してくれる新技術です",
+        "企業は大切な顧客情報を、より安全に扱えるようになります",
+        "私たちの個人情報が守られ、安心してサービスを使える社会へ変わります"
       ],
-      "highlight": "会社独自のノウハウをAIが学び、プログラムの間違いを自動でチェックできるようになり、私たちが使うサービスの品質と開発速度が大きく向上する"
+      "highlight": "AIが私たちの個人情報を自動で見つけて隠せるようになり、情報漏洩の心配が減るでしょう。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "AIエージェント",
+    "ChatGPT",
+    "GPT",
+    "生成AI"
+  ]
 }
