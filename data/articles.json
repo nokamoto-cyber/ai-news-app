@@ -1,65 +1,60 @@
 {
-  "updated_at": "2026-07-29 07:55",
+  "updated_at": "2026-07-30 07:57",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "The Dirty Secret Behind AI Agents (Demo 🚀)",
-      "title_ja": "AIエージェントの隠された秘密（デモ付き）",
-      "url": "https://dev.to/sylwia-lask/the-dirty-secret-behind-ai-agents-demo--273d",
-      "likes": 128,
-      "comments": 130,
-      "published_at": "2026-07-23",
+      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
+      "title_ja": "新人プログラマーの育成、AIが壊した問題",
+      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
+      "likes": 195,
+      "comments": 160,
+      "published_at": "2026-07-27",
       "lang": "en",
-      "score": 399.0,
+      "score": 526.0,
       "summary": [
-        "この記事はAIが自動で色々できると見えても、実はまだ完璧ではないことを教えてくれます。",
-        "AIが賢い指示を出すには、人間が適切な準備や手助けが必要な場合があることがわかります。",
-        "AIを使う誰もが、AIの能力と限界を正しく理解し、賢く付き合っていくヒントになります。"
+        "AIが進化し、新人プログラマーの道が困難に",
+        "AIがコード作成し、新人育成の機会が減少",
+        "将来IT業界に進む人、子どもたちの選択肢に"
       ],
-      "highlight": "AIの賢さを過信せず、私たち人間がより効果的にAIを使いこなせるようになりました。"
+      "highlight": "AIが自動でプログラミングし、新人の活躍の場が変わる"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "ChatGPTは「使う人」と「使わない人」で、1年後に大きな差がつくかもしれない",
-      "title_ja": "ChatGPTは「使う人」と「使わない人」で、1年後に大きな差がつくかもしれない",
-      "url": "https://note.com/no_te1n/n/n817c58793337",
+      "title": "【AIの歴史 Vol.005】AIは、どうやって間違いを減らしてきたの？〜人の評価・検索・道具を使い、少しずつ「確かめられるAI」へ〜",
+      "title_ja": "【AIの歴史 Vol.005】AIは、どうやって間違いを減らしてきたの？〜人の評価・検索・道具を使い、少しずつ「確かめられるAI」へ〜",
+      "url": "https://note.com/yu_min_days/n/n77bd05098e5f",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-28",
+      "published_at": "2026-07-29",
       "lang": "ja",
-      "score": 69.0,
+      "score": 266.0,
       "summary": [
-        "ChatGPTを使いこなすかどうかで、",
-        "あなたの仕事や学習の効率が変わり、",
-        "将来の生活に大きな差が生まれます"
+        "AIが間違いを減らすため、人がどう手助けしてきたかを解説します。",
+        "人の力でAIが賢くなり、もっと頼れる存在へ変わった経緯がわかります。",
+        "より正確になったAIは、私たちの生活を安全で便利にするでしょう。"
       ],
-      "highlight": "AIを使いこなすかどうかが、あなたの未来を大きく変えるようになった"
+      "highlight": "人が関わることで、AIは間違いが少なくなり、安心して使えるようになりました。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
-      "title_ja": "生成AIでPIIを消し去る！SnowflakeのAI_REDACTでフリーテキストを守る挑戦",
-      "url": "https://zenn.dev/nikoniko_dely/articles/7a27a44c06b30a",
-      "likes": 5,
+      "title": "AI に「させないこと」から決める — Terraform のレビュー観点を6段階に分解した話",
+      "title_ja": "AI に「させないこと」から決める — Terraform のレビュー観点を6段階に分解した話",
+      "url": "https://zenn.dev/paya02/articles/0a597fe4b65e15",
+      "likes": 10,
       "comments": 0,
-      "published_at": "2026-07-28",
+      "published_at": "2026-07-29",
       "lang": "ja",
-      "score": 44.0,
+      "score": 43.0,
       "summary": [
-        "AIが文章の中から個人情報を自動で見つけて、隠してくれる新技術です",
-        "企業は大切な顧客情報を、より安全に扱えるようになります",
-        "私たちの個人情報が守られ、安心してサービスを使える社会へ変わります"
+        "AIに任せる部分と人の役割を明確にする大切さ",
+        "AIが関わるシステムをより安全に運用できる",
+        "AIを使うサービスがより安全で信頼できるものになる"
       ],
-      "highlight": "AIが私たちの個人情報を自動で見つけて隠せるようになり、情報漏洩の心配が減るでしょう。"
+      "highlight": "AI任せの危険性を減らし、人が責任を持つ部分を明確にしたことで、AIが関わるサービス全体をより安心して使えるようになった。"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント",
-    "ChatGPT",
-    "GPT",
-    "生成AI"
-  ]
+  "trending_keywords": []
 }
