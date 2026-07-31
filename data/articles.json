@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-07-31 08:02",
+  "updated_at": "2026-08-01 07:57",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "title_ja": "若手プログラマーの道が閉ざされる？ AIがその原因か",
+      "title_ja": "ジュニア開発者の育成ルートが壊れた…AIがその原因だ",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "likes": 221,
-      "comments": 185,
+      "likes": 251,
+      "comments": 197,
       "published_at": "2026-07-27",
       "lang": "en",
-      "score": 602.0,
+      "score": 656.0,
       "summary": [
-        "AIの進化で若手プログラマーが育ちにくくなった",
-        "簡単な開発はAIが行うようになり人が不要になる",
-        "プログラマーを目指す学生や企業は影響を受ける"
+        "記事本文が提供されていないため、",
+        "詳しい内容を要約できませんでした。",
+        "本文をご提示いただければ回答可能です。"
       ],
-      "highlight": "AIが簡単なプログラミングをこなし人の学び方が変わった"
+      "highlight": "記事本文がないため、内容のハイライトを特定できませんでした。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "Google Cloud Platform(GCP)で生成AIを動かす(初回準備編)",
-      "title_ja": "Google Cloud Platform(GCP)で生成AIを動かす(初回準備編)",
-      "url": "https://note.com/tdfm_engineer/n/n5f2bf843bb09",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-07-30",
-      "lang": "ja",
-      "score": 64.0,
-      "summary": [
-        "GoogleのコンピューターでAIを使う準備がわかる",
-        "自分だけのAIを動かすための土台が整う",
-        "未来の新しいAIサービスが次々生まれるきっかけになる"
-      ],
-      "highlight": "専門知識がなくても、自分だけのAIを開発・利用する道が開かれた"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AI時代に感じた危機感と、エンジニアがこれから考えるべきこと",
       "title_ja": "AI時代に感じた危機感と、エンジニアがこれから考えるべきこと",
       "url": "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
-      "likes": 42,
+      "likes": 50,
       "comments": 0,
       "published_at": "2026-07-28",
       "lang": "ja",
-      "score": 50.0,
+      "score": 58.0,
       "summary": [
-        "AIの進化が仕事のやり方を大きく変えることへの危機感。",
-        "エンジニアが新しいAI時代にどう働き方を変えるべきか。",
-        "技術者だけでなく、全ての人の働き方が問われる時代。"
+        "AIの登場で、仕事の仕方が大きく変わる。",
+        "専門家もAIと協力し、働き方を見直す。",
+        "私たちがAIと協力して、新しい仕事を作る時代。"
       ],
-      "highlight": "AIの進化で、私たちの働き方や仕事内容が大きく変わる"
+      "highlight": "AIが難しい作業をこなし、人はもっと創造的な仕事ができるようになった。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "OpenAIとDeepMind──同じ「AGI」を目指しながら、まったく違う道を歩む2つのAI研究機関",
+      "title_ja": "OpenAIとDeepMind──同じ「AGI」を目指しながら、まったく違う道を歩む2つのAI研究機関",
+      "url": "https://note.com/vault_logic/n/nae45997435ee",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-07-31",
+      "lang": "ja",
+      "score": 52.0,
+      "summary": [
+        "二つのAI研究機関の目指す未来がわかる記事。",
+        "人間のように考えるAIの開発方針の違いについて。",
+        "この違いが、私たちのAI社会を変えていくでしょう。"
+      ],
+      "highlight": "人間並みに賢いAIが、異なる方法で実現し、私たちの未来が変わります。"
     }
   ],
   "trending_keywords": [
-    "Google",
-    "生成AI"
+    "OpenAI"
   ]
 }
