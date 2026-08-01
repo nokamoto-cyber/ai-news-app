@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-08-01 07:57",
+  "updated_at": "2026-08-02 07:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "title_ja": "ジュニア開発者の育成ルートが壊れた…AIがその原因だ",
+      "title_ja": "新人プログラマーの育成が困難に…AIが引き金",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "likes": 251,
-      "comments": 197,
+      "likes": 257,
+      "comments": 204,
       "published_at": "2026-07-27",
       "lang": "en",
-      "score": 656.0,
+      "score": 676.0,
       "summary": [
-        "記事本文が提供されていないため、",
-        "詳しい内容を要約できませんでした。",
-        "本文をご提示いただければ回答可能です。"
+        "AIの進化で新人プログラマーが育ちにくい状況を説明しています。",
+        "簡単なプログラミングはAIが代行し、新人が経験を積む場が減りました。",
+        "これからプログラマーを目指す人は、より高い専門スキルが求められます。"
       ],
-      "highlight": "記事本文がないため、内容のハイライトを特定できませんでした。"
+      "highlight": "AIの進化により、新人プログラマーが実務で経験を積む機会が大きく減りました。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "AI時代に感じた危機感と、エンジニアがこれから考えるべきこと",
-      "title_ja": "AI時代に感じた危機感と、エンジニアがこれから考えるべきこと",
-      "url": "https://zenn.dev/nabewata/articles/8cef1bd4cbae3f",
-      "likes": 50,
+      "source": "note",
+      "title": "ChatGPTを120％活用するプロンプトの作り方｜初心者でも回答の質が変わる5つのコツ",
+      "title_ja": "ChatGPTを120％活用するプロンプトの作り方｜初心者でも回答の質が変わる5つのコツ",
+      "url": "https://note.com/aipracticalnote/n/nf215acc5b104",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-07-28",
+      "published_at": "2026-08-01",
       "lang": "ja",
-      "score": 58.0,
+      "score": 123.0,
       "summary": [
-        "AIの登場で、仕事の仕方が大きく変わる。",
-        "専門家もAIと協力し、働き方を見直す。",
-        "私たちがAIと協力して、新しい仕事を作る時代。"
+        "ChatGPTへの質問のコツを学ぶ記事です",
+        "AIの回答が格段に良くなる方法を解説",
+        "初心者でもAI活用の幅が広がるヒント"
       ],
-      "highlight": "AIが難しい作業をこなし、人はもっと創造的な仕事ができるようになった。"
+      "highlight": "質問のコツを知れば、誰でもAIから質の高い情報を引き出せるようになった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "OpenAIとDeepMind──同じ「AGI」を目指しながら、まったく違う道を歩む2つのAI研究機関",
-      "title_ja": "OpenAIとDeepMind──同じ「AGI」を目指しながら、まったく違う道を歩む2つのAI研究機関",
-      "url": "https://note.com/vault_logic/n/nae45997435ee",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "AI フレンドリーな CLI を開発するテクニック",
+      "title_ja": "AI フレンドリーな CLI を開発するテクニック",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
+      "likes": 48,
       "comments": 0,
-      "published_at": "2026-07-31",
+      "published_at": "2026-08-01",
       "lang": "ja",
-      "score": 52.0,
+      "score": 81.0,
       "summary": [
-        "二つのAI研究機関の目指す未来がわかる記事。",
-        "人間のように考えるAIの開発方針の違いについて。",
-        "この違いが、私たちのAI社会を変えていくでしょう。"
+        "AIがもっと便利に使えるような、文字で命令するプログラムの作り方を説明しています。",
+        "私たちがAIに文字で指示する時に、AIがもっと正確に内容を理解し、手伝ってくれるようになります。",
+        "これからAIと協力して作業する人が、より便利な道具を使えるようになる未来につながります。"
       ],
-      "highlight": "人間並みに賢いAIが、異なる方法で実現し、私たちの未来が変わります。"
+      "highlight": "AIがパソコンの文字入力操作を、まるで人のように賢く手伝ってくれるようになる"
     }
   ],
   "trending_keywords": [
-    "OpenAI"
+    "ChatGPT",
+    "GPT"
   ]
 }
