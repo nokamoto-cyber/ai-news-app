@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-08-02 07:52",
+  "updated_at": "2026-08-03 07:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "title_ja": "新人プログラマーの育成が困難に…AIが引き金",
+      "title_ja": "若手プログラマーの育成はAIで崩壊した",
       "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "likes": 257,
-      "comments": 204,
+      "likes": 259,
+      "comments": 206,
       "published_at": "2026-07-27",
       "lang": "en",
-      "score": 676.0,
+      "score": 682.0,
       "summary": [
-        "AIの進化で新人プログラマーが育ちにくい状況を説明しています。",
-        "簡単なプログラミングはAIが代行し、新人が経験を積む場が減りました。",
-        "これからプログラマーを目指す人は、より高い専門スキルが求められます。"
+        "AIの進化で若手プログラマーの育成が難しくなった。",
+        "AIが簡単なプログラミングを担い新人が学ぶ場が減少。",
+        "プログラマー志望者は専門性を高める必要があり企業も対応。"
       ],
-      "highlight": "AIの進化により、新人プログラマーが実務で経験を積む機会が大きく減りました。"
+      "highlight": "AIが簡単なプログラミングを自動化し、若手が育つ仕組み自体が変わる。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "ChatGPTを120％活用するプロンプトの作り方｜初心者でも回答の質が変わる5つのコツ",
-      "title_ja": "ChatGPTを120％活用するプロンプトの作り方｜初心者でも回答の質が変わる5つのコツ",
-      "url": "https://note.com/aipracticalnote/n/nf215acc5b104",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-01",
-      "lang": "ja",
-      "score": 123.0,
-      "summary": [
-        "ChatGPTへの質問のコツを学ぶ記事です",
-        "AIの回答が格段に良くなる方法を解説",
-        "初心者でもAI活用の幅が広がるヒント"
-      ],
-      "highlight": "質問のコツを知れば、誰でもAIから質の高い情報を引き出せるようになった"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AI フレンドリーな CLI を開発するテクニック",
       "title_ja": "AI フレンドリーな CLI を開発するテクニック",
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-      "likes": 48,
+      "likes": 68,
       "comments": 0,
       "published_at": "2026-08-01",
       "lang": "ja",
-      "score": 81.0,
+      "score": 86.0,
       "summary": [
-        "AIがもっと便利に使えるような、文字で命令するプログラムの作り方を説明しています。",
-        "私たちがAIに文字で指示する時に、AIがもっと正確に内容を理解し、手伝ってくれるようになります。",
-        "これからAIと協力して作業する人が、より便利な道具を使えるようになる未来につながります。"
+        "キーボードで文字を打つパソコン作業が",
+        "AIの力でもっと便利になる仕組みの紹介",
+        "AIがあなたの作業を先回りして助けます"
       ],
-      "highlight": "AIがパソコンの文字入力操作を、まるで人のように賢く手伝ってくれるようになる"
+      "highlight": "AIがあなたのパソコン作業を、まるで秘書のように賢く手助けしてくれるようになる"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "指示しなくてももAIが動く時代がくる？　今日、自分の「任せる範囲」を1つ決める",
+      "title_ja": "指示しなくてもAIが動く時代がくる？ 今日、自分の「任せる範囲」を1つ決める",
+      "url": "https://note.com/ai_tofumaru/n/nedee5177c3ff",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-02",
+      "lang": "ja",
+      "score": 60.0,
+      "summary": [
+        "AIが指示なしで動く未来の話です",
+        "私たちはAIに任せる範囲を考える",
+        "仕事や生活がもっと便利になります"
+      ],
+      "highlight": "AIが指示なしで仕事を始め、私たちの手間を減らしてくれるようになる"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT"
-  ]
+  "trending_keywords": []
 }
