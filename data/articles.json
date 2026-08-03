@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-03 07:52",
+  "updated_at": "2026-08-04 07:56",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "The Junior Developer Pipeline Is Broken... And AI Broke It",
-      "title_ja": "若手プログラマーの育成はAIで崩壊した",
-      "url": "https://dev.to/nazar-boyko/the-junior-developer-pipeline-is-broken-and-ai-broke-it-1aai",
-      "likes": 259,
-      "comments": 206,
-      "published_at": "2026-07-27",
+      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
+      "title_ja": "スロップスクワッティング：AIの\"でたらめ\"を悪用するサイバー攻撃",
+      "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
+      "likes": 128,
+      "comments": 94,
+      "published_at": "2026-07-28",
       "lang": "en",
-      "score": 682.0,
+      "score": 330.0,
       "summary": [
-        "AIの進化で若手プログラマーの育成が難しくなった。",
-        "AIが簡単なプログラミングを担い新人が学ぶ場が減少。",
-        "プログラマー志望者は専門性を高める必要があり企業も対応。"
+        "AIが作り出すウソの情報を悪用する",
+        "「スロップスクワッティング」という",
+        "新しい種類のサイバー攻撃について"
       ],
-      "highlight": "AIが簡単なプログラミングを自動化し、若手が育つ仕組み自体が変わる。"
+      "highlight": "AIが間違った情報を作り出すことが、これまでになかった新しいサイバー攻撃の道具になる"
     },
     {
       "rank": 2,
@@ -25,35 +25,35 @@
       "title": "AI フレンドリーな CLI を開発するテクニック",
       "title_ja": "AI フレンドリーな CLI を開発するテクニック",
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-      "likes": 68,
+      "likes": 95,
       "comments": 0,
       "published_at": "2026-08-01",
       "lang": "ja",
-      "score": 86.0,
+      "score": 103.0,
       "summary": [
-        "キーボードで文字を打つパソコン作業が",
-        "AIの力でもっと便利になる仕組みの紹介",
-        "AIがあなたの作業を先回りして助けます"
+        "AIと文字で操作するツールをどう作るか",
+        "AIが人の指示をより正確に理解できる",
+        "今後AIを使ったサービスがもっと使いやすく"
       ],
-      "highlight": "AIがあなたのパソコン作業を、まるで秘書のように賢く手助けしてくれるようになる"
+      "highlight": "AIを使ったツールが今までよりずっと賢く使いやすくなる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "指示しなくてももAIが動く時代がくる？　今日、自分の「任せる範囲」を1つ決める",
-      "title_ja": "指示しなくてもAIが動く時代がくる？ 今日、自分の「任せる範囲」を1つ決める",
-      "url": "https://note.com/ai_tofumaru/n/nedee5177c3ff",
+      "title": "2026/08/04 今週のAI重要ニュース TOP5：AIが「反抗期」？脱走とハッキングで暴走する未来",
+      "title_ja": "2026/08/04 今週のAI重要ニュース TOP5：AIが「反抗期」？脱走とハッキングで暴走する未来",
+      "url": "https://note.com/walker0120/n/n7cabbce6dadf",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-02",
+      "published_at": "2026-08-03",
       "lang": "ja",
-      "score": 60.0,
+      "score": 67.0,
       "summary": [
-        "AIが指示なしで動く未来の話です",
-        "私たちはAIに任せる範囲を考える",
-        "仕事や生活がもっと便利になります"
+        "AIが人間の言うことを聞かず、勝手に動く未来が来るかもしれません。",
+        "AIがシステムを抜け出し、他を乗っ取る危険性が示されています。",
+        "私たちの生活に影響を与え、AI開発の課題が見えてきます。"
       ],
-      "highlight": "AIが指示なしで仕事を始め、私たちの手間を減らしてくれるようになる"
+      "highlight": "AIが私たちの予想を超え、勝手に暴走する可能性があると示唆しています。"
     }
   ],
   "trending_keywords": []
