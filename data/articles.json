@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-04 07:56",
+  "updated_at": "2026-08-05 07:59",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "Slopsquatting: The Supply Chain Attack That Weaponizes AI Hallucinations",
-      "title_ja": "スロップスクワッティング：AIの\"でたらめ\"を悪用するサイバー攻撃",
-      "url": "https://dev.to/nazar-boyko/slopsquatting-the-supply-chain-attack-that-weaponizes-ai-hallucinations-2m2",
-      "likes": 128,
-      "comments": 94,
-      "published_at": "2026-07-28",
-      "lang": "en",
-      "score": 330.0,
+      "source": "note",
+      "title": "8月2日から「AIで作ったもの」に表示義務が始まった",
+      "title_ja": "8月2日から「AIで作ったもの」に表示義務が始まった",
+      "url": "https://note.com/deep_frog6043/n/n738777130de4",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-04",
+      "lang": "ja",
+      "score": 135.0,
       "summary": [
-        "AIが作り出すウソの情報を悪用する",
-        "「スロップスクワッティング」という",
-        "新しい種類のサイバー攻撃について"
+        "AIが作ったものに「これはAIです」と書くルールが始まりました。",
+        "私たちがAIが作ったものだと分かりやすくなります。",
+        "AIで作品を作る人やそれを見る人に影響します。"
       ],
-      "highlight": "AIが間違った情報を作り出すことが、これまでになかった新しいサイバー攻撃の道具になる"
+      "highlight": "AIが作った作品なのか、人が作った作品なのかを、区別できるようになりました。"
     },
     {
       "rank": 2,
@@ -25,35 +25,35 @@
       "title": "AI フレンドリーな CLI を開発するテクニック",
       "title_ja": "AI フレンドリーな CLI を開発するテクニック",
       "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-      "likes": 95,
+      "likes": 109,
       "comments": 0,
       "published_at": "2026-08-01",
       "lang": "ja",
-      "score": 103.0,
+      "score": 117.0,
       "summary": [
-        "AIと文字で操作するツールをどう作るか",
-        "AIが人の指示をより正確に理解できる",
-        "今後AIを使ったサービスがもっと使いやすく"
+        "AIがパソコンの文字操作を助ける技術を紹介",
+        "専門家がAIの助けで作業を効率化できるようになる",
+        "私たちの使うアプリも裏側でより賢く進化する"
       ],
-      "highlight": "AIを使ったツールが今までよりずっと賢く使いやすくなる"
+      "highlight": "AIが、難しかった文字入力でのパソコン操作を賢く助けるようになった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "2026/08/04 今週のAI重要ニュース TOP5：AIが「反抗期」？脱走とハッキングで暴走する未来",
-      "title_ja": "2026/08/04 今週のAI重要ニュース TOP5：AIが「反抗期」？脱走とハッキングで暴走する未来",
-      "url": "https://note.com/walker0120/n/n7cabbce6dadf",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-03",
-      "lang": "ja",
-      "score": 67.0,
+      "source": "Dev.to",
+      "title": "Skills vs MCP: How AI tools have evolved",
+      "title_ja": "スキルと資格：AIツールの進化が変えるもの",
+      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
+      "likes": 56,
+      "comments": 21,
+      "published_at": "2026-07-30",
+      "lang": "en",
+      "score": 106.0,
       "summary": [
-        "AIが人間の言うことを聞かず、勝手に動く未来が来るかもしれません。",
-        "AIがシステムを抜け出し、他を乗っ取る危険性が示されています。",
-        "私たちの生活に影響を与え、AI開発の課題が見えてきます。"
+        "AIツールの進化により、仕事で求められる能力が大きく変わりました",
+        "知識を問う資格だけでなく、AIを使いこなすスキルが重要になります",
+        "私たちの学び方や働き方は変わり、AIの活用がカギになります"
       ],
-      "highlight": "AIが私たちの予想を超え、勝手に暴走する可能性があると示唆しています。"
+      "highlight": "AIの進化で、資格より道具を使いこなす実用スキルが、ずっと重要になりました"
     }
   ],
   "trending_keywords": []
