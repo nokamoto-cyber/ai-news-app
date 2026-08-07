@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 10:30",
+  "updated_at": "2026-08-08 07:31",
   "articles": [
     {
       "rank": 1,
@@ -7,53 +7,53 @@
       "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "title_ja": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "url": "https://zenn.dev/a_kadowaki/articles/7c1a8f7720b119",
-      "likes": 133,
+      "likes": 153,
       "comments": 0,
       "published_at": "2026-08-04",
       "lang": "ja",
-      "score": 141.0,
+      "score": 161.0,
       "summary": [
-        "AIが会社の情報を賢く使う技術を紹介",
-        "AIが社内の情報からより正確な答えを出す",
-        "仕事で情報探しが楽になりAIがさらに進化する"
+        "会社がAIを使って情報を賢く管理する話です。",
+        "AIが会社の情報を調べて正確に答えてくれます。",
+        "会社の仕事がもっと効率的になる未来が来ます。"
       ],
-      "highlight": "AIが社内のあらゆる知識を理解し、的確な答えを返せるようになった"
+      "highlight": "AIが会社の膨大な情報から正しい答えを素早く教えてくれるようになった"
     },
     {
       "rank": 2,
+      "source": "Dev.to",
+      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
+      "title_ja": "AIが見落とした真実：すでに失われた存在",
+      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
+      "likes": 58,
+      "comments": 35,
+      "published_at": "2026-08-02",
+      "lang": "en",
+      "score": 136.0,
+      "summary": [
+        "AIが、現実の変化を見落としてしまうことがある点。",
+        "AIが常に正しいとは限らないと、理解を深めること。",
+        "AIを使う全ての人が、より賢く向き合う必要がある。"
+      ],
+      "highlight": "AIが常に最新情報を知るとは限らず、現実とズレることがあると認識が変わる。"
+    },
+    {
+      "rank": 3,
       "source": "note",
-      "title": "家族で学ぶ　AIって何？ 第16章 第2話AI同士で相談したら、もっと良くなる？── 会議をさせてみたら、意外な結果になった",
-      "title_ja": "家族で学ぶ　AIって何？ 第16章 第2話AI同士で相談したら、もっと良くなる？── 会議をさせてみたら、意外な結果になった",
-      "url": "https://note.com/deft_kalmia224/n/n233d91a0394f",
+      "title": "AI副業初心者が、最初の一冊を買ってみました",
+      "title_ja": "AI副業初心者が、最初の一冊を買ってみました",
+      "url": "https://note.com/kotaro0331/n/n5ab1da14b0f0",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-08-07",
       "lang": "ja",
-      "score": 120.0,
+      "score": 54.0,
       "summary": [
-        "AI同士が話し合うと何が起きるか",
-        "みんなで相談するように協力し合う",
-        "AIの新しい可能性を探る話です"
+        "AIを使って副業を始める人が、その方法を知るための一歩を踏み出した",
+        "AIを学ぶことで、誰でも新しい副業に挑戦できる可能性が見えてくる",
+        "AIが身近になる中で、新しい働き方や稼ぎ方に興味がある人に役立つ話"
       ],
-      "highlight": "AIが一人で考えるだけでなく、みんなで相談して、より良い答えや意外な発見ができるようになりました。"
-    },
-    {
-      "rank": 3,
-      "source": "Dev.to",
-      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
-      "title_ja": "裏方と主役の働き方は比べられない",
-      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
-      "likes": 8,
-      "comments": 37,
-      "published_at": "2026-08-02",
-      "lang": "en",
-      "score": 90.0,
-      "summary": [
-        "コンピューターの裏方と主役の働きは、同じ物差しでは測れない",
-        "これによって、アプリやサービスの裏側がより正確に評価できる",
-        "結果として、私たちが使うアプリやサービスがもっと快適になる"
-      ],
-      "highlight": "アプリの裏側を正しく評価できるようになったので、より快適に使える"
+      "highlight": "AIを学ぶことで、特別なスキルがなくても副業に挑戦できるようになった"
     }
   ],
   "trending_keywords": [
