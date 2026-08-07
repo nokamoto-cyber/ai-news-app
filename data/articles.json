@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-08-06 07:55",
+  "updated_at": "2026-08-07 10:30",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "【生成AI実験レポート】BBCドラマ『シャーロック』の『ベルグレービアの醜聞』での携帯パスワード解読実験",
-      "title_ja": "【生成AI実験レポート】BBCドラマ『シャーロック』の『ベルグレービアの醜聞』での携帯パスワード解読実験",
-      "url": "https://note.com/annachan/n/n45bdfeac2fed",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
+      "title_ja": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
+      "url": "https://zenn.dev/a_kadowaki/articles/7c1a8f7720b119",
+      "likes": 133,
       "comments": 0,
-      "published_at": "2026-08-05",
+      "published_at": "2026-08-04",
       "lang": "ja",
-      "score": 716.0,
+      "score": 141.0,
       "summary": [
-        "AIがドラマ内の携帯パスワードを推理した実験です。",
-        "AIが映像や会話からパスワードを読み取れる可能性を示しました。",
-        "これからのAIの進化や情報保護の大切さがわかります。"
+        "AIが会社の情報を賢く使う技術を紹介",
+        "AIが社内の情報からより正確な答えを出す",
+        "仕事で情報探しが楽になりAIがさらに進化する"
       ],
-      "highlight": "AIがドラマのわずかな手がかりから、携帯のパスワードを推理できるようになった"
+      "highlight": "AIが社内のあらゆる知識を理解し、的確な答えを返せるようになった"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "AI フレンドリーな CLI を開発するテクニック",
-      "title_ja": "AI フレンドリーな CLI を開発するテクニック",
-      "url": "https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly",
-      "likes": 119,
+      "source": "note",
+      "title": "家族で学ぶ　AIって何？ 第16章 第2話AI同士で相談したら、もっと良くなる？── 会議をさせてみたら、意外な結果になった",
+      "title_ja": "家族で学ぶ　AIって何？ 第16章 第2話AI同士で相談したら、もっと良くなる？── 会議をさせてみたら、意外な結果になった",
+      "url": "https://note.com/deft_kalmia224/n/n233d91a0394f",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-01",
+      "published_at": "2026-08-07",
       "lang": "ja",
-      "score": 127.0,
+      "score": 120.0,
       "summary": [
-        "AIがパソコンへの文字入力を助ける技術を紹介",
-        "パソコンへ文字で指示する作業がずっと楽になる",
-        "パソコンをより簡単に操作できる未来につながる"
+        "AI同士が話し合うと何が起きるか",
+        "みんなで相談するように協力し合う",
+        "AIの新しい可能性を探る話です"
       ],
-      "highlight": "難しいパソコンへの文字による指示が、AIの助けで誰にでも簡単にできるようになる"
+      "highlight": "AIが一人で考えるだけでなく、みんなで相談して、より良い答えや意外な発見ができるようになりました。"
     },
     {
       "rank": 3,
       "source": "Dev.to",
-      "title": "Skills vs MCP: How AI tools have evolved",
-      "title_ja": "AIの進化：資格より実力が問われる時代へ",
-      "url": "https://dev.to/googleai/skills-vs-mcp-how-ai-tools-have-evolved-3pmk",
-      "likes": 56,
-      "comments": 22,
-      "published_at": "2026-07-30",
+      "title": "Sub-Agent Metrics Are Not Comparable to Main-Thread Metrics",
+      "title_ja": "裏方と主役の働き方は比べられない",
+      "url": "https://dev.to/hexisteme/sub-agent-metrics-are-not-comparable-to-main-thread-metrics-5585",
+      "likes": 8,
+      "comments": 37,
+      "published_at": "2026-08-02",
       "lang": "en",
-      "score": 108.0,
+      "score": 90.0,
       "summary": [
-        "AI技術の進化で、仕事に大切な能力が変わります。",
-        "特定の資格より、自分で課題を解決する実力が重要です。",
-        "誰もがスキルを見直し、働き方が大きく変化するでしょう。"
+        "コンピューターの裏方と主役の働きは、同じ物差しでは測れない",
+        "これによって、アプリやサービスの裏側がより正確に評価できる",
+        "結果として、私たちが使うアプリやサービスがもっと快適になる"
       ],
-      "highlight": "AIの進化で、資格の有無より、実際に「何ができるか」が問われる時代に変わる"
+      "highlight": "アプリの裏側を正しく評価できるようになったので、より快適に使える"
     }
   ],
   "trending_keywords": [
-    "生成AI"
+    "RAG"
   ]
 }
