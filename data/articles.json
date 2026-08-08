@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 07:31",
+  "updated_at": "2026-08-09 07:24",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,57 @@
       "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "title_ja": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "url": "https://zenn.dev/a_kadowaki/articles/7c1a8f7720b119",
-      "likes": 153,
+      "likes": 177,
       "comments": 0,
       "published_at": "2026-08-04",
       "lang": "ja",
-      "score": 161.0,
+      "score": 185.0,
       "summary": [
-        "会社がAIを使って情報を賢く管理する話です。",
-        "AIが会社の情報を調べて正確に答えてくれます。",
-        "会社の仕事がもっと効率的になる未来が来ます。"
+        "AIを使って会社の膨大な知識を整理し、必要な時にすぐ探せる技術の話",
+        "社員は知りたい情報をAIに聞くだけで、会社の資料から答えをすぐに得られます",
+        "会社員の仕事が効率化し、より良いサービスが生まれることにつながります"
       ],
-      "highlight": "AIが会社の膨大な情報から正しい答えを素早く教えてくれるようになった"
+      "highlight": "AIが会社にある大量の資料から、知りたい情報を素早く正確に見つけ出して教えてくれるようになった"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
-      "title_ja": "AIが見落とした真実：すでに失われた存在",
-      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
-      "likes": 58,
-      "comments": 35,
-      "published_at": "2026-08-02",
-      "lang": "en",
-      "score": 136.0,
+      "source": "note",
+      "title": "【私が思う生成AIって何？】まとめ仕様書 ObsidianとAIで作る個人note環境",
+      "title_ja": "【私が思う生成AIって何？】まとめ仕様書 ObsidianとAIで作る個人note環境",
+      "url": "https://note.com/long_racoon458/n/n1c1591a33cd3",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-08",
+      "lang": "ja",
+      "score": 142.0,
       "summary": [
-        "AIが、現実の変化を見落としてしまうことがある点。",
-        "AIが常に正しいとは限らないと、理解を深めること。",
-        "AIを使う全ての人が、より賢く向き合う必要がある。"
+        "AIを使って自分の考えや情報をまとめる方法",
+        "専用ツールとAIで文章作成がぐっと楽に",
+        "個人が簡単に情報を発信できる未来へ"
       ],
-      "highlight": "AIが常に最新情報を知るとは限らず、現実とズレることがあると認識が変わる。"
+      "highlight": "AIと特定のツールを使うことで、誰もが手軽に情報をまとめ、自分の言葉で発信できるようになった。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "AI副業初心者が、最初の一冊を買ってみました",
-      "title_ja": "AI副業初心者が、最初の一冊を買ってみました",
-      "url": "https://note.com/kotaro0331/n/n5ab1da14b0f0",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-07",
-      "lang": "ja",
-      "score": 54.0,
+      "source": "Dev.to",
+      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
+      "title_ja": "ストラテジェム #21: AIはPがまだ生きていると思っていた。Pはもういなかった。",
+      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
+      "likes": 59,
+      "comments": 35,
+      "published_at": "2026-08-02",
+      "lang": "en",
+      "score": 137.0,
       "summary": [
-        "AIを使って副業を始める人が、その方法を知るための一歩を踏み出した",
-        "AIを学ぶことで、誰でも新しい副業に挑戦できる可能性が見えてくる",
-        "AIが身近になる中で、新しい働き方や稼ぎ方に興味がある人に役立つ話"
+        "AIは常に正しいとは限らず、古い情報を基に間違った判断をすることがあります。",
+        "AIから得た情報が本当に正しいか、自分で確認する意識が大切になります。",
+        "AIを日常的に使う全ての人にとって、賢くAIを活用するための重要な視点です。"
       ],
-      "highlight": "AIを学ぶことで、特別なスキルがなくても副業に挑戦できるようになった"
+      "highlight": "AIは完璧ではないと知り、その情報を正しく見極める力がより重要になります。"
     }
   ],
   "trending_keywords": [
-    "RAG"
+    "RAG",
+    "生成AI"
   ]
 }
