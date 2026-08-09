@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09 07:24",
+  "updated_at": "2026-08-10 07:27",
   "articles": [
     {
       "rank": 1,
@@ -7,57 +7,56 @@
       "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "title_ja": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "url": "https://zenn.dev/a_kadowaki/articles/7c1a8f7720b119",
-      "likes": 177,
+      "likes": 189,
       "comments": 0,
       "published_at": "2026-08-04",
       "lang": "ja",
-      "score": 185.0,
+      "score": 197.0,
       "summary": [
-        "AIを使って会社の膨大な知識を整理し、必要な時にすぐ探せる技術の話",
-        "社員は知りたい情報をAIに聞くだけで、会社の資料から答えをすぐに得られます",
-        "会社員の仕事が効率化し、より良いサービスが生まれることにつながります"
+        "最新のAI技術を使って、会社の情報を効率よく活用する方法を紹介。",
+        "AIが社内データから必要な答えを見つけ、社員の質問に素早く答えます。",
+        "企業が情報を活用し、私たち消費者により良いサービスや製品を提供します。"
       ],
-      "highlight": "AIが会社にある大量の資料から、知りたい情報を素早く正確に見つけ出して教えてくれるようになった"
+      "highlight": "会社が持つ大量の情報を、AIが賢く整理して活用できるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【私が思う生成AIって何？】まとめ仕様書 ObsidianとAIで作る個人note環境",
-      "title_ja": "【私が思う生成AIって何？】まとめ仕様書 ObsidianとAIで作る個人note環境",
-      "url": "https://note.com/long_racoon458/n/n1c1591a33cd3",
+      "title": "AI副業で月5万円を目指すなら、最初の30日で何をする？初心者向け完全ロードマップ",
+      "title_ja": "AI副業で月5万円を目指すなら、最初の30日で何をする？初心者向け完全ロードマップ",
+      "url": "https://note.com/genial_curlew436/n/nb1b30464e95a",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-08",
+      "published_at": "2026-08-09",
       "lang": "ja",
-      "score": 142.0,
+      "score": 138.0,
       "summary": [
-        "AIを使って自分の考えや情報をまとめる方法",
-        "専用ツールとAIで文章作成がぐっと楽に",
-        "個人が簡単に情報を発信できる未来へ"
+        "AIを使った副業で稼ぐ方法を",
+        "初めての人でも分かるように",
+        "最初の1ヶ月の行動を示します。"
       ],
-      "highlight": "AIと特定のツールを使うことで、誰もが手軽に情報をまとめ、自分の言葉で発信できるようになった。"
+      "highlight": "誰でもAIの力で副業に挑戦し、収入を増やせるチャンスが広がった。"
     },
     {
       "rank": 3,
       "source": "Dev.to",
-      "title": "Stratagems #21: The AI Thought P Was Still Alive. P Was Already Gone.",
-      "title_ja": "ストラテジェム #21: AIはPがまだ生きていると思っていた。Pはもういなかった。",
-      "url": "https://dev.to/xulingfeng/stratagems-21-the-ai-thought-p-was-still-alive-p-was-already-gone-59h7",
-      "likes": 59,
-      "comments": 35,
-      "published_at": "2026-08-02",
+      "title": "I Recreated Management With AI: 9 Things I Do Differently",
+      "title_ja": "AIで仕事のやり方を改革！私が変えた9つのこと",
+      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+      "likes": 42,
+      "comments": 17,
+      "published_at": "2026-08-06",
       "lang": "en",
-      "score": 137.0,
+      "score": 87.0,
       "summary": [
-        "AIは常に正しいとは限らず、古い情報を基に間違った判断をすることがあります。",
-        "AIから得た情報が本当に正しいか、自分で確認する意識が大切になります。",
-        "AIを日常的に使う全ての人にとって、賢くAIを活用するための重要な視点です。"
+        "AIが仕事の管理方法をどう変えるか",
+        "AIが仕事の段取りや計画を助けてくれる",
+        "誰もがもっと効率的に働けるようになる"
       ],
-      "highlight": "AIは完璧ではないと知り、その情報を正しく見極める力がより重要になります。"
+      "highlight": "AIが面倒な仕事の管理を代わりに行い、人がより創造的な仕事に集中できるようになった。"
     }
   ],
   "trending_keywords": [
-    "RAG",
-    "生成AI"
+    "RAG"
   ]
 }
