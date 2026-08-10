@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 07:27",
+  "updated_at": "2026-08-11 07:33",
   "articles": [
     {
       "rank": 1,
@@ -7,53 +7,53 @@
       "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "title_ja": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
       "url": "https://zenn.dev/a_kadowaki/articles/7c1a8f7720b119",
-      "likes": 189,
+      "likes": 198,
       "comments": 0,
       "published_at": "2026-08-04",
       "lang": "ja",
-      "score": 197.0,
+      "score": 206.0,
       "summary": [
-        "最新のAI技術を使って、会社の情報を効率よく活用する方法を紹介。",
-        "AIが社内データから必要な答えを見つけ、社員の質問に素早く答えます。",
-        "企業が情報を活用し、私たち消費者により良いサービスや製品を提供します。"
+        "AIが会社の専門知識をもっと賢く使う方法",
+        "社内の膨大な情報をAIが正確に探し出し教えます",
+        "社員の業務が効率化され顧客対応も向上します"
       ],
-      "highlight": "会社が持つ大量の情報を、AIが賢く整理して活用できるようになった"
+      "highlight": "AIが会社の情報をもとに、知りたいことを正確に瞬時に答えられるようになった。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AI副業で月5万円を目指すなら、最初の30日で何をする？初心者向け完全ロードマップ",
-      "title_ja": "AI副業で月5万円を目指すなら、最初の30日で何をする？初心者向け完全ロードマップ",
-      "url": "https://note.com/genial_curlew436/n/nb1b30464e95a",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-09",
-      "lang": "ja",
-      "score": 138.0,
+      "source": "Dev.to",
+      "title": "I Recreated Management With AI: 9 Things I Do Differently",
+      "title_ja": "AIで仕事の管理が劇的に変化：私の9つの新しいやり方",
+      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+      "likes": 55,
+      "comments": 23,
+      "published_at": "2026-08-06",
+      "lang": "en",
+      "score": 112.0,
       "summary": [
-        "AIを使った副業で稼ぐ方法を",
-        "初めての人でも分かるように",
-        "最初の1ヶ月の行動を示します。"
+        "AIが仕事の進め方を大きく変える話です",
+        "計画作りや報告など、色々な仕事をAIが助けます",
+        "働く人の仕事が楽になり、未来の働き方が変わります"
       ],
-      "highlight": "誰でもAIの力で副業に挑戦し、収入を増やせるチャンスが広がった。"
+      "highlight": "AIが人の仕事を助け、仕事の管理が誰でも速く正確にできるようになった"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "title_ja": "AIで仕事のやり方を改革！私が変えた9つのこと",
-      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
-      "likes": 42,
-      "comments": 17,
-      "published_at": "2026-08-06",
-      "lang": "en",
-      "score": 87.0,
+      "source": "note",
+      "title": "【AI駆動開発】AIDDもくもく会の参加レポート：現場で得た「すぐ試せる」AI実践知",
+      "title_ja": "【AI駆動開発】AIDDもくもく会の参加レポート：現場で得た「すぐ試せる」AI実践知",
+      "url": "https://note.com/vlogleguide/n/nbd92b1472662",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-10",
+      "lang": "ja",
+      "score": 66.0,
       "summary": [
-        "AIが仕事の管理方法をどう変えるか",
-        "AIが仕事の段取りや計画を助けてくれる",
-        "誰もがもっと効率的に働けるようになる"
+        "AIを開発に活用するイベントの報告です。",
+        "現場ですぐに使える実践的なAIの知恵を紹介。",
+        "AIがもっと身近になり仕事の効率化が進みます。"
       ],
-      "highlight": "AIが面倒な仕事の管理を代わりに行い、人がより創造的な仕事に集中できるようになった。"
+      "highlight": "難しい知識なしに誰もがAIを自分の仕事にすぐ役立てられるヒントが得られるようになりました。"
     }
   ],
   "trending_keywords": [
