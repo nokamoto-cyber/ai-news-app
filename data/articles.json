@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-08-11 07:33",
+  "updated_at": "2026-08-12 07:38",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
-      "title_ja": "【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理",
-      "url": "https://zenn.dev/a_kadowaki/articles/7c1a8f7720b119",
-      "likes": 198,
-      "comments": 0,
-      "published_at": "2026-08-04",
-      "lang": "ja",
-      "score": 206.0,
+      "source": "Dev.to",
+      "title": "I Recreated Management With AI: 9 Things I Do Differently",
+      "title_ja": "AIが変える！仕事の管理術：9つの新しいやり方",
+      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
+      "likes": 62,
+      "comments": 33,
+      "published_at": "2026-08-06",
+      "lang": "en",
+      "score": 139.0,
       "summary": [
-        "AIが会社の専門知識をもっと賢く使う方法",
-        "社内の膨大な情報をAIが正確に探し出し教えます",
-        "社員の業務が効率化され顧客対応も向上します"
+        "AIが仕事の管理方法を新しくする話",
+        "ムダな作業が減り効率よく仕事が進む",
+        "働く人みんなの仕事のやり方が変わる"
       ],
-      "highlight": "AIが会社の情報をもとに、知りたいことを正確に瞬時に答えられるようになった。"
+      "highlight": "AIを活用することで、誰でも仕事の管理を劇的に効率化できるようになった"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "title_ja": "AIで仕事の管理が劇的に変化：私の9つの新しいやり方",
-      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
-      "likes": 55,
-      "comments": 23,
-      "published_at": "2026-08-06",
-      "lang": "en",
-      "score": 112.0,
+      "source": "note",
+      "title": "AI副業初心者へ｜7日で「最初の1円」を目指すスマホ実践ガイド",
+      "title_ja": "AI副業初心者へ｜7日で「最初の1円」を目指すスマホ実践ガイド",
+      "url": "https://note.com/chatgptmain/n/n7844184ae40c",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-11",
+      "lang": "ja",
+      "score": 116.0,
       "summary": [
-        "AIが仕事の進め方を大きく変える話です",
-        "計画作りや報告など、色々な仕事をAIが助けます",
-        "働く人の仕事が楽になり、未来の働き方が変わります"
+        "AIとスマホを使い副業を始める方法が書かれた記事です",
+        "一週間で最初の収入を得る体験ができるようになります",
+        "気軽に新しい収入源を作りたい人向けのガイドです"
       ],
-      "highlight": "AIが人の仕事を助け、仕事の管理が誰でも速く正確にできるようになった"
+      "highlight": "スマホだけでAIを使い、手軽に副業を始められるようになった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "【AI駆動開発】AIDDもくもく会の参加レポート：現場で得た「すぐ試せる」AI実践知",
-      "title_ja": "【AI駆動開発】AIDDもくもく会の参加レポート：現場で得た「すぐ試せる」AI実践知",
-      "url": "https://note.com/vlogleguide/n/nbd92b1472662",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "曖昧に使っていたAI周りの言葉を理解する",
+      "title_ja": "曖昧に使っていたAI周りの言葉を理解する",
+      "url": "https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f",
+      "likes": 35,
       "comments": 0,
-      "published_at": "2026-08-10",
+      "published_at": "2026-08-11",
       "lang": "ja",
-      "score": 66.0,
+      "score": 53.0,
       "summary": [
-        "AIを開発に活用するイベントの報告です。",
-        "現場ですぐに使える実践的なAIの知恵を紹介。",
-        "AIがもっと身近になり仕事の効率化が進みます。"
+        "AI関連の難しい言葉を、わかりやすく解説している",
+        "それぞれの言葉の意味が分かると、AIのニュースや話題がすんなり理解できるようになる",
+        "AIは生活に深く関わるので、言葉を知ることで未来の変化に対応しやすくなる"
       ],
-      "highlight": "難しい知識なしに誰もがAIを自分の仕事にすぐ役立てられるヒントが得られるようになりました。"
+      "highlight": "AIの技術やニュースが具体的に理解でき、自分の生活とのつながりが明確になった"
     }
   ],
-  "trending_keywords": [
-    "RAG"
-  ]
+  "trending_keywords": []
 }
