@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-08-12 07:38",
+  "updated_at": "2026-08-13 07:37",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "title_ja": "AIが変える！仕事の管理術：9つの新しいやり方",
+      "title_ja": "AIで仕事の管理を刷新: 9つの新しいやり方",
       "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
       "likes": 62,
-      "comments": 33,
+      "comments": 35,
       "published_at": "2026-08-06",
       "lang": "en",
-      "score": 139.0,
+      "score": 143.0,
       "summary": [
-        "AIが仕事の管理方法を新しくする話",
-        "ムダな作業が減り効率よく仕事が進む",
-        "働く人みんなの仕事のやり方が変わる"
+        "AIを使い、仕事の管理を効率化した話です",
+        "作業の計画や判断をAIが助け効率化します",
+        "会社の働き方や未来の仕事が変わるでしょう"
       ],
-      "highlight": "AIを活用することで、誰でも仕事の管理を劇的に効率化できるようになった"
+      "highlight": "AIが管理業務を大きく変え、より良い働き方ができるようになった"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AI副業初心者へ｜7日で「最初の1円」を目指すスマホ実践ガイド",
-      "title_ja": "AI副業初心者へ｜7日で「最初の1円」を目指すスマホ実践ガイド",
-      "url": "https://note.com/chatgptmain/n/n7844184ae40c",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-11",
-      "lang": "ja",
-      "score": 116.0,
-      "summary": [
-        "AIとスマホを使い副業を始める方法が書かれた記事です",
-        "一週間で最初の収入を得る体験ができるようになります",
-        "気軽に新しい収入源を作りたい人向けのガイドです"
-      ],
-      "highlight": "スマホだけでAIを使い、手軽に副業を始められるようになった"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "曖昧に使っていたAI周りの言葉を理解する",
       "title_ja": "曖昧に使っていたAI周りの言葉を理解する",
       "url": "https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f",
-      "likes": 35,
+      "likes": 65,
       "comments": 0,
       "published_at": "2026-08-11",
       "lang": "ja",
-      "score": 53.0,
+      "score": 73.0,
       "summary": [
-        "AI関連の難しい言葉を、わかりやすく解説している",
-        "それぞれの言葉の意味が分かると、AIのニュースや話題がすんなり理解できるようになる",
-        "AIは生活に深く関わるので、言葉を知ることで未来の変化に対応しやすくなる"
+        "AIに関する色々な言葉を正しく知る大切さがわかります",
+        "AIのニュースや会話がもっとよくわかるようになります",
+        "これからのAI時代に迷わず対応するヒントが得られます"
       ],
-      "highlight": "AIの技術やニュースが具体的に理解でき、自分の生活とのつながりが明確になった"
+      "highlight": "AIに関する曖昧な言葉が明確になり、AIの情報に惑わされず自分で判断できるようになります。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "2026年8月 AIモデルトップ10：Claude Opus 5からDeepSeek V4まで",
+      "title_ja": "2026年8月 AIモデルトップ10：Claude Opus 5からDeepSeek V4まで",
+      "url": "https://note.com/bright_jacana710/n/n790da1d86ede",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-12",
+      "lang": "ja",
+      "score": 71.0,
+      "summary": [
+        "2026年の最先端AIを紹介する記事",
+        "より賢いAIが生活を便利に変えていく",
+        "未来の技術に誰もが触れる時代が来る"
+      ],
+      "highlight": "AIがもっと賢く進化し、私たちの仕事や暮らしがずっと便利になる未来がもうすぐそこまで来ています。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Claude"
+  ]
 }
