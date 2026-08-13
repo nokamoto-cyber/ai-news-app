@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-08-13 07:37",
+  "updated_at": "2026-08-14 07:37",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "I Recreated Management With AI: 9 Things I Do Differently",
-      "title_ja": "AIで仕事の管理を刷新: 9つの新しいやり方",
-      "url": "https://dev.to/anchildress1/i-recreated-management-with-ai-9-things-i-do-differently-3j8g",
-      "likes": 62,
-      "comments": 35,
-      "published_at": "2026-08-06",
-      "lang": "en",
-      "score": 143.0,
+      "source": "note",
+      "title": "AIが未解決予想を定理へ変え始めた――しかし、知識や思考は増やすほど賢くなるとは限らない",
+      "title_ja": "AIが未解決予想を定理へ変え始めた――しかし、知識や思考は増やすほど賢くなるとは限らない",
+      "url": "https://note.com/sleepinglion0227/n/n08816d3cb228",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-13",
+      "lang": "ja",
+      "score": 270.0,
       "summary": [
-        "AIを使い、仕事の管理を効率化した話です",
-        "作業の計画や判断をAIが助け効率化します",
-        "会社の働き方や未来の仕事が変わるでしょう"
+        "AIが今まで解けなかった難しい問題を解き始めた。 ",
+        "人間には無理な発見や証明を助ける可能性があります。 ",
+        "しかし、たくさん情報を入れても必ず賢いとは限らない。"
       ],
-      "highlight": "AIが管理業務を大きく変え、より良い働き方ができるようになった"
+      "highlight": "AIが誰も解けなかった数学の難問を証明できるようになった"
     },
     {
       "rank": 2,
+      "source": "Dev.to",
+      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
+      "title_ja": "AIの使いこなしは、考え方次第だ。",
+      "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
+      "likes": 56,
+      "comments": 39,
+      "published_at": "2026-08-10",
+      "lang": "en",
+      "score": 151.0,
+      "summary": [
+        "AIがすごい道具かどうかは、使う人の考え方で変わる",
+        "AIへの質問や指示の出し方で、得られる答えや成果が変わる",
+        "誰もがAIを賢く使いこなし、仕事や生活をより良くできる"
+      ],
+      "highlight": "AIを道具として使う人の考え方次第で、AIから得られる成果が大きく変わるようになった"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "曖昧に使っていたAI周りの言葉を理解する",
       "title_ja": "曖昧に使っていたAI周りの言葉を理解する",
       "url": "https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f",
-      "likes": 65,
+      "likes": 73,
       "comments": 0,
       "published_at": "2026-08-11",
       "lang": "ja",
-      "score": 73.0,
+      "score": 81.0,
       "summary": [
-        "AIに関する色々な言葉を正しく知る大切さがわかります",
-        "AIのニュースや会話がもっとよくわかるようになります",
-        "これからのAI時代に迷わず対応するヒントが得られます"
+        "AIに関するさまざまな言葉の正しい意味がわかる",
+        "AIのニュースが理解しやすくなり、活用方法が見える",
+        "AIの進化についていけ、自分の生活に役立てられる"
       ],
-      "highlight": "AIに関する曖昧な言葉が明確になり、AIの情報に惑わされず自分で判断できるようになります。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "2026年8月 AIモデルトップ10：Claude Opus 5からDeepSeek V4まで",
-      "title_ja": "2026年8月 AIモデルトップ10：Claude Opus 5からDeepSeek V4まで",
-      "url": "https://note.com/bright_jacana710/n/n790da1d86ede",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-12",
-      "lang": "ja",
-      "score": 71.0,
-      "summary": [
-        "2026年の最先端AIを紹介する記事",
-        "より賢いAIが生活を便利に変えていく",
-        "未来の技術に誰もが触れる時代が来る"
-      ],
-      "highlight": "AIがもっと賢く進化し、私たちの仕事や暮らしがずっと便利になる未来がもうすぐそこまで来ています。"
+      "highlight": "あいまいだったAIの言葉が整理され、AIを生活や仕事で役立てる道が開けるようになる"
     }
   ],
-  "trending_keywords": [
-    "Claude"
-  ]
+  "trending_keywords": []
 }
