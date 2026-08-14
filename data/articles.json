@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-14 07:37",
+  "updated_at": "2026-08-15 07:19",
   "articles": [
     {
       "rank": 1,
       "source": "note",
-      "title": "AIが未解決予想を定理へ変え始めた――しかし、知識や思考は増やすほど賢くなるとは限らない",
-      "title_ja": "AIが未解決予想を定理へ変え始めた――しかし、知識や思考は増やすほど賢くなるとは限らない",
-      "url": "https://note.com/sleepinglion0227/n/n08816d3cb228",
+      "title": "動く【2極⇔対義】話す(言葉)_AI対話",
+      "title_ja": "動く【2極⇔対義】話す(言葉)_AI対話",
+      "url": "https://note.com/_koui/n/n3c97de1a4d5a",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-13",
+      "published_at": "2026-08-14",
       "lang": "ja",
-      "score": 270.0,
+      "score": 189.0,
       "summary": [
-        "AIが今まで解けなかった難しい問題を解き始めた。 ",
-        "人間には無理な発見や証明を助ける可能性があります。 ",
-        "しかし、たくさん情報を入れても必ず賢いとは限らない。"
+        "AIがもっと人の気持ちや状況を理解して話す話",
+        "言葉の裏にある意味まで理解し、判断できるようになる",
+        "AIがもっと便利になり、私たちの生活が変わっていきます"
       ],
-      "highlight": "AIが誰も解けなかった数学の難問を証明できるようになった"
+      "highlight": "AIが人の言葉を深く理解し、状況に応じて判断し動けるようになった"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "You Don't Have an AI Problem You Have a Thinking Problem.",
-      "title_ja": "AIの使いこなしは、考え方次第だ。",
-      "url": "https://dev.to/harsh2644/you-dont-have-an-ai-problem-you-have-a-thinking-problem-5f07",
-      "likes": 56,
-      "comments": 39,
-      "published_at": "2026-08-10",
+      "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
+      "title_ja": "AI文章か判別不能な時代は終わり？Claude（クロード）の新しい透かし技術",
+      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
+      "likes": 67,
+      "comments": 41,
+      "published_at": "2026-08-11",
       "lang": "en",
-      "score": 151.0,
+      "score": 165.0,
       "summary": [
-        "AIがすごい道具かどうかは、使う人の考え方で変わる",
-        "AIへの質問や指示の出し方で、得られる答えや成果が変わる",
-        "誰もがAIを賢く使いこなし、仕事や生活をより良くできる"
+        "AIが書いた文章なのかを見分ける新技術について紹介しています。",
+        "Claude（クロード）というAIが作った文章には、秘密の印がつくようになります。",
+        "宿題の不正やフェイクニュース対策など、幅広い分野で役立つと期待されます。"
       ],
-      "highlight": "AIを道具として使う人の考え方次第で、AIから得られる成果が大きく変わるようになった"
+      "highlight": "AIが書いた文章なのかどうか、後から簡単に見破れるようになりました"
     },
     {
       "rank": 3,
@@ -43,18 +43,20 @@
       "title": "曖昧に使っていたAI周りの言葉を理解する",
       "title_ja": "曖昧に使っていたAI周りの言葉を理解する",
       "url": "https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f",
-      "likes": 73,
+      "likes": 78,
       "comments": 0,
       "published_at": "2026-08-11",
       "lang": "ja",
-      "score": 81.0,
+      "score": 86.0,
       "summary": [
-        "AIに関するさまざまな言葉の正しい意味がわかる",
-        "AIのニュースが理解しやすくなり、活用方法が見える",
-        "AIの進化についていけ、自分の生活に役立てられる"
+        "AIに関する様々な言葉の意味が分かります",
+        "これまでのモヤモヤがなくなり理解が深まります",
+        "AIの活用や将来を考える手助けになります"
       ],
-      "highlight": "あいまいだったAIの言葉が整理され、AIを生活や仕事で役立てる道が開けるようになる"
+      "highlight": "AIに関するニュースや話題を、誤解なく自分で判断できるようになった"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Claude"
+  ]
 }
