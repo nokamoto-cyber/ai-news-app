@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-08-17 07:17",
+  "updated_at": "2026-08-18 07:20",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
-      "title_ja": "検出不能なAIテキストの終わり？ Claudeの新しいウォーターマークを解説",
+      "title_ja": "AI文章は見分けがつくように？ クロードの透かし技術",
       "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
-      "likes": 129,
-      "comments": 89,
+      "likes": 138,
+      "comments": 91,
       "published_at": "2026-08-11",
       "lang": "en",
-      "score": 323.0,
+      "score": 336.0,
       "summary": [
-        "AI『Claude』が作った文章だとわかる新しい技術が登場",
-        "文章に特別な『透かし』（目印）が埋め込まれる仕組み",
-        "AIの悪用やウソを見抜きやすくなり、安心につながる"
+        "AIが書いた文章に、隠れた印がつくように。",
+        "AIが書いた文章か判別できる印を導入。",
+        "情報の信頼性が高まり、生活に役立つ。"
       ],
-      "highlight": "AIが作った文章かどうか、誰でも簡単に見分けられるようになる"
+      "highlight": "AIが作った文章と人間の文章の区別ができるようになった"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "最近使うAIについて",
-      "title_ja": "最近使うAIについて",
-      "url": "https://note.com/easy_poppy2386/n/n1c873144daf2",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-16",
+      "source": "Zenn",
+      "title": "なぜAI時代にGoが最適な言語なのか",
+      "title_ja": "なぜAI時代にGoが最適な言語なのか",
+      "url": "https://zenn.dev/iwatsukayura/articles/google-go-ai",
+      "likes": 94,
+      "comments": 1,
+      "published_at": "2026-08-12",
       "lang": "ja",
-      "score": 169.0,
+      "score": 104.0,
       "summary": [
-        "記事本文が提供されていないため、内容を要約できません。",
-        "AIの活用方法については、具体的な情報が必要となります。",
-        "もし記事本文があれば、改めてその内容を説明します。"
+        "AIを効率よく動かすために注目される技術の話",
+        "速くたくさんのAI処理を同時にこなせるようになります",
+        "AIがもっと身近になり、便利なサービスが増えるでしょう"
       ],
-      "highlight": "記事本文がないため、AIに関する要約はできませんでした。"
+      "highlight": "Go言語の登場で、AIを使ったサービスがより速く、便利に動くようになった"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "曖昧に使っていたAI周りの言葉を理解する",
-      "title_ja": "曖昧に使っていたAI周りの言葉を理解する",
-      "url": "https://zenn.dev/yoshipon_tech/articles/a51bbfcc068c1f",
-      "likes": 83,
+      "source": "note",
+      "title": "AIに副業を「丸投げ」する人が急増中──2026年に稼ぐ人だけが知っている3つの変化",
+      "title_ja": "AIに副業を「丸投げ」する人が急増中──2026年に稼ぐ人だけが知っている3つの変化",
+      "url": "https://note.com/clear_marten3410/n/ncfce379935b4",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-11",
+      "published_at": "2026-08-17",
       "lang": "ja",
-      "score": 91.0,
+      "score": 90.0,
       "summary": [
-        "AIに関する様々な言葉の意味や違いを解説",
-        "それぞれのAIが何が得意でどう役立つか分かる",
-        "私たちの生活や仕事でのAI活用に役立ちます"
+        "AIに副業を丸ごと任せて稼ぐ人が増えている話です",
+        "AIが副業のほとんどの作業を代わりにやってくれます",
+        "これからの副業や仕事のやり方が大きく変わります"
       ],
-      "highlight": "AIの言葉が分かり、未来の生活や仕事がどう変わるか予測できるようになった"
+      "highlight": "AIに仕事を任せることで、誰でも手軽に副業ができるようになった"
     }
   ],
   "trending_keywords": [
