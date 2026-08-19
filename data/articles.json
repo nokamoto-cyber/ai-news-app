@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-19 07:19",
+  "updated_at": "2026-08-20 07:21",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "The End of Undetectable AI Text? Claude’s New Watermark Explained",
-      "title_ja": "AIが作った文章かすぐわかる？Claudeの新技術を解説",
-      "url": "https://dev.to/sylwia-lask/the-end-of-undetectable-ai-text-claudes-new-watermark-explained-45g2",
-      "likes": 139,
-      "comments": 93,
-      "published_at": "2026-08-11",
+      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
+      "title_ja": "「AI」の表示はあなたが思うほどすごくない",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
+      "likes": 85,
+      "comments": 97,
+      "published_at": "2026-08-15",
       "lang": "en",
-      "score": 341.0,
+      "score": 298.0,
       "summary": [
-        "AIが書いた文章を見分ける新しい技術が登場したことを伝えています。",
-        "ClaudeというAIが作った文章には、特別な隠れた目印が付きます。",
-        "これからの社会で、情報の信頼性を高める助けになると期待されます。"
+        "「AI」と書かれていても期待と違う場合があるとわかる",
+        "表示だけで判断せず、製品の中身を見極める視点が得られる",
+        "私たちが商品を選ぶ際に、かしこく判断できるようになる"
       ],
-      "highlight": "AIが書いた文章か人間が書いた文章か、簡単に見分けられるようになった"
+      "highlight": "「AI」と宣伝されても、それが本当に役立つ製品か見極める力がつく。"
     },
     {
       "rank": 2,
@@ -25,39 +25,38 @@
       "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "title_ja": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "url": "https://zenn.dev/yuki0123/articles/3f8c1a7b5d902e",
-      "likes": 143,
+      "likes": 168,
       "comments": 2,
       "published_at": "2026-08-17",
       "lang": "ja",
-      "score": 165.0,
+      "score": 180.0,
       "summary": [
-        "AIを使って、パソコンに命令する文（プログラム）を効率よく作る方法",
-        "AIがまるでアシスタントのように、プログラム作りを助けてくれる",
-        "プログラムを作ってみたい人や、未来の技術に興味がある人に役立つ"
+        "AIを使ってパソコンに命令する文章を作る方法",
+        "AIがアイデアをくれたり、指示文を書いたり手伝う",
+        "誰もがパソコンを思い通りに動かせる未来が来る"
       ],
-      "highlight": "AIがまるで専門家のようにプログラム作りを助け、誰もがアイデアを形にできるようになった"
+      "highlight": "AIが、パソコンを動かすための難しい指示を自動で作れるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AI自動化の「理想と現実」：複数チャンネルを運営するためのワークフロー構築の裏側",
-      "title_ja": "AI自動化の「理想と現実」：複数チャンネルを運営するためのワークフロー構築の裏側",
-      "url": "https://note.com/ai_project365/n/nd0128006f17f",
+      "title": "【AI Legends：AI界隈のレジェンドたち】第２１回：私の中で拡散モデル（Diffusion Model）は怪しいのです！ジャシャ・ソール-ディックスタイン",
+      "title_ja": "【AI Legends：AI界隈のレジェンドたち】第２１回：私の中で拡散モデル（Diffusion Model）は怪しいのです！ジャシャ・ソール-ディックスタイン",
+      "url": "https://note.com/noted_cougar644/n/n737a349e6a74",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-18",
+      "published_at": "2026-08-19",
       "lang": "ja",
-      "score": 90.0,
+      "score": 148.0,
       "summary": [
-        "AIを使ってSNSなどの情報発信を自動化すること",
-        "思ったより難しく、うまくいかないこともあるとわかる",
-        "AIを仕事で本当に活用するためのヒントが得られる"
+        "AIで絵を描く技術「拡散モデル」に専門家が疑問を提示",
+        "言葉から絵を作るAIの仕組みと、その課題について議論",
+        "AI画像技術の裏側を知り、賢く使うためのヒントになる"
       ],
-      "highlight": "AIを使って複数のSNS発信を効率化する難しさと、解決策が見えてきた。"
+      "highlight": "AIが描いた絵は素晴らしいが、その裏にはまだ不明な点や課題も残ると気づかされます。"
     }
   ],
   "trending_keywords": [
-    "Claude",
     "ChatGPT",
     "GPT"
   ]
