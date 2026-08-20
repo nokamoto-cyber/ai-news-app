@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-20 07:21",
+  "updated_at": "2026-08-21 07:24",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-      "title_ja": "「AI」の表示はあなたが思うほどすごくない",
+      "title_ja": "「AI」という表示は、あなたが期待するものを測っていないかもしれません",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
-      "likes": 85,
-      "comments": 97,
+      "likes": 97,
+      "comments": 102,
       "published_at": "2026-08-15",
       "lang": "en",
-      "score": 298.0,
+      "score": 320.0,
       "summary": [
-        "「AI」と書かれていても期待と違う場合があるとわかる",
-        "表示だけで判断せず、製品の中身を見極める視点が得られる",
-        "私たちが商品を選ぶ際に、かしこく判断できるようになる"
+        "1行目：製品の「AI搭載」表示は中身を保証しません",
+        "2行目：見た目の言葉に惑わされずに本質を見抜けます",
+        "3行目：賢い製品選びができ皆の生活が豊かになります"
       ],
-      "highlight": "「AI」と宣伝されても、それが本当に役立つ製品か見極める力がつく。"
+      "highlight": "「AI」という言葉に隠された本当の価値や効果を、誰でも見極められるようになりました。"
     },
     {
       "rank": 2,
@@ -25,39 +25,40 @@
       "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "title_ja": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "url": "https://zenn.dev/yuki0123/articles/3f8c1a7b5d902e",
-      "likes": 168,
+      "likes": 201,
       "comments": 2,
       "published_at": "2026-08-17",
       "lang": "ja",
-      "score": 180.0,
+      "score": 213.0,
       "summary": [
-        "AIを使ってパソコンに命令する文章を作る方法",
-        "AIがアイデアをくれたり、指示文を書いたり手伝う",
-        "誰もがパソコンを思い通りに動かせる未来が来る"
+        "AIでプログラムを効率よく作る方法",
+        "AIが自動でプログラミングを手伝う",
+        "誰もがアイデアを形にできる未来に"
       ],
-      "highlight": "AIが、パソコンを動かすための難しい指示を自動で作れるようになった"
+      "highlight": "AIがプログラミングを手伝い、アイデアがもっと簡単に実現できるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【AI Legends：AI界隈のレジェンドたち】第２１回：私の中で拡散モデル（Diffusion Model）は怪しいのです！ジャシャ・ソール-ディックスタイン",
-      "title_ja": "【AI Legends：AI界隈のレジェンドたち】第２１回：私の中で拡散モデル（Diffusion Model）は怪しいのです！ジャシャ・ソール-ディックスタイン",
-      "url": "https://note.com/noted_cougar644/n/n737a349e6a74",
+      "title": "ChatGPTに広告がやってくる──OpenAIが欧州31カ国へ一気拡大、「検索の次」の広告戦争が始まった",
+      "title_ja": "ChatGPTに広告がやってくる──OpenAIが欧州31カ国へ一気拡大、「検索の次」の広告戦争が始まった",
+      "url": "https://note.com/canon_non_no/n/n3e2e9d663f23",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-19",
+      "published_at": "2026-08-20",
       "lang": "ja",
-      "score": 148.0,
+      "score": 61.0,
       "summary": [
-        "AIで絵を描く技術「拡散モデル」に専門家が疑問を提示",
-        "言葉から絵を作るAIの仕組みと、その課題について議論",
-        "AI画像技術の裏側を知り、賢く使うためのヒントになる"
+        "人気のAIサービス「ChatGPT」に広告が表示されるようになります。",
+        "ヨーロッパの多くの国々で、さらにChatGPTが使えるようになります。",
+        "AIを使う人や企業にとって、情報収集や宣伝の仕方が大きく変わります。"
       ],
-      "highlight": "AIが描いた絵は素晴らしいが、その裏にはまだ不明な点や課題も残ると気づかされます。"
+      "highlight": "AIと広告が結びつき、私たちの情報との出会い方が大きく変わるでしょう。"
     }
   ],
   "trending_keywords": [
     "ChatGPT",
-    "GPT"
+    "GPT",
+    "OpenAI"
   ]
 }
