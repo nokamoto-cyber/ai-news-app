@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-21 07:24",
+  "updated_at": "2026-08-22 07:20",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-      "title_ja": "「AI」という表示は、あなたが期待するものを測っていないかもしれません",
+      "title_ja": "「AI」マークはあなたが思うほど意味がない",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
-      "likes": 97,
-      "comments": 102,
+      "likes": 98,
+      "comments": 106,
       "published_at": "2026-08-15",
       "lang": "en",
-      "score": 320.0,
+      "score": 329.0,
       "summary": [
-        "1行目：製品の「AI搭載」表示は中身を保証しません",
-        "2行目：見た目の言葉に惑わされずに本質を見抜けます",
-        "3行目：賢い製品選びができ皆の生活が豊かになります"
+        "「AI」と書いてあっても過信は禁物",
+        "宣伝に惑わされず製品を賢く選べる",
+        "誰でもAI製品を正しく評価できるように"
       ],
-      "highlight": "「AI」という言葉に隠された本当の価値や効果を、誰でも見極められるようになりました。"
+      "highlight": "「AI」と宣伝される製品の中身を正しく理解できるようになり、自分に本当に必要なものを選べるようになる。"
     },
     {
       "rank": 2,
@@ -25,40 +25,39 @@
       "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "title_ja": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "url": "https://zenn.dev/yuki0123/articles/3f8c1a7b5d902e",
-      "likes": 201,
+      "likes": 208,
       "comments": 2,
       "published_at": "2026-08-17",
       "lang": "ja",
-      "score": 213.0,
+      "score": 220.0,
       "summary": [
-        "AIでプログラムを効率よく作る方法",
-        "AIが自動でプログラミングを手伝う",
-        "誰もがアイデアを形にできる未来に"
+        "AIにコンピューターへの命令（プログラム）を効率よく作らせる方法について書かれています。",
+        "会話AIに指示するだけでプログラムができ、できたプログラムをネット上で管理することも可能です。",
+        "プログラミングが身近になり、私たちの生活を豊かにする新しいサービス開発が加速します。"
       ],
-      "highlight": "AIがプログラミングを手伝い、アイデアがもっと簡単に実現できるようになった"
+      "highlight": "AIと会話するだけで、誰でもコンピューターのプログラムを簡単に作れるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPTに広告がやってくる──OpenAIが欧州31カ国へ一気拡大、「検索の次」の広告戦争が始まった",
-      "title_ja": "ChatGPTに広告がやってくる──OpenAIが欧州31カ国へ一気拡大、「検索の次」の広告戦争が始まった",
-      "url": "https://note.com/canon_non_no/n/n3e2e9d663f23",
+      "title": "ChatGPTで売却査定コメントを作る方法｜「高く売れます」だけでは信頼されない",
+      "title_ja": "ChatGPTで売却査定コメントを作る方法｜「高く売れます」だけでは信頼されない",
+      "url": "https://note.com/re_ai_lab/n/nda0afbd30b8f",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-20",
+      "published_at": "2026-08-21",
       "lang": "ja",
-      "score": 61.0,
+      "score": 144.0,
       "summary": [
-        "人気のAIサービス「ChatGPT」に広告が表示されるようになります。",
-        "ヨーロッパの多くの国々で、さらにChatGPTが使えるようになります。",
-        "AIを使う人や企業にとって、情報収集や宣伝の仕方が大きく変わります。"
+        "AIを使って信頼される売却コメントの作り方を紹介",
+        "ただ「高く売れる」だけでなく納得感が向上する",
+        "物を売りたいと考えている人に役立つ情報です"
       ],
-      "highlight": "AIと広告が結びつき、私たちの情報との出会い方が大きく変わるでしょう。"
+      "highlight": "誰でもAIを使って、信頼される売却コメントを作れるようになった"
     }
   ],
   "trending_keywords": [
     "ChatGPT",
-    "GPT",
-    "OpenAI"
+    "GPT"
   ]
 }
