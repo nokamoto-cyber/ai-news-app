@@ -1,63 +1,64 @@
 {
-  "updated_at": "2026-08-22 07:20",
+  "updated_at": "2026-08-23 07:18",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "The \"AI\" Badge Doesn't Measure What You Think It Does",
-      "title_ja": "「AI」マークはあなたが思うほど意味がない",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/the-ai-badge-doesnt-measure-what-you-think-it-does-3ne9",
-      "likes": 98,
-      "comments": 106,
-      "published_at": "2026-08-15",
-      "lang": "en",
-      "score": 329.0,
-      "summary": [
-        "「AI」と書いてあっても過信は禁物",
-        "宣伝に惑わされず製品を賢く選べる",
-        "誰でもAI製品を正しく評価できるように"
-      ],
-      "highlight": "「AI」と宣伝される製品の中身を正しく理解できるようになり、自分に本当に必要なものを選べるようになる。"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "title_ja": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "url": "https://zenn.dev/yuki0123/articles/3f8c1a7b5d902e",
-      "likes": 208,
+      "likes": 222,
       "comments": 2,
       "published_at": "2026-08-17",
       "lang": "ja",
-      "score": 220.0,
+      "score": 234.0,
       "summary": [
-        "AIにコンピューターへの命令（プログラム）を効率よく作らせる方法について書かれています。",
-        "会話AIに指示するだけでプログラムができ、できたプログラムをネット上で管理することも可能です。",
-        "プログラミングが身近になり、私たちの生活を豊かにする新しいサービス開発が加速します。"
+        "AIを上手に組み合わせてプログラミングする方法",
+        "会話するAIに指示してプログラムを自動で作らせる",
+        "専門知識がなくてもAIが開発をしっかり手助けする"
       ],
-      "highlight": "AIと会話するだけで、誰でもコンピューターのプログラムを簡単に作れるようになった。"
+      "highlight": "AI同士を連携させることで、誰でも簡単にプログラムを作れるようになった"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
+      "title_ja": "プロンプトインジェクションのテストを書いた。攻撃は成功したのにテストは合格だった。",
+      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
+      "likes": 7,
+      "comments": 22,
+      "published_at": "2026-08-20",
+      "lang": "en",
+      "score": 62.0,
+      "summary": [
+        "AIの安全を守るテストが完璧ではない現状を伝えています。",
+        "AIがもっと安全になるようテスト方法の改善が求められます。",
+        "私たちが使うAIがより安全に進化するきっかけになります。"
+      ],
+      "highlight": "AIの安全性を測る技術がさらに見直され、より信頼できるAIが使えるようになるきっかけになります。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPTで売却査定コメントを作る方法｜「高く売れます」だけでは信頼されない",
-      "title_ja": "ChatGPTで売却査定コメントを作る方法｜「高く売れます」だけでは信頼されない",
-      "url": "https://note.com/re_ai_lab/n/nda0afbd30b8f",
+      "title": "LLMの基礎——「それらしいのに、どこか一般論」な答えの理由と、使う側が追加するもの",
+      "title_ja": "LLMの基礎——「それらしいのに、どこか一般論」な答えの理由と、使う側が追加するもの",
+      "url": "https://note.com/chinchilla10x/n/n7a5df42eac2c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-21",
+      "published_at": "2026-08-22",
       "lang": "ja",
-      "score": 144.0,
+      "score": 62.0,
       "summary": [
-        "AIを使って信頼される売却コメントの作り方を紹介",
-        "ただ「高く売れる」だけでなく納得感が向上する",
-        "物を売りたいと考えている人に役立つ情報です"
+        "AIが作る文章が、なぜか普通で当たり障りない内容になりがちな理由を教えてくれる記事です。",
+        "利用者が情報や条件を伝えれば、AIはもっと役立つ答えを出せるようになります。",
+        "AIをより賢く、便利に使いこなしたい人にとって、重要なヒントが得られます。"
       ],
-      "highlight": "誰でもAIを使って、信頼される売却コメントを作れるようになった"
+      "highlight": "AIに工夫して伝えることで、誰もがAIを自分だけの専門家のように活用できるようになった。"
     }
   ],
   "trending_keywords": [
     "ChatGPT",
-    "GPT"
+    "GPT",
+    "LLM"
   ]
 }
