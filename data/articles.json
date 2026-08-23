@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 07:18",
+  "updated_at": "2026-08-24 07:18",
   "articles": [
     {
       "rank": 1,
@@ -7,58 +7,58 @@
       "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "title_ja": "Codexを効率よく使う方法（ChatGPT + GitHub）",
       "url": "https://zenn.dev/yuki0123/articles/3f8c1a7b5d902e",
-      "likes": 222,
+      "likes": 227,
       "comments": 2,
       "published_at": "2026-08-17",
       "lang": "ja",
-      "score": 234.0,
+      "score": 239.0,
       "summary": [
-        "AIを上手に組み合わせてプログラミングする方法",
-        "会話するAIに指示してプログラムを自動で作らせる",
-        "専門知識がなくてもAIが開発をしっかり手助けする"
+        "AIでコンピューターのプログラム作りが簡単になるコツ。",
+        "AIに話しかけるだけで、プログラムの一部が作れるようになる。",
+        "プログラミングが身近になり、誰もが新しいものを作れるように。"
       ],
-      "highlight": "AI同士を連携させることで、誰でも簡単にプログラムを作れるようになった"
+      "highlight": "AIがプログラム作りを助けることで、誰もが簡単に新しいものを作れるようになった。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-      "title_ja": "プロンプトインジェクションのテストを書いた。攻撃は成功したのにテストは合格だった。",
-      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
-      "likes": 7,
-      "comments": 22,
-      "published_at": "2026-08-20",
-      "lang": "en",
-      "score": 62.0,
+      "source": "note",
+      "title": "【速報08/24】AI/IT関連ニュース（AIエージェント×AIインフラ×フィジカルAI）",
+      "title_ja": "【速報08/24】AI/IT関連ニュース（AIエージェント×AIインフラ×フィジカルAI）",
+      "url": "https://note.com/it_daytrading/n/nf87e0bbe5788",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-23",
+      "lang": "ja",
+      "score": 84.0,
       "summary": [
-        "AIの安全を守るテストが完璧ではない現状を伝えています。",
-        "AIがもっと安全になるようテスト方法の改善が求められます。",
-        "私たちが使うAIがより安全に進化するきっかけになります。"
+        "AIがもっと賢く便利になる最新情報です",
+        "自分で考えて動くAIやロボットが身近になります",
+        "私たちの仕事や暮らしがさらに便利になります"
       ],
-      "highlight": "AIの安全性を測る技術がさらに見直され、より信頼できるAIが使えるようになるきっかけになります。"
+      "highlight": "AIが自分で考えて動き、現実世界でも活躍できるようになります"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "LLMの基礎——「それらしいのに、どこか一般論」な答えの理由と、使う側が追加するもの",
-      "title_ja": "LLMの基礎——「それらしいのに、どこか一般論」な答えの理由と、使う側が追加するもの",
-      "url": "https://note.com/chinchilla10x/n/n7a5df42eac2c",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-22",
-      "lang": "ja",
-      "score": 62.0,
+      "source": "Dev.to",
+      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
+      "title_ja": "AIをだます攻撃、見破るテストなのに気づけなかった",
+      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
+      "likes": 7,
+      "comments": 30,
+      "published_at": "2026-08-20",
+      "lang": "en",
+      "score": 78.0,
       "summary": [
-        "AIが作る文章が、なぜか普通で当たり障りない内容になりがちな理由を教えてくれる記事です。",
-        "利用者が情報や条件を伝えれば、AIはもっと役立つ答えを出せるようになります。",
-        "AIをより賢く、便利に使いこなしたい人にとって、重要なヒントが得られます。"
+        "AIが悪意ある命令でだまされる問題点を指摘",
+        "その攻撃を見つけ出すテストが失敗した事実",
+        "AIの安全対策の難しさが改めて判明しました"
       ],
-      "highlight": "AIに工夫して伝えることで、誰もがAIを自分だけの専門家のように活用できるようになった。"
+      "highlight": "AIが悪意ある命令にだまされても、それが攻撃だと気づけない問題が明らかになった"
     }
   ],
   "trending_keywords": [
     "ChatGPT",
     "GPT",
-    "LLM"
+    "AIエージェント"
   ]
 }
