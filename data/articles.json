@@ -1,64 +1,60 @@
 {
-  "updated_at": "2026-08-24 07:18",
+  "updated_at": "2026-08-25 07:22",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "Codexを効率よく使う方法（ChatGPT + GitHub）",
-      "title_ja": "Codexを効率よく使う方法（ChatGPT + GitHub）",
-      "url": "https://zenn.dev/yuki0123/articles/3f8c1a7b5d902e",
-      "likes": 227,
-      "comments": 2,
-      "published_at": "2026-08-17",
+      "source": "note",
+      "title": "【8/25 AIニュース】AI競争は「モデル」から「使いこなす仕組み」へ",
+      "title_ja": "AI競争は「モデル」から「使いこなす仕組み」へ",
+      "url": "https://note.com/happy_liger2057/n/nc821d8eb6237",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-24",
       "lang": "ja",
-      "score": 239.0,
+      "score": 265.0,
       "summary": [
-        "AIでコンピューターのプログラム作りが簡単になるコツ。",
-        "AIに話しかけるだけで、プログラムの一部が作れるようになる。",
-        "プログラミングが身近になり、誰もが新しいものを作れるように。"
+        "AIの競争が、すごいAIを作る側から使いこなす側へ変わります",
+        "専門家でなくてもAIを身近に、自分に合わせて使いこなせるようになります",
+        "私たちの生活や仕事がAIの活用でさらに便利になる未来が来ます"
       ],
-      "highlight": "AIがプログラム作りを助けることで、誰もが簡単に新しいものを作れるようになった。"
+      "highlight": "誰でもAIを自分の仕事や生活に役立てやすくなる時代が始まります"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "【速報08/24】AI/IT関連ニュース（AIエージェント×AIインフラ×フィジカルAI）",
-      "title_ja": "【速報08/24】AI/IT関連ニュース（AIエージェント×AIインフラ×フィジカルAI）",
-      "url": "https://note.com/it_daytrading/n/nf87e0bbe5788",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-08-23",
-      "lang": "ja",
-      "score": 84.0,
+      "source": "Dev.to",
+      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
+      "title_ja": "AI攻撃のテストはパス、でも攻撃は成功していた",
+      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
+      "likes": 9,
+      "comments": 40,
+      "published_at": "2026-08-20",
+      "lang": "en",
+      "score": 100.0,
       "summary": [
-        "AIがもっと賢く便利になる最新情報です",
-        "自分で考えて動くAIやロボットが身近になります",
-        "私たちの仕事や暮らしがさらに便利になります"
+        "AIの不正な指示を検知するテストの問題点",
+        "テストでは安全に見えても、実は攻撃が通っていた",
+        "今後AIを安全に使うための改善が求められる"
       ],
-      "highlight": "AIが自分で考えて動き、現実世界でも活躍できるようになります"
+      "highlight": "AIは賢いが、その安全性を測るテストはまだ完璧でないことが明らかになった"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-      "title_ja": "AIをだます攻撃、見破るテストなのに気づけなかった",
-      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
-      "likes": 7,
-      "comments": 30,
-      "published_at": "2026-08-20",
-      "lang": "en",
-      "score": 78.0,
+      "source": "Zenn",
+      "title": "個人レベルにとどまっていたAI活用を、開発フロー全体に広げて手戻りを減らした話",
+      "title_ja": "個人レベルにとどまっていたAI活用を、開発フロー全体に広げて手戻りを減らした話",
+      "url": "https://zenn.dev/tanimuranaomich/articles/f1da6aadf1b218",
+      "likes": 5,
+      "comments": 0,
+      "published_at": "2026-08-24",
+      "lang": "ja",
+      "score": 38.0,
       "summary": [
-        "AIが悪意ある命令でだまされる問題点を指摘",
-        "その攻撃を見つけ出すテストが失敗した事実",
-        "AIの安全対策の難しさが改めて判明しました"
+        "会社全体の仕事にAIを広く使う話です",
+        "作業のムダを減らし効率が良くなりました",
+        "便利なサービスが早く使える未来へ"
       ],
-      "highlight": "AIが悪意ある命令にだまされても、それが攻撃だと気づけない問題が明らかになった"
+      "highlight": "AIを会社全体の仕事に活用し、ムダなくスムーズに進められるようになった"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
