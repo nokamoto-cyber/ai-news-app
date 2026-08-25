@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-08-25 07:22",
+  "updated_at": "2026-08-26 07:23",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "【8/25 AIニュース】AI競争は「モデル」から「使いこなす仕組み」へ",
-      "title_ja": "AI競争は「モデル」から「使いこなす仕組み」へ",
-      "url": "https://note.com/happy_liger2057/n/nc821d8eb6237",
-      "likes": 0,
-      "comments": 0,
+      "source": "Dev.to",
+      "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
+      "title_ja": "AIが開発者を「審査役」に変えたが、その審査役は誰も試していなかった。",
+      "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
+      "likes": 38,
+      "comments": 38,
       "published_at": "2026-08-24",
-      "lang": "ja",
-      "score": 265.0,
+      "lang": "en",
+      "score": 150.0,
       "summary": [
-        "AIの競争が、すごいAIを作る側から使いこなす側へ変わります",
-        "専門家でなくてもAIを身近に、自分に合わせて使いこなせるようになります",
-        "私たちの生活や仕事がAIの活用でさらに便利になる未来が来ます"
+        "AIがプログラムを自動で作るようになり、",
+        "開発者の仕事はチェック中心に変わりました。",
+        "誰もそのチェック役を試していないと警鐘。"
       ],
-      "highlight": "誰でもAIを自分の仕事や生活に役立てやすくなる時代が始まります"
+      "highlight": "AIがプログラムを作るようになり、人の開発者の仕事が大きく変わったのに、そのチェック体制が十分か問われるようになった。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "I wrote a test for prompt injection. It passed while the attack worked.",
-      "title_ja": "AI攻撃のテストはパス、でも攻撃は成功していた",
-      "url": "https://dev.to/mk023/i-wrote-a-test-for-prompt-injection-it-passed-while-the-attack-worked-kc9",
-      "likes": 9,
-      "comments": 40,
-      "published_at": "2026-08-20",
-      "lang": "en",
-      "score": 100.0,
+      "source": "note",
+      "title": "【AIって電気も銅も使うの⁉️】実は私たちの電気代・家電にもつながる「AIの裏側」をのぞいてみた😊",
+      "title_ja": "【AIって電気も銅も使うの⁉️】実は私たちの電気代・家電にもつながる「AIの裏側」をのぞいてみた😊",
+      "url": "https://note.com/mochimochi_365/n/n39b37837ab72",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-08-25",
+      "lang": "ja",
+      "score": 102.0,
       "summary": [
-        "AIの不正な指示を検知するテストの問題点",
-        "テストでは安全に見えても、実は攻撃が通っていた",
-        "今後AIを安全に使うための改善が求められる"
+        "AIは大量の電気や銅を消費しています",
+        "それが私たちの電気代や家電にも影響",
+        "AIと地球環境、私たちの未来に関わる"
       ],
-      "highlight": "AIは賢いが、その安全性を測るテストはまだ完璧でないことが明らかになった"
+      "highlight": "AIが身近になるほど、私たちの電気代や地球の資源消費が変わります"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "個人レベルにとどまっていたAI活用を、開発フロー全体に広げて手戻りを減らした話",
-      "title_ja": "個人レベルにとどまっていたAI活用を、開発フロー全体に広げて手戻りを減らした話",
-      "url": "https://zenn.dev/tanimuranaomich/articles/f1da6aadf1b218",
-      "likes": 5,
+      "title": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
+      "title_ja": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
+      "url": "https://zenn.dev/sasakuna/articles/0cb441713c9fee",
+      "likes": 14,
       "comments": 0,
-      "published_at": "2026-08-24",
+      "published_at": "2026-08-25",
       "lang": "ja",
-      "score": 38.0,
+      "score": 47.0,
       "summary": [
-        "会社全体の仕事にAIを広く使う話です",
-        "作業のムダを減らし効率が良くなりました",
-        "便利なサービスが早く使える未来へ"
+        "AIがプログラムの間違いを見つける、",
+        "意地悪なテストでAIの弱点を探る研究。",
+        "AIがより賢くなり生活が便利になる。"
       ],
-      "highlight": "AIを会社全体の仕事に活用し、ムダなくスムーズに進められるようになった"
+      "highlight": "AIが意地悪なテストを受け、プログラムの安全性が飛躍的に向上した。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "LLM"
+  ]
 }
