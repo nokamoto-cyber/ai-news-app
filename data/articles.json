@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-08-26 07:23",
+  "updated_at": "2026-08-27 11:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "AI promoted every developer to reviewer. Nobody tested the reviewer.",
-      "title_ja": "AIが開発者を「審査役」に変えたが、その審査役は誰も試していなかった。",
-      "url": "https://dev.to/heinrichneb/ai-promoted-every-developer-to-reviewer-nobody-tested-the-reviewer-m4h",
-      "likes": 38,
-      "comments": 38,
-      "published_at": "2026-08-24",
+      "title": "What Do You Do While AI Codes?",
+      "title_ja": "AIがコードを書く間、あなたは何をしますか？",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "likes": 65,
+      "comments": 57,
+      "published_at": "2026-08-25",
       "lang": "en",
-      "score": 150.0,
+      "score": 200.0,
       "summary": [
-        "AIがプログラムを自動で作るようになり、",
-        "開発者の仕事はチェック中心に変わりました。",
-        "誰もそのチェック役を試していないと警鐘。"
+        "AIがプログラムを作るようになり、人間の仕事の役割が変わることを伝えています。",
+        "人はAIに指示を出したり、創造的なアイデアを考えたりする時間が増えます。",
+        "これからの働き方を考え、新しい役割を見つけるきっかけになります。"
       ],
-      "highlight": "AIがプログラムを作るようになり、人の開発者の仕事が大きく変わったのに、そのチェック体制が十分か問われるようになった。"
+      "highlight": "AIがプログラムを作るようになり、人間はより創造的な仕事に集中できるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【AIって電気も銅も使うの⁉️】実は私たちの電気代・家電にもつながる「AIの裏側」をのぞいてみた😊",
-      "title_ja": "【AIって電気も銅も使うの⁉️】実は私たちの電気代・家電にもつながる「AIの裏側」をのぞいてみた😊",
-      "url": "https://note.com/mochimochi_365/n/n39b37837ab72",
+      "title": "AIに仕事を丸投げしたら危ない？現役水道屋が実践するAIに任せる仕事・任せない仕事",
+      "title_ja": "AIに仕事を丸投げしたら危ない？現役水道屋が実践するAIに任せる仕事・任せない仕事",
+      "url": "https://note.com/nex4148/n/n63a77c8bd301",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-25",
+      "published_at": "2026-08-27",
       "lang": "ja",
-      "score": 102.0,
+      "score": 198.0,
       "summary": [
-        "AIは大量の電気や銅を消費しています",
-        "それが私たちの電気代や家電にも影響",
-        "AIと地球環境、私たちの未来に関わる"
+        "AIを仕事でどう使うか、水道屋さんの例で分かります",
+        "簡単な作業はAIに任せ、人は大切な仕事に集中できます",
+        "これからのAI時代、仕事でのAIとの賢い付き合い方が分かります"
       ],
-      "highlight": "AIが身近になるほど、私たちの電気代や地球の資源消費が変わります"
+      "highlight": "AIにどこまで任せて、どこから自分でやるべきか、その見極め方が分かるようになりました"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
-      "title_ja": "敵対的検証をLLMコードレビューで試すと何が起きるのか",
-      "url": "https://zenn.dev/sasakuna/articles/0cb441713c9fee",
-      "likes": 14,
-      "comments": 0,
+      "title": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
+      "title_ja": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
+      "url": "https://zenn.dev/eggletric/articles/4ea81df765fb66",
+      "likes": 103,
+      "comments": 6,
       "published_at": "2026-08-25",
       "lang": "ja",
-      "score": 47.0,
+      "score": 123.0,
       "summary": [
-        "AIがプログラムの間違いを見つける、",
-        "意地悪なテストでAIの弱点を探る研究。",
-        "AIがより賢くなり生活が便利になる。"
+        "AIを常に動かし続けると、かえって良くないことがあると伝えています。",
+        "AIを賢く、もっと効率的に使う方法が見つかるかもしれません。",
+        "これからのAI開発や私たちの生活に大きな影響を与えるでしょう。"
       ],
-      "highlight": "AIが意地悪なテストを受け、プログラムの安全性が飛躍的に向上した。"
+      "highlight": "AIの無駄な稼働を減らし、もっと地球に優しく賢い利用方法へと考え方が変わる。"
     }
   ],
-  "trending_keywords": [
-    "LLM"
-  ]
+  "trending_keywords": []
 }
