@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-28 14:58",
+  "updated_at": "2026-08-29 12:28",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "What Do You Do While AI Codes?",
-      "title_ja": "AIがプログラミングする時、人は何をする？",
+      "title_ja": "AIがプログラムを書く間、人間は何をする？",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "likes": 92,
-      "comments": 79,
+      "likes": 113,
+      "comments": 93,
       "published_at": "2026-08-25",
       "lang": "en",
-      "score": 261.0,
+      "score": 310.0,
       "summary": [
-        "AIが自動でプログラムを作る未来について",
-        "人間は工夫や考えることに集中できるようになる",
-        "私たちの働き方が大きく変わる未来を伝える"
+        "AIがプログラミングをする時代が来る",
+        "人間はもっと考える仕事に集中できる",
+        "私たちの働き方が大きく変わっていく"
       ],
-      "highlight": "AIがプログラムを代わりに書き、人はもっと考えることに集中できるようになった"
+      "highlight": "AIが面倒な作業をするので、人間はもっと大切な仕事に集中できるようになった。"
     },
     {
       "rank": 2,
@@ -25,39 +25,36 @@
       "title": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
       "title_ja": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
       "url": "https://zenn.dev/eggletric/articles/4ea81df765fb66",
-      "likes": 134,
-      "comments": 10,
+      "likes": 143,
+      "comments": 11,
       "published_at": "2026-08-25",
       "lang": "ja",
-      "score": 162.0,
+      "score": 173.0,
       "summary": [
-        "AIをずっと動かすのは本当に良いのかと問いかけます。",
-        "無駄な電力や費用を抑え、賢いAIの使い方が進みます。",
-        "私たちの生活や社会が、もっと効率的で便利になります。"
+        "AIを常に動かし続けることの限界を伝えています",
+        "ただ動かすだけでなく効率的な使い方が大切になります",
+        "私たちの生活におけるAIとの付き合い方が変わるでしょう"
       ],
-      "highlight": "AIは、常に動かすのではなく、必要な時に効率よく使う考え方に変わります。"
+      "highlight": "AIは賢いだけでなく、環境に優しい使い方がより重視されるようになります。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPT応用活用ガイド:5つの実践テクニック",
-      "title_ja": "ChatGPT応用活用ガイド:5つの実践テクニック",
-      "url": "https://note.com/lilith_0704/n/nc7dccdf94488",
+      "title": "『AIの先に、人間がいる』――拡張人間主義という未来思想　第17章第二フィールド",
+      "title_ja": "『AIの先に、人間がいる』――拡張人間主義という未来思想　第17章第二フィールド",
+      "url": "https://note.com/hidden_os/n/n3869edc60bd7",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-28",
+      "published_at": "2026-08-29",
       "lang": "ja",
-      "score": 51.0,
+      "score": 126.0,
       "summary": [
-        "ChatGPTの便利な活用法が分かる記事",
-        "日々の作業を効率化するコツが学べる",
-        "AIを使いこなし生活を豊かにできる"
+        "AIと人間が協力する未来の考え方を説明",
+        "AIが人の知恵や能力を大きく広げる",
+        "私たちの生活や社会のあり方が変わる"
       ],
-      "highlight": "誰でもChatGPTを使いこなし、日々の生活や仕事が劇的に楽になる"
+      "highlight": "AIが人間の可能性を広げ、誰もがより豊かな生活を送れるようになる"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT"
-  ]
+  "trending_keywords": []
 }
