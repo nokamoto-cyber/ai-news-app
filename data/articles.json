@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-29 12:28",
+  "updated_at": "2026-08-30 08:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "What Do You Do While AI Codes?",
-      "title_ja": "AIがプログラムを書く間、人間は何をする？",
+      "title_ja": "AIがプログラムを作る時、私たちは何をする？",
       "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "likes": 113,
-      "comments": 93,
+      "likes": 122,
+      "comments": 116,
       "published_at": "2026-08-25",
       "lang": "en",
-      "score": 310.0,
+      "score": 365.0,
       "summary": [
-        "AIがプログラミングをする時代が来る",
-        "人間はもっと考える仕事に集中できる",
-        "私たちの働き方が大きく変わっていく"
+        "AIが自動でプログラムを作る時代へ",
+        "人はより創造的な仕事に集中できる",
+        "働き方や学ぶ内容が変わっていく未来"
       ],
-      "highlight": "AIが面倒な作業をするので、人間はもっと大切な仕事に集中できるようになった。"
+      "highlight": "AIがコードを書くことで、私たちの仕事がより面白く、効率的に変わります"
     },
     {
       "rank": 2,
@@ -25,36 +25,39 @@
       "title": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
       "title_ja": "AIは回せば回すほど凄いのか ―「常時稼働」という設計の敗北",
       "url": "https://zenn.dev/eggletric/articles/4ea81df765fb66",
-      "likes": 143,
+      "likes": 152,
       "comments": 11,
       "published_at": "2026-08-25",
       "lang": "ja",
-      "score": 173.0,
+      "score": 182.0,
       "summary": [
-        "AIを常に動かし続けることの限界を伝えています",
-        "ただ動かすだけでなく効率的な使い方が大切になります",
-        "私たちの生活におけるAIとの付き合い方が変わるでしょう"
+        "AIは常に動かすのが良いとは限らない。",
+        "AIの無駄な働き方が見直されるだろう。",
+        "持続可能なAIの利用方法が広がっていく。"
       ],
-      "highlight": "AIは賢いだけでなく、環境に優しい使い方がより重視されるようになります。"
+      "highlight": "AIの利用方法が、効率的で環境に優しいものへと大きく変わる。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "『AIの先に、人間がいる』――拡張人間主義という未来思想　第17章第二フィールド",
-      "title_ja": "『AIの先に、人間がいる』――拡張人間主義という未来思想　第17章第二フィールド",
-      "url": "https://note.com/hidden_os/n/n3869edc60bd7",
+      "title": "ChatGPT相手にテレアポを10回練習したら、どこまで営業練習になるの",
+      "title_ja": "ChatGPT相手にテレアポを10回練習したら、どこまで営業練習になるの",
+      "url": "https://note.com/re_ai_lab/n/nd1f356bcaf5f",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-08-29",
       "lang": "ja",
-      "score": 126.0,
+      "score": 141.0,
       "summary": [
-        "AIと人間が協力する未来の考え方を説明",
-        "AIが人の知恵や能力を大きく広げる",
-        "私たちの生活や社会のあり方が変わる"
+        "AIのChatGPTが電話での営業練習にどれだけ使えるか検証した記事です。",
+        "人間に近いAIを相手に、いつでも話し方の練習ができるようになります。",
+        "営業職の人だけでなく、人前で話すのが苦手な人にも役立つ技術です。"
       ],
-      "highlight": "AIが人間の可能性を広げ、誰もがより豊かな生活を送れるようになる"
+      "highlight": "AIがまるで人間のように、あなたの話し方練習相手になってくれるようになった。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT"
+  ]
 }
