@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01 09:58",
+  "updated_at": "2026-09-02 08:46",
   "articles": [
     {
       "rank": 1,
@@ -7,53 +7,53 @@
       "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "title_ja": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "url": "https://zenn.dev/keitakn/articles/dont-outsource-understanding-to-ai",
-      "likes": 478,
+      "likes": 576,
       "comments": 0,
       "published_at": "2026-08-28",
       "lang": "ja",
-      "score": 489.0,
+      "score": 587.0,
       "summary": [
-        "AIの仕組みを深く理解し、自ら開発に関わる方法を紹介",
-        "専門家でなくてもAIを使いこなし、問題解決に活かせる",
-        "未来のAI活用が広がり、私たちの生活がもっと便利になる"
+        "AIをより上手に使うための考え方です。",
+        "ただ使うだけでなく、AIの中身を理解できます。",
+        "AIがもっと身近に、役立つものになります。"
       ],
-      "highlight": "AIを専門家に任せきりにせず、私たち自身が理解することで、AIをより自由に使いこなせるようになった。"
+      "highlight": "AIを丸投げせず、自分で仕組みを理解して使いこなせるようになる点がすごい。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "What Do You Do While AI Codes?",
-      "title_ja": "AIがプログラムを作る間、あなたは何をする？",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "likes": 138,
-      "comments": 133,
-      "published_at": "2026-08-25",
-      "lang": "en",
-      "score": 415.0,
-      "summary": [
-        "AIが代わりにプログラムを作る未来の話",
-        "人間はAIの指示やアイデアを考える役割に",
-        "これからの仕事のやり方が大きく変わる"
-      ],
-      "highlight": "AIがプログラムを書くようになり、私たちの仕事の内容が大きく変わります"
-    },
-    {
-      "rank": 3,
       "source": "note",
-      "title": "【Day 33】AI需要は材料メーカーの利益まで届いた――トリケミカル最高益予想をどう評価するか",
-      "title_ja": "【Day 33】AI需要は材料メーカーの利益まで届いた――トリケミカル最高益予想をどう評価するか",
-      "url": "https://note.com/insight_forge/n/n03f0482fad91",
+      "title": "9/2 AIニュース｜AIは「作る」から「仕事を丸ごと任される」存在へ",
+      "title_ja": "9/2 AIニュース｜AIは「作る」から「仕事を丸ごと任される」存在へ",
+      "url": "https://note.com/happy_liger2057/n/nedd7bbe9d71e",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-09-01",
       "lang": "ja",
-      "score": 72.0,
+      "score": 310.0,
       "summary": [
-        "AI人気で素材メーカーも好業績",
-        "トリケミカルが過去最高の利益",
-        "AIの波紋が産業全体に広がる"
+        "AIが自分で考えて仕事をこなすようになる",
+        "企画から実行までAIが一人でこなせる",
+        "私たちの働き方が大きく変わる未来"
       ],
-      "highlight": "AIの需要が急増したことで、AI製品の材料を作る会社がこれまでにないほど儲かるようになった"
+      "highlight": "AIが人の指示なしに仕事をまるごと進められるようになった"
+    },
+    {
+      "rank": 3,
+      "source": "Dev.to",
+      "title": "Your AI Remembers Everything and Trusts All of It",
+      "title_ja": "AIは全てを記憶し、全てを信用する",
+      "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
+      "likes": 34,
+      "comments": 36,
+      "published_at": "2026-08-28",
+      "lang": "en",
+      "score": 117.0,
+      "summary": [
+        "AIは、あなたが伝えた情報をすべて覚えている。",
+        "記憶した情報を全て正しいと信じて使ってしまう。",
+        "プライバシーや間違った情報に注意が必要です。"
+      ],
+      "highlight": "AIが全てを覚え信じ込むため、情報の安全や正確さの意識が変わる。"
     }
   ],
   "trending_keywords": []
