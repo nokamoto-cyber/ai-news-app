@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-08-31 09:11",
+  "updated_at": "2026-09-01 09:58",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "What Do You Do While AI Codes?",
-      "title_ja": "AIがプログラムを作る時、私たちは何をする？",
-      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
-      "likes": 136,
-      "comments": 129,
-      "published_at": "2026-08-25",
-      "lang": "en",
-      "score": 405.0,
-      "summary": [
-        "AIが自動でプログラムを書く時代に、人間がどんな役割を果たすのか説明",
-        "面倒なコード書きはAIに任せ、人はもっと考える仕事に集中できる",
-        "これからは新しいアイデアを生み出すことや工夫する力がより大切になる"
-      ],
-      "highlight": "AIがプログラムを作るようになり、人間はもっと新しいアイデアや工夫に力を注げるようになった"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
-      "title_ja": "AIに丸投げせず理解するためのAI開発方法（2026年8月現在）",
+      "title_ja": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "url": "https://zenn.dev/keitakn/articles/dont-outsource-understanding-to-ai",
-      "likes": 309,
+      "likes": 478,
       "comments": 0,
       "published_at": "2026-08-28",
       "lang": "ja",
-      "score": 320.0,
+      "score": 489.0,
       "summary": [
-        "AIをただ使うだけでなく、仕組みを理解してうまく活用するための新しい方法が書かれています。",
-        "AIがなぜ動くか分かり、もっと信頼できるAIを、目的に合わせて使えるようになります。",
-        "AIを使う全ての人にとって重要で、私たちの生活がもっと安心で便利になる未来が来るでしょう。"
+        "AIの仕組みを深く理解し、自ら開発に関わる方法を紹介",
+        "専門家でなくてもAIを使いこなし、問題解決に活かせる",
+        "未来のAI活用が広がり、私たちの生活がもっと便利になる"
       ],
-      "highlight": "AIの判断理由が分かるようになり、みんなが安心してAIを使える時代になる。"
+      "highlight": "AIを専門家に任せきりにせず、私たち自身が理解することで、AIをより自由に使いこなせるようになった。"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "What Do You Do While AI Codes?",
+      "title_ja": "AIがプログラムを作る間、あなたは何をする？",
+      "url": "https://dev.to/anchildress1/what-do-you-do-while-ai-codes-k8k",
+      "likes": 138,
+      "comments": 133,
+      "published_at": "2026-08-25",
+      "lang": "en",
+      "score": 415.0,
+      "summary": [
+        "AIが代わりにプログラムを作る未来の話",
+        "人間はAIの指示やアイデアを考える役割に",
+        "これからの仕事のやり方が大きく変わる"
+      ],
+      "highlight": "AIがプログラムを書くようになり、私たちの仕事の内容が大きく変わります"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【Day26】あなたの仕事、AIに任せられるのは何％？",
-      "title_ja": "【Day26】あなたの仕事、AIに任せられるのは何％？",
-      "url": "https://note.com/fair_hornet586/n/nacf87515eb81",
+      "title": "【Day 33】AI需要は材料メーカーの利益まで届いた――トリケミカル最高益予想をどう評価するか",
+      "title_ja": "【Day 33】AI需要は材料メーカーの利益まで届いた――トリケミカル最高益予想をどう評価するか",
+      "url": "https://note.com/insight_forge/n/n03f0482fad91",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-08-31",
+      "published_at": "2026-09-01",
       "lang": "ja",
-      "score": 165.0,
+      "score": 72.0,
       "summary": [
-        "AIが人の仕事をどこまで手伝えるか伝えます",
-        "あなたの仕事がAIでどう変わるか分かります",
-        "これからの働き方を考えるヒントになります"
+        "AI人気で素材メーカーも好業績",
+        "トリケミカルが過去最高の利益",
+        "AIの波紋が産業全体に広がる"
       ],
-      "highlight": "AIが私たちの仕事の多くを代わりにこなせるようになり、働き方が大きく変わっていくでしょう。"
+      "highlight": "AIの需要が急増したことで、AI製品の材料を作る会社がこれまでにないほど儲かるようになった"
     }
   ],
   "trending_keywords": []
