@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02 08:46",
+  "updated_at": "2026-09-03 08:50",
   "articles": [
     {
       "rank": 1,
@@ -7,53 +7,53 @@
       "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "title_ja": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "url": "https://zenn.dev/keitakn/articles/dont-outsource-understanding-to-ai",
-      "likes": 576,
+      "likes": 691,
       "comments": 0,
       "published_at": "2026-08-28",
       "lang": "ja",
-      "score": 587.0,
+      "score": 702.0,
       "summary": [
-        "AIをより上手に使うための考え方です。",
-        "ただ使うだけでなく、AIの中身を理解できます。",
-        "AIがもっと身近に、役立つものになります。"
+        "AIをただ使うだけでなく、その仕組みを理解する方法",
+        "自分でAIをうまく使いこなせるようになる考え方",
+        "AIが身近になり、関わる全ての人に関係する"
       ],
-      "highlight": "AIを丸投げせず、自分で仕組みを理解して使いこなせるようになる点がすごい。"
+      "highlight": "AIを丸投げせず理解することで、私たちはAIをもっと自由に使いこなせるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "9/2 AIニュース｜AIは「作る」から「仕事を丸ごと任される」存在へ",
-      "title_ja": "9/2 AIニュース｜AIは「作る」から「仕事を丸ごと任される」存在へ",
-      "url": "https://note.com/happy_liger2057/n/nedd7bbe9d71e",
+      "title": "AIがかってに動いたらどうする？「止まれ！」ボタンを作っていた",
+      "title_ja": "AIがかってに動いたらどうする？「止まれ！」ボタンを作っていた",
+      "url": "https://note.com/nice_zebra5026/n/ncace1be650f5",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-01",
+      "published_at": "2026-09-02",
       "lang": "ja",
-      "score": 310.0,
+      "score": 192.0,
       "summary": [
-        "AIが自分で考えて仕事をこなすようになる",
-        "企画から実行までAIが一人でこなせる",
-        "私たちの働き方が大きく変わる未来"
+        "AIが勝手に動くのを止める方法ができた",
+        "AIの誤作動を途中で止められるように",
+        "AIを安心して使える未来につながる"
       ],
-      "highlight": "AIが人の指示なしに仕事をまるごと進められるようになった"
+      "highlight": "AIの暴走を止め、より安全に使えるようになった"
     },
     {
       "rank": 3,
       "source": "Dev.to",
-      "title": "Your AI Remembers Everything and Trusts All of It",
-      "title_ja": "AIは全てを記憶し、全てを信用する",
-      "url": "https://dev.to/marcosomma/your-ai-remembers-everything-and-trusts-all-of-it-4gg",
-      "likes": 34,
-      "comments": 36,
-      "published_at": "2026-08-28",
+      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
+      "title_ja": "AIの難しい知識がなくても大丈夫！活用ガイド",
+      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
+      "likes": 53,
+      "comments": 45,
+      "published_at": "2026-09-01",
       "lang": "en",
-      "score": 117.0,
+      "score": 161.0,
       "summary": [
-        "AIは、あなたが伝えた情報をすべて覚えている。",
-        "記憶した情報を全て正しいと信じて使ってしまう。",
-        "プライバシーや間違った情報に注意が必要です。"
+        "専門知識なしでAIを使う方法を紹介",
+        "誰でもアイデアをAIで形にできるようになる",
+        "多くの人がAIを仕事や生活に活かせる"
       ],
-      "highlight": "AIが全てを覚え信じ込むため、情報の安全や正確さの意識が変わる。"
+      "highlight": "AIの難しい仕組みを知らなくても、誰もが自由にAIを活用できるようになった"
     }
   ],
   "trending_keywords": []
