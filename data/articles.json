@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03 08:50",
+  "updated_at": "2026-09-04 08:46",
   "articles": [
     {
       "rank": 1,
@@ -7,53 +7,53 @@
       "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "title_ja": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "url": "https://zenn.dev/keitakn/articles/dont-outsource-understanding-to-ai",
-      "likes": 691,
+      "likes": 764,
       "comments": 0,
       "published_at": "2026-08-28",
       "lang": "ja",
-      "score": 702.0,
+      "score": 775.0,
       "summary": [
-        "AIをただ使うだけでなく、その仕組みを理解する方法",
-        "自分でAIをうまく使いこなせるようになる考え方",
-        "AIが身近になり、関わる全ての人に関係する"
+        "未来のAI開発は、仕組みを理解することが重要",
+        "AIの間違いに気づき、もっと賢く使えるようになる",
+        "AIを使う全ての人に、これからのAIとの向き合い方"
       ],
-      "highlight": "AIを丸投げせず理解することで、私たちはAIをもっと自由に使いこなせるようになった"
+      "highlight": "AIを理解することで、誰もがAIの可能性を最大限に引き出し、新しい未来を自分で作れるようになる"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AIがかってに動いたらどうする？「止まれ！」ボタンを作っていた",
-      "title_ja": "AIがかってに動いたらどうする？「止まれ！」ボタンを作っていた",
-      "url": "https://note.com/nice_zebra5026/n/ncace1be650f5",
+      "title": "2026-09-04 Hacker News Top 10",
+      "title_ja": "2026年9月4日 ハッカーニュース トップ10",
+      "url": "https://note.com/tsuyopei/n/n8a29b3fba2bd",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-02",
+      "published_at": "2026-09-03",
       "lang": "ja",
-      "score": 192.0,
+      "score": 269.0,
       "summary": [
-        "AIが勝手に動くのを止める方法ができた",
-        "AIの誤作動を途中で止められるように",
-        "AIを安心して使える未来につながる"
+        "未来のIT技術やトレンドの注目点がわかります",
+        "最新の技術が私たちの生活をどう変えるか紹介します",
+        "IT業界の進歩がこれからどうなるか想像できます"
       ],
-      "highlight": "AIの暴走を止め、より安全に使えるようになった"
+      "highlight": "新しい技術の発見や進化が、私たちの未来の暮らしを大きく変えていくでしょう"
     },
     {
       "rank": 3,
       "source": "Dev.to",
       "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
-      "title_ja": "AIの難しい知識がなくても大丈夫！活用ガイド",
+      "title_ja": "AIでモノづくり、設計の知識がなくても大丈夫：サバイバルガイド",
       "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
-      "likes": 53,
-      "comments": 45,
+      "likes": 77,
+      "comments": 52,
       "published_at": "2026-09-01",
       "lang": "en",
-      "score": 161.0,
+      "score": 189.0,
       "summary": [
-        "専門知識なしでAIを使う方法を紹介",
-        "誰でもアイデアをAIで形にできるようになる",
-        "多くの人がAIを仕事や生活に活かせる"
+        "専門的な設計知識がなくてもAIでモノづくりができること",
+        "AIが複雑な設計を助け、あなたのアイデアを形にできるようになる",
+        "ITの専門家でなくても誰もが作り手になれる未来がやってくる"
       ],
-      "highlight": "AIの難しい仕組みを知らなくても、誰もが自由にAIを活用できるようになった"
+      "highlight": "設計の専門知識がなくてもAIがアイデアを実現できるようになった"
     }
   ],
   "trending_keywords": []
