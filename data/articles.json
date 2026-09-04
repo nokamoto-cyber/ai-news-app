@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-09-04 08:46",
+  "updated_at": "2026-09-05 08:41",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
-      "title_ja": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
-      "url": "https://zenn.dev/keitakn/articles/dont-outsource-understanding-to-ai",
-      "likes": 764,
-      "comments": 0,
-      "published_at": "2026-08-28",
-      "lang": "ja",
-      "score": 775.0,
+      "source": "Dev.to",
+      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
+      "title_ja": "AIが自分で考えて動く！賢いAIの基本知識",
+      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
+      "likes": 118,
+      "comments": 60,
+      "published_at": "2026-09-03",
+      "lang": "en",
+      "score": 262.0,
       "summary": [
-        "未来のAI開発は、仕組みを理解することが重要",
-        "AIの間違いに気づき、もっと賢く使えるようになる",
-        "AIを使う全ての人に、これからのAIとの向き合い方"
+        "AIが自分で考えて行動する、新しいAIの基本を解説。",
+        "AIが目標達成のため、自分で計画し実行できるよう進化。",
+        "私たちの仕事や生活が、AIでより便利に変わっていく。"
       ],
-      "highlight": "AIを理解することで、誰もがAIの可能性を最大限に引き出し、新しい未来を自分で作れるようになる"
+      "highlight": "AIが指示なしで自分で判断し、複雑な作業もこなせるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "2026-09-04 Hacker News Top 10",
-      "title_ja": "2026年9月4日 ハッカーニュース トップ10",
-      "url": "https://note.com/tsuyopei/n/n8a29b3fba2bd",
+      "title": "結局どれを使えばいいの?主要AIツール徹底比較【2026年版】",
+      "title_ja": "結局どれを使えばいいの?主要AIツール徹底比較【2026年版】",
+      "url": "https://note.com/dainosuke7/n/n9dc08583725c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-03",
+      "published_at": "2026-09-04",
       "lang": "ja",
-      "score": 269.0,
+      "score": 144.0,
       "summary": [
-        "未来のIT技術やトレンドの注目点がわかります",
-        "最新の技術が私たちの生活をどう変えるか紹介します",
-        "IT業界の進歩がこれからどうなるか想像できます"
+        "記事のタイトルはありますが、本文がありませんでした。",
+        "そのため、AIツールの詳しい比較内容を説明できません。",
+        "本文をご提供いただければ、内容を分かりやすく説明します。"
       ],
-      "highlight": "新しい技術の発見や進化が、私たちの未来の暮らしを大きく変えていくでしょう"
+      "highlight": "記事本文がないため、AIツールが私たちの生活をどう変えるかはお伝えできません。"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "Building With AI When You Don't Know Architecture: A Survival Guide",
-      "title_ja": "AIでモノづくり、設計の知識がなくても大丈夫：サバイバルガイド",
-      "url": "https://dev.to/james_anderson_h/building-with-ai-when-you-dont-know-architecture-a-survival-guide-1ma3",
-      "likes": 77,
-      "comments": 52,
-      "published_at": "2026-09-01",
-      "lang": "en",
-      "score": 189.0,
+      "source": "Zenn",
+      "title": "AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価",
+      "title_ja": "AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価",
+      "url": "https://zenn.dev/ktech9/articles/ee2f962e0a69f1",
+      "likes": 11,
+      "comments": 0,
+      "published_at": "2026-09-04",
+      "lang": "ja",
+      "score": 47.0,
       "summary": [
-        "専門的な設計知識がなくてもAIでモノづくりができること",
-        "AIが複雑な設計を助け、あなたのアイデアを形にできるようになる",
-        "ITの専門家でなくても誰もが作り手になれる未来がやってくる"
+        "AIによって薄れたチームの絆を、AIを使って取り戻す話です。",
+        "AIがチームの働き方を客観的に評価し、協力しやすくします。",
+        "会社の働き方が良くなり、誰もが気持ちよく働けるようになります。"
       ],
-      "highlight": "設計の専門知識がなくてもAIがアイデアを実現できるようになった"
+      "highlight": "AIがチームの課題を見つけ出し、みんなが助け合って働けるように変わった。"
     }
   ],
   "trending_keywords": []
