@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-09-07 08:29",
+  "updated_at": "2026-09-08 09:00",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "title_ja": "自分で考えて行動するAIのすごさとは？知っておきたい20の言葉",
+      "title_ja": "開発者が知っておくべき、自分で考えるAIの専門用語20選",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "likes": 163,
-      "comments": 87,
+      "likes": 199,
+      "comments": 105,
       "published_at": "2026-09-03",
       "lang": "en",
-      "score": 351.0,
+      "score": 423.0,
       "summary": [
-        "この記事は、自分で考えて行動するAIの基本を説明します。",
-        "AIが指示なしで複雑な問題を解決し、私たちを助けるようになります。",
-        "仕事や暮らしがもっと便利になり、AIの進化が身近に感じられます。"
+        "自分で目標を考えて行動するAIについて解説",
+        "AIが自分で計画し目標達成できるようになる",
+        "未来のAIとの付き合い方が大きく変わる"
       ],
-      "highlight": "AIが自分で考えて行動するようになり、私たちの生活や仕事が大きく便利に変わります。"
+      "highlight": "AIが人の指示を待つだけでなく、自分で考えて目標を達成できるようになった"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AIの「嘘」はルールで防げない",
-      "title_ja": "AIの「嘘」はルールで防げない",
-      "url": "https://note.com/matoi_studio/n/nd74866ded560",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-06",
-      "lang": "ja",
-      "score": 122.0,
-      "summary": [
-        "AIが間違った情報を言う問題は決まりだけでは解決しません。",
-        "AIが答えた内容をすべて正しいと信じるのは危険だということです。",
-        "私たちはAIの情報を自分で見極めることが大切になります。"
-      ],
-      "highlight": "AIが間違った情報を言う場合があるので、使う側が注意することがより重要になりました。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
       "title_ja": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
       "url": "https://zenn.dev/chimerast/articles/ed0eb2f6b7621a",
-      "likes": 78,
+      "likes": 110,
       "comments": 0,
       "published_at": "2026-09-03",
       "lang": "ja",
-      "score": 86.0,
+      "score": 118.0,
       "summary": [
-        "AIに物事を分かりやすく説明させる良い方法について書かれた記事です。",
-        "AIが簡単な図や表で示してくれるため、難しい内容もわかりやすくなります。",
-        "AI活用で、難しい勉強や情報整理がもっと得意になります。"
+        "AIが、難しい専門知識を誰にでもわかりやすく教えてくれる話です。",
+        "例えばプログラミングも、絵や簡単な言葉で説明してくれます。",
+        "新しいことを学びたい人が、気軽に挑戦できるようになります。"
       ],
-      "highlight": "AIに工夫して指示を出すことで、複雑な情報を誰でも簡単に理解できるようになります。"
+      "highlight": "AIが、難しい専門分野の学習のハードルを大きく下げてくれるようになりました。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "上司への報告で「何から話せばいい？」となる人へ。AIに文章を書かせる前に整理したい4つのこと",
+      "title_ja": "上司への報告で「何から話せばいい？」となる人へ。AIに文章を書かせる前に整理したい4つのこと",
+      "url": "https://note.com/lucky_lion402/n/n4be3c3efb92e",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-07",
+      "lang": "ja",
+      "score": 96.0,
+      "summary": [
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
+      ],
+      "highlight": "要約の生成に失敗しました。"
     }
   ],
   "trending_keywords": []
