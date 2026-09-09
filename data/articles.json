@@ -1,60 +1,66 @@
 {
-  "updated_at": "2026-09-09 08:50",
+  "updated_at": "2026-09-10 08:48",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "title_ja": "開発者が知っておくべきエージェントAI用語20選",
+      "title_ja": "開発者が知っておくべき自律型AIの専門用語20選（やさしい解説）",
       "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "likes": 211,
-      "comments": 109,
+      "likes": 216,
+      "comments": 114,
       "published_at": "2026-09-03",
       "lang": "en",
-      "score": 443.0,
+      "score": 458.0,
       "summary": [
-        "自分で考えて動くAIの基本的な考え方を解説",
-        "AIが人間のように自ら考えて仕事を進めるようになる",
-        "より賢いAIが身近になり私たちの暮らしを便利にする"
+        "自分で考えて行動するAIの専門用語を紹介",
+        "AIが自分で目標達成する賢い技術がわかる",
+        "未来の便利なAIが私たちの生活を変える"
       ],
-      "highlight": "AIがまるで人間のように自分で判断して目標を達成できるようになった"
+      "highlight": "AIが指示なしで自分で考え行動し目的を達成できるようになった"
     },
     {
       "rank": 2,
       "source": "Zenn",
-      "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
-      "title_ja": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
-      "url": "https://zenn.dev/chimerast/articles/ed0eb2f6b7621a",
-      "likes": 127,
+      "title": "ルービックキューブを一撃で解く専用LLMを作った",
+      "title_ja": "ルービックキューブを一撃で解く専用LLMを作った",
+      "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
+      "likes": 84,
       "comments": 0,
-      "published_at": "2026-09-03",
+      "published_at": "2026-09-06",
       "lang": "ja",
-      "score": 135.0,
+      "score": 92.0,
       "summary": [
-        "AIに難しい内容を簡単な言葉と絵で説明させるコツ",
-        "専門的なプログラミングも理解しやすくなる",
-        "ITを学びたい人がもっと学びやすくなる"
+        "ルービックキューブを、AIが瞬時に解く技術ができました。",
+        "どんなにバラバラな状態でも、AIが一瞬で正解の手順を見つけます。",
+        "難しいパズルや問題を、AIが解決するのに役立ちそうです。"
       ],
-      "highlight": "AIが複雑な専門知識を、中学生にも分かるように説明してくれるようになった"
+      "highlight": "AIがどんなルービックキューブも、瞬時に最適な方法で解けるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIをManusから脱出させてみた。生成コードをVPSへ移して別のAI接続先で動かした話― AIアプリビルダーは「作って終わり」じゃなくてもいい ―",
-      "title_ja": "AIをManusから脱出させてみた。生成コードをVPSへ移して別のAI接続先で動かした話― AIアプリビルダーは「作って終わり」じゃなくてもいい ―",
-      "url": "https://note.com/emilia_lab/n/n30a74febfb10",
+      "title": "ChatGPT Images 2.5 徹底検証｜「作り直す」から「直す」へ進化した画像生成AI【2026年9月最新】",
+      "title_ja": "ChatGPT Images 2.5 徹底検証｜「作り直す」から「直す」へ進化した画像生成AI【2026年9月最新】",
+      "url": "https://note.com/natty_quoll9640/n/n92d633f207e6",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-08",
+      "published_at": "2026-09-09",
       "lang": "ja",
-      "score": 54.0,
+      "score": 88.0,
       "summary": [
-        "AIで作ったアプリを、特定のサービスに縛られず自由に使えるようにした話です。",
-        "アプリの仕組みを自分のインターネット上のスペースに移し、好きなAIとつなぎ直せるようになりました。",
-        "これからAIアプリを作る人は、作って終わりではなく、もっと自由に改良・進化させられるようになります。"
+        "AIで画像を作るChatGPTの機能が進化しました",
+        "画像全体を作り直さず一部だけを修正できるようになります",
+        "画像の作成がもっと便利で効率的になります"
       ],
-      "highlight": "AIで作ったアプリが、一度作ったら終わりではなく、いつでも自由に改良して進化させられるようになりました。"
+      "highlight": "AIで作った画像を、作り直さずに気になる部分だけ直接修正できるようになった"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "LLM",
+    "ChatGPT",
+    "GPT",
+    "生成AI",
+    "画像生成"
+  ]
 }
