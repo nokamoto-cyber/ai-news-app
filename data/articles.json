@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-10 08:48",
+  "updated_at": "2026-09-11 08:41",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "20 Agentic AI Terms Every Developer Should Know (Explained Simply)",
-      "title_ja": "開発者が知っておくべき自律型AIの専門用語20選（やさしい解説）",
-      "url": "https://dev.to/sylwia-lask/20-agentic-ai-terms-every-developer-should-know-explained-simply-jii",
-      "likes": 216,
-      "comments": 114,
-      "published_at": "2026-09-03",
+      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
+      "title_ja": "AIの解決策をみんなの知識に：地域で学びの場を作ろう",
+      "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
+      "likes": 120,
+      "comments": 99,
+      "published_at": "2026-09-07",
       "lang": "en",
-      "score": 458.0,
+      "score": 329.0,
       "summary": [
-        "自分で考えて行動するAIの専門用語を紹介",
-        "AIが自分で目標達成する賢い技術がわかる",
-        "未来の便利なAIが私たちの生活を変える"
+        "AI技術の知識をみんなで分かち合い、学び合う大切さを伝えています。",
+        "AIの知識がみんなのものになり、それぞれの生活に役立つようになります。",
+        "AIが身近になり、地域全体で新しいアイデアが生まれるきっかけになるでしょう。"
       ],
-      "highlight": "AIが指示なしで自分で考え行動し目的を達成できるようになった"
+      "highlight": "AIの難しい知識が、誰でも気軽に学べて、生活に役立てられるようになります。"
     },
     {
       "rank": 2,
@@ -25,42 +25,39 @@
       "title": "ルービックキューブを一撃で解く専用LLMを作った",
       "title_ja": "ルービックキューブを一撃で解く専用LLMを作った",
       "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
-      "likes": 84,
+      "likes": 93,
       "comments": 0,
       "published_at": "2026-09-06",
       "lang": "ja",
-      "score": 92.0,
+      "score": 101.0,
       "summary": [
-        "ルービックキューブを、AIが瞬時に解く技術ができました。",
-        "どんなにバラバラな状態でも、AIが一瞬で正解の手順を見つけます。",
-        "難しいパズルや問題を、AIが解決するのに役立ちそうです。"
+        "AIがルービックキューブをあっという間に解けるようになりました。",
+        "複雑な問題もAIが一度に最適な答えを教えてくれます。",
+        "これからAIが私たちの身の回りの難しいことも解決してくれるかもしれません。"
       ],
-      "highlight": "AIがどんなルービックキューブも、瞬時に最適な方法で解けるようになった。"
+      "highlight": "AIがどんなに複雑な問題でも、瞬時に解決策を見つけ出せるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPT Images 2.5 徹底検証｜「作り直す」から「直す」へ進化した画像生成AI【2026年9月最新】",
-      "title_ja": "ChatGPT Images 2.5 徹底検証｜「作り直す」から「直す」へ進化した画像生成AI【2026年9月最新】",
-      "url": "https://note.com/natty_quoll9640/n/n92d633f207e6",
+      "title": "【速報09/11】AI/IT関連ニュース（AI半導体×フィジカルAI×AIエージェント）",
+      "title_ja": "AIとITの最新ニュース",
+      "url": "https://note.com/it_daytrading/n/nbf036e4bf7f3",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-09",
+      "published_at": "2026-09-10",
       "lang": "ja",
-      "score": 88.0,
+      "score": 95.0,
       "summary": [
-        "AIで画像を作るChatGPTの機能が進化しました",
-        "画像全体を作り直さず一部だけを修正できるようになります",
-        "画像の作成がもっと便利で効率的になります"
+        "AIの新しい技術の動向を解説",
+        "生活や仕事がAIでもっと便利に",
+        "私たちの暮らしが大きく変わる未来"
       ],
-      "highlight": "AIで作った画像を、作り直さずに気になる部分だけ直接修正できるようになった"
+      "highlight": "AIが私たちの身の回りで賢く動き、色々なことを代わりにしてくれるようになりました。"
     }
   ],
   "trending_keywords": [
     "LLM",
-    "ChatGPT",
-    "GPT",
-    "生成AI",
-    "画像生成"
+    "AIエージェント"
   ]
 }
