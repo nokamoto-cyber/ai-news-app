@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-11 08:41",
+  "updated_at": "2026-09-12 08:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
-      "title_ja": "AIの解決策をみんなの知識に：地域で学びの場を作ろう",
+      "title_ja": "AIの活用から知識の共有へ：みんなで専門家を育て、地域を豊かにしよう",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
-      "likes": 120,
-      "comments": 99,
+      "likes": 136,
+      "comments": 119,
       "published_at": "2026-09-07",
       "lang": "en",
-      "score": 329.0,
+      "score": 385.0,
       "summary": [
-        "AI技術の知識をみんなで分かち合い、学び合う大切さを伝えています。",
-        "AIの知識がみんなのものになり、それぞれの生活に役立つようになります。",
-        "AIが身近になり、地域全体で新しいアイデアが生まれるきっかけになるでしょう。"
+        "AIの知識を共有し、みんなで学ぶ大切さ",
+        "AIの専門家が増え、助け合って学べるようになります",
+        "AIに関心ある人や地域全体の力が強まり、新しい社会づくりにつながります"
       ],
-      "highlight": "AIの難しい知識が、誰でも気軽に学べて、生活に役立てられるようになります。"
+      "highlight": "AIの専門知識が地域全体で共有され、みんなの生活や仕事が劇的に進化する"
     },
     {
       "rank": 2,
@@ -25,39 +25,38 @@
       "title": "ルービックキューブを一撃で解く専用LLMを作った",
       "title_ja": "ルービックキューブを一撃で解く専用LLMを作った",
       "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
-      "likes": 93,
+      "likes": 96,
       "comments": 0,
       "published_at": "2026-09-06",
       "lang": "ja",
-      "score": 101.0,
+      "score": 104.0,
       "summary": [
-        "AIがルービックキューブをあっという間に解けるようになりました。",
-        "複雑な問題もAIが一度に最適な答えを教えてくれます。",
-        "これからAIが私たちの身の回りの難しいことも解決してくれるかもしれません。"
+        "賢いAIがルービックキューブを瞬時に解けるようになりました。",
+        "特定の難しい問題もAIが解決できるようになります。",
+        "これから身近な困りごともAIが手助けするかもしれません。"
       ],
-      "highlight": "AIがどんなに複雑な問題でも、瞬時に解決策を見つけ出せるようになった"
+      "highlight": "AIが難しい問題でもすぐに最適な答えを出せるようになりました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【速報09/11】AI/IT関連ニュース（AI半導体×フィジカルAI×AIエージェント）",
-      "title_ja": "AIとITの最新ニュース",
-      "url": "https://note.com/it_daytrading/n/nbf036e4bf7f3",
+      "title": "AIツールを乗り換えるたびに人生を説明し直す問題 ── Kent C. Doddsが作った「Kody」という回答",
+      "title_ja": "AIツールを乗り換えるたびに人生を説明し直す問題 ── Kent C. Doddsが作った「Kody」という回答",
+      "url": "https://note.com/minilab/n/ne20204b19998",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-10",
+      "published_at": "2026-09-11",
       "lang": "ja",
-      "score": 95.0,
+      "score": 56.0,
       "summary": [
-        "AIの新しい技術の動向を解説",
-        "生活や仕事がAIでもっと便利に",
-        "私たちの暮らしが大きく変わる未来"
+        "AIツールを使う際の手間を減らす話",
+        "自分の情報をAIに一度だけ教えれば済む",
+        "AIをよく使う人の生活が楽になる"
       ],
-      "highlight": "AIが私たちの身の回りで賢く動き、色々なことを代わりにしてくれるようになりました。"
+      "highlight": "AIツールごとに自分を説明する手間がなくなり、とても便利になった"
     }
   ],
   "trending_keywords": [
-    "LLM",
-    "AIエージェント"
+    "LLM"
   ]
 }
