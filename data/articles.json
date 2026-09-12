@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-12 08:52",
+  "updated_at": "2026-09-13 08:42",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
-      "title_ja": "AIの活用から知識の共有へ：みんなで専門家を育て、地域を豊かにしよう",
+      "title_ja": "AIの知恵をみんなで分かち合おう：地域でAIの専門家を育てるプロジェクト",
       "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
-      "likes": 136,
-      "comments": 119,
+      "likes": 138,
+      "comments": 124,
       "published_at": "2026-09-07",
       "lang": "en",
-      "score": 385.0,
+      "score": 397.0,
       "summary": [
-        "AIの知識を共有し、みんなで学ぶ大切さ",
-        "AIの専門家が増え、助け合って学べるようになります",
-        "AIに関心ある人や地域全体の力が強まり、新しい社会づくりにつながります"
+        "AIの技術や知識を、地域の人たちみんなで共有することの大切さを伝えています。",
+        "AIの専門家が増えることで、地域の人たちの生活がより豊かになります。",
+        "AIが私たちの暮らしや仕事を、もっと便利に快適に変えていく未来が期待できます。"
       ],
-      "highlight": "AIの専門知識が地域全体で共有され、みんなの生活や仕事が劇的に進化する"
+      "highlight": "AIのプロが地域に増え、私たちの暮らしや地域がもっと豊かになる"
     },
     {
       "rank": 2,
@@ -25,35 +25,35 @@
       "title": "ルービックキューブを一撃で解く専用LLMを作った",
       "title_ja": "ルービックキューブを一撃で解く専用LLMを作った",
       "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
-      "likes": 96,
+      "likes": 99,
       "comments": 0,
       "published_at": "2026-09-06",
       "lang": "ja",
-      "score": 104.0,
+      "score": 107.0,
       "summary": [
-        "賢いAIがルービックキューブを瞬時に解けるようになりました。",
-        "特定の難しい問題もAIが解決できるようになります。",
-        "これから身近な困りごともAIが手助けするかもしれません。"
+        "AIがルービックキューブを一瞬で解けるようになった話です。",
+        "AIが複雑な問題を一度で解決する能力を示しました。",
+        "将来、様々な問題をAIが効率良く解決する手がかりです。"
       ],
-      "highlight": "AIが難しい問題でもすぐに最適な答えを出せるようになりました。"
+      "highlight": "AIが人間の代わりに、難しい問題を一度で解決できるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIツールを乗り換えるたびに人生を説明し直す問題 ── Kent C. Doddsが作った「Kody」という回答",
-      "title_ja": "AIツールを乗り換えるたびに人生を説明し直す問題 ── Kent C. Doddsが作った「Kody」という回答",
-      "url": "https://note.com/minilab/n/ne20204b19998",
+      "title": "15歳の国際学力調査が映した、好奇心、センス・オブ・ワンダーの空白——AI時代の教育を構造で考える",
+      "title_ja": "15歳の国際学力調査が映した、好奇心、センス・オブ・ワンダーの空白——AI時代の教育を構造で考える",
+      "url": "https://note.com/masa302/n/n0c99f3268806",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-11",
+      "published_at": "2026-09-12",
       "lang": "ja",
-      "score": 56.0,
+      "score": 66.0,
       "summary": [
-        "AIツールを使う際の手間を減らす話",
-        "自分の情報をAIに一度だけ教えれば済む",
-        "AIをよく使う人の生活が楽になる"
+        "国際学力調査から、日本の学生が物事に疑問を持つ心が少ないと分かった",
+        "これからのAI時代に向けて、教育の仕組みを根本から変える必要がある",
+        "全ての子どもたちや教育に関わる大人たちが、学び方を見直すきっかけとなる"
       ],
-      "highlight": "AIツールごとに自分を説明する手間がなくなり、とても便利になった"
+      "highlight": "AI社会で活躍できるよう、子どもたちの好奇心を育む学びへと教育が変わる"
     }
   ],
   "trending_keywords": [
