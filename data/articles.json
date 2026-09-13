@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-09-13 08:42",
+  "updated_at": "2026-09-14 08:52",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "From AI Solutions to Shared Knowledge: Building an MCP for the Community",
-      "title_ja": "AIの知恵をみんなで分かち合おう：地域でAIの専門家を育てるプロジェクト",
-      "url": "https://dev.to/pascal_cescato_692b7a8a20/from-ai-solutions-to-shared-knowledge-building-an-mcp-for-the-community-6bk",
-      "likes": 138,
-      "comments": 124,
-      "published_at": "2026-09-07",
+      "title": "AI Is Already Better at Coding Than Most Software Developers",
+      "title_ja": "AIはもう多くのプログラマーよりコードが書ける",
+      "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
+      "likes": 166,
+      "comments": 147,
+      "published_at": "2026-09-10",
       "lang": "en",
-      "score": 397.0,
+      "score": 468.0,
       "summary": [
-        "AIの技術や知識を、地域の人たちみんなで共有することの大切さを伝えています。",
-        "AIの専門家が増えることで、地域の人たちの生活がより豊かになります。",
-        "AIが私たちの暮らしや仕事を、もっと便利に快適に変えていく未来が期待できます。"
+        "AIがプログラミング能力で人間を超え始めました",
+        "複雑なプログラムもAIが作れるようになりました",
+        "ITの専門家だけでなく、私たちの生活も変わります"
       ],
-      "highlight": "AIのプロが地域に増え、私たちの暮らしや地域がもっと豊かになる"
+      "highlight": "AIが専門的なプログラミングを自分で書けるようになり、私たちの生活が大きく便利になる時代が始まりました"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "ルービックキューブを一撃で解く専用LLMを作った",
-      "title_ja": "ルービックキューブを一撃で解く専用LLMを作った",
-      "url": "https://zenn.dev/issei_y/articles/4178a603322b8e",
-      "likes": 99,
+      "source": "note",
+      "title": "ScaffoldとかHarnessとか、話題になっているけど「まあ、そうなるだろうな」と思っていた",
+      "title_ja": "ScaffoldとかHarnessとか、話題になっているけど「まあ、そうなるだろうな」と思っていた",
+      "url": "https://note.com/handcraftguitar/n/n8d133001aae7",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-06",
+      "published_at": "2026-09-13",
       "lang": "ja",
-      "score": 107.0,
+      "score": 94.0,
       "summary": [
-        "AIがルービックキューブを一瞬で解けるようになった話です。",
-        "AIが複雑な問題を一度で解決する能力を示しました。",
-        "将来、様々な問題をAIが効率良く解決する手がかりです。"
+        "1行目：この記事は、AIを作るための新しい考え方や仕組みについて触れているようです。",
+        "2行目：しかし、記事本文がないため、具体的に何が新しく、どう変わるのかを説明できません。",
+        "3行目：もし記事全文があれば、それが私たちの生活にどう影響するかをお伝えできます。"
       ],
-      "highlight": "AIが人間の代わりに、難しい問題を一度で解決できるようになった。"
+      "highlight": "記事本文が不足しているため、この記事の「すごい点」を特定できませんでした。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "15歳の国際学力調査が映した、好奇心、センス・オブ・ワンダーの空白——AI時代の教育を構造で考える",
-      "title_ja": "15歳の国際学力調査が映した、好奇心、センス・オブ・ワンダーの空白——AI時代の教育を構造で考える",
-      "url": "https://note.com/masa302/n/n0c99f3268806",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
+      "title_ja": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
+      "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
+      "likes": 40,
       "comments": 0,
-      "published_at": "2026-09-12",
+      "published_at": "2026-09-13",
       "lang": "ja",
-      "score": 66.0,
+      "score": 73.0,
       "summary": [
-        "国際学力調査から、日本の学生が物事に疑問を持つ心が少ないと分かった",
-        "これからのAI時代に向けて、教育の仕組みを根本から変える必要がある",
-        "全ての子どもたちや教育に関わる大人たちが、学び方を見直すきっかけとなる"
+        "AIの仕組みを見直す話です",
+        "今のAIの課題を解決します",
+        "AIの未来に興味がある人向け"
       ],
-      "highlight": "AI社会で活躍できるよう、子どもたちの好奇心を育む学びへと教育が変わる"
+      "highlight": "ハエの脳からヒントを得ることで、AIの基本的な考え方が変わり、より効率的なAIが開発されるきっかけになるでしょう。"
     }
   ],
-  "trending_keywords": [
-    "LLM"
-  ]
+  "trending_keywords": []
 }
