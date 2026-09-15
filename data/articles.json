@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-15 09:16",
+  "updated_at": "2026-09-16 08:59",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI Is Already Better at Coding Than Most Software Developers",
-      "title_ja": "AIはすでに、ほとんどのプログラマーよりコードを書くのが得意",
+      "title_ja": "AIはすでに、ほとんどのソフトウェア開発者よりコーディングが上手い",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "likes": 212,
-      "comments": 175,
+      "likes": 224,
+      "comments": 186,
       "published_at": "2026-09-10",
       "lang": "en",
-      "score": 570.0,
+      "score": 604.0,
       "summary": [
-        "AIがプログラム作りで人間より上手に",
-        "アプリ開発が速く、もっと簡単になる",
-        "私たちの生活を便利にする可能性も"
+        "AIがプログラムを作る能力が、多くのプログラマーを超えました。",
+        "これからは、アプリ開発などが早く簡単にできるようになります。",
+        "プログラミングの仕事だけでなく、私たちの生活も大きく変わるでしょう。"
       ],
-      "highlight": "AIがプログラムを自動で書き、誰でも新しいサービスを作りやすくなった"
+      "highlight": "AIが多くのプログラマーより効率的にコードを書けるようになり、プログラム作成がより身近なものになりました。"
     },
     {
       "rank": 2,
@@ -25,36 +25,38 @@
       "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
       "title_ja": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
       "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
-      "likes": 92,
+      "likes": 116,
       "comments": 0,
       "published_at": "2026-09-13",
       "lang": "ja",
-      "score": 110.0,
+      "score": 124.0,
       "summary": [
-        "AIが賢くなる方法を、ハエの脳を参考に問い直す記事です。",
-        "今までのAIとは違う、より効率的な作り方につながる可能性があります。",
-        "より省エネなAIや、新しい能力を持つAIの登場に期待できます。"
+        "AIが賢くなる仕組みを、ハエの脳から見直す研究の話です。",
+        "これまでのAIとは違う、新しい作り方が見つかるかもしれません。",
+        "より賢く効率的なAIが、私たちの生活を豊かにする未来につながります。"
       ],
-      "highlight": "ハエの脳をヒントに、よりシンプルで賢いAIが作れるようになるかもしれません。"
+      "highlight": "ハエの脳からヒントを得て、今までのAIとは違う、まったく新しいAIの仕組みが見つかるかもしれません。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIに仕事を任せたら「月1万円の新規事業」はつくれる？0円から実験します",
-      "title_ja": "AIに仕事を任せたら「月1万円の新規事業」はつくれる？0円から実験します",
-      "url": "https://note.com/ai_01project/n/nf3d4b5fa6336",
+      "title": "【速報09/16】AI/IT関連ニュース（AIインフラ×AIエージェント×フィジカルAI）",
+      "title_ja": "【速報09/16】AI/IT関連ニュース（AIインフラ×AIエージェント×フィジカルAI）",
+      "url": "https://note.com/it_daytrading/n/n55a2660d0393",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-09-15",
       "lang": "ja",
       "score": 93.0,
       "summary": [
-        "AIに仕事を任せると新しい商売が",
-        "お金をかけずに作れるか実験しています",
-        "AIが働く未来のビジネスのヒント"
+        "AI技術の進歩で暮らしが変わる速報です",
+        "AIが私たちの作業を助けロボットも進化",
+        "誰もがAIの恩恵を受け未来がさらに便利に"
       ],
-      "highlight": "AIがアイデア出しから仕事の実行まで助けることで、誰もが手軽に新しい事業を始めやすくなる"
+      "highlight": "AIが私たちを助ける賢い代理人となり、現実世界でも活躍する時代が来ました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "AIエージェント"
+  ]
 }
