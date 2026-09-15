@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-09-14 08:52",
+  "updated_at": "2026-09-15 09:16",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI Is Already Better at Coding Than Most Software Developers",
-      "title_ja": "AIはもう多くのプログラマーよりコードが書ける",
+      "title_ja": "AIはすでに、ほとんどのプログラマーよりコードを書くのが得意",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "likes": 166,
-      "comments": 147,
+      "likes": 212,
+      "comments": 175,
       "published_at": "2026-09-10",
       "lang": "en",
-      "score": 468.0,
+      "score": 570.0,
       "summary": [
-        "AIがプログラミング能力で人間を超え始めました",
-        "複雑なプログラムもAIが作れるようになりました",
-        "ITの専門家だけでなく、私たちの生活も変わります"
+        "AIがプログラム作りで人間より上手に",
+        "アプリ開発が速く、もっと簡単になる",
+        "私たちの生活を便利にする可能性も"
       ],
-      "highlight": "AIが専門的なプログラミングを自分で書けるようになり、私たちの生活が大きく便利になる時代が始まりました"
+      "highlight": "AIがプログラムを自動で書き、誰でも新しいサービスを作りやすくなった"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "ScaffoldとかHarnessとか、話題になっているけど「まあ、そうなるだろうな」と思っていた",
-      "title_ja": "ScaffoldとかHarnessとか、話題になっているけど「まあ、そうなるだろうな」と思っていた",
-      "url": "https://note.com/handcraftguitar/n/n8d133001aae7",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-13",
-      "lang": "ja",
-      "score": 94.0,
-      "summary": [
-        "1行目：この記事は、AIを作るための新しい考え方や仕組みについて触れているようです。",
-        "2行目：しかし、記事本文がないため、具体的に何が新しく、どう変わるのかを説明できません。",
-        "3行目：もし記事全文があれば、それが私たちの生活にどう影響するかをお伝えできます。"
-      ],
-      "highlight": "記事本文が不足しているため、この記事の「すごい点」を特定できませんでした。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
       "title_ja": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
       "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
-      "likes": 40,
+      "likes": 92,
       "comments": 0,
       "published_at": "2026-09-13",
       "lang": "ja",
-      "score": 73.0,
+      "score": 110.0,
       "summary": [
-        "AIの仕組みを見直す話です",
-        "今のAIの課題を解決します",
-        "AIの未来に興味がある人向け"
+        "AIが賢くなる方法を、ハエの脳を参考に問い直す記事です。",
+        "今までのAIとは違う、より効率的な作り方につながる可能性があります。",
+        "より省エネなAIや、新しい能力を持つAIの登場に期待できます。"
       ],
-      "highlight": "ハエの脳からヒントを得ることで、AIの基本的な考え方が変わり、より効率的なAIが開発されるきっかけになるでしょう。"
+      "highlight": "ハエの脳をヒントに、よりシンプルで賢いAIが作れるようになるかもしれません。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "AIに仕事を任せたら「月1万円の新規事業」はつくれる？0円から実験します",
+      "title_ja": "AIに仕事を任せたら「月1万円の新規事業」はつくれる？0円から実験します",
+      "url": "https://note.com/ai_01project/n/nf3d4b5fa6336",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-15",
+      "lang": "ja",
+      "score": 93.0,
+      "summary": [
+        "AIに仕事を任せると新しい商売が",
+        "お金をかけずに作れるか実験しています",
+        "AIが働く未来のビジネスのヒント"
+      ],
+      "highlight": "AIがアイデア出しから仕事の実行まで助けることで、誰もが手軽に新しい事業を始めやすくなる"
     }
   ],
   "trending_keywords": []
