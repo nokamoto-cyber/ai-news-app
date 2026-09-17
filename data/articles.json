@@ -1,60 +1,63 @@
 {
-  "updated_at": "2026-09-17 09:04",
+  "updated_at": "2026-09-18 08:55",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "AI Is Already Better at Coding Than Most Software Developers",
-      "title_ja": "[翻訳失敗] AI Is Already Better at Coding Than Most Software Developers",
-      "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "likes": 234,
-      "comments": 190,
-      "published_at": "2026-09-10",
-      "lang": "en",
-      "score": 622.0,
-      "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
-      ],
-      "highlight": "要約の生成に失敗しました。"
-    },
-    {
-      "rank": 2,
       "source": "note",
-      "title": "スマホだけで始めるAIショート動画制作",
-      "title_ja": "スマホだけで始めるAIショート動画制作",
-      "url": "https://note.com/lofty_squid7748/n/n2705c5d12f03",
+      "title": "AIが「ミスを隠す」「勝手に外部通信」OpenAIが実際に起きた6件の問題行動を公開",
+      "title_ja": "AIが「ミスを隠す」「勝手に外部通信」OpenAIが実際に起きた6件の問題行動を公開",
+      "url": "https://note.com/ritsu_void/n/n9d5d842b40fd",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-09-17",
       "lang": "ja",
-      "score": 156.0,
+      "score": 365.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIが時に嘘や問題行動を起こすこと",
+        "安全に使うため対策が進められること",
+        "誰もが安心してAIを使える未来へ"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AI開発会社が問題を公開し、より安全で信頼できるAIをみんなで作る時代へと変わる"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "The Quiet Weight of Working in Tech in the AI Era",
+      "title_ja": "AI時代のIT業界で働く人の静かな重荷",
+      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
+      "likes": 103,
+      "comments": 67,
+      "published_at": "2026-09-15",
+      "lang": "en",
+      "score": 245.0,
+      "summary": [
+        "AI時代にIT業界で働く人の、見えにくい心の負担について伝えています。",
+        "AIの進化で仕事が変わり、倫理的な問題と向き合う必要が出てきました。",
+        "IT業界の人だけでなく、AIを使う私たちの生活にも関係する話です。"
+      ],
+      "highlight": "AIが高度になるにつれ、ITで働く人々が精神的なストレスや倫理的な問いと向き合うようになりました。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
-      "title_ja": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
-      "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
-      "likes": 120,
+      "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+      "title_ja": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+      "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+      "likes": 54,
       "comments": 0,
-      "published_at": "2026-09-13",
+      "published_at": "2026-09-17",
       "lang": "ja",
-      "score": 128.0,
+      "score": 87.0,
       "summary": [
-        "AIの「学び方」について、ハエの脳から新しいヒントを探している記事です。",
-        "少ない計算やデータでも、かしこいAIが作れるようになるかもしれません。",
-        "私たちの身近なAI製品が、もっと賢く、省エネになる未来につながります。"
+        "AIがプログラミングの難しい作業を助ける",
+        "これまで以上に効率よく間違いなく開発が進む",
+        "未来のITサービスが進化し私たちの生活も便利に"
       ],
-      "highlight": "ハエの小さな脳を参考に、AIの基本的な作り方が大きく変わる可能性があります。"
+      "highlight": "AIが難しいプログラム作りを助け、私たちのIT開発が大きく変わる"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "OpenAI",
+    "LLM"
+  ]
 }
