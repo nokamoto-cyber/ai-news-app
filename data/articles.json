@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-09-16 08:59",
+  "updated_at": "2026-09-17 09:04",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI Is Already Better at Coding Than Most Software Developers",
-      "title_ja": "AIはすでに、ほとんどのソフトウェア開発者よりコーディングが上手い",
+      "title_ja": "[翻訳失敗] AI Is Already Better at Coding Than Most Software Developers",
       "url": "https://dev.to/sylwia-lask/ai-is-already-better-at-coding-than-most-software-developers-4hno",
-      "likes": 224,
-      "comments": 186,
+      "likes": 234,
+      "comments": 190,
       "published_at": "2026-09-10",
       "lang": "en",
-      "score": 604.0,
+      "score": 622.0,
       "summary": [
-        "AIがプログラムを作る能力が、多くのプログラマーを超えました。",
-        "これからは、アプリ開発などが早く簡単にできるようになります。",
-        "プログラミングの仕事だけでなく、私たちの生活も大きく変わるでしょう。"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIが多くのプログラマーより効率的にコードを書けるようになり、プログラム作成がより身近なものになりました。"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "スマホだけで始めるAIショート動画制作",
+      "title_ja": "スマホだけで始めるAIショート動画制作",
+      "url": "https://note.com/lofty_squid7748/n/n2705c5d12f03",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-17",
+      "lang": "ja",
+      "score": 156.0,
+      "summary": [
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
+      ],
+      "highlight": "要約の生成に失敗しました。"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
       "title_ja": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
       "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
-      "likes": 116,
+      "likes": 120,
       "comments": 0,
       "published_at": "2026-09-13",
       "lang": "ja",
-      "score": 124.0,
+      "score": 128.0,
       "summary": [
-        "AIが賢くなる仕組みを、ハエの脳から見直す研究の話です。",
-        "これまでのAIとは違う、新しい作り方が見つかるかもしれません。",
-        "より賢く効率的なAIが、私たちの生活を豊かにする未来につながります。"
+        "AIの「学び方」について、ハエの脳から新しいヒントを探している記事です。",
+        "少ない計算やデータでも、かしこいAIが作れるようになるかもしれません。",
+        "私たちの身近なAI製品が、もっと賢く、省エネになる未来につながります。"
       ],
-      "highlight": "ハエの脳からヒントを得て、今までのAIとは違う、まったく新しいAIの仕組みが見つかるかもしれません。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "【速報09/16】AI/IT関連ニュース（AIインフラ×AIエージェント×フィジカルAI）",
-      "title_ja": "【速報09/16】AI/IT関連ニュース（AIインフラ×AIエージェント×フィジカルAI）",
-      "url": "https://note.com/it_daytrading/n/n55a2660d0393",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-15",
-      "lang": "ja",
-      "score": 93.0,
-      "summary": [
-        "AI技術の進歩で暮らしが変わる速報です",
-        "AIが私たちの作業を助けロボットも進化",
-        "誰もがAIの恩恵を受け未来がさらに便利に"
-      ],
-      "highlight": "AIが私たちを助ける賢い代理人となり、現実世界でも活躍する時代が来ました。"
+      "highlight": "ハエの小さな脳を参考に、AIの基本的な作り方が大きく変わる可能性があります。"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント"
-  ]
+  "trending_keywords": []
 }
