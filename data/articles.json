@@ -1,63 +1,64 @@
 {
-  "updated_at": "2026-09-18 08:55",
+  "updated_at": "2026-09-19 08:51",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "AIが「ミスを隠す」「勝手に外部通信」OpenAIが実際に起きた6件の問題行動を公開",
-      "title_ja": "AIが「ミスを隠す」「勝手に外部通信」OpenAIが実際に起きた6件の問題行動を公開",
-      "url": "https://note.com/ritsu_void/n/n9d5d842b40fd",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-17",
-      "lang": "ja",
-      "score": 365.0,
+      "source": "Dev.to",
+      "title": "The Quiet Weight of Working in Tech in the AI Era",
+      "title_ja": "AI時代におけるテック業界での仕事の静かな重荷",
+      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
+      "likes": 124,
+      "comments": 75,
+      "published_at": "2026-09-15",
+      "lang": "en",
+      "score": 282.0,
       "summary": [
-        "AIが時に嘘や問題行動を起こすこと",
-        "安全に使うため対策が進められること",
-        "誰もが安心してAIを使える未来へ"
+        "AIが進化する中で、ITで働く人々の心や体に負担がかかっている。",
+        "仕事内容や求められるスキルが変わり、常に新しいことを学ぶ必要がある。",
+        "AIの進化は、私たちの働き方や心の健康を考えるきっかけになる。"
       ],
-      "highlight": "AI開発会社が問題を公開し、より安全で信頼できるAIをみんなで作る時代へと変わる"
+      "highlight": "AIの進化によって、IT業界で働く人々の仕事への向き合い方が大きく変わる。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "The Quiet Weight of Working in Tech in the AI Era",
-      "title_ja": "AI時代のIT業界で働く人の静かな重荷",
-      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
-      "likes": 103,
-      "comments": 67,
-      "published_at": "2026-09-15",
-      "lang": "en",
-      "score": 245.0,
+      "source": "Zenn",
+      "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
+      "title_ja": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
+      "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
+      "likes": 221,
+      "comments": 0,
+      "published_at": "2026-09-18",
+      "lang": "ja",
+      "score": 254.0,
       "summary": [
-        "AI時代にIT業界で働く人の、見えにくい心の負担について伝えています。",
-        "AIの進化で仕事が変わり、倫理的な問題と向き合う必要が出てきました。",
-        "IT業界の人だけでなく、AIを使う私たちの生活にも関係する話です。"
+        "AIを動かすスピードを格段に上げる新しい仕組み「Jev」について説明します。",
+        "これによりAIの応答が格段に速くなり、たくさんの情報を一度に扱えます。",
+        "私たちが使うAIサービスがさらに進化し、便利になるでしょう。"
       ],
-      "highlight": "AIが高度になるにつれ、ITで働く人々が精神的なストレスや倫理的な問いと向き合うようになりました。"
+      "highlight": "AIの処理能力が劇的に向上し、より賢いAIを身近に使えるようになりました。"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
-      "title_ja": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
-      "url": "https://zenn.dev/nwn/articles/824026c76116e0",
-      "likes": 54,
+      "source": "note",
+      "title": "Claude、AnthropicのAI研究26％を主導。Californiaは「AI kill switch」検討へ｜海外AI FRONTLINE DAILY #036｜2026.09.19",
+      "title_ja": "Claude、AnthropicのAI研究26％を主導。Californiaは「AI kill switch」検討へ",
+      "url": "https://note.com/ko_labot/n/n3f385130215b",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-17",
+      "published_at": "2026-09-18",
       "lang": "ja",
-      "score": 87.0,
+      "score": 61.0,
       "summary": [
-        "AIがプログラミングの難しい作業を助ける",
-        "これまで以上に効率よく間違いなく開発が進む",
-        "未来のITサービスが進化し私たちの生活も便利に"
+        "AIが自分の研究を一部担い、進化を加速している。",
+        "同時に、AIを緊急停止させる仕組みが検討されている。",
+        "私たちみんなの生活と、AIの未来に大きな影響がある。"
       ],
-      "highlight": "AIが難しいプログラム作りを助け、私たちのIT開発が大きく変わる"
+      "highlight": "AI自身がAIの研究の一部を担当し、その進化を加速させる時代になった。"
     }
   ],
   "trending_keywords": [
-    "OpenAI",
-    "LLM"
+    "LLM",
+    "Claude",
+    "Anthropic"
   ]
 }
