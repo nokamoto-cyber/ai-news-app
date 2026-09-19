@@ -1,64 +1,64 @@
 {
-  "updated_at": "2026-09-19 08:51",
+  "updated_at": "2026-09-20 08:53",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "The Quiet Weight of Working in Tech in the AI Era",
-      "title_ja": "AI時代におけるテック業界での仕事の静かな重荷",
-      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
-      "likes": 124,
-      "comments": 75,
-      "published_at": "2026-09-15",
-      "lang": "en",
-      "score": 282.0,
-      "summary": [
-        "AIが進化する中で、ITで働く人々の心や体に負担がかかっている。",
-        "仕事内容や求められるスキルが変わり、常に新しいことを学ぶ必要がある。",
-        "AIの進化は、私たちの働き方や心の健康を考えるきっかけになる。"
-      ],
-      "highlight": "AIの進化によって、IT業界で働く人々の仕事への向き合い方が大きく変わる。"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
       "title_ja": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
       "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "likes": 221,
-      "comments": 0,
+      "likes": 373,
+      "comments": 1,
       "published_at": "2026-09-18",
       "lang": "ja",
-      "score": 254.0,
+      "score": 393.0,
       "summary": [
-        "AIを動かすスピードを格段に上げる新しい仕組み「Jev」について説明します。",
-        "これによりAIの応答が格段に速くなり、たくさんの情報を一度に扱えます。",
-        "私たちが使うAIサービスがさらに進化し、便利になるでしょう。"
+        "Jevは今のAIより格段に性能が高い新技術です",
+        "AIの反応が速くなり、もっと賢く使えるようになるでしょう",
+        "AIが誰でも身近になり、生活がもっと便利になるはずです"
       ],
-      "highlight": "AIの処理能力が劇的に向上し、より賢いAIを身近に使えるようになりました。"
+      "highlight": "Jevの登場でAIが圧倒的に速く賢くなり、できることが大きく広がる"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "The Quiet Weight of Working in Tech in the AI Era",
+      "title_ja": "AI時代、IT業界で働く人のひそかな重圧",
+      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
+      "likes": 135,
+      "comments": 91,
+      "published_at": "2026-09-15",
+      "lang": "en",
+      "score": 325.0,
+      "summary": [
+        "AIが進む中でIT業界の仕事が見えない大変さに直面。",
+        "新しい技術に適応するため働き方や求められる事が変化。",
+        "ITに関わる人は時代の変化への理解が求められます。"
+      ],
+      "highlight": "AI技術の進化により、IT業界で働く人たちの仕事内容やスキルが大きく変わる時代になった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Claude、AnthropicのAI研究26％を主導。Californiaは「AI kill switch」検討へ｜海外AI FRONTLINE DAILY #036｜2026.09.19",
-      "title_ja": "Claude、AnthropicのAI研究26％を主導。Californiaは「AI kill switch」検討へ",
-      "url": "https://note.com/ko_labot/n/n3f385130215b",
+      "title": "ChatGPTを使っているのに、なぜか仕事が遅くなる。「AIに聞きすぎる」をやめてみた",
+      "title_ja": "ChatGPTを使っているのに、なぜか仕事が遅くなる。「AIに聞きすぎる」をやめてみた",
+      "url": "https://note.com/royal_cosmos1599/n/n18bde57c5f84",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-18",
+      "published_at": "2026-09-19",
       "lang": "ja",
-      "score": 61.0,
+      "score": 117.0,
       "summary": [
-        "AIが自分の研究を一部担い、進化を加速している。",
-        "同時に、AIを緊急停止させる仕組みが検討されている。",
-        "私たちみんなの生活と、AIの未来に大きな影響がある。"
+        "AI（ChatGPT）を使いすぎると、かえって仕事が遅くなることがある",
+        "AI任せにせず、自分で考えて工夫することが大切だと伝えています",
+        "AIを使っている、これから使う人が仕事をもっと早く進めるヒントです"
       ],
-      "highlight": "AI自身がAIの研究の一部を担当し、その進化を加速させる時代になった。"
+      "highlight": "AIとの上手な付き合い方を知ることで、仕事の進め方が見違えるように変わる"
     }
   ],
   "trending_keywords": [
     "LLM",
-    "Claude",
-    "Anthropic"
+    "ChatGPT",
+    "GPT"
   ]
 }
