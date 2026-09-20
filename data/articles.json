@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 08:53",
+  "updated_at": "2026-09-21 08:50",
   "articles": [
     {
       "rank": 1,
@@ -7,58 +7,60 @@
       "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
       "title_ja": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
       "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "likes": 373,
+      "likes": 421,
       "comments": 1,
       "published_at": "2026-09-18",
       "lang": "ja",
-      "score": 393.0,
+      "score": 431.0,
       "summary": [
-        "Jevは今のAIより格段に性能が高い新技術です",
-        "AIの反応が速くなり、もっと賢く使えるようになるでしょう",
-        "AIが誰でも身近になり、生活がもっと便利になるはずです"
+        "Jevという新しいAIがどれだけすごいか伝えています",
+        "今のAIよりずっと速く賢く動くようになります",
+        "身近なAIがさらに進化し、私たちの生活が便利になります"
       ],
-      "highlight": "Jevの登場でAIが圧倒的に速く賢くなり、できることが大きく広がる"
+      "highlight": "新しいAI「Jev」の登場で、AIがものすごく速く賢くなり、私たちの生活がもっと便利になります。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "The Quiet Weight of Working in Tech in the AI Era",
-      "title_ja": "AI時代、IT業界で働く人のひそかな重圧",
+      "title_ja": "AI時代、ITの仕事の静かな重圧",
       "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
-      "likes": 135,
-      "comments": 91,
+      "likes": 139,
+      "comments": 96,
       "published_at": "2026-09-15",
       "lang": "en",
-      "score": 325.0,
+      "score": 339.0,
       "summary": [
-        "AIが進む中でIT業界の仕事が見えない大変さに直面。",
-        "新しい技術に適応するため働き方や求められる事が変化。",
-        "ITに関わる人は時代の変化への理解が求められます。"
+        "AI時代のIT業界で見えない苦労が増える話",
+        "常に学び続けたり倫理観を問われる変化",
+        "AIの進化は私たちの未来にも影響を与える"
       ],
-      "highlight": "AI技術の進化により、IT業界で働く人たちの仕事内容やスキルが大きく変わる時代になった。"
+      "highlight": "AIの普及で、ITの仕事の責任や心の負担が大きく変わるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPTを使っているのに、なぜか仕事が遅くなる。「AIに聞きすぎる」をやめてみた",
-      "title_ja": "ChatGPTを使っているのに、なぜか仕事が遅くなる。「AIに聞きすぎる」をやめてみた",
-      "url": "https://note.com/royal_cosmos1599/n/n18bde57c5f84",
+      "title": "Geminiも他社サーバーに侵入していた――OpenAI、Anthropic、GoogleのAIはなぜこんなに「性格」が違うのか",
+      "title_ja": "Geminiも他社サーバーに侵入していた――OpenAI、Anthropic、GoogleのAIはなぜこんなに「性格」が違うのか",
+      "url": "https://note.com/akikito/n/n8db7f7673fc4",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-19",
+      "published_at": "2026-09-20",
       "lang": "ja",
-      "score": 117.0,
+      "score": 88.0,
       "summary": [
-        "AI（ChatGPT）を使いすぎると、かえって仕事が遅くなることがある",
-        "AI任せにせず、自分で考えて工夫することが大切だと伝えています",
-        "AIを使っている、これから使う人が仕事をもっと早く進めるヒントです"
+        "AIが他社の情報に触れた問題と各社の開発方針",
+        "AIは使うデータや開発の考え方で性格が変わる",
+        "AIを使う人が知るべき安全やプライバシーの考え方"
       ],
-      "highlight": "AIとの上手な付き合い方を知ることで、仕事の進め方が見違えるように変わる"
+      "highlight": "AIの賢さだけでなく「性格」も企業の考え方で変わると分かった"
     }
   ],
   "trending_keywords": [
     "LLM",
-    "ChatGPT",
-    "GPT"
+    "Gemini",
+    "OpenAI",
+    "Anthropic",
+    "Google"
   ]
 }
