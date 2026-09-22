@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22 09:34",
+  "updated_at": "2026-09-23 08:59",
   "articles": [
     {
       "rank": 1,
@@ -7,57 +7,56 @@
       "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
       "title_ja": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
       "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "likes": 444,
+      "likes": 451,
       "comments": 2,
       "published_at": "2026-09-18",
       "lang": "ja",
-      "score": 456.0,
+      "score": 463.0,
       "summary": [
-        "Jevという新技術がAIを速くする話",
-        "AIがもっと速く、身近に使えるように",
-        "AIを使うすべての人の体験が変わる"
+        "AIの計算を高速化する新技術Jev",
+        "AIの応答が速くなり費用も安くなる",
+        "AIがもっと身近で便利な存在になる"
       ],
-      "highlight": "AIの反応速度が劇的に上がり、ストレスなく使えるようになった"
+      "highlight": "AIを動かす技術が進化し、より速く安く高性能なAIが使えるようになった"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "The Quiet Weight of Working in Tech in the AI Era",
-      "title_ja": "AI時代、IT業界で働く人々の見えない苦労",
-      "url": "https://dev.to/james_anderson_h/the-quiet-weight-of-working-in-tech-in-the-ai-era-551g",
-      "likes": 143,
-      "comments": 96,
-      "published_at": "2026-09-15",
+      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
+      "title_ja": "AIがブラウザから出ずに何でもしてくれるとしたら？（デモ🚀）",
+      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+      "likes": 92,
+      "comments": 62,
+      "published_at": "2026-09-21",
       "lang": "en",
-      "score": 343.0,
+      "score": 234.0,
       "summary": [
-        "AIの進化でIT技術者が感じる心労を解説します",
-        "技術の速い変化と社会への責任が重くなる現状です",
-        "AIを使うみんなが開発者の苦労を知るべきでしょう"
+        "AIがブラウザの中で何でもできる仕組み",
+        "ネットの作業がAIに任せられるように",
+        "私たちのネット利用がより快適になる"
       ],
-      "highlight": "AIが進むことで、それを開発する人々の仕事や精神面への影響が大きく変わりました。"
+      "highlight": "AIがブラウザ内でウェブ上のあらゆる作業を代行できるようになり、私たちのネット利用が劇的に便利になる。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【生成AIニュースまとめ】2026年9月22日 — 価格・粗利・安全装置、数字が動いた一日",
-      "title_ja": "【生成AIニュースまとめ】2026年9月22日 — 価格・粗利・安全装置、数字が動いた一日",
-      "url": "https://note.com/mindorbit_bot_ai/n/nb48db1ec8277",
+      "title": "AIに聞いてばかりの僕が「自分で考える」ことを始めた",
+      "title_ja": "AIに聞いてばかりの僕が「自分で考える」ことを始めた",
+      "url": "https://note.com/lucky_sable8454/n/nefdc12db59aa",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-09-22",
       "lang": "ja",
-      "score": 311.0,
+      "score": 93.0,
       "summary": [
-        "生成AIに関する最新ニュースがあった日",
-        "AIの利用料金や安全対策に大きな変化",
-        "私たちの生活がより便利で安心になる"
+        "記事の本文が提供されていません。",
+        "そのため、詳しい内容を要約できません。",
+        "本文をお渡しいただければ、分析します。"
       ],
-      "highlight": "価格や安全対策が進展し、AIがさらに身近で安心して使えるようになった"
+      "highlight": "記事本文が提供されていないため、内容を要約できません。"
     }
   ],
   "trending_keywords": [
-    "LLM",
-    "生成AI"
+    "LLM"
   ]
 }
