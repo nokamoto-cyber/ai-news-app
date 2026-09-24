@@ -1,62 +1,64 @@
 {
-  "updated_at": "2026-09-23 08:59",
+  "updated_at": "2026-09-24 09:13",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
-      "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-      "title_ja": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-      "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "likes": 451,
-      "comments": 2,
-      "published_at": "2026-09-18",
+      "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+      "title_ja": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+      "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+      "likes": 199,
+      "comments": 100,
+      "published_at": "2026-09-17",
       "lang": "ja",
-      "score": 463.0,
+      "score": 407.0,
       "summary": [
-        "AIの計算を高速化する新技術Jev",
-        "AIの応答が速くなり費用も安くなる",
-        "AIがもっと身近で便利な存在になる"
+        "AI（LLM）が難しいITの作業を助ける可能性について",
+        "複雑で専門的なITの仕事もAIが代わってこなせるかも",
+        "IT業界全体や、私たちの未来の暮らしにも影響が出そう"
       ],
-      "highlight": "AIを動かす技術が進化し、より速く安く高性能なAIが使えるようになった"
+      "highlight": "賢いAIの登場で、専門家も驚くような難しいIT作業が手軽になるかもしれません"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "title_ja": "AIがブラウザから出ずに何でもしてくれるとしたら？（デモ🚀）",
+      "title_ja": "もしあなたのAIアシスタントがブラウザから出なくて済んだら？（デモ🚀）",
       "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "likes": 92,
-      "comments": 62,
+      "likes": 121,
+      "comments": 80,
       "published_at": "2026-09-21",
       "lang": "en",
-      "score": 234.0,
+      "score": 289.0,
       "summary": [
-        "AIがブラウザの中で何でもできる仕組み",
-        "ネットの作業がAIに任せられるように",
-        "私たちのネット利用がより快適になる"
+        "AIがブラウザの中で何でもこなす未来を語る記事",
+        "AIがウェブ上の複雑な作業を自動で処理できるようになる",
+        "パソコン作業が簡単になり、AIがより身近な存在になる"
       ],
-      "highlight": "AIがブラウザ内でウェブ上のあらゆる作業を代行できるようになり、私たちのネット利用が劇的に便利になる。"
+      "highlight": "AIがブラウザ一つで多くの作業をこなせるようになり、私たちの生活が大きく便利になる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIに聞いてばかりの僕が「自分で考える」ことを始めた",
-      "title_ja": "AIに聞いてばかりの僕が「自分で考える」ことを始めた",
-      "url": "https://note.com/lucky_sable8454/n/nefdc12db59aa",
+      "title": "AI初心者がChatGPTで1本のコンテンツ企画を作る方法｜そのまま使えるプロンプト公開",
+      "title_ja": "AI初心者がChatGPTで1本のコンテンツ企画を作る方法｜そのまま使えるプロンプト公開",
+      "url": "https://note.com/nobugeira/n/n97df8d89b9cc",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-22",
+      "published_at": "2026-09-24",
       "lang": "ja",
-      "score": 93.0,
+      "score": 99.0,
       "summary": [
-        "記事の本文が提供されていません。",
-        "そのため、詳しい内容を要約できません。",
-        "本文をお渡しいただければ、分析します。"
+        "AIを使って記事やSNSのネタ作りを解説",
+        "そのまま使える質問例で企画が完成する",
+        "情報発信する人にとって便利な道具になる"
       ],
-      "highlight": "記事本文が提供されていないため、内容を要約できません。"
+      "highlight": "AIに質問するだけで、コンテンツ企画が簡単に作れるようになった"
     }
   ],
   "trending_keywords": [
-    "LLM"
+    "LLM",
+    "ChatGPT",
+    "GPT"
   ]
 }
