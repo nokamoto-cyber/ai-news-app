@@ -1,64 +1,60 @@
 {
-  "updated_at": "2026-09-24 09:13",
+  "updated_at": "2026-09-25 09:15",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
-      "title_ja": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
-      "url": "https://zenn.dev/nwn/articles/824026c76116e0",
-      "likes": 199,
-      "comments": 100,
-      "published_at": "2026-09-17",
-      "lang": "ja",
-      "score": 407.0,
+      "source": "Dev.to",
+      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
+      "title_ja": "もしAIがウェブ画面から出ずに活躍できたら？（デモ）",
+      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
+      "likes": 150,
+      "comments": 99,
+      "published_at": "2026-09-21",
+      "lang": "en",
+      "score": 356.0,
       "summary": [
-        "AI（LLM）が難しいITの作業を助ける可能性について",
-        "複雑で専門的なITの仕事もAIが代わってこなせるかも",
-        "IT業界全体や、私たちの未来の暮らしにも影響が出そう"
+        "AIがネット上で色々お手伝いしてくれる話",
+        "ネットを見る画面から出ずにAIが全部してくれる",
+        "ネットを使う誰もがAIを使いやすくなる"
       ],
-      "highlight": "賢いAIの登場で、専門家も驚くような難しいIT作業が手軽になるかもしれません"
+      "highlight": "インターネットの画面内で、AIが色々な作業をこなせるようになった。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "title_ja": "もしあなたのAIアシスタントがブラウザから出なくて済んだら？（デモ🚀）",
-      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "likes": 121,
-      "comments": 80,
-      "published_at": "2026-09-21",
-      "lang": "en",
-      "score": 289.0,
+      "source": "note",
+      "title": "AIを使っていい＝使うべき、ではない。モンスト「AIガブリエル」から考える",
+      "title_ja": "AIを使っていい＝使うべき、ではない。モンスト「AIガブリエル」から考える",
+      "url": "https://note.com/sekki_0819/n/n9473ff53028c",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-25",
+      "lang": "ja",
+      "score": 207.0,
       "summary": [
-        "AIがブラウザの中で何でもこなす未来を語る記事",
-        "AIがウェブ上の複雑な作業を自動で処理できるようになる",
-        "パソコン作業が簡単になり、AIがより身近な存在になる"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIがブラウザ一つで多くの作業をこなせるようになり、私たちの生活が大きく便利になる"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "AI初心者がChatGPTで1本のコンテンツ企画を作る方法｜そのまま使えるプロンプト公開",
-      "title_ja": "AI初心者がChatGPTで1本のコンテンツ企画を作る方法｜そのまま使えるプロンプト公開",
-      "url": "https://note.com/nobugeira/n/n97df8d89b9cc",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
+      "title_ja": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
+      "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
+      "likes": 76,
       "comments": 0,
-      "published_at": "2026-09-24",
+      "published_at": "2026-09-20",
       "lang": "ja",
-      "score": 99.0,
+      "score": 84.0,
       "summary": [
-        "AIを使って記事やSNSのネタ作りを解説",
-        "そのまま使える質問例で企画が完成する",
-        "情報発信する人にとって便利な道具になる"
+        "高速に判断するAI「Jev」がどんな場面で役立つか紹介",
+        "誰でもこの技術を使えるように公開されていることを説明",
+        "AIの利用が進み私たちの生活がもっと便利になる可能性"
       ],
-      "highlight": "AIに質問するだけで、コンテンツ企画が簡単に作れるようになった"
+      "highlight": "高速に判断するAIが誰でも使えるようになり、私たちの生活がより便利に変わる"
     }
   ],
-  "trending_keywords": [
-    "LLM",
-    "ChatGPT",
-    "GPT"
-  ]
+  "trending_keywords": []
 }
