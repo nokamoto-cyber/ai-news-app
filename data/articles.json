@@ -1,60 +1,63 @@
 {
-  "updated_at": "2026-09-25 09:15",
+  "updated_at": "2026-09-26 09:21",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "title_ja": "もしAIがウェブ画面から出ずに活躍できたら？（デモ）",
+      "title_ja": "AIがブラウザだけで何でもできるようになったら？",
       "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "likes": 150,
-      "comments": 99,
+      "likes": 167,
+      "comments": 111,
       "published_at": "2026-09-21",
       "lang": "en",
-      "score": 356.0,
+      "score": 397.0,
       "summary": [
-        "AIがネット上で色々お手伝いしてくれる話",
-        "ネットを見る画面から出ずにAIが全部してくれる",
-        "ネットを使う誰もがAIを使いやすくなる"
+        "AIアシスタントがインターネットを見るブラウザの中で、何でも完結できるようになったという話。",
+        "AIが情報集めから作業までブラウザ内で完結。複数のアプリを行き来する手間がなくなる。",
+        "パソコン作業が格段に楽になり、誰もがAIを日常でより手軽に活用できるようになる。"
       ],
-      "highlight": "インターネットの画面内で、AIが色々な作業をこなせるようになった。"
+      "highlight": "誰でもAIにブラウザ内の作業を全て任せられるようになり、日々のデジタル作業が劇的に楽になった。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "AIを使っていい＝使うべき、ではない。モンスト「AIガブリエル」から考える",
-      "title_ja": "AIを使っていい＝使うべき、ではない。モンスト「AIガブリエル」から考える",
-      "url": "https://note.com/sekki_0819/n/n9473ff53028c",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-25",
-      "lang": "ja",
-      "score": 207.0,
-      "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
-      ],
-      "highlight": "要約の生成に失敗しました。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
       "title_ja": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
       "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
-      "likes": 76,
+      "likes": 86,
       "comments": 0,
       "published_at": "2026-09-20",
       "lang": "ja",
-      "score": 84.0,
+      "score": 94.0,
       "summary": [
-        "高速に判断するAI「Jev」がどんな場面で役立つか紹介",
-        "誰でもこの技術を使えるように公開されていることを説明",
-        "AIの利用が進み私たちの生活がもっと便利になる可能性"
+        "この記事は「Jev」というAIについて",
+        "素早い判断で私たちの生活を便利に",
+        "誰でも使えるようになり未来が広がる"
       ],
-      "highlight": "高速に判断するAIが誰でも使えるようになり、私たちの生活がより便利に変わる"
+      "highlight": "高速判断AI「Jev」が誰でも使えるようになることで、身近な問題が素早く解決できるようになります。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "Gen生成AIコラム｜AnthropicのAI Fluency、プロンプトより先に問う4つの力｜2026.09.26",
+      "title_ja": "Gen生成AIコラム｜AnthropicのAI Fluency、プロンプトより先に問う4つの力",
+      "url": "https://note.com/koharu_ringo1114/n/nb544cab42ffb",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-25",
+      "lang": "ja",
+      "score": 83.0,
+      "summary": [
+        "AIを上手に使いこなすための新しい考え方を紹介",
+        "AIへの指示より大切な4つの力が提案されています",
+        "仕事や生活でAIを使う全ての人に役立つ情報です"
+      ],
+      "highlight": "AIを使いこなすには、単に指示を出すだけでなく、もっと本質的な力が重要だと分かった。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Anthropic",
+    "生成AI"
+  ]
 }
