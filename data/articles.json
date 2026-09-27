@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-26 09:21",
+  "updated_at": "2026-09-27 09:11",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "title_ja": "AIがブラウザだけで何でもできるようになったら？",
+      "title_ja": "もしAIがブラウザだけで動くようになったら？（デモ公開）",
       "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "likes": 167,
-      "comments": 111,
+      "likes": 171,
+      "comments": 113,
       "published_at": "2026-09-21",
       "lang": "en",
-      "score": 397.0,
+      "score": 405.0,
       "summary": [
-        "AIアシスタントがインターネットを見るブラウザの中で、何でも完結できるようになったという話。",
-        "AIが情報集めから作業までブラウザ内で完結。複数のアプリを行き来する手間がなくなる。",
-        "パソコン作業が格段に楽になり、誰もがAIを日常でより手軽に活用できるようになる。"
+        "AIがブラウザ内で完結する技術を解説",
+        "アプリ不要でAIをもっと手軽に利用できる",
+        "誰もがAIを安全に使える未来が来る"
       ],
-      "highlight": "誰でもAIにブラウザ内の作業を全て任せられるようになり、日々のデジタル作業が劇的に楽になった。"
+      "highlight": "スマホやPCでウェブを見るように、誰でもAIを簡単に安全に使えるようになりました。"
     },
     {
       "rank": 2,
@@ -25,39 +25,39 @@
       "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
       "title_ja": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
       "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
-      "likes": 86,
+      "likes": 89,
       "comments": 0,
       "published_at": "2026-09-20",
       "lang": "ja",
-      "score": 94.0,
+      "score": 97.0,
       "summary": [
-        "この記事は「Jev」というAIについて",
-        "素早い判断で私たちの生活を便利に",
-        "誰でも使えるようになり未来が広がる"
+        "JevというAIの便利な使い方と、誰でも使えるようになった話",
+        "AIが素早く判断し、私たちの生活や仕事が楽になる可能性があります",
+        "誰もがAIを利用し、社会がもっと便利に変わる可能性がある"
       ],
-      "highlight": "高速判断AI「Jev」が誰でも使えるようになることで、身近な問題が素早く解決できるようになります。"
+      "highlight": "誰でも高速判断AIを使えるようになり、より素早い決断で社会が便利になる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Gen生成AIコラム｜AnthropicのAI Fluency、プロンプトより先に問う4つの力｜2026.09.26",
-      "title_ja": "Gen生成AIコラム｜AnthropicのAI Fluency、プロンプトより先に問う4つの力",
-      "url": "https://note.com/koharu_ringo1114/n/nb544cab42ffb",
+      "title": "Copilotの品行方正 vs GoogleAI先生の熱量：太郎の前でAI二体がキャラ崩壊する日とは？🌟各AIコメント有",
+      "title_ja": "Copilotの品行方正 vs GoogleAI先生の熱量：太郎の前でAI二体がキャラ崩壊する日とは？🌟各AIコメント有",
+      "url": "https://note.com/tarou_wakamatsu/n/n55e84e3549e3",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-25",
+      "published_at": "2026-09-26",
       "lang": "ja",
-      "score": 83.0,
+      "score": 75.0,
       "summary": [
-        "AIを上手に使いこなすための新しい考え方を紹介",
-        "AIへの指示より大切な4つの力が提案されています",
-        "仕事や生活でAIを使う全ての人に役立つ情報です"
+        "マイクロソフトとグーグルの有名AIの個性を比較します",
+        "あなたの目的に合うAIを選べるようになるでしょう",
+        "AIと賢く付き合いたい人に役立つ情報となります"
       ],
-      "highlight": "AIを使いこなすには、単に指示を出すだけでなく、もっと本質的な力が重要だと分かった。"
+      "highlight": "AIにも個性があると分かり、用途に合わせて賢く使い分けができるようになった"
     }
   ],
   "trending_keywords": [
-    "Anthropic",
-    "生成AI"
+    "Copilot",
+    "Google"
   ]
 }
