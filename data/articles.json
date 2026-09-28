@@ -1,63 +1,64 @@
 {
-  "updated_at": "2026-09-27 09:11",
+  "updated_at": "2026-09-28 09:17",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "title_ja": "もしAIがブラウザだけで動くようになったら？（デモ公開）",
+      "title_ja": "[翻訳失敗] What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
       "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "likes": 171,
-      "comments": 113,
+      "likes": 172,
+      "comments": 116,
       "published_at": "2026-09-21",
       "lang": "en",
-      "score": 405.0,
+      "score": 412.0,
       "summary": [
-        "AIがブラウザ内で完結する技術を解説",
-        "アプリ不要でAIをもっと手軽に利用できる",
-        "誰もがAIを安全に使える未来が来る"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "スマホやPCでウェブを見るように、誰でもAIを簡単に安全に使えるようになりました。"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
-      "title_ja": "高速判断AI Jevのユースケースとオープン実装を雑にまとめる",
-      "url": "https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations",
-      "likes": 89,
+      "source": "note",
+      "title": "長いPDFを読むのはもう大変じゃない！ChatGPTで資料をサクッと整理する方法",
+      "title_ja": "長いPDFを読むのはもう大変じゃない！ChatGPTで資料をサクッと整理する方法",
+      "url": "https://note.com/glossy_fox6476/n/n63d48fe3d60c",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-09-20",
+      "published_at": "2026-09-28",
       "lang": "ja",
-      "score": 97.0,
+      "score": 112.0,
       "summary": [
-        "JevというAIの便利な使い方と、誰でも使えるようになった話",
-        "AIが素早く判断し、私たちの生活や仕事が楽になる可能性があります",
-        "誰もがAIを利用し、社会がもっと便利に変わる可能性がある"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "誰でも高速判断AIを使えるようになり、より素早い決断で社会が便利になる"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "Copilotの品行方正 vs GoogleAI先生の熱量：太郎の前でAI二体がキャラ崩壊する日とは？🌟各AIコメント有",
-      "title_ja": "Copilotの品行方正 vs GoogleAI先生の熱量：太郎の前でAI二体がキャラ崩壊する日とは？🌟各AIコメント有",
-      "url": "https://note.com/tarou_wakamatsu/n/n55e84e3549e3",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-26",
+      "source": "Zenn",
+      "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
+      "title_ja": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
+      "url": "https://zenn.dev/nwn/articles/e49154653ecea9",
+      "likes": 55,
+      "comments": 2,
+      "published_at": "2026-09-25",
       "lang": "ja",
-      "score": 75.0,
+      "score": 67.0,
       "summary": [
-        "マイクロソフトとグーグルの有名AIの個性を比較します",
-        "あなたの目的に合うAIを選べるようになるでしょう",
-        "AIと賢く付き合いたい人に役立つ情報となります"
+        "AIの賢い文章作成モデルを小さくする方法",
+        "小さく速いAIがスマホでも動くようになる",
+        "誰もがAIを身近に利用できる未来に繋がる"
       ],
-      "highlight": "AIにも個性があると分かり、用途に合わせて賢く使い分けができるようになった"
+      "highlight": "高機能なAIがもっと手軽に、私たちの生活に溶け込むようになる"
     }
   ],
   "trending_keywords": [
-    "Copilot",
-    "Google"
+    "ChatGPT",
+    "GPT",
+    "LLM"
   ]
 }
