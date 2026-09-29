@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-09-28 09:17",
+  "updated_at": "2026-09-29 10:27",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "title_ja": "[翻訳失敗] What If Your AI Agent Never Had to Leave the Browser? (Demo 🚀)",
-      "url": "https://dev.to/sylwia-lask/what-if-your-ai-agent-never-had-to-leave-the-browser-demo--5g",
-      "likes": 172,
-      "comments": 116,
-      "published_at": "2026-09-21",
-      "lang": "en",
-      "score": 412.0,
+      "source": "note",
+      "title": "OpenAIが“最強AI”の訓練を止めた。AIの暴走に業界がブレーキを踏んだ日 ― 今日押さえておきたいAIニュース4選【2026年9月29日】",
+      "title_ja": "OpenAIが“最強AI”の訓練を止めた。AIの暴走に業界がブレーキを踏んだ日 ― 今日押さえておきたいAIニュース4選【2026年9月29日】",
+      "url": "https://note.com/ready_sedum7022/n/n7a424d898327",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-29",
+      "lang": "ja",
+      "score": 303.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "OpenAIが最強AIの訓練を一時停止しました",
+        "AIが暴走しないよう安全対策を優先した動きです",
+        "AIがより安全に私たちの生活に関わるようになります"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIが人間の生活に安全な形で役立つよう、開発の仕方が変わりました"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "長いPDFを読むのはもう大変じゃない！ChatGPTで資料をサクッと整理する方法",
-      "title_ja": "長いPDFを読むのはもう大変じゃない！ChatGPTで資料をサクッと整理する方法",
-      "url": "https://note.com/glossy_fox6476/n/n63d48fe3d60c",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-28",
-      "lang": "ja",
-      "score": 112.0,
+      "source": "Dev.to",
+      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did That Happen?",
+      "title_ja": "AIの使い分け：仕事用と雑談用、いつの間にか当たり前に？",
+      "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
+      "likes": 118,
+      "comments": 60,
+      "published_at": "2026-09-22",
+      "lang": "en",
+      "score": 249.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIを真面目な仕事用と気楽な雑談用で使い分ける人が増えました。",
+        "資料作成など効率を上げる場面や、気軽に相談する場面で活躍します。",
+        "AIは仕事や毎日の生活に欠かせない、身近な存在になりつつあります。"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIを、仕事の相棒としてだけでなく、気分で話せる友達のように使いこなせるようになった。"
     },
     {
       "rank": 3,
@@ -43,22 +43,21 @@
       "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
       "title_ja": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
       "url": "https://zenn.dev/nwn/articles/e49154653ecea9",
-      "likes": 55,
+      "likes": 64,
       "comments": 2,
       "published_at": "2026-09-25",
       "lang": "ja",
-      "score": 67.0,
+      "score": 76.0,
       "summary": [
-        "AIの賢い文章作成モデルを小さくする方法",
-        "小さく速いAIがスマホでも動くようになる",
-        "誰もがAIを身近に利用できる未来に繋がる"
+        "大きなAIを、小さく賢いAIにする方法です",
+        "AIがもっと速く動き、費用も抑えられます",
+        "身近なAIサービスがより快適になるでしょう"
       ],
-      "highlight": "高機能なAIがもっと手軽に、私たちの生活に溶け込むようになる"
+      "highlight": "少ない費用で、高性能なAIを誰もが使えるようになりました"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
+    "OpenAI",
     "LLM"
   ]
 }
