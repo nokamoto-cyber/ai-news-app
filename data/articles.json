@@ -1,63 +1,64 @@
 {
-  "updated_at": "2026-09-29 10:27",
+  "updated_at": "2026-09-30 10:02",
   "articles": [
     {
       "rank": 1,
-      "source": "note",
-      "title": "OpenAIが“最強AI”の訓練を止めた。AIの暴走に業界がブレーキを踏んだ日 ― 今日押さえておきたいAIニュース4選【2026年9月29日】",
-      "title_ja": "OpenAIが“最強AI”の訓練を止めた。AIの暴走に業界がブレーキを踏んだ日 ― 今日押さえておきたいAIニュース4選【2026年9月29日】",
-      "url": "https://note.com/ready_sedum7022/n/n7a424d898327",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-29",
-      "lang": "ja",
-      "score": 303.0,
+      "source": "Dev.to",
+      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
+      "title_ja": "AIに乗り遅れる不安を感じるあなたへ",
+      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
+      "likes": 57,
+      "comments": 30,
+      "published_at": "2026-09-28",
+      "lang": "en",
+      "score": 135.0,
       "summary": [
-        "OpenAIが最強AIの訓練を一時停止しました",
-        "AIが暴走しないよう安全対策を優先した動きです",
-        "AIがより安全に私たちの生活に関わるようになります"
+        "AIの急速な進化に不安を感じている人へ、心配はいらないというメッセージ。",
+        "AIは道具として活用でき、日々の仕事や生活をより良くする可能性を秘めています。",
+        "AIは私たちの生活や仕事に深く関わるため、その変化を前向きに捉えるヒントが得られます。"
       ],
-      "highlight": "AIが人間の生活に安全な形で役立つよう、開発の仕方が変わりました"
+      "highlight": "AIは怖いものではなく、誰もが活用して生活を豊かにできる道具になりました。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "We All Have a \"Serious Work\" AI and a \"Just Vibing\" AI. When Did That Happen?",
-      "title_ja": "AIの使い分け：仕事用と雑談用、いつの間にか当たり前に？",
-      "url": "https://dev.to/dj29/we-all-have-a-serious-work-ai-and-a-just-vibing-ai-when-did-that-happen-5fl2",
-      "likes": 118,
-      "comments": 60,
-      "published_at": "2026-09-22",
-      "lang": "en",
-      "score": 249.0,
+      "source": "note",
+      "title": "ChatGPTは「相談相手」から「常駐スタッフ」へ。OpenAI「Dots」で変わる仕事の任せ方<AIをクリエイティブな仕事に変えるメモvol.99>",
+      "title_ja": "ChatGPTは「相談相手」から「常駐スタッフ」へ。OpenAI「Dots」で変わる仕事の任せ方",
+      "url": "https://note.com/shionkado/n/nef1eb44867f9",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-09-30",
+      "lang": "ja",
+      "score": 113.0,
       "summary": [
-        "AIを真面目な仕事用と気楽な雑談用で使い分ける人が増えました。",
-        "資料作成など効率を上げる場面や、気軽に相談する場面で活躍します。",
-        "AIは仕事や毎日の生活に欠かせない、身近な存在になりつつあります。"
+        "この記事はChatGPTの使い方が大きく変わることを伝えています。",
+        "まるで職場のスタッフのように、AIが日常の仕事を手伝ってくれます。",
+        "仕事の効率が上がり、私たちの働き方が大きく変わっていくでしょう。"
       ],
-      "highlight": "AIを、仕事の相棒としてだけでなく、気分で話せる友達のように使いこなせるようになった。"
+      "highlight": "AIが常駐スタッフのように、日常の仕事を手伝うことで、働き方が大きく変わる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
-      "title_ja": "Jevにゲームをやらせるな！LLMを蒸留してみよう！",
-      "url": "https://zenn.dev/nwn/articles/e49154653ecea9",
-      "likes": 64,
-      "comments": 2,
-      "published_at": "2026-09-25",
+      "title": "AI開発時代だからこそ、テストの役割を見つめ直す",
+      "title_ja": "AI開発時代だからこそ、テストの役割を見つめ直す",
+      "url": "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
+      "likes": 74,
+      "comments": 0,
+      "published_at": "2026-09-29",
       "lang": "ja",
-      "score": 76.0,
+      "score": 92.0,
       "summary": [
-        "大きなAIを、小さく賢いAIにする方法です",
-        "AIがもっと速く動き、費用も抑えられます",
-        "身近なAIサービスがより快適になるでしょう"
+        "AIが進化していく中で、正しく動くか確認する",
+        "「テスト」のやり方がとても大切になっていること",
+        "AIを使う全ての人が安心できる未来に繋がります"
       ],
-      "highlight": "少ない費用で、高性能なAIを誰もが使えるようになりました"
+      "highlight": "AIが正しく動くかを確認するテストが進化し、私たちの生活がより安心・安全になる。"
     }
   ],
   "trending_keywords": [
-    "OpenAI",
-    "LLM"
+    "ChatGPT",
+    "GPT",
+    "OpenAI"
   ]
 }
