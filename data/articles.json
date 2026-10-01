@@ -1,64 +1,60 @@
 {
-  "updated_at": "2026-09-30 10:02",
+  "updated_at": "2026-10-01 10:03",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "title_ja": "AIに乗り遅れる不安を感じるあなたへ",
-      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
-      "likes": 57,
-      "comments": 30,
-      "published_at": "2026-09-28",
-      "lang": "en",
-      "score": 135.0,
-      "summary": [
-        "AIの急速な進化に不安を感じている人へ、心配はいらないというメッセージ。",
-        "AIは道具として活用でき、日々の仕事や生活をより良くする可能性を秘めています。",
-        "AIは私たちの生活や仕事に深く関わるため、その変化を前向きに捉えるヒントが得られます。"
-      ],
-      "highlight": "AIは怖いものではなく、誰もが活用して生活を豊かにできる道具になりました。"
-    },
-    {
-      "rank": 2,
-      "source": "note",
-      "title": "ChatGPTは「相談相手」から「常駐スタッフ」へ。OpenAI「Dots」で変わる仕事の任せ方<AIをクリエイティブな仕事に変えるメモvol.99>",
-      "title_ja": "ChatGPTは「相談相手」から「常駐スタッフ」へ。OpenAI「Dots」で変わる仕事の任せ方",
-      "url": "https://note.com/shionkado/n/nef1eb44867f9",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-09-30",
-      "lang": "ja",
-      "score": 113.0,
-      "summary": [
-        "この記事はChatGPTの使い方が大きく変わることを伝えています。",
-        "まるで職場のスタッフのように、AIが日常の仕事を手伝ってくれます。",
-        "仕事の効率が上がり、私たちの働き方が大きく変わっていくでしょう。"
-      ],
-      "highlight": "AIが常駐スタッフのように、日常の仕事を手伝うことで、働き方が大きく変わる"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "AI開発時代だからこそ、テストの役割を見つめ直す",
       "title_ja": "AI開発時代だからこそ、テストの役割を見つめ直す",
       "url": "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
-      "likes": 74,
+      "likes": 159,
       "comments": 0,
       "published_at": "2026-09-29",
       "lang": "ja",
-      "score": 92.0,
+      "score": 167.0,
       "summary": [
-        "AIが進化していく中で、正しく動くか確認する",
-        "「テスト」のやり方がとても大切になっていること",
-        "AIを使う全ての人が安心できる未来に繋がります"
+        "AIが私たちの生活に広がる時代だからこそ、",
+        "そのAIがちゃんと動くか確認する工夫が必要。",
+        "私たちが使うAIの安全と質が高まります。"
       ],
-      "highlight": "AIが正しく動くかを確認するテストが進化し、私たちの生活がより安心・安全になる。"
+      "highlight": "AIの進化に合わせて、より安心で便利なAIが私たちの生活で使えるようになる。"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
+      "title_ja": "親愛なるプログラマーの皆さんへ：AIに取り残されそうだと感じたら、これを読んでください",
+      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
+      "likes": 68,
+      "comments": 38,
+      "published_at": "2026-09-28",
+      "lang": "en",
+      "score": 152.0,
+      "summary": [
+        "AIの進歩が速く、置いていかれると感じる人へのメッセージ。",
+        "AIの波に不安を感じる人が、現状を理解し前向きになるヒント。",
+        "AIはみんなの生活を変えるため、不安解消の糸口になるでしょう。"
+      ],
+      "highlight": "AIの進化に不安を感じていた人が、前向きな気持ちで向き合えるようになる。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "まだAIに毎回指示してるの？ AIはもう「自分のPCを持つ社員」になりました。",
+      "title_ja": "まだAIに毎回指示してるの？ AIはもう「自分のPCを持つ社員」になりました。",
+      "url": "https://note.com/jadkey/n/nd4265b005ed6",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-10-01",
+      "lang": "ja",
+      "score": 78.0,
+      "summary": [
+        "AIがより賢くなり、自分で考えて動くようになった話です。",
+        "指示しなくても、まるで社員のように仕事を任せきりにできるAIが出てきました。",
+        "私たちの仕事や、AIとの付き合い方が大きく変わるでしょう。"
+      ],
+      "highlight": "AIは、まるで社員のように、自分で考えて継続的に仕事をこなせるようになりました。"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "OpenAI"
-  ]
+  "trending_keywords": []
 }
