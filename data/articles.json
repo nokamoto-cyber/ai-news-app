@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-10-01 10:03",
+  "updated_at": "2026-10-02 10:17",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
-      "title": "AI開発時代だからこそ、テストの役割を見つめ直す",
-      "title_ja": "AI開発時代だからこそ、テストの役割を見つめ直す",
-      "url": "https://zenn.dev/ababup1192/articles/77b844dcfc1529",
-      "likes": 159,
-      "comments": 0,
-      "published_at": "2026-09-29",
+      "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title_ja": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "url": "https://zenn.dev/lv/articles/0b1c731881b25c",
+      "likes": 326,
+      "comments": 2,
+      "published_at": "2026-10-01",
       "lang": "ja",
-      "score": 167.0,
+      "score": 348.0,
       "summary": [
-        "AIが私たちの生活に広がる時代だからこそ、",
-        "そのAIがちゃんと動くか確認する工夫が必要。",
-        "私たちが使うAIの安全と質が高まります。"
+        "AIが作った不自然で読みにくい文章を、",
+        "人が書いたように、もっと分かりやすく整える機能が誕生。",
+        "AIの情報を誰もが活用しやすくなります。"
       ],
-      "highlight": "AIの進化に合わせて、より安心で便利なAIが私たちの生活で使えるようになる。"
+      "highlight": "AIが書いた読みにくい文章が、人が書いたように自然で分かりやすくなる。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "title_ja": "親愛なるプログラマーの皆さんへ：AIに取り残されそうだと感じたら、これを読んでください",
+      "title_ja": "AIの進化に、乗り遅れたくないと感じるあなたへ",
       "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
-      "likes": 68,
-      "comments": 38,
+      "likes": 76,
+      "comments": 39,
       "published_at": "2026-09-28",
       "lang": "en",
-      "score": 152.0,
+      "score": 162.0,
       "summary": [
-        "AIの進歩が速く、置いていかれると感じる人へのメッセージ。",
-        "AIの波に不安を感じる人が、現状を理解し前向きになるヒント。",
-        "AIはみんなの生活を変えるため、不安解消の糸口になるでしょう。"
+        "AIの急速な進化による不安を解消します",
+        "AIは私たちの仕事や暮らしを助ける道具です",
+        "誰もがAIを使いこなし新しい時代が始まります"
       ],
-      "highlight": "AIの進化に不安を感じていた人が、前向きな気持ちで向き合えるようになる。"
+      "highlight": "AIは特別な人だけでなく誰もが使える道具になった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "まだAIに毎回指示してるの？ AIはもう「自分のPCを持つ社員」になりました。",
-      "title_ja": "まだAIに毎回指示してるの？ AIはもう「自分のPCを持つ社員」になりました。",
-      "url": "https://note.com/jadkey/n/nd4265b005ed6",
+      "title": "OpenAI DevDay 2026の新機能は自分のChatGPTプランで使えるのか、公式ガイドの「対象プラン・提供時期」で確かめた",
+      "title_ja": "OpenAI DevDay 2026の新機能は自分のChatGPTプランで使えるのか、公式ガイドの「対象プラン・提供時期」で確かめた",
+      "url": "https://note.com/tanaboo0502/n/n5d8e600a76d2",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-01",
+      "published_at": "2026-10-02",
       "lang": "ja",
-      "score": 78.0,
+      "score": 58.0,
       "summary": [
-        "AIがより賢くなり、自分で考えて動くようになった話です。",
-        "指示しなくても、まるで社員のように仕事を任せきりにできるAIが出てきました。",
-        "私たちの仕事や、AIとの付き合い方が大きく変わるでしょう。"
+        "新しいChatGPT機能が自分のプランで使えるか解説",
+        "最新機能がどのプランでいつ使えるか確認できる",
+        "ChatGPTを使っている人が新機能を活用するヒント"
       ],
-      "highlight": "AIは、まるで社員のように、自分で考えて継続的に仕事をこなせるようになりました。"
+      "highlight": "新しいChatGPT機能が自分のプランでいつ使えるか確認できるようになった。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT",
+    "OpenAI"
+  ]
 }
