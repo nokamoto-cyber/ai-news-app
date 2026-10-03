@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02 10:17",
+  "updated_at": "2026-10-03 09:55",
   "articles": [
     {
       "rank": 1,
@@ -7,58 +7,56 @@
       "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
       "title_ja": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
       "url": "https://zenn.dev/lv/articles/0b1c731881b25c",
-      "likes": 326,
-      "comments": 2,
+      "likes": 428,
+      "comments": 3,
       "published_at": "2026-10-01",
       "lang": "ja",
-      "score": 348.0,
+      "score": 442.0,
       "summary": [
-        "AIが作った不自然で読みにくい文章を、",
-        "人が書いたように、もっと分かりやすく整える機能が誕生。",
-        "AIの情報を誰もが活用しやすくなります。"
+        "AIが書く読みにくい文章を、より分かりやすくするための新しい工夫ができたという話です。",
+        "この技術を使うと、AIが書いた文章がもっとスムーズに、理解しやすくなります。",
+        "これにより、AIの文章がもっと役立ち、私たちの生活がより便利になるでしょう。"
       ],
-      "highlight": "AIが書いた読みにくい文章が、人が書いたように自然で分かりやすくなる。"
+      "highlight": "AIが作った読みにくい文章も、人が書いたようにスラスラと理解できるようになった"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "title_ja": "AIの進化に、乗り遅れたくないと感じるあなたへ",
+      "title_ja": "開発者の皆さんへ：AIに乗り遅れる不安を感じるなら読んでください",
       "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
-      "likes": 76,
-      "comments": 39,
+      "likes": 88,
+      "comments": 40,
       "published_at": "2026-09-28",
       "lang": "en",
-      "score": 162.0,
+      "score": 176.0,
       "summary": [
-        "AIの急速な進化による不安を解消します",
-        "AIは私たちの仕事や暮らしを助ける道具です",
-        "誰もがAIを使いこなし新しい時代が始まります"
+        "AIの急速な進化に感じる不安を解消",
+        "AIとの向き合い方が分かり前向きに",
+        "これからの仕事や生活に役立つヒント"
       ],
-      "highlight": "AIは特別な人だけでなく誰もが使える道具になった"
+      "highlight": "AIの進化に対する不安が解消され、活用法が見えてくる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "OpenAI DevDay 2026の新機能は自分のChatGPTプランで使えるのか、公式ガイドの「対象プラン・提供時期」で確かめた",
-      "title_ja": "OpenAI DevDay 2026の新機能は自分のChatGPTプランで使えるのか、公式ガイドの「対象プラン・提供時期」で確かめた",
-      "url": "https://note.com/tanaboo0502/n/n5d8e600a76d2",
+      "title": "生成AIアニメの効果音までローカルAIで作れる？ Stable Audio 3 Small-SFXを実制作で試す",
+      "title_ja": "生成AIアニメの効果音までローカルAIで作れる？ Stable Audio 3 Small-SFXを実制作で試す",
+      "url": "https://note.com/ai_creative_log/n/n7d5d472f482e",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-02",
+      "published_at": "2026-10-03",
       "lang": "ja",
-      "score": 58.0,
+      "score": 51.0,
       "summary": [
-        "新しいChatGPT機能が自分のプランで使えるか解説",
-        "最新機能がどのプランでいつ使えるか確認できる",
-        "ChatGPTを使っている人が新機能を活用するヒント"
+        "アニメや動画で使う効果音をAIが作る技術について説明しています。",
+        "インターネットなしで自分のパソコンで音を作れるAIを試した記事です。",
+        "動画を作る人が音を簡単かつ自由に作れる未来が来るかもしれません。"
       ],
-      "highlight": "新しいChatGPT機能が自分のプランでいつ使えるか確認できるようになった。"
+      "highlight": "自分のパソコンで、アニメや動画の「ドン」「バーン」といった効果音をAIが作れるようになるかもしれません。"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "OpenAI"
+    "生成AI"
   ]
 }
