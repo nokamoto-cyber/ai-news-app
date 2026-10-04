@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-10-03 09:55",
+  "updated_at": "2026-10-04 09:21",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
-      "title": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-      "title_ja": "AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title": "【最新v1.0.5公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title_ja": "【最新v1.0.5公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
       "url": "https://zenn.dev/lv/articles/0b1c731881b25c",
-      "likes": 428,
-      "comments": 3,
+      "likes": 466,
+      "comments": 4,
       "published_at": "2026-10-01",
       "lang": "ja",
-      "score": 442.0,
+      "score": 482.0,
       "summary": [
-        "AIが書く読みにくい文章を、より分かりやすくするための新しい工夫ができたという話です。",
-        "この技術を使うと、AIが書いた文章がもっとスムーズに、理解しやすくなります。",
-        "これにより、AIの文章がもっと役立ち、私たちの生活がより便利になるでしょう。"
+        "AIが書いた読みにくい日本語を直す技術の話です",
+        "不自然な言葉遣いや構成を整え、もっと読みやすくします",
+        "AIの文章を扱う多くの人にとって便利な機能です"
       ],
-      "highlight": "AIが作った読みにくい文章も、人が書いたようにスラスラと理解できるようになった"
+      "highlight": "AIが書いた読みにくい文章が、人が書いたように自然に読めるようになりました"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "title_ja": "開発者の皆さんへ：AIに乗り遅れる不安を感じるなら読んでください",
-      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
-      "likes": 88,
-      "comments": 40,
-      "published_at": "2026-09-28",
-      "lang": "en",
-      "score": 176.0,
+      "source": "note",
+      "title": "「AIで考える→Adobeで作る」の往復が消える？Gemini・ClaudeにAdobeが直接入ってきた",
+      "title_ja": "「AIで考える→Adobeで作る」の往復が消える？Gemini・ClaudeにAdobeが直接入ってきた",
+      "url": "https://note.com/turuto/n/n09d1bb78df2f",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-10-04",
+      "lang": "ja",
+      "score": 394.0,
       "summary": [
-        "AIの急速な進化に感じる不安を解消",
-        "AIとの向き合い方が分かり前向きに",
-        "これからの仕事や生活に役立つヒント"
+        "AIがデザインのアイデア出しと制作を助ける話",
+        "AIに話しかけるだけでデザイン作成ができるように",
+        "誰もが簡単に作品を作れる未来へ向かいます"
       ],
-      "highlight": "AIの進化に対する不安が解消され、活用法が見えてくる"
+      "highlight": "AIがデザインのアイデア出しから制作まで、直接手伝ってくれるようになった"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "生成AIアニメの効果音までローカルAIで作れる？ Stable Audio 3 Small-SFXを実制作で試す",
-      "title_ja": "生成AIアニメの効果音までローカルAIで作れる？ Stable Audio 3 Small-SFXを実制作で試す",
-      "url": "https://note.com/ai_creative_log/n/n7d5d472f482e",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-10-03",
-      "lang": "ja",
-      "score": 51.0,
+      "source": "Dev.to",
+      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
+      "title_ja": "プログラマーさんへ：AIが不安なら、この記事を読んでください",
+      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
+      "likes": 91,
+      "comments": 40,
+      "published_at": "2026-09-28",
+      "lang": "en",
+      "score": 179.0,
       "summary": [
-        "アニメや動画で使う効果音をAIが作る技術について説明しています。",
-        "インターネットなしで自分のパソコンで音を作れるAIを試した記事です。",
-        "動画を作る人が音を簡単かつ自由に作れる未来が来るかもしれません。"
+        "AI進化に「仕事がなくなるかも」と不安なプログラマーへ。",
+        "AIを恐れず活用し、仕事の改善ヒントが得られます。",
+        "AI社会で、AIとどう関わるか考えるきっかけになります。"
       ],
-      "highlight": "自分のパソコンで、アニメや動画の「ドン」「バーン」といった効果音をAIが作れるようになるかもしれません。"
+      "highlight": "AIが敵ではなく味方だと示され、未来の働き方が変わるきっかけに。"
     }
   ],
   "trending_keywords": [
-    "生成AI"
+    "Claude",
+    "Gemini"
   ]
 }
