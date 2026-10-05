@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-10-04 09:21",
+  "updated_at": "2026-10-05 09:25",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
-      "title": "【最新v1.0.5公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-      "title_ja": "【最新v1.0.5公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title": "【最新v1.0.6公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title_ja": "【最新v1.0.6公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
       "url": "https://zenn.dev/lv/articles/0b1c731881b25c",
-      "likes": 466,
+      "likes": 495,
       "comments": 4,
       "published_at": "2026-10-01",
       "lang": "ja",
-      "score": 482.0,
+      "score": 511.0,
       "summary": [
-        "AIが書いた読みにくい日本語を直す技術の話です",
-        "不自然な言葉遣いや構成を整え、もっと読みやすくします",
-        "AIの文章を扱う多くの人にとって便利な機能です"
+        "AIが書いた、読みにくい文章を直す「yomiyasu」が登場しました。",
+        "文章の形や流れを整え、人が書いたように自然で読みやすくします。",
+        "AIを日常で使う多くの人が、よりスムーズに情報を得られるようになります。"
       ],
-      "highlight": "AIが書いた読みにくい文章が、人が書いたように自然に読めるようになりました"
+      "highlight": "AIが作った文章が、まるで人が書いたように自然で読みやすくなる"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "「AIで考える→Adobeで作る」の往復が消える？Gemini・ClaudeにAdobeが直接入ってきた",
-      "title_ja": "「AIで考える→Adobeで作る」の往復が消える？Gemini・ClaudeにAdobeが直接入ってきた",
-      "url": "https://note.com/turuto/n/n09d1bb78df2f",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-10-04",
-      "lang": "ja",
-      "score": 394.0,
+      "source": "Dev.to",
+      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
+      "title_ja": "プログラマーの皆さんへ：AIに乗り遅れる不安を感じるなら、この記事を開いてください",
+      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
+      "likes": 92,
+      "comments": 41,
+      "published_at": "2026-09-28",
+      "lang": "en",
+      "score": 182.0,
       "summary": [
-        "AIがデザインのアイデア出しと制作を助ける話",
-        "AIに話しかけるだけでデザイン作成ができるように",
-        "誰もが簡単に作品を作れる未来へ向かいます"
+        "AIの急速な進化に不安を感じる人へ",
+        "AIと上手に付き合うヒントが得られる",
+        "将来の働き方や学び方が変わるきっかけに"
       ],
-      "highlight": "AIがデザインのアイデア出しから制作まで、直接手伝ってくれるようになった"
+      "highlight": "AIの進化を恐れず、人間がAIと協力して活躍できる道が見つかるようになりました。"
     },
     {
       "rank": 3,
-      "source": "Dev.to",
-      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "title_ja": "プログラマーさんへ：AIが不安なら、この記事を読んでください",
-      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
-      "likes": 91,
-      "comments": 40,
-      "published_at": "2026-09-28",
-      "lang": "en",
-      "score": 179.0,
+      "source": "note",
+      "title": "【国内エンタープライズAI週報 9/28~10/4】企業の生成AI利用率は9.2%、AIデータセンターには2.3兆円",
+      "title_ja": "【国内エンタープライズAI週報 9/28~10/4】企業の生成AI利用率は9.2%、AIデータセンターには2.3兆円",
+      "url": "https://note.com/_kihonushi/n/n1937a0c20841",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-10-05",
+      "lang": "ja",
+      "score": 80.0,
       "summary": [
-        "AI進化に「仕事がなくなるかも」と不安なプログラマーへ。",
-        "AIを恐れず活用し、仕事の改善ヒントが得られます。",
-        "AI社会で、AIとどう関わるか考えるきっかけになります。"
+        "日本の企業がAIを使い始めたことと、AIを動かす施設に多額のお金が使われていることが分かります。",
+        "AIがもっと身近になり、様々なサービスや仕事が便利に変わっていくでしょう。",
+        "私たちの普段の生活や仕事がAIによって、より豊かで効率的になる未来が期待されます。"
       ],
-      "highlight": "AIが敵ではなく味方だと示され、未来の働き方が変わるきっかけに。"
+      "highlight": "企業のAI利用はまだ少ないが、巨額投資で私たちの生活が大きく変わる時代が近づく。"
     }
   ],
   "trending_keywords": [
-    "Claude",
-    "Gemini"
+    "生成AI"
   ]
 }
