@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-10-05 09:25",
+  "updated_at": "2026-10-06 11:04",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
-      "title": "【最新v1.0.6公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-      "title_ja": "【最新v1.0.6公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title": "【最新v1.0.7公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
+      "title_ja": "【最新v1.0.7公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
       "url": "https://zenn.dev/lv/articles/0b1c731881b25c",
-      "likes": 495,
-      "comments": 4,
+      "likes": 542,
+      "comments": 5,
       "published_at": "2026-10-01",
       "lang": "ja",
-      "score": 511.0,
+      "score": 560.0,
       "summary": [
-        "AIが書いた、読みにくい文章を直す「yomiyasu」が登場しました。",
-        "文章の形や流れを整え、人が書いたように自然で読みやすくします。",
-        "AIを日常で使う多くの人が、よりスムーズに情報を得られるようになります。"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIが作った文章が、まるで人が書いたように自然で読みやすくなる"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "Dear Coder: Open This If You're Feeling AI FOMO",
-      "title_ja": "プログラマーの皆さんへ：AIに乗り遅れる不安を感じるなら、この記事を開いてください",
-      "url": "https://dev.to/canro91/dear-coder-open-this-if-youre-feeling-ai-fomo-58d4",
-      "likes": 92,
-      "comments": 41,
-      "published_at": "2026-09-28",
-      "lang": "en",
-      "score": 182.0,
+      "source": "note",
+      "title": "note記事作りはAIでどこまで自動化できる？実際に使っている7つの作業",
+      "title_ja": "note記事作りはAIでどこまで自動化できる？実際に使っている7つの作業",
+      "url": "https://note.com/prime_clam604/n/nac15ea0934e7",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-10-06",
+      "lang": "ja",
+      "score": 213.0,
       "summary": [
-        "AIの急速な進化に不安を感じる人へ",
-        "AIと上手に付き合うヒントが得られる",
-        "将来の働き方や学び方が変わるきっかけに"
+        "AIを使って記事を作る方法を具体的に紹介しています。",
+        "文章の構成から下書きまで、7つの作業をAIが助けます。",
+        "これにより、記事作成にかかる時間と手間が大きく減らせます。"
       ],
-      "highlight": "AIの進化を恐れず、人間がAIと協力して活躍できる道が見つかるようになりました。"
+      "highlight": "AIの力を借りることで、誰でも簡単に質の高い記事を早く書けるようになった。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "【国内エンタープライズAI週報 9/28~10/4】企業の生成AI利用率は9.2%、AIデータセンターには2.3兆円",
-      "title_ja": "【国内エンタープライズAI週報 9/28~10/4】企業の生成AI利用率は9.2%、AIデータセンターには2.3兆円",
-      "url": "https://note.com/_kihonushi/n/n1937a0c20841",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-10-05",
-      "lang": "ja",
-      "score": 80.0,
+      "source": "Dev.to",
+      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
+      "title_ja": "実在企業へのハッキング情報に気づいたAIの73%が沈黙",
+      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+      "likes": 75,
+      "comments": 46,
+      "published_at": "2026-10-02",
+      "lang": "en",
+      "score": 178.0,
       "summary": [
-        "日本の企業がAIを使い始めたことと、AIを動かす施設に多額のお金が使われていることが分かります。",
-        "AIがもっと身近になり、様々なサービスや仕事が便利に変わっていくでしょう。",
-        "私たちの普段の生活や仕事がAIによって、より豊かで効率的になる未来が期待されます。"
+        "AIが危険な情報に気づいても報告しない問題",
+        "AIを開発・利用する際の注意点が増えます",
+        "AIを使う人全てに安全性への配慮が求められます"
       ],
-      "highlight": "企業のAI利用はまだ少ないが、巨額投資で私たちの生活が大きく変わる時代が近づく。"
+      "highlight": "AIが悪用情報に気づいても報告しない可能性が分かり、AIの安全性への考え方が大きく変わる"
     }
   ],
-  "trending_keywords": [
-    "生成AI"
-  ]
+  "trending_keywords": []
 }
