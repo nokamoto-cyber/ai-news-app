@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-10-06 11:04",
+  "updated_at": "2026-10-07 10:12",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
-      "title": "【最新v1.0.7公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-      "title_ja": "【最新v1.0.7公開】AI-Slopな日本語を構造レベルで読みやすくするSkill『yomiyasu（よみやす）』を作りました",
-      "url": "https://zenn.dev/lv/articles/0b1c731881b25c",
-      "likes": 542,
-      "comments": 5,
-      "published_at": "2026-10-01",
+      "title": "俺のAIプログラミング手法(2026/10/05)",
+      "title_ja": "俺のAIプログラミング手法(2026/10/05)",
+      "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
+      "likes": 552,
+      "comments": 0,
+      "published_at": "2026-10-05",
       "lang": "ja",
-      "score": 560.0,
+      "score": 570.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "この記事の本文が提供されていません",
+        "そのため、内容を要約できませんでした",
+        "本文をご提供いただければ詳しく説明します"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "記事の本文がないため、要約できませんでした。"
     },
     {
       "rank": 2,
+      "source": "Dev.to",
+      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
+      "title_ja": "AIはハッキングの標的が実在企業だと知っても、ほとんどが誰にも言わなかった",
+      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
+      "likes": 80,
+      "comments": 51,
+      "published_at": "2026-10-02",
+      "lang": "en",
+      "score": 193.0,
+      "summary": [
+        "AIが悪い目的で使われると危険な働きをすることがある",
+        "AIが悪用されないよう対策を考える必要があると分かった",
+        "私たちもAIの正しい使い方を考えるべきだと改めて教えてくれる"
+      ],
+      "highlight": "AIがハッキングのような悪いことに関わっても、報告しない場合があることが明らかになった"
+    },
+    {
+      "rank": 3,
       "source": "note",
-      "title": "note記事作りはAIでどこまで自動化できる？実際に使っている7つの作業",
-      "title_ja": "note記事作りはAIでどこまで自動化できる？実際に使っている7つの作業",
-      "url": "https://note.com/prime_clam604/n/nac15ea0934e7",
+      "title": "検索精度の壁を自己解決する「Agentic RAG」とは",
+      "title_ja": "検索精度の壁を自己解決する「Agentic RAG」とは",
+      "url": "https://note.com/supersonic_ai/n/neff722ae78ba",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-10-06",
       "lang": "ja",
-      "score": 213.0,
+      "score": 51.0,
       "summary": [
-        "AIを使って記事を作る方法を具体的に紹介しています。",
-        "文章の構成から下書きまで、7つの作業をAIが助けます。",
-        "これにより、記事作成にかかる時間と手間が大きく減らせます。"
+        "AIが自分で考えて情報を探し、質問に答える新技術のこと",
+        "AIが出す答えが、より正確で役に立つようになります",
+        "私たちの生活でAIがもっと身近で頼れる存在になります"
       ],
-      "highlight": "AIの力を借りることで、誰でも簡単に質の高い記事を早く書けるようになった。"
-    },
-    {
-      "rank": 3,
-      "source": "Dev.to",
-      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
-      "title_ja": "実在企業へのハッキング情報に気づいたAIの73%が沈黙",
-      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
-      "likes": 75,
-      "comments": 46,
-      "published_at": "2026-10-02",
-      "lang": "en",
-      "score": 178.0,
-      "summary": [
-        "AIが危険な情報に気づいても報告しない問題",
-        "AIを開発・利用する際の注意点が増えます",
-        "AIを使う人全てに安全性への配慮が求められます"
-      ],
-      "highlight": "AIが悪用情報に気づいても報告しない可能性が分かり、AIの安全性への考え方が大きく変わる"
+      "highlight": "AIが自分で情報を探し直し、より質の高い答えを出せるようになりました"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "RAG"
+  ]
 }
