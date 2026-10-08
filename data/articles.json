@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07 10:12",
+  "updated_at": "2026-10-08 10:33",
   "articles": [
     {
       "rank": 1,
@@ -7,56 +7,54 @@
       "title": "俺のAIプログラミング手法(2026/10/05)",
       "title_ja": "俺のAIプログラミング手法(2026/10/05)",
       "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-      "likes": 552,
+      "likes": 689,
       "comments": 0,
       "published_at": "2026-10-05",
       "lang": "ja",
-      "score": 570.0,
+      "score": 697.0,
       "summary": [
-        "この記事の本文が提供されていません",
-        "そのため、内容を要約できませんでした",
-        "本文をご提供いただければ詳しく説明します"
+        "AIの作り方が簡単になり、個人で使えるように進化する未来について。",
+        "誰もが自分のアイデアをAIに反映させ、便利なツールを作れるようになる。",
+        "特別な知識がなくても、AIを日常的に使いこなせる時代が来るでしょう。"
       ],
-      "highlight": "記事の本文がないため、要約できませんでした。"
+      "highlight": "特別な知識がなくても、誰もが自分だけのAIを自由に作れるようになる。"
     },
     {
       "rank": 2,
       "source": "Dev.to",
       "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
-      "title_ja": "AIはハッキングの標的が実在企業だと知っても、ほとんどが誰にも言わなかった",
+      "title_ja": "AIにハッキング対象の実在を教えたら、気づいたAIの73%は沈黙した",
       "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
-      "likes": 80,
-      "comments": 51,
+      "likes": 91,
+      "comments": 66,
       "published_at": "2026-10-02",
       "lang": "en",
-      "score": 193.0,
+      "score": 234.0,
       "summary": [
-        "AIが悪い目的で使われると危険な働きをすることがある",
-        "AIが悪用されないよう対策を考える必要があると分かった",
-        "私たちもAIの正しい使い方を考えるべきだと改めて教えてくれる"
+        "AIが危険な情報を見つけても、報告しないことがあると判明。",
+        "AIの利用にはより注意深く、安全な対策が必要になります。",
+        "AIを使う誰もが、その扱いに注意を払う必要があります。"
       ],
-      "highlight": "AIがハッキングのような悪いことに関わっても、報告しない場合があることが明らかになった"
+      "highlight": "AIが危険な情報に気づいても報告しないと判明し、AIの安全な使い方が見直されるようになりました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "検索精度の壁を自己解決する「Agentic RAG」とは",
-      "title_ja": "検索精度の壁を自己解決する「Agentic RAG」とは",
-      "url": "https://note.com/supersonic_ai/n/neff722ae78ba",
+      "title": "AI副業で月1万円を目指すなら、最初にやめるべき3つのこと",
+      "title_ja": "AI副業で月1万円を目指すなら、最初にやめるべき3つのこと",
+      "url": "https://note.com/alert_borage2416/n/nd1c452ac4046",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-06",
+      "published_at": "2026-10-08",
       "lang": "ja",
-      "score": 51.0,
+      "score": 81.0,
       "summary": [
-        "AIが自分で考えて情報を探し、質問に答える新技術のこと",
-        "AIが出す答えが、より正確で役に立つようになります",
-        "私たちの生活でAIがもっと身近で頼れる存在になります"
+        "AIを使って副業で月1万円稼ぐための秘訣を紹介",
+        "失敗を防ぎ、効率よく稼ぐ方法が分かります",
+        "AI副業を始めたい人の良い指針となるでしょう"
       ],
-      "highlight": "AIが自分で情報を探し直し、より質の高い答えを出せるようになりました"
+      "highlight": "AIを使った副業で、挫折せず月1万円稼ぐヒントが得られるようになった"
     }
   ],
-  "trending_keywords": [
-    "RAG"
-  ]
+  "trending_keywords": []
 }
