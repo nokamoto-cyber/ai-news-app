@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09 10:43",
+  "updated_at": "2026-10-10 10:30",
   "articles": [
     {
       "rank": 1,
@@ -7,57 +7,54 @@
       "title": "俺のAIプログラミング手法(2026/10/05)",
       "title_ja": "俺のAIプログラミング手法",
       "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-      "likes": 756,
+      "likes": 826,
       "comments": 0,
       "published_at": "2026-10-05",
       "lang": "ja",
-      "score": 764.0,
+      "score": 834.0,
       "summary": [
-        "この記事は、未来のAIを作る新しい方法について紹介しています。",
-        "特別な知識がなくても、自分でAIを作れるようになるかもしれません。",
-        "AIの開発が誰にとってもっと身近なものに変わっていくでしょう。"
+        "AIを効率的に作る新しい方法",
+        "もっと賢いAIが早く作れるように",
+        "未来のAIがもっと身近になるかも"
       ],
-      "highlight": "これまで難しかったAI作りが、特別な知識なしに誰でもできるようになった"
+      "highlight": "AIを作る方法が進歩し、私たちの生活がもっと便利になる"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "I Gave 15 AI Models Proof Their Hacking Target Was a Real Company. 73% of the Ones That Noticed Told No One.",
-      "title_ja": "AIに「ハッキング対象は実在企業」と伝えたら、7割以上は沈黙した",
-      "url": "https://dev.to/soumyadeepdey/i-gave-15-ai-models-proof-their-hacking-target-was-a-real-company-73-of-the-ones-that-noticed-1h81",
-      "likes": 94,
-      "comments": 76,
-      "published_at": "2026-10-02",
+      "title": "AI Got Better While I Was Away. Software Didn't.",
+      "title_ja": "AIはどんどん良くなったのに、ソフトはそうでもない？",
+      "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b",
+      "likes": 26,
+      "comments": 32,
+      "published_at": "2026-10-09",
       "lang": "en",
-      "score": 257.0,
+      "score": 123.0,
       "summary": [
-        "AIが不正行為の手助けをする危険性を伝えている",
-        "AIの悪用を防ぐため人間が監視する必要がある",
-        "AI開発者や利用者は倫理と安全性を考える"
+        "AIの進化は驚くほど速いのに、",
+        "私たちが毎日使うアプリやソフトは、",
+        "あまり変わっていないという現状を伝えます。"
       ],
-      "highlight": "AIが危険な指示でも倫理を問わず実行する可能性が分かった"
+      "highlight": "AIが人間の言葉を理解し、文章や絵を自動で作るなど、かつてないほど多様な作業ができるようになりました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Googleが仕事用のGeminiを発表。指示ではなく目的を渡すと、段取りを組んで仕上げて返す",
-      "title_ja": "Googleが仕事用のGeminiを発表。指示ではなく目的を渡すと、段取りを組んで仕上げて返す",
-      "url": "https://note.com/saisoku_ai_note/n/nd6713324dbdd",
+      "title": "日本語の壁は崩れた。次に問われるのは「守る運用」――日本がサイバー攻撃で狙われる理由を現役SEが考える",
+      "title_ja": "日本語の壁は崩れた。次に問われるのは「守る運用」――日本がサイバー攻撃で狙われる理由を現役SEが考える",
+      "url": "https://note.com/kei_yoko/n/n8921ecf566ee",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-09",
+      "published_at": "2026-10-10",
       "lang": "ja",
-      "score": 74.0,
+      "score": 69.0,
       "summary": [
-        "Googleが仕事に役立つ新しいAIツールを発表。",
-        "細かな指示なしで、目的を伝えるだけでAIが作業を終わらせる。",
-        "私たちの仕事のやり方が大きく変わる可能性があります。"
+        "AIが進化したことで日本語の壁がなくなり、日本がサイバー攻撃の標的になりやすくなったと伝えています。",
+        "今まで以上に、会社や組織が情報を「守る」ための対策をしっかり進める必要があると述べています。",
+        "私たちの身近な情報も狙われる可能性があるため、みんなでサイバー攻撃への注意が必要になります。"
       ],
-      "highlight": "AIに目的を伝えるだけで、AIが自分で考えて仕事を仕上げてくれるようになった。"
+      "highlight": "AIの発展で日本語だから安全という時代が終わり、日本全体がサイバー攻撃の危険にさらされる時代に変わった。"
     }
   ],
-  "trending_keywords": [
-    "Gemini",
-    "Google"
-  ]
+  "trending_keywords": []
 }
