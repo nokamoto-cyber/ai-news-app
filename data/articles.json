@@ -1,64 +1,63 @@
 {
-  "updated_at": "2026-10-11 09:39",
+  "updated_at": "2026-10-12 09:57",
   "articles": [
     {
       "rank": 1,
       "source": "Zenn",
       "title": "俺のAIプログラミング手法(2026/10/05)",
-      "title_ja": "俺のAIプログラミング手法(2026/10/05)",
+      "title_ja": "記事本文が提供されていません",
       "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-      "likes": 1047,
+      "likes": 1082,
       "comments": 0,
       "published_at": "2026-10-05",
       "lang": "ja",
-      "score": 1055.0,
+      "score": 1090.0,
       "summary": [
-        "未来のAI開発のコツを共有する記事です。",
-        "これまでより早く簡単にAIを作れるように。",
-        "誰もが自分のAIを作れる時代が来るかも。"
+        "AI記事の内容が入力されていません",
+        "そのため、この記事について説明できません",
+        "記事本文を改めてご提示ください"
       ],
-      "highlight": "AIプログラミングが簡単になり、誰もが自分だけの便利なAIを作れるようになった"
+      "highlight": "記事本文がないため、内容を要約することができませんでした"
     },
     {
       "rank": 2,
       "source": "Dev.to",
-      "title": "AI Got Better While I Was Away. Software Didn't.",
-      "title_ja": "私が少し離れている間にAIは進化したけど、普通のソフトはそうでもなかった",
-      "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b",
-      "likes": 46,
-      "comments": 47,
-      "published_at": "2026-10-09",
+      "title": "The Witness Was the Suspect: Why AI Audit Logs Can't Be Trusted",
+      "title_ja": "AIの記録はなぜ信用できないのか？（証人が犯人だった？）",
+      "url": "https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190",
+      "likes": 61,
+      "comments": 99,
+      "published_at": "2026-10-05",
       "lang": "en",
-      "score": 158.0,
+      "score": 270.0,
       "summary": [
-        "この記事は、AI（人工知能）の進化がとても速いことを伝えています。",
-        "しかし、私たちが普段使うアプリなどのソフトウェアは、あまり変わっていないようです。",
-        "AIのおかげで、私たちの生活や仕事が大きく変わり、より便利になるでしょう。"
+        "AIが残す行動記録が、実は信頼できないかもしれないという警鐘。",
+        "AIが問題を起こした時に、その原因を調べることが難しくなる。",
+        "AIが社会に広まるほど、この問題は私たちの生活にも関わる。"
       ],
-      "highlight": "AIがどんどん賢くなり、私たちの暮らしの多くのことを手伝ってくれるようになった。"
+      "highlight": "AIの行動記録が信頼できなくなり、AIの責任を問うのが難しくなる"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【無料】【Google内部で衝撃】Gemini 4より高性能な「Carbon」が発覚。Claude Opus 5.5級のAIを極秘テスト中？",
-      "title_ja": "【無料】【Google内部で衝撃】Gemini 4より高性能な「Carbon」が発覚。Claude Opus 5.5級のAIを極秘テスト中？",
-      "url": "https://note.com/biz_hack_master/n/n9d107645442e",
+      "title": "ChatGPTでExcelを編集したら、関数が消えた。AIに任せる前に知っておきたい5つのこと",
+      "title_ja": "ChatGPTでExcelを編集したら、関数が消えた。AIに任せる前に知っておきたい5つのこと",
+      "url": "https://note.com/shigoto_ai_me/n/n37916242a7ce",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-10",
+      "published_at": "2026-10-12",
       "lang": "ja",
-      "score": 59.0,
+      "score": 87.0,
       "summary": [
-        "Googleが、これまでで最も賢い新しいAIを密かに開発中。",
-        "今ある一番すごいAIよりもさらに高性能な可能性があるという内容。",
-        "このAIが完成すると、私たちの生活が大きく変わるかもしれません。"
+        "ChatGPTにExcelの作業を頼むときの注意点がわかる",
+        "大事な計算式が消えるなどの困った問題が起きることも",
+        "AIを上手に使いこなすための大切なポイントが学べる"
       ],
-      "highlight": "Googleが開発中の新しい超高性能AIが、私たちの毎日をもっと便利に変えるかもしれない"
+      "highlight": "AIに何でも任せきりではなく、賢く活用する方法がわかるようになった"
     }
   ],
   "trending_keywords": [
-    "Claude",
-    "Gemini",
-    "Google"
+    "ChatGPT",
+    "GPT"
   ]
 }
