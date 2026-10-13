@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-10-12 09:57",
+  "updated_at": "2026-10-13 11:50",
   "articles": [
     {
       "rank": 1,
-      "source": "Zenn",
-      "title": "俺のAIプログラミング手法(2026/10/05)",
-      "title_ja": "記事本文が提供されていません",
-      "url": "https://zenn.dev/mizchi/articles/ai-coding-loop-formal",
-      "likes": 1082,
-      "comments": 0,
-      "published_at": "2026-10-05",
-      "lang": "ja",
-      "score": 1090.0,
+      "source": "Dev.to",
+      "title": "AI Got Better While I Was Away. Software Didn't.",
+      "title_ja": "私がいない間にAIは進歩したのに、従来のソフトは変わらなかった",
+      "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b",
+      "likes": 70,
+      "comments": 78,
+      "published_at": "2026-10-09",
+      "lang": "en",
+      "score": 234.0,
       "summary": [
-        "AI記事の内容が入力されていません",
-        "そのため、この記事について説明できません",
-        "記事本文を改めてご提示ください"
+        "AIが急速に進化した一方、従来のソフトはあまり変わっていないと伝えています。",
+        "AIは人の言葉を理解し、絵や文章を作るなど、できることが大きく増えました。",
+        "私たちの生活や仕事はAIで変わり、アプリもより賢く便利になるでしょう。"
       ],
-      "highlight": "記事本文がないため、内容を要約することができませんでした"
+      "highlight": "AIが劇的に進化し、誰でも簡単に高度な作業ができるようになった"
     },
     {
       "rank": 2,
-      "source": "Dev.to",
-      "title": "The Witness Was the Suspect: Why AI Audit Logs Can't Be Trusted",
-      "title_ja": "AIの記録はなぜ信用できないのか？（証人が犯人だった？）",
-      "url": "https://dev.to/james_anderson_h/the-witness-was-the-suspect-why-ai-audit-logs-cant-be-trusted-2190",
-      "likes": 61,
-      "comments": 99,
-      "published_at": "2026-10-05",
-      "lang": "en",
-      "score": 270.0,
+      "source": "Zenn",
+      "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
+      "title_ja": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
+      "url": "https://zenn.dev/okkun0524/articles/haiku-5-5-subagent-roles",
+      "likes": 67,
+      "comments": 1,
+      "published_at": "2026-10-08",
+      "lang": "ja",
+      "score": 77.0,
       "summary": [
-        "AIが残す行動記録が、実は信頼できないかもしれないという警鐘。",
-        "AIが問題を起こした時に、その原因を調べることが難しくなる。",
-        "AIが社会に広まるほど、この問題は私たちの生活にも関わる。"
+        "あるシステムが新しくなり、AIの働き方を見直した話です。",
+        "AIがもっと賢く、効率的に動くように改善されました。",
+        "AIが使われるサービスの質が上がり、もっと便利になります。"
       ],
-      "highlight": "AIの行動記録が信頼できなくなり、AIの責任を問うのが難しくなる"
+      "highlight": "AIの仕組みを工夫し、私たちが使うサービスがもっと便利に進化する道が開かれました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPTでExcelを編集したら、関数が消えた。AIに任せる前に知っておきたい5つのこと",
-      "title_ja": "ChatGPTでExcelを編集したら、関数が消えた。AIに任せる前に知っておきたい5つのこと",
-      "url": "https://note.com/shigoto_ai_me/n/n37916242a7ce",
+      "title": "ChatGPTの回答を自分らしい文章に直す方法",
+      "title_ja": "ChatGPTの回答を自分らしい文章に直す方法",
+      "url": "https://note.com/santaruru/n/n8ccaa5f338cb",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-12",
+      "published_at": "2026-10-13",
       "lang": "ja",
-      "score": 87.0,
+      "score": 60.0,
       "summary": [
-        "ChatGPTにExcelの作業を頼むときの注意点がわかる",
-        "大事な計算式が消えるなどの困った問題が起きることも",
-        "AIを上手に使いこなすための大切なポイントが学べる"
+        "ChatGPTが作った文章を自分らしく変える方法を解説",
+        "誰でも自分の個性が出せる文章が作れるようになる",
+        "文章を書く多くの人がAIを賢く使いこなせるヒント"
       ],
-      "highlight": "AIに何でも任せきりではなく、賢く活用する方法がわかるようになった"
+      "highlight": "AIと協力して、自分だけの個性的な文章が作れるようになった"
     }
   ],
   "trending_keywords": [
