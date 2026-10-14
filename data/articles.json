@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-10-13 11:50",
+  "updated_at": "2026-10-14 09:51",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI Got Better While I Was Away. Software Didn't.",
-      "title_ja": "私がいない間にAIは進歩したのに、従来のソフトは変わらなかった",
+      "title_ja": "私がいない間にAIは進化したけど、普通のソフトは変わってないね。",
       "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b",
-      "likes": 70,
-      "comments": 78,
+      "likes": 89,
+      "comments": 88,
       "published_at": "2026-10-09",
       "lang": "en",
-      "score": 234.0,
+      "score": 273.0,
       "summary": [
-        "AIが急速に進化した一方、従来のソフトはあまり変わっていないと伝えています。",
-        "AIは人の言葉を理解し、絵や文章を作るなど、できることが大きく増えました。",
-        "私たちの生活や仕事はAIで変わり、アプリもより賢く便利になるでしょう。"
+        "AIはすごく進化したけど、普通のソフトはあまり変わっていないという話。",
+        "AIは人の仕事を助け、新しい事がどんどんできるようになりました。",
+        "私たちの生活で使うソフトもAIのように便利になるか期待されます。"
       ],
-      "highlight": "AIが劇的に進化し、誰でも簡単に高度な作業ができるようになった"
+      "highlight": "AIが驚くほど進化し、身近なソフトもより賢くなる期待がある、という変化がすごいです。"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "Gemini 4 Argon が一般提供：12月に単価が倍、明示キャッシュ非対応、temperature は無視、使える場所と移行前の確認点",
+      "title_ja": "Gemini 4 Argon が一般提供：12月に単価が倍、明示キャッシュ非対応、temperature は無視、使える場所と移行前の確認点",
+      "url": "https://note.com/mio_ai_techo/n/n0cff1aa5d599",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-10-14",
+      "lang": "ja",
+      "score": 101.0,
+      "summary": [
+        "新しいAIモデル「Gemini 4 Argon」が使えるようになりました。",
+        "12月から利用料が上がるなど、いくつか注意点があります。",
+        "AIサービスを作る人や使う人に影響が出る可能性があります。"
+      ],
+      "highlight": "新しいAI「Gemini 4 Argon」が登場し、使い方や費用が大きく変わります。"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
       "title_ja": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
       "url": "https://zenn.dev/okkun0524/articles/haiku-5-5-subagent-roles",
-      "likes": 67,
+      "likes": 72,
       "comments": 1,
       "published_at": "2026-10-08",
       "lang": "ja",
-      "score": 77.0,
+      "score": 82.0,
       "summary": [
-        "あるシステムが新しくなり、AIの働き方を見直した話です。",
-        "AIがもっと賢く、効率的に動くように改善されました。",
-        "AIが使われるサービスの質が上がり、もっと便利になります。"
+        "最新システムに合わせて、AIの役割を見直した内容です。",
+        "小さなAIたちの働き方が改善され、効率が上がります。",
+        "私たちの生活で使うサービスが、もっと賢く便利になります。"
       ],
-      "highlight": "AIの仕組みを工夫し、私たちが使うサービスがもっと便利に進化する道が開かれました。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "ChatGPTの回答を自分らしい文章に直す方法",
-      "title_ja": "ChatGPTの回答を自分らしい文章に直す方法",
-      "url": "https://note.com/santaruru/n/n8ccaa5f338cb",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-10-13",
-      "lang": "ja",
-      "score": 60.0,
-      "summary": [
-        "ChatGPTが作った文章を自分らしく変える方法を解説",
-        "誰でも自分の個性が出せる文章が作れるようになる",
-        "文章を書く多くの人がAIを賢く使いこなせるヒント"
-      ],
-      "highlight": "AIと協力して、自分だけの個性的な文章が作れるようになった"
+      "highlight": "身近なAIがさらに賢く動くようになり、私たちの生活がもっと便利で快適になります。"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT"
+    "Gemini"
   ]
 }
