@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-10-14 09:51",
+  "updated_at": "2026-10-15 09:17",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "AI Got Better While I Was Away. Software Didn't.",
-      "title_ja": "私がいない間にAIは進化したけど、普通のソフトは変わってないね。",
+      "title_ja": "私がいない間にAIは進化、一方ソフトウェアは据え置き",
       "url": "https://dev.to/the_nortern_dev/ai-got-better-while-i-was-away-software-didnt-4b2b",
-      "likes": 89,
-      "comments": 88,
+      "likes": 95,
+      "comments": 95,
       "published_at": "2026-10-09",
       "lang": "en",
-      "score": 273.0,
+      "score": 293.0,
       "summary": [
-        "AIはすごく進化したけど、普通のソフトはあまり変わっていないという話。",
-        "AIは人の仕事を助け、新しい事がどんどんできるようになりました。",
-        "私たちの生活で使うソフトもAIのように便利になるか期待されます。"
+        "AIが驚くほどの速さで進化しているのに、",
+        "それを動かすためのアプリなどは昔のままで",
+        "AIのすごさを十分に活かせていない現状です"
       ],
-      "highlight": "AIが驚くほど進化し、身近なソフトもより賢くなる期待がある、という変化がすごいです。"
+      "highlight": "AIのすごい力を誰もが簡単に使いこなせれば、生活や仕事はもっと便利に変わる可能性があります"
     },
     {
       "rank": 2,
+      "source": "Zenn",
+      "title": "若手エンジニアに必要だと感じた「AIを使う力」",
+      "title_ja": "若手エンジニアに必要だと感じた「AIを使う力」",
+      "url": "https://zenn.dev/muitmasafumigot/articles/6ea28887c79457",
+      "likes": 77,
+      "comments": 0,
+      "published_at": "2026-10-08",
+      "lang": "ja",
+      "score": 85.0,
+      "summary": [
+        "AIを上手に使う力がこれからの時代、とても重要になります。",
+        "AIがあなたの仕事や勉強を助け、もっと便利で効率的になります。",
+        "エンジニアでなくても、誰でもAIを使って新しい価値を生み出せます。"
+      ],
+      "highlight": "AIを使いこなす力が身につけば、誰でも今までできなかったことを簡単に実現できるようになります。"
+    },
+    {
+      "rank": 3,
       "source": "note",
-      "title": "Gemini 4 Argon が一般提供：12月に単価が倍、明示キャッシュ非対応、temperature は無視、使える場所と移行前の確認点",
-      "title_ja": "Gemini 4 Argon が一般提供：12月に単価が倍、明示キャッシュ非対応、temperature は無視、使える場所と移行前の確認点",
-      "url": "https://note.com/mio_ai_techo/n/n0cff1aa5d599",
+      "title": "GPT-4o・GPT-4.1 の一部が1月14日に API から消える：Luna への移行4点と直近の停止日",
+      "title_ja": "GPT-4o・GPT-4.1 の一部が1月14日に API から消える：Luna への移行4点と直近の停止日",
+      "url": "https://note.com/mio_ai_techo/n/nffa18663d5aa",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-10-14",
       "lang": "ja",
-      "score": 101.0,
+      "score": 67.0,
       "summary": [
-        "新しいAIモデル「Gemini 4 Argon」が使えるようになりました。",
-        "12月から利用料が上がるなど、いくつか注意点があります。",
-        "AIサービスを作る人や使う人に影響が出る可能性があります。"
+        "人気のAIの一部が使えなくなります。",
+        "古いAIが使えなくなり、新しいAIに変わります。",
+        "AIを使ったサービスが新しくなるかも。"
       ],
-      "highlight": "新しいAI「Gemini 4 Argon」が登場し、使い方や費用が大きく変わります。"
-    },
-    {
-      "rank": 3,
-      "source": "Zenn",
-      "title": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
-      "title_ja": "Haiku 5.5 を機に Sonnet 以下で動かしていたサブエージェントを見直した",
-      "url": "https://zenn.dev/okkun0524/articles/haiku-5-5-subagent-roles",
-      "likes": 72,
-      "comments": 1,
-      "published_at": "2026-10-08",
-      "lang": "ja",
-      "score": 82.0,
-      "summary": [
-        "最新システムに合わせて、AIの役割を見直した内容です。",
-        "小さなAIたちの働き方が改善され、効率が上がります。",
-        "私たちの生活で使うサービスが、もっと賢く便利になります。"
-      ],
-      "highlight": "身近なAIがさらに賢く動くようになり、私たちの生活がもっと便利で快適になります。"
+      "highlight": "AIが裏側でどんどん進化し、便利な機能が増えるかも。"
     }
   ],
   "trending_keywords": [
-    "Gemini"
+    "GPT"
   ]
 }
