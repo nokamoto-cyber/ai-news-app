@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-10-17 09:09",
+  "updated_at": "2026-10-18 08:43",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "title_ja": "え、ブラウザでそんなことまで？！本当に使えるAI機能5選",
+      "title_ja": "ブラウザって、そんなことまでできるの！？実際に役立つAI機能5選",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "likes": 148,
-      "comments": 93,
+      "likes": 167,
+      "comments": 109,
       "published_at": "2026-10-14",
       "lang": "en",
-      "score": 345.0,
+      "score": 396.0,
       "summary": [
-        "ウェブを見るソフトにすごいAI機能が登場",
-        "文章の要約や作成など色々手伝ってくれる",
-        "誰でも簡単に使え、毎日がもっと便利になる"
+        "いつものネット検索がAIで驚くほど便利になります",
+        "情報をまとめたり、アイデアを形にできるようになります",
+        "知ると日々の作業がぐっと楽になる、新しい活用術です"
       ],
-      "highlight": "普段使っているブラウザが賢くなり、インターネットの利用が劇的に楽になった"
+      "highlight": "いつものネット利用がAIで驚くほど便利に進化する"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "生成AIでちゃんと遊べるゲームを作ってみた（ヴァンサバライク）",
-      "title_ja": "生成AIでちゃんと遊べるゲームを作ってみた（ヴァンサバライク）",
-      "url": "https://note.com/pcvs/n/n4f125a4a63cd",
+      "title": "【第3回】ChatGPTで資格の模擬試験を50問作ってみた。仕事が忙しい私が実践したAI勉強法",
+      "title_ja": "【第3回】ChatGPTで資格の模擬試験を50問作ってみた。仕事が忙しい私が実践したAI勉強法",
+      "url": "https://note.com/haruharu1412/n/n014b955c77ff",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-10-17",
       "lang": "ja",
-      "score": 57.0,
+      "score": 126.0,
       "summary": [
-        "AIがゲーム作りを助け、遊べるゲームができました。",
-        "ゲームのアイデアやキャラクターをAIが考え、作り出します。",
-        "ゲーム作りが簡単になり、新しいゲームが増えそうです。"
+        "AIに資格の模擬試験を作ってもらう方法。",
+        "忙しい人も効率よく勉強できるようになる。",
+        "勉強のやり方が変わるヒントが得られます。"
       ],
-      "highlight": "AIがゲームのアイデアや内容を自動で作れるようになった"
+      "highlight": "誰でもAIで自分専用の模擬試験を簡単に作れるようになった"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "価値観に向き合おう。AI時代の転職活動の進め方",
-      "title_ja": "価値観に向き合おう。AI時代の転職活動の進め方",
-      "url": "https://zenn.dev/glassmonkey/articles/be3cf06fb2ce2f",
-      "likes": 31,
+      "title": "Kaigi on Rails 2026のMatzキーノートをきっかけに、Railsアプリのネイティブコンパイルを試してみた",
+      "title_ja": "Kaigi on Rails 2026のMatzキーノートをきっかけに、Railsアプリのネイティブコンパイルを試してみた",
+      "url": "https://zenn.dev/geeknees/articles/916993a516d79f",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-15",
+      "published_at": "2026-10-17",
       "lang": "ja",
-      "score": 49.0,
+      "score": 39.0,
       "summary": [
-        "AIが進む世の中での、新しい仕事の探し方を紹介",
-        "自分の「本当に大切にしたいこと」を見つけるヒントです",
-        "仕事を探している人や、将来を考えたい人に役立ちます"
+        "人気のウェブサービスを高速化する新技術に挑戦。",
+        "ネットサービスがもっと速くスムーズに動く。",
+        "未来のネット体験がより快適になる期待。"
       ],
-      "highlight": "AI時代では、自分の価値観を大切にした仕事選びができるようになります"
+      "highlight": "私たちが使うウェブサービスが劇的に速くなる可能性が見えてきた。"
     }
   ],
   "trending_keywords": [
-    "生成AI"
+    "ChatGPT",
+    "GPT"
   ]
 }
