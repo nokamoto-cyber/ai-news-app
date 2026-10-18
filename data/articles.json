@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-10-18 08:43",
+  "updated_at": "2026-10-19 08:54",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "title_ja": "ブラウザって、そんなことまでできるの！？実際に役立つAI機能5選",
+      "title_ja": "ブラウザにそんな機能が？本当に使えるAI機能5選",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "likes": 167,
-      "comments": 109,
+      "likes": 185,
+      "comments": 120,
       "published_at": "2026-10-14",
       "lang": "en",
-      "score": 396.0,
+      "score": 436.0,
       "summary": [
-        "いつものネット検索がAIで驚くほど便利になります",
-        "情報をまとめたり、アイデアを形にできるようになります",
-        "知ると日々の作業がぐっと楽になる、新しい活用術です"
+        "ウェブブラウザに隠されたAI機能の紹介です。",
+        "記事の要約や文章作成、翻訳などを手助けします。",
+        "誰もがAIを日常で便利に使えるようになります。"
       ],
-      "highlight": "いつものネット利用がAIで驚くほど便利に進化する"
+      "highlight": "いつものブラウザがAIの力で個人の秘書のように賢くなり、私たちの作業が劇的に楽になる。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【第3回】ChatGPTで資格の模擬試験を50問作ってみた。仕事が忙しい私が実践したAI勉強法",
-      "title_ja": "【第3回】ChatGPTで資格の模擬試験を50問作ってみた。仕事が忙しい私が実践したAI勉強法",
-      "url": "https://note.com/haruharu1412/n/n014b955c77ff",
+      "title": "生成AIのPoCを「現場で使われる仕組み」に変えるために、最初に決めること",
+      "title_ja": "生成AIのPoCを「現場で使われる仕組み」に変えるために、最初に決めること",
+      "url": "https://note.com/vast_murre5400/n/n05625ee8c225",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-17",
+      "published_at": "2026-10-18",
       "lang": "ja",
-      "score": 126.0,
+      "score": 84.0,
       "summary": [
-        "AIに資格の模擬試験を作ってもらう方法。",
-        "忙しい人も効率よく勉強できるようになる。",
-        "勉強のやり方が変わるヒントが得られます。"
+        "AIを仕事で活用するためのコツを紹介",
+        "みんながAIを便利に使えるようになります",
+        "職場のAI活用が進み、仕事が楽になります"
       ],
-      "highlight": "誰でもAIで自分専用の模擬試験を簡単に作れるようになった"
+      "highlight": "AIが単なるお試しでなく、会社で当たり前に活用できるようになります"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Kaigi on Rails 2026のMatzキーノートをきっかけに、Railsアプリのネイティブコンパイルを試してみた",
-      "title_ja": "Kaigi on Rails 2026のMatzキーノートをきっかけに、Railsアプリのネイティブコンパイルを試してみた",
-      "url": "https://zenn.dev/geeknees/articles/916993a516d79f",
+      "title": "AI 基礎① AI と ML・DL・LLM はそもそも何で、どういう関係性なのか",
+      "title_ja": "AI 基礎① AI と ML・DL・LLM はそもそも何で、どういう関係性なのか",
+      "url": "https://zenn.dev/luvmini511/articles/ai-ml-dl-llm-basics",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-17",
+      "published_at": "2026-10-18",
       "lang": "ja",
       "score": 39.0,
       "summary": [
-        "人気のウェブサービスを高速化する新技術に挑戦。",
-        "ネットサービスがもっと速くスムーズに動く。",
-        "未来のネット体験がより快適になる期待。"
+        "AIと機械学習、深層学習、大規模言語モデルの違いや関係性が分かります。",
+        "これらのAI技術が、身近なサービスでどう使われているか分かります。",
+        "AIが作る未来の社会で、何ができるか想像できるようになります。"
       ],
-      "highlight": "私たちが使うウェブサービスが劇的に速くなる可能性が見えてきた。"
+      "highlight": "AIの様々な技術が、私たちの生活を賢く便利に変え、未来の可能性を広げているすごさが分かります。"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT"
+    "生成AI",
+    "LLM"
   ]
 }
