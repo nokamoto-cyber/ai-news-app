@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-10-19 08:54",
+  "updated_at": "2026-10-20 09:54",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "title_ja": "ブラウザにそんな機能が？本当に使えるAI機能5選",
+      "title_ja": "あなたのブラウザがこんなことまで！？本当に使えるAI機能5選",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "likes": 185,
-      "comments": 120,
+      "likes": 199,
+      "comments": 126,
       "published_at": "2026-10-14",
       "lang": "en",
-      "score": 436.0,
+      "score": 462.0,
       "summary": [
-        "ウェブブラウザに隠されたAI機能の紹介です。",
-        "記事の要約や文章作成、翻訳などを手助けします。",
-        "誰もがAIを日常で便利に使えるようになります。"
+        "ウェブブラウザにAIの機能が搭載され",
+        "ネットでの情報収集や作業が劇的に便利に",
+        "誰もがAIの恩恵を受け生活が快適になる"
       ],
-      "highlight": "いつものブラウザがAIの力で個人の秘書のように賢くなり、私たちの作業が劇的に楽になる。"
+      "highlight": "あなたのブラウザがAIで賢いアシスタントに変わり、ネットでの作業が格段に楽になった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "生成AIのPoCを「現場で使われる仕組み」に変えるために、最初に決めること",
-      "title_ja": "生成AIのPoCを「現場で使われる仕組み」に変えるために、最初に決めること",
-      "url": "https://note.com/vast_murre5400/n/n05625ee8c225",
+      "title": "OpenAI：引退したコボラーが残した呪文をAIで解読し、現代の言語で再詠唱する",
+      "title_ja": "OpenAI：引退したコボラーが残した呪文をAIで解読し、現代の言語で再詠唱する",
+      "url": "https://note.com/akikito/n/n986041575113",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-18",
+      "published_at": "2026-10-20",
       "lang": "ja",
-      "score": 84.0,
+      "score": 68.0,
       "summary": [
-        "AIを仕事で活用するためのコツを紹介",
-        "みんながAIを便利に使えるようになります",
-        "職場のAI活用が進み、仕事が楽になります"
+        "AIが古いプログラミング言語で書かれたプログラムを新しい言語に自動で変換する技術が紹介されています。",
+        "長年使われた複雑なコンピューターシステムが安全に新しく作り直せるようになります。",
+        "私たちの生活を支える社会の仕組みがより安全で便利になるでしょう。"
       ],
-      "highlight": "AIが単なるお試しでなく、会社で当たり前に活用できるようになります"
+      "highlight": "AIの力で古いシステムを安全に最新化し、社会の基盤がより便利に変わるようになりました。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AI 基礎① AI と ML・DL・LLM はそもそも何で、どういう関係性なのか",
-      "title_ja": "AI 基礎① AI と ML・DL・LLM はそもそも何で、どういう関係性なのか",
-      "url": "https://zenn.dev/luvmini511/articles/ai-ml-dl-llm-basics",
+      "title": "Jevの画像入力とOpenAI Decisions APIを比べてみる",
+      "title_ja": "Jevの画像入力とOpenAI Decisions APIを比べてみる",
+      "url": "https://zenn.dev/tkada/articles/ae2519179679df",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-18",
+      "published_at": "2026-10-19",
       "lang": "ja",
-      "score": 39.0,
+      "score": 38.0,
       "summary": [
-        "AIと機械学習、深層学習、大規模言語モデルの違いや関係性が分かります。",
-        "これらのAI技術が、身近なサービスでどう使われているか分かります。",
-        "AIが作る未来の社会で、何ができるか想像できるようになります。"
+        "AIが写真の内容を理解し、それをもとに判断する仕組みを比較する記事です。",
+        "これにより、AIがより正確な状況判断をし、適切な選択ができるようになります。",
+        "私たちの生活を助けるAIの賢い判断が、身近になる未来につながります。"
       ],
-      "highlight": "AIの様々な技術が、私たちの生活を賢く便利に変え、未来の可能性を広げているすごさが分かります。"
+      "highlight": "AIが画像から状況を正確に読み取り、私たちの代わりに賢い判断を下せるようになります。"
     }
   ],
   "trending_keywords": [
-    "生成AI",
-    "LLM"
+    "OpenAI"
   ]
 }
