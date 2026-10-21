@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-10-20 09:54",
+  "updated_at": "2026-10-21 09:22",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "title_ja": "あなたのブラウザがこんなことまで！？本当に使えるAI機能5選",
+      "title_ja": "あなたのブラウザ、まさかこんなことまでできるの？！本当に使えるAI機能5選",
       "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "likes": 199,
-      "comments": 126,
+      "likes": 201,
+      "comments": 132,
       "published_at": "2026-10-14",
       "lang": "en",
-      "score": 462.0,
+      "score": 476.0,
       "summary": [
-        "ウェブブラウザにAIの機能が搭載され",
-        "ネットでの情報収集や作業が劇的に便利に",
-        "誰もがAIの恩恵を受け生活が快適になる"
+        "インターネットを見るソフトが進化し、",
+        "実はAIの便利な機能が使えることや、",
+        "調べ物や作業が驚くほど楽になることを紹介。"
       ],
-      "highlight": "あなたのブラウザがAIで賢いアシスタントに変わり、ネットでの作業が格段に楽になった"
+      "highlight": "毎日使うインターネットが、AIによって驚くほど便利になる時代が来た"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "OpenAI：引退したコボラーが残した呪文をAIで解読し、現代の言語で再詠唱する",
-      "title_ja": "OpenAI：引退したコボラーが残した呪文をAIで解読し、現代の言語で再詠唱する",
-      "url": "https://note.com/akikito/n/n986041575113",
+      "title": "デイリーAI検索備忘録(2026/10/21号)",
+      "title_ja": "デイリーAI検索備忘録(2026/10/21号)",
+      "url": "https://note.com/yasuhitoo/n/n86f6b924a061",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-10-20",
       "lang": "ja",
-      "score": 68.0,
+      "score": 92.0,
       "summary": [
-        "AIが古いプログラミング言語で書かれたプログラムを新しい言語に自動で変換する技術が紹介されています。",
-        "長年使われた複雑なコンピューターシステムが安全に新しく作り直せるようになります。",
-        "私たちの生活を支える社会の仕組みがより安全で便利になるでしょう。"
+        "2026年10月21日時点のAI情報をまとめる記事です",
+        "日々のAI検索から役立つ情報が更新されるでしょう",
+        "まだ内容は書かれていませんが、今後の公開に期待です"
       ],
-      "highlight": "AIの力で古いシステムを安全に最新化し、社会の基盤がより便利に変わるようになりました。"
+      "highlight": "これからAIの進化が私たちの生活を大きく変えるでしょう"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Jevの画像入力とOpenAI Decisions APIを比べてみる",
-      "title_ja": "Jevの画像入力とOpenAI Decisions APIを比べてみる",
-      "url": "https://zenn.dev/tkada/articles/ae2519179679df",
-      "likes": 0,
+      "title": "Kaigi on Rails 2026 参加レポート",
+      "title_ja": "Kaigi on Rails 2026 参加レポート",
+      "url": "https://zenn.dev/laiso/articles/kaigi-on-rails-2026-xtm-report",
+      "likes": 10,
       "comments": 0,
-      "published_at": "2026-10-19",
+      "published_at": "2026-10-20",
       "lang": "ja",
-      "score": 38.0,
+      "score": 46.0,
       "summary": [
-        "AIが写真の内容を理解し、それをもとに判断する仕組みを比較する記事です。",
-        "これにより、AIがより正確な状況判断をし、適切な選択ができるようになります。",
-        "私たちの生活を助けるAIの賢い判断が、身近になる未来につながります。"
+        "ウェブサイトやアプリ開発の未来を語るイベントの報告だよ。",
+        "最新技術が発表され、便利で安全なサービスが増えるよ。",
+        "私たちの使うネットサービスが、もっと快適になることがわかるよ。"
       ],
-      "highlight": "AIが画像から状況を正確に読み取り、私たちの代わりに賢い判断を下せるようになります。"
+      "highlight": "誰でも簡単に、今よりずっと便利なアプリを作れるようになる未来が示されたよ。"
     }
   ],
-  "trending_keywords": [
-    "OpenAI"
-  ]
+  "trending_keywords": []
 }
