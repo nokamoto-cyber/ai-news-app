@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-10-21 09:22",
+  "updated_at": "2026-10-22 09:25",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Your Browser Can Do WHAT?! 5 AI Features That Actually Work",
-      "title_ja": "あなたのブラウザ、まさかこんなことまでできるの？！本当に使えるAI機能5選",
-      "url": "https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb",
-      "likes": 201,
-      "comments": 132,
-      "published_at": "2026-10-14",
+      "title": "I Vibe-Coded My Way Out of Angular Upgrades",
+      "title_ja": "ウェブサービス更新の悩みを、直感的な手法で解決！",
+      "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
+      "likes": 90,
+      "comments": 64,
+      "published_at": "2026-10-15",
       "lang": "en",
-      "score": 476.0,
+      "score": 229.0,
       "summary": [
-        "インターネットを見るソフトが進化し、",
-        "実はAIの便利な機能が使えることや、",
-        "調べ物や作業が驚くほど楽になることを紹介。"
+        "ウェブサービス開発の悩み解決法を提案",
+        "手間なく最新の技術を使えるようになる",
+        "私たちの使うアプリが快適に進化します"
       ],
-      "highlight": "毎日使うインターネットが、AIによって驚くほど便利になる時代が来た"
+      "highlight": "ウェブサービス開発者が、大変な更新作業から解放されるようになった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "デイリーAI検索備忘録(2026/10/21号)",
-      "title_ja": "デイリーAI検索備忘録(2026/10/21号)",
-      "url": "https://note.com/yasuhitoo/n/n86f6b924a061",
+      "title": "Claudeが設計に関わった211候補を実験、OpenAIモデルはGoogle Cloudへ（2026年10月22日）",
+      "title_ja": "Claudeが設計に関わった211候補を実験、OpenAIモデルはGoogle Cloudへ（2026年10月22日）",
+      "url": "https://note.com/nekopy222/n/n5d8ca027cb2a",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-20",
+      "published_at": "2026-10-22",
       "lang": "ja",
-      "score": 92.0,
+      "score": 72.0,
       "summary": [
-        "2026年10月21日時点のAI情報をまとめる記事です",
-        "日々のAI検索から役立つ情報が更新されるでしょう",
-        "まだ内容は書かれていませんが、今後の公開に期待です"
+        "AIがAIのアイデアを出し、大規模な実験中",
+        "AIが進化し、OpenAIのサービスが強化される",
+        "AIの進化で、私たちの生活がより便利になる"
       ],
-      "highlight": "これからAIの進化が私たちの生活を大きく変えるでしょう"
+      "highlight": "AIがAIのアイデアを考え、より賢いAIサービスが当たり前になる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Kaigi on Rails 2026 参加レポート",
-      "title_ja": "Kaigi on Rails 2026 参加レポート",
-      "url": "https://zenn.dev/laiso/articles/kaigi-on-rails-2026-xtm-report",
-      "likes": 10,
+      "title": "AIペネトレーションテストツール「Strix」を試してみた",
+      "title_ja": "AIペネトレーションテストツール「Strix」を試してみた",
+      "url": "https://zenn.dev/turquoise123/articles/df481032f6b405",
+      "likes": 35,
       "comments": 0,
       "published_at": "2026-10-20",
       "lang": "ja",
-      "score": 46.0,
+      "score": 43.0,
       "summary": [
-        "ウェブサイトやアプリ開発の未来を語るイベントの報告だよ。",
-        "最新技術が発表され、便利で安全なサービスが増えるよ。",
-        "私たちの使うネットサービスが、もっと快適になることがわかるよ。"
+        "AIがコンピューターの安全性を確認する新しい方法です。",
+        "悪い人に狙われる前にシステムの弱い点を見つけて直せます。",
+        "私たちが使うネットサービスがもっと安全になり安心できます。"
       ],
-      "highlight": "誰でも簡単に、今よりずっと便利なアプリを作れるようになる未来が示されたよ。"
+      "highlight": "AIが自動でシステムの安全を確認できるようになり、私たちの個人情報がより守られるようになりました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Claude",
+    "OpenAI",
+    "Google"
+  ]
 }
