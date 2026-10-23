@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-22 09:25",
+  "updated_at": "2026-10-23 09:23",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "I Vibe-Coded My Way Out of Angular Upgrades",
-      "title_ja": "ウェブサービス更新の悩みを、直感的な手法で解決！",
-      "url": "https://dev.to/gramli/i-vibe-coded-my-way-out-of-angular-upgrades-4fkh",
-      "likes": 90,
-      "comments": 64,
-      "published_at": "2026-10-15",
+      "title": "Don't Be a Proxy Between Me and Your AI",
+      "title_ja": "AIと私の間に仲介役は不要",
+      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
+      "likes": 48,
+      "comments": 26,
+      "published_at": "2026-10-22",
       "lang": "en",
-      "score": 229.0,
+      "score": 136.0,
       "summary": [
-        "ウェブサービス開発の悩み解決法を提案",
-        "手間なく最新の技術を使えるようになる",
-        "私たちの使うアプリが快適に進化します"
+        "AIともっと直接やりとりすることの大切さを説く記事です。",
+        "AIが直接あなたの疑問に答え、作業を手伝ってくれるようになります。",
+        "AIサービスがもっと身近で、効率的になる未来を示唆しています。"
       ],
-      "highlight": "ウェブサービス開発者が、大変な更新作業から解放されるようになった"
+      "highlight": "AIと直接つながることで、私たちの生活が格段に便利になる"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "Claudeが設計に関わった211候補を実験、OpenAIモデルはGoogle Cloudへ（2026年10月22日）",
-      "title_ja": "Claudeが設計に関わった211候補を実験、OpenAIモデルはGoogle Cloudへ（2026年10月22日）",
-      "url": "https://note.com/nekopy222/n/n5d8ca027cb2a",
+      "title": "【コピペOK】ChatGPTに何を聞けばいい？初心者向け便利な例文10選！",
+      "title_ja": "【コピペOK】ChatGPTに何を聞けばいい？初心者向け便利な例文10選！",
+      "url": "https://note.com/right_owl1214/n/n5150fe17745c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-22",
+      "published_at": "2026-10-23",
       "lang": "ja",
-      "score": 72.0,
+      "score": 66.0,
       "summary": [
-        "AIがAIのアイデアを出し、大規模な実験中",
-        "AIが進化し、OpenAIのサービスが強化される",
-        "AIの進化で、私たちの生活がより便利になる"
+        "ChatGPTへの質問のコツが分かる記事です",
+        "すぐに使える質問例で悩まず活用できます",
+        "AIを暮らしや仕事に活かしたい人に役立ちます"
       ],
-      "highlight": "AIがAIのアイデアを考え、より賢いAIサービスが当たり前になる"
+      "highlight": "AIへの質問のコツが分かり、誰もがAIを生活に活用できるようになった"
     },
     {
       "rank": 3,
@@ -43,22 +43,21 @@
       "title": "AIペネトレーションテストツール「Strix」を試してみた",
       "title_ja": "AIペネトレーションテストツール「Strix」を試してみた",
       "url": "https://zenn.dev/turquoise123/articles/df481032f6b405",
-      "likes": 35,
+      "likes": 42,
       "comments": 0,
       "published_at": "2026-10-20",
       "lang": "ja",
-      "score": 43.0,
+      "score": 50.0,
       "summary": [
-        "AIがコンピューターの安全性を確認する新しい方法です。",
-        "悪い人に狙われる前にシステムの弱い点を見つけて直せます。",
-        "私たちが使うネットサービスがもっと安全になり安心できます。"
+        "AIを使って、コンピューターシステムの弱点を探す実験の紹介です",
+        "まるで悪いハッカーのように、AIが侵入経路を試すことができます",
+        "これにより、大切な情報が外部から守られる手助けになります"
       ],
-      "highlight": "AIが自動でシステムの安全を確認できるようになり、私たちの個人情報がより守られるようになりました。"
+      "highlight": "AIが悪者の手口を真似て、システムの弱点を探せるようになりました"
     }
   ],
   "trending_keywords": [
-    "Claude",
-    "OpenAI",
-    "Google"
+    "ChatGPT",
+    "GPT"
   ]
 }
