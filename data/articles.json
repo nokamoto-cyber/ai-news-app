@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-23 09:23",
+  "updated_at": "2026-10-24 09:15",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "title_ja": "AIと私の間に仲介役は不要",
+      "title_ja": "私とAIの間に誰も挟まないで",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "likes": 48,
-      "comments": 26,
+      "likes": 65,
+      "comments": 39,
       "published_at": "2026-10-22",
       "lang": "en",
-      "score": 136.0,
+      "score": 164.0,
       "summary": [
-        "AIともっと直接やりとりすることの大切さを説く記事です。",
-        "AIが直接あなたの疑問に答え、作業を手伝ってくれるようになります。",
-        "AIサービスがもっと身近で、効率的になる未来を示唆しています。"
+        "AIともっと直接、自由にやり取りすべきだと提案しています。",
+        "間に誰も入らず、自分の思い通りにAIを自由に使えるようになります。",
+        "AIを誰もがもっと身近な道具として、自由に使いこなせるようになるでしょう。"
       ],
-      "highlight": "AIと直接つながることで、私たちの生活が格段に便利になる"
+      "highlight": "誰かの都合に縛られず、AIを自分の思うままに使いこなせるようになる。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【コピペOK】ChatGPTに何を聞けばいい？初心者向け便利な例文10選！",
-      "title_ja": "【コピペOK】ChatGPTに何を聞けばいい？初心者向け便利な例文10選！",
-      "url": "https://note.com/right_owl1214/n/n5150fe17745c",
+      "title": "AnthropicがAgent SkillsをAAIFへ寄贈。Claudeの検証・提供基盤も前進",
+      "title_ja": "AnthropicがAgent SkillsをAAIFへ寄贈。Claudeの検証・提供基盤も前進",
+      "url": "https://note.com/0x__tom/n/n612801ac6106",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-23",
+      "published_at": "2026-10-24",
       "lang": "ja",
-      "score": 66.0,
+      "score": 75.0,
       "summary": [
-        "ChatGPTへの質問のコツが分かる記事です",
-        "すぐに使える質問例で悩まず活用できます",
-        "AIを暮らしや仕事に活かしたい人に役立ちます"
+        "AI企業が、自社のAIの賢い能力を共通の団体に提供しました。",
+        "これにより、AIが安全に動き、賢く使えるための土台が進歩します。",
+        "私たちが使うAIが、もっと便利で信頼できるものになるでしょう。"
       ],
-      "highlight": "AIへの質問のコツが分かり、誰もがAIを生活に活用できるようになった"
+      "highlight": "AIが人の指示を理解し、考えて動く能力が、みんなで安全に使えるようになった。"
     },
     {
       "rank": 3,
@@ -43,21 +43,21 @@
       "title": "AIペネトレーションテストツール「Strix」を試してみた",
       "title_ja": "AIペネトレーションテストツール「Strix」を試してみた",
       "url": "https://zenn.dev/turquoise123/articles/df481032f6b405",
-      "likes": 42,
+      "likes": 43,
       "comments": 0,
       "published_at": "2026-10-20",
       "lang": "ja",
-      "score": 50.0,
+      "score": 51.0,
       "summary": [
-        "AIを使って、コンピューターシステムの弱点を探す実験の紹介です",
-        "まるで悪いハッカーのように、AIが侵入経路を試すことができます",
-        "これにより、大切な情報が外部から守られる手助けになります"
+        "AIがコンピューターの安全を自動で確かめるツールを紹介しています。",
+        "AIがハッカーの真似をして、悪い人に狙われないか探してくれます。",
+        "これにより、私たちの個人情報が守られ、安心してネットが使えます。"
       ],
-      "highlight": "AIが悪者の手口を真似て、システムの弱点を探せるようになりました"
+      "highlight": "AIが自動でセキュリティの弱点を見つけ出し、私たちの情報をより安全に守れるようになりました。"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT"
+    "Claude",
+    "Anthropic"
   ]
 }
