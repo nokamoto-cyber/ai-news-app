@@ -1,63 +1,63 @@
 {
-  "updated_at": "2026-10-24 09:15",
+  "updated_at": "2026-10-25 08:59",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "title_ja": "私とAIの間に誰も挟まないで",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "likes": 65,
-      "comments": 39,
-      "published_at": "2026-10-22",
+      "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
+      "title_ja": "AIアシスタントのやり直しエラーは、AIよりシステムの問題",
+      "url": "https://dev.to/cyclopt_dimitrisk/your-agents-retry-bug-isnt-an-ai-problem-its-a-distributed-systems-problem-with-an-llm-on-top-1i6k",
+      "likes": 69,
+      "comments": 155,
+      "published_at": "2026-10-19",
       "lang": "en",
-      "score": 164.0,
+      "score": 390.0,
       "summary": [
-        "AIともっと直接、自由にやり取りすべきだと提案しています。",
-        "間に誰も入らず、自分の思い通りにAIを自由に使えるようになります。",
-        "AIを誰もがもっと身近な道具として、自由に使いこなせるようになるでしょう。"
+        "AIがうまく動かないのはAI本体ではなくシステムが原因",
+        "AIの安定利用へシステム改善の視点が重要になる",
+        "私たちの使うAIサービスがより信頼性を持つようになる"
       ],
-      "highlight": "誰かの都合に縛られず、AIを自分の思うままに使いこなせるようになる。"
+      "highlight": "AIが間違えても、システム改善で安定し、私たちの生活がもっと便利になる"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "AnthropicがAgent SkillsをAAIFへ寄贈。Claudeの検証・提供基盤も前進",
-      "title_ja": "AnthropicがAgent SkillsをAAIFへ寄贈。Claudeの検証・提供基盤も前進",
-      "url": "https://note.com/0x__tom/n/n612801ac6106",
+      "title": "【週刊AIニュース】マルチクラウド開放、兆ドル級資本戦とエージェント自律アクセスの安全基盤（2026年10月18日〜10月24日）",
+      "title_ja": "【週刊AIニュース】AIの自由な利用と安全、そして競争",
+      "url": "https://note.com/quirky_loris6436/n/n93523993a1dd",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-10-24",
       "lang": "ja",
-      "score": 75.0,
+      "score": 62.0,
       "summary": [
-        "AI企業が、自社のAIの賢い能力を共通の団体に提供しました。",
-        "これにより、AIが安全に動き、賢く使えるための土台が進歩します。",
-        "私たちが使うAIが、もっと便利で信頼できるものになるでしょう。"
+        "AIの最新動向と未来の進化を解説",
+        "企業がAIを自由に選び、AIが賢く安全に動く",
+        "私たちの暮らしがAIでさらに便利になる"
       ],
-      "highlight": "AIが人の指示を理解し、考えて動く能力が、みんなで安全に使えるようになった。"
+      "highlight": "AIが自分で考えて安全に動けるようになり、私たちの生活はより豊かになる"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AIペネトレーションテストツール「Strix」を試してみた",
-      "title_ja": "AIペネトレーションテストツール「Strix」を試してみた",
-      "url": "https://zenn.dev/turquoise123/articles/df481032f6b405",
-      "likes": 43,
+      "title": "AI への頼み方、上達してる？ Claude Code の会話記録から自分の指示だけを集めたら9日で約190件あった",
+      "title_ja": "AI への頼み方、上達してる？ Claude Code の会話記録から自分の指示だけを集めたら9日で約190件あった",
+      "url": "https://zenn.dev/extrahand_co_ai/articles/2e7fd8d3deacd2",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-20",
+      "published_at": "2026-10-24",
       "lang": "ja",
-      "score": 51.0,
+      "score": 38.0,
       "summary": [
-        "AIがコンピューターの安全を自動で確かめるツールを紹介しています。",
-        "AIがハッカーの真似をして、悪い人に狙われないか探してくれます。",
-        "これにより、私たちの個人情報が守られ、安心してネットが使えます。"
+        "AIを上手に使うには、どれだけたくさん使うかが大切だと伝えています。",
+        "AIに頼む回数を増やすと、自分の思い通りの答えが得られやすくなります。",
+        "これからAIを使いこなしたい人が、上達のためのヒントを得られます。"
       ],
-      "highlight": "AIが自動でセキュリティの弱点を見つけ出し、私たちの情報をより安全に守れるようになりました。"
+      "highlight": "AIを使うほど、誰でも上手に指示を出せるようになることがわかります。"
     }
   ],
   "trending_keywords": [
-    "Claude",
-    "Anthropic"
+    "LLM",
+    "Claude"
   ]
 }
