@@ -1,63 +1,62 @@
 {
-  "updated_at": "2026-10-25 08:59",
+  "updated_at": "2026-10-26 08:46",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Your agent's retry bug isn't an AI problem. It's a distributed-systems problem with an LLM on top.",
-      "title_ja": "AIアシスタントのやり直しエラーは、AIよりシステムの問題",
+      "title_ja": "AIアシスタントの失敗は、AIよりも土台のシステムが原因",
       "url": "https://dev.to/cyclopt_dimitrisk/your-agents-retry-bug-isnt-an-ai-problem-its-a-distributed-systems-problem-with-an-llm-on-top-1i6k",
       "likes": 69,
-      "comments": 155,
+      "comments": 158,
       "published_at": "2026-10-19",
       "lang": "en",
-      "score": 390.0,
+      "score": 396.0,
       "summary": [
-        "AIがうまく動かないのはAI本体ではなくシステムが原因",
-        "AIの安定利用へシステム改善の視点が重要になる",
-        "私たちの使うAIサービスがより信頼性を持つようになる"
+        "AIが指示通りに動かないのは、AIの賢さの問題ではない",
+        "実はAIを動かす裏側の仕組みに問題があることが多いと解説",
+        "AIを使う誰もが、今後もっと便利に活用できるようになる"
       ],
-      "highlight": "AIが間違えても、システム改善で安定し、私たちの生活がもっと便利になる"
+      "highlight": "AIの裏側の仕組みが良くなることで、私たちの生活はもっと便利になる"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "【週刊AIニュース】マルチクラウド開放、兆ドル級資本戦とエージェント自律アクセスの安全基盤（2026年10月18日〜10月24日）",
-      "title_ja": "【週刊AIニュース】AIの自由な利用と安全、そして競争",
-      "url": "https://note.com/quirky_loris6436/n/n93523993a1dd",
+      "title": "Codexを家に置いたら、家事をしている間にアプリが育つようになった",
+      "title_ja": "Codexを家に置いたら、家事をしている間にアプリが育つようになった",
+      "url": "https://note.com/ozasan_1126/n/n9ede9c646c7c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-24",
+      "published_at": "2026-10-25",
       "lang": "ja",
-      "score": 62.0,
+      "score": 48.0,
       "summary": [
-        "AIの最新動向と未来の進化を解説",
-        "企業がAIを自由に選び、AIが賢く安全に動く",
-        "私たちの暮らしがAIでさらに便利になる"
+        "家に置いたAI（人工知能）が、アプリを自動で成長させます",
+        "私たちが忙しく家事をしている間にもアプリがどんどん進化します",
+        "誰でも簡単にアプリを作れる未来に近づくかもしれません"
       ],
-      "highlight": "AIが自分で考えて安全に動けるようになり、私たちの生活はより豊かになる"
+      "highlight": "自分で手を動かさなくても、AIがアプリを自動で育ててくれるようになりました"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "AI への頼み方、上達してる？ Claude Code の会話記録から自分の指示だけを集めたら9日で約190件あった",
-      "title_ja": "AI への頼み方、上達してる？ Claude Code の会話記録から自分の指示だけを集めたら9日で約190件あった",
-      "url": "https://zenn.dev/extrahand_co_ai/articles/2e7fd8d3deacd2",
+      "title": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
+      "title_ja": "POPOPO と AI 開発 - 03. AI を活かす心構え・ノウハウ -AI という新人をチームに迎えるために-",
+      "url": "https://zenn.dev/rikachiii/articles/03c7f77393a772",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-24",
+      "published_at": "2026-10-25",
       "lang": "ja",
-      "score": 38.0,
+      "score": 39.0,
       "summary": [
-        "AIを上手に使うには、どれだけたくさん使うかが大切だと伝えています。",
-        "AIに頼む回数を増やすと、自分の思い通りの答えが得られやすくなります。",
-        "これからAIを使いこなしたい人が、上達のためのヒントを得られます。"
+        "AIを仕事や生活に取り入れるための考え方",
+        "AIをまるで新人のように迎え育て活用する方法",
+        "AI導入を考えている人がより使いこなすヒント"
       ],
-      "highlight": "AIを使うほど、誰でも上手に指示を出せるようになることがわかります。"
+      "highlight": "AIを新しい仲間として受け入れることで、私たちの仕事や生活が大きく効率的になります。"
     }
   ],
   "trending_keywords": [
-    "LLM",
-    "Claude"
+    "LLM"
   ]
 }
