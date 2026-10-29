@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-10-28 09:58",
+  "updated_at": "2026-10-29 10:31",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Don't Be a Proxy Between Me and Your AI",
-      "title_ja": "AIと直接つながろう",
+      "title_ja": "AIと直接話そう、間に人を挟まず",
       "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "likes": 141,
-      "comments": 114,
+      "likes": 146,
+      "comments": 129,
       "published_at": "2026-10-22",
       "lang": "en",
-      "score": 380.0,
+      "score": 415.0,
       "summary": [
-        "AIと私たちの間に、仲介者は不要だと述べています。",
-        "誰かのフィルターなしで、AIが直接助けてくれます。",
-        "AIがもっと身近になり、生活を直接サポートします。"
+        "AIには直接指示する方が効果的です。",
+        "自分の考えが正確に伝わり、期待通りに動きます。",
+        "AIを使いこなしたい人にとって重要です。"
       ],
-      "highlight": "AIが直接あなたのパートナーとなり、生活がより便利になる"
+      "highlight": "AIに直接指示を出すことで、もっと自分の思い通りに使えるようになった。"
     },
     {
       "rank": 2,
       "source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
-      "title_ja": "AIの謎な説明文を直すスキル",
+      "title_ja": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/okazuki/articles/explain-before-shorten",
-      "likes": 122,
+      "likes": 185,
       "comments": 2,
       "published_at": "2026-10-26",
       "lang": "ja",
-      "score": 144.0,
+      "score": 197.0,
       "summary": [
-        "AIが出す難解な説明を、分かりやすくする大切さ。",
-        "そのスキルがあれば、AIの言葉を誰でも理解できる。",
-        "AIがもっと身近になり、生活を便利にする未来が来る。"
+        "AIが作った分かりにくい文章を直す話",
+        "これによりAIをもっと正確に活用できます",
+        "誰もがAIを使いこなせるようになります"
       ],
-      "highlight": "AIが出す難しい説明文が、誰にでも分かるように直せるようになった。"
+      "highlight": "AIのわかりにくい文章を直すスキルで、誰でもAIを安心して使えるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIを使った文章の仕事に応募する方法｜初心者向け応募文テンプレート付き",
-      "title_ja": "AIを使った文章の仕事に応募する方法｜初心者向け応募文テンプレート付き",
-      "url": "https://note.com/prime_daisy3465/n/n34f6bc159e63",
+      "title": "頑張りすぎて息切れする人へ。2300年前の苗の話",
+      "title_ja": "頑張りすぎて息切れする人へ。2300年前の苗の話",
+      "url": "https://note.com/jolly_dog7163/n/n95c75d7282be",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-28",
+      "published_at": "2026-10-29",
       "lang": "ja",
-      "score": 93.0,
+      "score": 51.0,
       "summary": [
-        "AIを活用して文章作成の仕事に挑戦する方法が分かります。",
-        "応募文の作成をAIが助け、準備がずっと楽になります。",
-        "未経験者でも文章の仕事を得るチャンスが増えるでしょう。"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIの力で、文章を書く仕事への応募がぐっと身近に感じられるようになりました。"
+      "highlight": "要約の生成に失敗しました。"
     }
   ],
   "trending_keywords": []
