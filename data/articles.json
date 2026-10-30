@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-10-29 10:31",
+  "updated_at": "2026-10-30 10:32",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "Don't Be a Proxy Between Me and Your AI",
-      "title_ja": "AIと直接話そう、間に人を挟まず",
-      "url": "https://dev.to/adamthedeveloper/dont-be-a-proxy-between-me-and-your-ai-mcn",
-      "likes": 146,
-      "comments": 129,
-      "published_at": "2026-10-22",
-      "lang": "en",
-      "score": 415.0,
-      "summary": [
-        "AIには直接指示する方が効果的です。",
-        "自分の考えが正確に伝わり、期待通りに動きます。",
-        "AIを使いこなしたい人にとって重要です。"
-      ],
-      "highlight": "AIに直接指示を出すことで、もっと自分の思い通りに使えるようになった。"
-    },
-    {
-      "rank": 2,
       "source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "title_ja": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/okazuki/articles/explain-before-shorten",
-      "likes": 185,
+      "likes": 237,
       "comments": 2,
       "published_at": "2026-10-26",
       "lang": "ja",
-      "score": 197.0,
+      "score": 249.0,
       "summary": [
-        "AIが作った分かりにくい文章を直す話",
-        "これによりAIをもっと正確に活用できます",
-        "誰もがAIを使いこなせるようになります"
+        "記事の本文が提供されていないため、",
+        "内容をまとめて説明することができません。",
+        "そのため、具体的な情報はお伝えできません。"
       ],
-      "highlight": "AIのわかりにくい文章を直すスキルで、誰でもAIを安心して使えるようになった。"
+      "highlight": "記事本文がないため、何がすごいか伝えられません"
+    },
+    {
+      "rank": 2,
+      "source": "Dev.to",
+      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+      "title_ja": "AIが引き出しを記録。Pはそれを証拠と捉えた。",
+      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+      "likes": 110,
+      "comments": 56,
+      "published_at": "2026-10-27",
+      "lang": "en",
+      "score": 230.0,
+      "summary": [
+        "記事本文が提供されていないため",
+        "具体的な内容は不明です。",
+        "記事を読んで説明することができません。"
+      ],
+      "highlight": "記事本文がないため、AIに関する新しい変化や影響は伝えられません。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "頑張りすぎて息切れする人へ。2300年前の苗の話",
-      "title_ja": "頑張りすぎて息切れする人へ。2300年前の苗の話",
-      "url": "https://note.com/jolly_dog7163/n/n95c75d7282be",
+      "title": "1980年代の「エキスパートシステム」と現代の「生成AI」：AIブームの歴史から紐解く「失敗と復活」の物語",
+      "title_ja": "1980年代の「エキスパートシステム」と現代の「生成AI」：AIブームの歴史から紐解く「失敗と復活」の物語",
+      "url": "https://note.com/kazushinakamura/n/ndbf08fe28362",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-10-29",
       "lang": "ja",
-      "score": 51.0,
+      "score": 54.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIの過去と今、成功と失敗を解説",
+        "今のAIは、文章や絵を自然に作れる",
+        "AIが暮らしや仕事に役立つ時代がくる"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIは過去の失敗から学び、まるで人間のように新しいものを生み出せるようになった"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "生成AI"
+  ]
 }
