@@ -1,62 +1,64 @@
 {
-  "updated_at": "2026-10-30 10:32",
+  "updated_at": "2026-10-31 10:25",
   "articles": [
     {
       "rank": 1,
+      "source": "Dev.to",
+      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
+      "title_ja": "AIが記録した行動が、ある人にとっての証拠に",
+      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+      "likes": 110,
+      "comments": 81,
+      "published_at": "2026-10-27",
+      "lang": "en",
+      "score": 280.0,
+      "summary": [
+        "AIの記録が、証拠として使われる可能性を伝える。",
+        "AIが残す記録が、出来事の証明となる時代へ。",
+        "今後、AIの記録が社会の多くの場面で役立つ。"
+      ],
+      "highlight": "AIが記録する情報が、私たちの社会で証拠として信頼されるようになった。"
+    },
+    {
+      "rank": 2,
       "source": "Zenn",
       "title": "AI の謎な説明文を直すスキル",
       "title_ja": "AI の謎な説明文を直すスキル",
       "url": "https://zenn.dev/okazuki/articles/explain-before-shorten",
-      "likes": 237,
+      "likes": 257,
       "comments": 2,
       "published_at": "2026-10-26",
       "lang": "ja",
-      "score": 249.0,
+      "score": 269.0,
       "summary": [
-        "記事の本文が提供されていないため、",
-        "内容をまとめて説明することができません。",
-        "そのため、具体的な情報はお伝えできません。"
+        "AIが作った難しい文章を、誰でも分かるように直すコツを紹介しています。",
+        "専門的な言葉が減り、AIからの情報がずっと理解しやすくなります。",
+        "AIを使う誰もが、その恩恵をより深く感じられるようになるでしょう。"
       ],
-      "highlight": "記事本文がないため、何がすごいか伝えられません"
-    },
-    {
-      "rank": 2,
-      "source": "Dev.to",
-      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
-      "title_ja": "AIが引き出しを記録。Pはそれを証拠と捉えた。",
-      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
-      "likes": 110,
-      "comments": 56,
-      "published_at": "2026-10-27",
-      "lang": "en",
-      "score": 230.0,
-      "summary": [
-        "記事本文が提供されていないため",
-        "具体的な内容は不明です。",
-        "記事を読んで説明することができません。"
-      ],
-      "highlight": "記事本文がないため、AIに関する新しい変化や影響は伝えられません。"
+      "highlight": "AIが作った説明文が誰にでも分かるようになり、AIをもっと便利に活用できるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "1980年代の「エキスパートシステム」と現代の「生成AI」：AIブームの歴史から紐解く「失敗と復活」の物語",
-      "title_ja": "1980年代の「エキスパートシステム」と現代の「生成AI」：AIブームの歴史から紐解く「失敗と復活」の物語",
-      "url": "https://note.com/kazushinakamura/n/ndbf08fe28362",
+      "title": "「とりあえずChatGPT」で消耗していませんか——乱立する生成AIを、賢く使い分ける技術",
+      "title_ja": "「とりあえずChatGPT」で消耗していませんか——乱立する生成AIを、賢く使い分ける技術",
+      "url": "https://note.com/recruitmarketing/n/nfa9881d1bee8",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-29",
+      "published_at": "2026-10-31",
       "lang": "ja",
-      "score": 54.0,
+      "score": 77.0,
       "summary": [
-        "AIの過去と今、成功と失敗を解説",
-        "今のAIは、文章や絵を自然に作れる",
-        "AIが暮らしや仕事に役立つ時代がくる"
+        "AIがたくさんある中で、疲れずに使う方法を説明",
+        "目的に合わせてAIを選ぶと効率的に作業が進みます",
+        "誰もが自分に合うAIを選べるようになります"
       ],
-      "highlight": "AIは過去の失敗から学び、まるで人間のように新しいものを生み出せるようになった"
+      "highlight": "目的に合ったAIを選べるようになり、作業がずっと楽になる"
     }
   ],
   "trending_keywords": [
+    "ChatGPT",
+    "GPT",
     "生成AI"
   ]
 }
