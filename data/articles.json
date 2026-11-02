@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-11-01 09:40",
+  "updated_at": "2026-11-02 10:14",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Stratagems #32: The AI Logged a Withdrawal. P Took It as Proof.",
-      "title_ja": "AIが記録した出金がPの証拠に：ストラタジェムズ #32",
-      "url": "https://dev.to/xulingfeng/stratagems-32-the-ai-logged-a-withdrawal-p-took-it-as-proof-2jo2",
+      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
+      "title_ja": "まるで映画『攻殻機動隊』？ログファイルがAIを乗っ取る可能性",
+      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
       "likes": 111,
-      "comments": 83,
-      "published_at": "2026-10-27",
+      "comments": 98,
+      "published_at": "2026-10-29",
       "lang": "en",
-      "score": 285.0,
+      "score": 315.0,
       "summary": [
-        "AIが私たちの行動を記録する可能性について伝えます。",
-        "AIの記録が信頼できる証拠として利用されるかもしれません。",
-        "金融取引など、AIが関わる情報の扱いに注目が集まります。"
+        "AIが思わぬ情報で操られる危険性を伝えています。",
+        "普通の活動記録がAIを乗っ取ってしまうかも知れません。",
+        "AIを安全に使うために何が大事かを解説しています。"
       ],
-      "highlight": "AIが私たちの行動や取引の記録を、信頼できる証拠として活用できるようになります。"
+      "highlight": "ごく普通の記録データがAIを操れる新たな危険性が分かり、AIの安全を守る考え方が大きく変わる"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "AI の謎な説明文を直すスキル",
-      "title_ja": "AI の謎な説明文を直すスキル",
-      "url": "https://zenn.dev/okazuki/articles/explain-before-shorten",
-      "likes": 264,
-      "comments": 2,
-      "published_at": "2026-10-26",
+      "source": "note",
+      "title": "えっ、ChatGPTって向こうから連絡してくれるの？無料でも使える「スケジュール済みタスク」が便利そう！",
+      "title_ja": "えっ、ChatGPTって向こうから連絡してくれるの？無料でも使える「スケジュール済みタスク」が便利そう！",
+      "url": "https://note.com/yuruyuru_ai_life/n/n4e50c389ab12",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-02",
       "lang": "ja",
-      "score": 276.0,
+      "score": 103.0,
       "summary": [
-        "AIが作る分かりにくい説明文を",
-        "誰にでも伝わるように直すコツ",
-        "AIを使う全ての人にとって重要です"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIが作った難しい説明も、誰もが理解できる文章に直せるようになりました。"
+      "highlight": "要約の生成に失敗しました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "友達よりAIに相談する私たちは、何を失うのか。",
-      "title_ja": "友達よりAIに相談する私たちは、何を失うのか。",
-      "url": "https://note.com/kanomeko/n/nc3e22fe5a1c4",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
+      "title_ja": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
+      "url": "https://zenn.dev/ks130/articles/6a06f484ebfab7",
+      "likes": 33,
       "comments": 0,
-      "published_at": "2026-11-01",
+      "published_at": "2026-10-28",
       "lang": "ja",
-      "score": 165.0,
+      "score": 44.0,
       "summary": [
-        "AIに相談する便利さと、その代償を問いかけています。",
-        "人間関係の深まり方や、感情の育ち方が変わるかもしれません。",
-        "AIを使う誰もが、人とのつながり方を考えるきっかけになります。"
+        "記事の要約を取得できませんでした。",
+        "元記事をクリックして内容をご確認ください。",
+        "しばらくしてから再度お試しください。"
       ],
-      "highlight": "AIとの対話が増えることで、人との間に生まれる温かい共感や、予想外の発見を失う可能性があると気づかされます。"
+      "highlight": "要約の生成に失敗しました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT",
+    "AIエージェント"
+  ]
 }
