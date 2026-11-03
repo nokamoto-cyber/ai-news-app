@@ -1,64 +1,63 @@
 {
-  "updated_at": "2026-11-02 10:14",
+  "updated_at": "2026-11-03 12:18",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
-      "title_ja": "まるで映画『攻殻機動隊』？ログファイルがAIを乗っ取る可能性",
+      "title_ja": "AIが乗っ取られる？：記録ファイルに潜む危険",
       "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
-      "likes": 111,
-      "comments": 98,
+      "likes": 125,
+      "comments": 112,
       "published_at": "2026-10-29",
       "lang": "en",
-      "score": 315.0,
+      "score": 357.0,
       "summary": [
-        "AIが思わぬ情報で操られる危険性を伝えています。",
-        "普通の活動記録がAIを乗っ取ってしまうかも知れません。",
-        "AIを安全に使うために何が大事かを解説しています。"
+        "一見無害なデータがAIを乗っ取る可能性",
+        "AIを使ったサービスが安全でなくなるかも",
+        "私たちの暮らしを守るAIの未来に関わる"
       ],
-      "highlight": "ごく普通の記録データがAIを操れる新たな危険性が分かり、AIの安全を守る考え方が大きく変わる"
+      "highlight": "私たちの生活を支えるAIが、意外な方法で乗っ取られる可能性が見えてきた"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "えっ、ChatGPTって向こうから連絡してくれるの？無料でも使える「スケジュール済みタスク」が便利そう！",
-      "title_ja": "えっ、ChatGPTって向こうから連絡してくれるの？無料でも使える「スケジュール済みタスク」が便利そう！",
-      "url": "https://note.com/yuruyuru_ai_life/n/n4e50c389ab12",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
+      "title_ja": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
+      "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
+      "likes": 46,
       "comments": 0,
-      "published_at": "2026-11-02",
+      "published_at": "2026-11-01",
       "lang": "ja",
-      "score": 103.0,
+      "score": 64.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "AIの進化で、ウェブサイトやアプリを作る方法が変化する。",
+        "自動で動くAIが、開発の土台となる技術の必要性を問い直す。",
+        "これからのAI時代に、どんな技術を選べば良いか考える。"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "AIが自動でアプリを作れるようになり、私たちの生活を便利にする新しいサービスが、これまでより早く、手軽に生まれるでしょう。"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
-      "title_ja": "AIエージェントに設計書レビューを任せたらレビュワーは楽になった。でも現場は？？",
-      "url": "https://zenn.dev/ks130/articles/6a06f484ebfab7",
-      "likes": 33,
+      "source": "note",
+      "title": "GeminiもClaudeも無料枠が足 りないので、中華系AIに逃げた話               【個人的な代替先まとめ】",
+      "title_ja": "GeminiもClaudeも無料枠が足 りないので、中華系AIに逃げた話 【個人的な代替先まとめ】",
+      "url": "https://note.com/sabakancalib/n/n768616e3f2ac",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-10-28",
+      "published_at": "2026-11-03",
       "lang": "ja",
-      "score": 44.0,
+      "score": 56.0,
       "summary": [
-        "記事の要約を取得できませんでした。",
-        "元記事をクリックして内容をご確認ください。",
-        "しばらくしてから再度お試しください。"
+        "人気の無料AIが使いにくく、他のAIを探した話",
+        "お金をかけずに、賢いAIをたくさん使えるようになった",
+        "AIを無料で使いたい人にとって、新たな選択肢が増えた"
       ],
-      "highlight": "要約の生成に失敗しました。"
+      "highlight": "誰でもお金を気にせず、賢いAIをもっと自由に使えるようになった"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "AIエージェント"
+    "Claude",
+    "Gemini"
   ]
 }
