@@ -1,63 +1,64 @@
 {
-  "updated_at": "2026-11-03 12:18",
+  "updated_at": "2026-11-04 10:53",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
-      "title_ja": "AIが乗っ取られる？：記録ファイルに潜む危険",
+      "title_ja": "攻殻機動隊：ログファイルはAIを乗っ取れるか？",
       "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
-      "likes": 125,
-      "comments": 112,
+      "likes": 126,
+      "comments": 115,
       "published_at": "2026-10-29",
       "lang": "en",
-      "score": 357.0,
+      "score": 364.0,
       "summary": [
-        "一見無害なデータがAIを乗っ取る可能性",
-        "AIを使ったサービスが安全でなくなるかも",
-        "私たちの暮らしを守るAIの未来に関わる"
+        "AIが過去の記録を悪用され、不正に操作される危険性について話しています。",
+        "自動運転など、生活に身近なAIが間違った判断をする可能性があり、とても大切な問題です。",
+        "AIが悪意ある記録でだまされないよう、安全対策をしっかり行う必要性が高まっています。"
       ],
-      "highlight": "私たちの生活を支えるAIが、意外な方法で乗っ取られる可能性が見えてきた"
+      "highlight": "私たちの生活を支えるAIが、悪い情報にだまされないための技術が、これまで以上に重要になります。"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "ChatGPTのMAUは2670万人、GeminiもMAU1000万人突破　各社の戦略の違いは？",
+      "title_ja": "ChatGPTのMAUは2670万人、GeminiもMAU1000万人突破 各社の戦略の違いは？",
+      "url": "https://note.com/nikkei_xtrend/n/n2ef827329a71",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-04",
+      "lang": "ja",
+      "score": 97.0,
+      "summary": [
+        "人気のAIチャットが世界中で大勢に使われている",
+        "チャットAIが私たちの生活にもっと役立つようになる",
+        "これからのAIはもっと身近になり選べる時代に"
+      ],
+      "highlight": "世界中で多くの人がAIを使いこなし生活が大きく変わる時代になった"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
       "title_ja": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
       "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-      "likes": 46,
+      "likes": 59,
       "comments": 0,
       "published_at": "2026-11-01",
       "lang": "ja",
-      "score": 64.0,
+      "score": 67.0,
       "summary": [
-        "AIの進化で、ウェブサイトやアプリを作る方法が変化する。",
-        "自動で動くAIが、開発の土台となる技術の必要性を問い直す。",
-        "これからのAI時代に、どんな技術を選べば良いか考える。"
+        "1行目：AIが進化する中で、アプリ作りの道具は必要かを問いかけます。",
+        "2行目：AIが、アプリ開発のやり方を変えていく未来についてです。",
+        "3行目：今後AIで、誰でももっと簡単にアプリを作れるかもしれません。"
       ],
-      "highlight": "AIが自動でアプリを作れるようになり、私たちの生活を便利にする新しいサービスが、これまでより早く、手軽に生まれるでしょう。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "GeminiもClaudeも無料枠が足 りないので、中華系AIに逃げた話               【個人的な代替先まとめ】",
-      "title_ja": "GeminiもClaudeも無料枠が足 りないので、中華系AIに逃げた話 【個人的な代替先まとめ】",
-      "url": "https://note.com/sabakancalib/n/n768616e3f2ac",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-03",
-      "lang": "ja",
-      "score": 56.0,
-      "summary": [
-        "人気の無料AIが使いにくく、他のAIを探した話",
-        "お金をかけずに、賢いAIをたくさん使えるようになった",
-        "AIを無料で使いたい人にとって、新たな選択肢が増えた"
-      ],
-      "highlight": "誰でもお金を気にせず、賢いAIをもっと自由に使えるようになった"
+      "highlight": "AIがもっと身近になり、アプリ開発のやり方が大きく変わります。"
     }
   ],
   "trending_keywords": [
-    "Claude",
+    "ChatGPT",
+    "GPT",
     "Gemini"
   ]
 }
