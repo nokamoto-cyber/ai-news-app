@@ -1,64 +1,60 @@
 {
-  "updated_at": "2026-11-04 10:53",
+  "updated_at": "2026-11-05 10:59",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
-      "title_ja": "攻殻機動隊：ログファイルはAIを乗っ取れるか？",
+      "title_ja": "攻殻機動隊：AIが記録ファイルに乗っ取られる？",
       "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
-      "likes": 126,
-      "comments": 115,
+      "likes": 129,
+      "comments": 118,
       "published_at": "2026-10-29",
       "lang": "en",
-      "score": 364.0,
+      "score": 373.0,
       "summary": [
-        "AIが過去の記録を悪用され、不正に操作される危険性について話しています。",
-        "自動運転など、生活に身近なAIが間違った判断をする可能性があり、とても大切な問題です。",
-        "AIが悪意ある記録でだまされないよう、安全対策をしっかり行う必要性が高まっています。"
+        "AIの行動記録が悪用される危険性。",
+        "AIが悪意ある記録にだまされる危険。",
+        "私たちの生活の安全に関わる話です。"
       ],
-      "highlight": "私たちの生活を支えるAIが、悪い情報にだまされないための技術が、これまで以上に重要になります。"
+      "highlight": "今まで安全と思われた記録がAIを操れると分かった"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "ChatGPTのMAUは2670万人、GeminiもMAU1000万人突破　各社の戦略の違いは？",
-      "title_ja": "ChatGPTのMAUは2670万人、GeminiもMAU1000万人突破 各社の戦略の違いは？",
-      "url": "https://note.com/nikkei_xtrend/n/n2ef827329a71",
+      "title": "AIに覚えさせるのではなく、企業が知識を管理する理由",
+      "title_ja": "AIに覚えさせるのではなく、企業が知識を管理する理由",
+      "url": "https://note.com/shuji_yamashita/n/n16b19e6c9508",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-04",
+      "published_at": "2026-11-05",
       "lang": "ja",
-      "score": 97.0,
+      "score": 156.0,
       "summary": [
-        "人気のAIチャットが世界中で大勢に使われている",
-        "チャットAIが私たちの生活にもっと役立つようになる",
-        "これからのAIはもっと身近になり選べる時代に"
+        "AIに頼りきらず、企業が知識を管理する重要性を伝えています。",
+        "AIが提供する情報が、常に正確で新しいものになります。",
+        "AIを使う企業のサービスが、もっと便利で信頼できるようになります。"
       ],
-      "highlight": "世界中で多くの人がAIを使いこなし生活が大きく変わる時代になった"
+      "highlight": "企業がAIの知識を管理することで、AIからの情報が格段に信頼できるようになりました。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
-      "title_ja": "Agent DX 〜 AI時代にフレームワークHonoは必要か",
-      "url": "https://zenn.dev/yusukebe/articles/3d3dc6605ca1b1",
-      "likes": 59,
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "title_ja": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
+      "likes": 62,
       "comments": 0,
-      "published_at": "2026-11-01",
+      "published_at": "2026-11-04",
       "lang": "ja",
-      "score": 67.0,
+      "score": 80.0,
       "summary": [
-        "1行目：AIが進化する中で、アプリ作りの道具は必要かを問いかけます。",
-        "2行目：AIが、アプリ開発のやり方を変えていく未来についてです。",
-        "3行目：今後AIで、誰でももっと簡単にアプリを作れるかもしれません。"
+        "AIを使ってインターネットサービスの安全性を",
+        "自動で常にチェックする仕組みを作りました",
+        "私たちが使うサービスがより安全になります"
       ],
-      "highlight": "AIがもっと身近になり、アプリ開発のやり方が大きく変わります。"
+      "highlight": "AIが自動でシステムの弱点を見つけ、ネットサービスを安全に保てるようになりました。"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT",
-    "Gemini"
-  ]
+  "trending_keywords": []
 }
