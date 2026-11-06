@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-05 10:59",
+  "updated_at": "2026-11-06 10:59",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Ghost in the Shell: Can a Log File Hijack an AI?",
-      "title_ja": "攻殻機動隊：AIが記録ファイルに乗っ取られる？",
-      "url": "https://dev.to/gramli/ghost-in-the-shell-can-a-log-file-hijack-an-ai-3gk",
-      "likes": 129,
-      "comments": 118,
-      "published_at": "2026-10-29",
+      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
+      "title_ja": "私たちはAIで自分たちの仕事をなくそうとしている。その後、どうするの？",
+      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
+      "likes": 155,
+      "comments": 114,
+      "published_at": "2026-11-04",
       "lang": "en",
-      "score": 373.0,
+      "score": 407.0,
       "summary": [
-        "AIの行動記録が悪用される危険性。",
-        "AIが悪意ある記録にだまされる危険。",
-        "私たちの生活の安全に関わる話です。"
+        "AIが人間の仕事を代わりにこなす可能性について。",
+        "AIが仕事を減らすことで社会が大きく変わること。",
+        "私たちの働き方が変わり、新しい役割が生まれること。"
       ],
-      "highlight": "今まで安全と思われた記録がAIを操れると分かった"
+      "highlight": "AIが今までの仕事のやり方を大きく変える時代が始まった。"
     },
     {
       "rank": 2,
+      "source": "Zenn",
+      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
+      "title_ja": "AIによる全自動セキュリティ診断、始めました",
+      "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
+      "likes": 85,
+      "comments": 0,
+      "published_at": "2026-11-04",
+      "lang": "ja",
+      "score": 93.0,
+      "summary": [
+        "AIがコンピュータの弱点を探し、自動で守りを固める技術です。",
+        "これにより、ネットサービスが常に安全か、自動で確認できます。",
+        "私たちが使う様々なサービスが、より安心して利用できるようになるでしょう。"
+      ],
+      "highlight": "AIが自動でコンピューターの安全をチェックしてくれるようになり、私たちのネット生活がより安心になりました。"
+    },
+    {
+      "rank": 3,
       "source": "note",
-      "title": "AIに覚えさせるのではなく、企業が知識を管理する理由",
-      "title_ja": "AIに覚えさせるのではなく、企業が知識を管理する理由",
-      "url": "https://note.com/shuji_yamashita/n/n16b19e6c9508",
+      "title": "【速報11/06】AI/IT関連ニュース（AI半導体×フィジカルAI×サイバー防衛）",
+      "title_ja": "【速報11/06】AI/IT関連ニュース（AI半導体×フィジカルAI×サイバー防衛）",
+      "url": "https://note.com/it_daytrading/n/nb7cc3f2623d0",
       "likes": 0,
       "comments": 0,
       "published_at": "2026-11-05",
       "lang": "ja",
-      "score": 156.0,
+      "score": 57.0,
       "summary": [
-        "AIに頼りきらず、企業が知識を管理する重要性を伝えています。",
-        "AIが提供する情報が、常に正確で新しいものになります。",
-        "AIを使う企業のサービスが、もっと便利で信頼できるようになります。"
+        "AIやIT技術の最新情報がわかる記事です",
+        "AIの頭脳やロボット、ネットの守りが進化します",
+        "私たちの生活がこれからどう変わるかが分かります"
       ],
-      "highlight": "企業がAIの知識を管理することで、AIからの情報が格段に信頼できるようになりました。"
-    },
-    {
-      "rank": 3,
-      "source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "title_ja": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
-      "likes": 62,
-      "comments": 0,
-      "published_at": "2026-11-04",
-      "lang": "ja",
-      "score": 80.0,
-      "summary": [
-        "AIを使ってインターネットサービスの安全性を",
-        "自動で常にチェックする仕組みを作りました",
-        "私たちが使うサービスがより安全になります"
-      ],
-      "highlight": "AIが自動でシステムの弱点を見つけ、ネットサービスを安全に保てるようになりました。"
+      "highlight": "AIの頭脳やロボットが進化し、生活が便利で安全に変わっていくでしょう。"
     }
   ],
   "trending_keywords": []
