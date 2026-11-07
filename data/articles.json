@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-06 10:59",
+  "updated_at": "2026-11-07 10:35",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "title_ja": "私たちはAIで自分たちの仕事をなくそうとしている。その後、どうするの？",
+      "title_ja": "AIで私たちの仕事がなくなる？今後の計画は？",
       "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "likes": 155,
-      "comments": 114,
+      "likes": 193,
+      "comments": 162,
       "published_at": "2026-11-04",
       "lang": "en",
-      "score": 407.0,
+      "score": 531.0,
       "summary": [
-        "AIが人間の仕事を代わりにこなす可能性について。",
-        "AIが仕事を減らすことで社会が大きく変わること。",
-        "私たちの働き方が変わり、新しい役割が生まれること。"
+        "AIが人の仕事を減らす時代が来ることを伝えます",
+        "AIが多くの作業をこなし仕事の形が変わるでしょう",
+        "誰もがAIとの共存を考える時代になるでしょう"
       ],
-      "highlight": "AIが今までの仕事のやり方を大きく変える時代が始まった。"
+      "highlight": "AIが私たちの仕事のあり方を根本から変える時代がやってくる"
     },
     {
       "rank": 2,
       "source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "title_ja": "AIによる全自動セキュリティ診断、始めました",
+      "title_ja": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
-      "likes": 85,
+      "likes": 96,
       "comments": 0,
       "published_at": "2026-11-04",
       "lang": "ja",
-      "score": 93.0,
+      "score": 104.0,
       "summary": [
-        "AIがコンピュータの弱点を探し、自動で守りを固める技術です。",
-        "これにより、ネットサービスが常に安全か、自動で確認できます。",
-        "私たちが使う様々なサービスが、より安心して利用できるようになるでしょう。"
+        "AI（賢いコンピューター）がウェブサイトや",
+        "アプリの安全性を自動でチェックする仕組みが",
+        "始まり、より早く安全なサービスを届けられます。"
       ],
-      "highlight": "AIが自動でコンピューターの安全をチェックしてくれるようになり、私たちのネット生活がより安心になりました。"
+      "highlight": "AIが人の手を借りずにウェブサイトやアプリの安全な部分と危険な部分を自動で見つけられるようになりました。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "【速報11/06】AI/IT関連ニュース（AI半導体×フィジカルAI×サイバー防衛）",
-      "title_ja": "【速報11/06】AI/IT関連ニュース（AI半導体×フィジカルAI×サイバー防衛）",
-      "url": "https://note.com/it_daytrading/n/nb7cc3f2623d0",
+      "title": "食費の節約は「買い物の前」で決まる。献立と買い物リストの例つき、AIで作る1週間のやり方",
+      "title_ja": "食費の節約は「買い物の前」で決まる。献立と買い物リストの例つき、AIで作る1週間のやり方",
+      "url": "https://note.com/easy_stoat9791/n/ne1feb021540f",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-05",
+      "published_at": "2026-11-07",
       "lang": "ja",
-      "score": 57.0,
+      "score": 63.0,
       "summary": [
-        "AIやIT技術の最新情報がわかる記事です",
-        "AIの頭脳やロボット、ネットの守りが進化します",
-        "私たちの生活がこれからどう変わるかが分かります"
+        "食費節約のコツはAIで買い物の準備をすること",
+        "AIが1週間分の献立と買い物リストを作ってくれます",
+        "節約したい人や料理の準備が大変な人におすすめです"
       ],
-      "highlight": "AIの頭脳やロボットが進化し、生活が便利で安全に変わっていくでしょう。"
+      "highlight": "誰でもAIを使えば、献立作りから食費節約まで賢くできるようになりました。"
     }
   ],
   "trending_keywords": []
