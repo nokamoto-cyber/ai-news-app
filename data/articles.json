@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-07 10:35",
+  "updated_at": "2026-11-08 10:02",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "title_ja": "AIで私たちの仕事がなくなる？今後の計画は？",
+      "title_ja": "人間を置き換えるAIの登場。未来の計画は？",
       "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "likes": 193,
-      "comments": 162,
+      "likes": 204,
+      "comments": 181,
       "published_at": "2026-11-04",
       "lang": "en",
-      "score": 531.0,
+      "score": 580.0,
       "summary": [
-        "AIが人の仕事を減らす時代が来ることを伝えます",
-        "AIが多くの作業をこなし仕事の形が変わるでしょう",
-        "誰もがAIとの共存を考える時代になるでしょう"
+        "AIが人間の仕事を代替する疑問を投げかける",
+        "仕事のやり方や役割が大きく変わる可能性がある",
+        "私たち全員の生活や仕事に関わる未来の話"
       ],
-      "highlight": "AIが私たちの仕事のあり方を根本から変える時代がやってくる"
+      "highlight": "AIが私たちの仕事を引き継ぎ、働き方や社会の仕組みが大きく変わる"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "「無料で便利」の裏に潜む罠！今すぐ見直すべき危険なAIの使い方",
+      "title_ja": "「無料で便利」の裏に潜む罠！今すぐ見直すべき危険なAIの使い方",
+      "url": "https://note.com/dapper_sheep5981/n/n8c2e5ec31198",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-08",
+      "lang": "ja",
+      "score": 208.0,
+      "summary": [
+        "無料で使えるAIには危険があることを伝えています。",
+        "個人情報を守り、AIを安全に使う方法が分かります。",
+        "AIを使う誰もが知っておくべき大切な情報です。"
+      ],
+      "highlight": "無料で便利なAIも、使い方を見直せば安心して利用できるようになる"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "title_ja": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
-      "likes": 96,
-      "comments": 0,
+      "likes": 103,
+      "comments": 1,
       "published_at": "2026-11-04",
       "lang": "ja",
-      "score": 104.0,
+      "score": 113.0,
       "summary": [
-        "AI（賢いコンピューター）がウェブサイトや",
-        "アプリの安全性を自動でチェックする仕組みが",
-        "始まり、より早く安全なサービスを届けられます。"
+        "AIを使い、コンピューターの弱点を自動で探す技術ができたという話です。",
+        "悪い人がコンピューターに侵入するのをAIが自動で試してくれます。",
+        "私たちの使うインターネットがもっと安全になり便利になります。"
       ],
-      "highlight": "AIが人の手を借りずにウェブサイトやアプリの安全な部分と危険な部分を自動で見つけられるようになりました。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "食費の節約は「買い物の前」で決まる。献立と買い物リストの例つき、AIで作る1週間のやり方",
-      "title_ja": "食費の節約は「買い物の前」で決まる。献立と買い物リストの例つき、AIで作る1週間のやり方",
-      "url": "https://note.com/easy_stoat9791/n/ne1feb021540f",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-07",
-      "lang": "ja",
-      "score": 63.0,
-      "summary": [
-        "食費節約のコツはAIで買い物の準備をすること",
-        "AIが1週間分の献立と買い物リストを作ってくれます",
-        "節約したい人や料理の準備が大変な人におすすめです"
-      ],
-      "highlight": "誰でもAIを使えば、献立作りから食費節約まで賢くできるようになりました。"
+      "highlight": "AIがコンピューターの安全を自動で守ってくれるようになりました。"
     }
   ],
   "trending_keywords": []
