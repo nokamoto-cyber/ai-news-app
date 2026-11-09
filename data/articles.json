@@ -1,60 +1,62 @@
 {
-  "updated_at": "2026-11-08 10:02",
+  "updated_at": "2026-11-09 10:25",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "title_ja": "人間を置き換えるAIの登場。未来の計画は？",
+      "title_ja": "私たちは自分たちを置き換えるAIを作っている。その計画はどうなっているのか？",
       "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "likes": 204,
-      "comments": 181,
+      "likes": 233,
+      "comments": 202,
       "published_at": "2026-11-04",
       "lang": "en",
-      "score": 580.0,
+      "score": 651.0,
       "summary": [
-        "AIが人間の仕事を代替する疑問を投げかける",
-        "仕事のやり方や役割が大きく変わる可能性がある",
-        "私たち全員の生活や仕事に関わる未来の話"
+        "AIが人間の仕事をなくすかもしれない、という疑問を投げかける記事です",
+        "いろんな作業がAIで自動になり、私たちの働き方が大きく変わります",
+        "全ての働く人や将来を考える人にとって、重要な内容だと言えます"
       ],
-      "highlight": "AIが私たちの仕事を引き継ぎ、働き方や社会の仕組みが大きく変わる"
+      "highlight": "AIが人間の仕事を肩代わりできるようになり、私たちの働き方や社会が大きく変わります"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "「無料で便利」の裏に潜む罠！今すぐ見直すべき危険なAIの使い方",
-      "title_ja": "「無料で便利」の裏に潜む罠！今すぐ見直すべき危険なAIの使い方",
-      "url": "https://note.com/dapper_sheep5981/n/n8c2e5ec31198",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-08",
-      "lang": "ja",
-      "score": 208.0,
-      "summary": [
-        "無料で使えるAIには危険があることを伝えています。",
-        "個人情報を守り、AIを安全に使う方法が分かります。",
-        "AIを使う誰もが知っておくべき大切な情報です。"
-      ],
-      "highlight": "無料で便利なAIも、使い方を見直せば安心して利用できるようになる"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "title_ja": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
       "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
-      "likes": 103,
+      "likes": 115,
       "comments": 1,
       "published_at": "2026-11-04",
       "lang": "ja",
-      "score": 113.0,
+      "score": 125.0,
       "summary": [
-        "AIを使い、コンピューターの弱点を自動で探す技術ができたという話です。",
-        "悪い人がコンピューターに侵入するのをAIが自動で試してくれます。",
-        "私たちの使うインターネットがもっと安全になり便利になります。"
+        "AIでシステムを全自動で安全にチェックする方法が始まったことを伝えています。",
+        "パソコンが自動で悪い人の真似をして、システムの弱点がないかを常に探し出せるようになります。",
+        "これにより、私たちが使う様々なネットサービスが、もっと安全になり、安心して使えるようになります。"
       ],
-      "highlight": "AIがコンピューターの安全を自動で守ってくれるようになりました。"
+      "highlight": "AIが自動でシステムの弱点を探し、私たちが使うインターネットサービスがより安全になるようになりました。"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "AI FX Lab｜Season 1 Stage 2 Week 5｜Claudeが再びマイナス圏へ。KEEP判断直後の運用結果は？",
+      "title_ja": "AI FX Lab｜Season 1 Stage 2 Week 5｜Claudeが再びマイナス圏へ。KEEP判断直後の運用結果は？",
+      "url": "https://note.com/ai_fxlab/n/n712aae90d2b2",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-09",
+      "lang": "ja",
+      "score": 52.0,
+      "summary": [
+        "AIが外国のお金の取引に挑戦した話です",
+        "AIが一時的に損を出しましたが、運用を続けました",
+        "AI投資の難しさや今後への期待が見えてきます"
+      ],
+      "highlight": "AIが投資の世界に進出し、損益を出しながらも成長しています"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "Claude"
+  ]
 }
