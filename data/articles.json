@@ -1,62 +1,62 @@
 {
-  "updated_at": "2026-11-09 10:25",
+  "updated_at": "2026-11-10 12:57",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "title_ja": "私たちは自分たちを置き換えるAIを作っている。その計画はどうなっているのか？",
+      "title_ja": "AIは私たちの代わりになる？これからの計画は？",
       "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "likes": 233,
-      "comments": 202,
+      "likes": 237,
+      "comments": 207,
       "published_at": "2026-11-04",
       "lang": "en",
-      "score": 651.0,
+      "score": 665.0,
       "summary": [
-        "AIが人間の仕事をなくすかもしれない、という疑問を投げかける記事です",
-        "いろんな作業がAIで自動になり、私たちの働き方が大きく変わります",
-        "全ての働く人や将来を考える人にとって、重要な内容だと言えます"
+        "AIが人間の仕事や役割を肩代わりし始めます",
+        "今後、私たちの仕事や暮らしが大きく変わるでしょう",
+        "AI時代に備え、どう生きるか考えるきっかけになります"
       ],
-      "highlight": "AIが人間の仕事を肩代わりできるようになり、私たちの働き方や社会が大きく変わります"
+      "highlight": "AIが人間の仕事をこなし、私たちの働き方や未来が変わる準備が始まりました"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "title_ja": "OpenCode+Docker+GitHub Actionsで全自動AIペネトレーションテストはじめました",
-      "url": "https://zenn.dev/dyoshikawa/articles/opencode-docker-actions-ai-pentest",
-      "likes": 115,
-      "comments": 1,
-      "published_at": "2026-11-04",
+      "source": "note",
+      "title": "合わせ鏡の迷宮で、私は機械の嘘に頷く——言葉の流暢さにハックされる認知と、AI依存時代における人間の危うさ",
+      "title_ja": "合わせ鏡の迷宮で、私は機械の嘘に頷く——言葉の流暢さにハックされる認知と、AI依存時代における人間の危うさ",
+      "url": "https://note.com/lucid_turkey3730/n/nd754c4ecdae1",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-10",
       "lang": "ja",
-      "score": 125.0,
+      "score": 84.0,
       "summary": [
-        "AIでシステムを全自動で安全にチェックする方法が始まったことを伝えています。",
-        "パソコンが自動で悪い人の真似をして、システムの弱点がないかを常に探し出せるようになります。",
-        "これにより、私たちが使う様々なネットサービスが、もっと安全になり、安心して使えるようになります。"
+        "AIが話す内容を信じすぎてしまう危険性",
+        "まるで人間のように話すAIにだまされがち",
+        "AIを使う誰もが情報を見極める時代に"
       ],
-      "highlight": "AIが自動でシステムの弱点を探し、私たちが使うインターネットサービスがより安全になるようになりました。"
+      "highlight": "AIが人間そっくりの言葉を話すので、何が本当か見分けにくくなりました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "AI FX Lab｜Season 1 Stage 2 Week 5｜Claudeが再びマイナス圏へ。KEEP判断直後の運用結果は？",
-      "title_ja": "AI FX Lab｜Season 1 Stage 2 Week 5｜Claudeが再びマイナス圏へ。KEEP判断直後の運用結果は？",
-      "url": "https://note.com/ai_fxlab/n/n712aae90d2b2",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-09",
+      "source": "Zenn",
+      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+      "title_ja": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
+      "url": "https://zenn.dev/kyumo1/articles/4c03a548cd6589",
+      "likes": 67,
+      "comments": 1,
+      "published_at": "2026-11-06",
       "lang": "ja",
-      "score": 52.0,
+      "score": 80.0,
       "summary": [
-        "AIが外国のお金の取引に挑戦した話です",
-        "AIが一時的に損を出しましたが、運用を続けました",
-        "AI投資の難しさや今後への期待が見えてきます"
+        "AIが仕事の段取りを全てこなしてくれる",
+        "人間は確認するだけで仕事が進む",
+        "働く人の仕事の仕方が大きく変わる"
       ],
-      "highlight": "AIが投資の世界に進出し、損益を出しながらも成長しています"
+      "highlight": "AIが仕事の準備を代行し、私たちは確認するだけで良くなった"
     }
   ],
   "trending_keywords": [
-    "Claude"
+    "AIエージェント"
   ]
 }
