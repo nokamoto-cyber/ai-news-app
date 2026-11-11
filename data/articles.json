@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-10 12:57",
+  "updated_at": "2026-11-11 10:42",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "title_ja": "AIは私たちの代わりになる？これからの計画は？",
+      "title_ja": "AIが私たちの仕事を引き継ぐ準備は？",
       "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "likes": 237,
-      "comments": 207,
+      "likes": 238,
+      "comments": 213,
       "published_at": "2026-11-04",
       "lang": "en",
-      "score": 665.0,
+      "score": 678.0,
       "summary": [
-        "AIが人間の仕事や役割を肩代わりし始めます",
-        "今後、私たちの仕事や暮らしが大きく変わるでしょう",
-        "AI時代に備え、どう生きるか考えるきっかけになります"
+        "AIが人間の仕事を代わりに担当する未来について",
+        "人がしていた仕事をAIができるようになり、働き方が変化",
+        "多くの人の暮らしや社会に影響。今から考えるべき未来"
       ],
-      "highlight": "AIが人間の仕事をこなし、私たちの働き方や未来が変わる準備が始まりました"
+      "highlight": "人間がしてきた仕事をAIができるようになり、社会が大きく変わる"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "合わせ鏡の迷宮で、私は機械の嘘に頷く——言葉の流暢さにハックされる認知と、AI依存時代における人間の危うさ",
-      "title_ja": "合わせ鏡の迷宮で、私は機械の嘘に頷く——言葉の流暢さにハックされる認知と、AI依存時代における人間の危うさ",
-      "url": "https://note.com/lucid_turkey3730/n/nd754c4ecdae1",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-10",
-      "lang": "ja",
-      "score": 84.0,
-      "summary": [
-        "AIが話す内容を信じすぎてしまう危険性",
-        "まるで人間のように話すAIにだまされがち",
-        "AIを使う誰もが情報を見極める時代に"
-      ],
-      "highlight": "AIが人間そっくりの言葉を話すので、何が本当か見分けにくくなりました。"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "title_ja": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/kyumo1/articles/4c03a548cd6589",
-      "likes": 67,
+      "likes": 70,
       "comments": 1,
       "published_at": "2026-11-06",
       "lang": "ja",
-      "score": 80.0,
+      "score": 83.0,
       "summary": [
-        "AIが仕事の段取りを全てこなしてくれる",
-        "人間は確認するだけで仕事が進む",
-        "働く人の仕事の仕方が大きく変わる"
+        "AIが仕事の段取りを全部やってくれる話",
+        "人は最終確認や判断だけすれば良い",
+        "働く人の仕事がもっと楽になる未来です"
       ],
-      "highlight": "AIが仕事の準備を代行し、私たちは確認するだけで良くなった"
+      "highlight": "AIが自分で考えて仕事を進め、人の手間が大きく減るようになった"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "AI副業、無料ツールを探しているだけで一日が終わる。",
+      "title_ja": "AI副業、無料ツールを探しているだけで一日が終わる。",
+      "url": "https://note.com/safe_hosta1505/n/n7104c76b6f43",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-11",
+      "lang": "ja",
+      "score": 72.0,
+      "summary": [
+        "AIで副業を始めたい人が、無料ツール探しに時間を使いすぎて、なかなか作業が進まない問題について伝えています。",
+        "無料ツールを探すより、まずは実際に何か作ってみるなど、行動することが大切だと気づけます。",
+        "AIを使って新しいことを始めたい人が、時間を無駄にせず、効率的に行動するためのヒントが得られます。"
+      ],
+      "highlight": "AI副業を始めたい人が、無料ツール探しに時間を取られず、実際に稼ぐための行動に集中できるようになります。"
     }
   ],
   "trending_keywords": [
