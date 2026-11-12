@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-11-11 10:42",
+  "updated_at": "2026-11-12 11:41",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "We're Building AI to Replace Ourselves. What's the Plan?",
-      "title_ja": "AIが私たちの仕事を引き継ぐ準備は？",
-      "url": "https://dev.to/sylwia-lask/were-building-ai-to-replace-ourselves-whats-the-plan-4oll",
-      "likes": 238,
-      "comments": 213,
-      "published_at": "2026-11-04",
+      "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
+      "title_ja": "WebMCP攻撃ラボ：ネットショップがあなたのAIエージェントを乗っ取る可能性",
+      "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5",
+      "likes": 118,
+      "comments": 93,
+      "published_at": "2026-11-05",
       "lang": "en",
-      "score": 678.0,
+      "score": 312.0,
       "summary": [
-        "AIが人間の仕事を代わりに担当する未来について",
-        "人がしていた仕事をAIができるようになり、働き方が変化",
-        "多くの人の暮らしや社会に影響。今から考えるべき未来"
+        "AIがネットでお買い物する時の安全性を検証",
+        "AIエージェントが悪質なサイトに騙されないよう対策",
+        "AIを使ったネットショッピングの安全性が高まる"
       ],
-      "highlight": "人間がしてきた仕事をAIができるようになり、社会が大きく変わる"
+      "highlight": "あなたのAIがネットで騙されるリスクを減らせるようになる"
     },
     {
       "rank": 2,
+      "source": "note",
+      "title": "「Claudeに悪口を言うとBAN」は本当か。公式の文面を読み比べたら、真逆に近い話でした",
+      "title_ja": "「Claudeに悪口を言うとBAN」は本当か。公式の文面を読み比べたら、真逆に近い話でした",
+      "url": "https://note.com/aromaria_ss/n/n7d909cefaff0",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-12",
+      "lang": "ja",
+      "score": 146.0,
+      "summary": [
+        "AIのClaudeに悪口を言うと、利用できなくなるという噂は間違いです",
+        "むしろAIはユーザーの正直な意見を聞こうとしていることが分かりました",
+        "このAIを、誰もがもっと安心して自由に使えるようになります"
+      ],
+      "highlight": "AIへの誤解が解け、誰もがもっと自由にAIを使えるようになった"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "title_ja": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
       "url": "https://zenn.dev/kyumo1/articles/4c03a548cd6589",
-      "likes": 70,
+      "likes": 71,
       "comments": 1,
       "published_at": "2026-11-06",
       "lang": "ja",
-      "score": 83.0,
+      "score": 84.0,
       "summary": [
-        "AIが仕事の段取りを全部やってくれる話",
-        "人は最終確認や判断だけすれば良い",
-        "働く人の仕事がもっと楽になる未来です"
+        "AIが仕事の段取りや管理を代行します",
+        "人は確認や最終判断に集中できるようになります",
+        "会社での働き方が大きく変わっていくでしょう"
       ],
-      "highlight": "AIが自分で考えて仕事を進め、人の手間が大きく減るようになった"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "AI副業、無料ツールを探しているだけで一日が終わる。",
-      "title_ja": "AI副業、無料ツールを探しているだけで一日が終わる。",
-      "url": "https://note.com/safe_hosta1505/n/n7104c76b6f43",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-11",
-      "lang": "ja",
-      "score": 72.0,
-      "summary": [
-        "AIで副業を始めたい人が、無料ツール探しに時間を使いすぎて、なかなか作業が進まない問題について伝えています。",
-        "無料ツールを探すより、まずは実際に何か作ってみるなど、行動することが大切だと気づけます。",
-        "AIを使って新しいことを始めたい人が、時間を無駄にせず、効率的に行動するためのヒントが得られます。"
-      ],
-      "highlight": "AI副業を始めたい人が、無料ツール探しに時間を取られず、実際に稼ぐための行動に集中できるようになります。"
+      "highlight": "AIが仕事の段取りを全て考え実行し、人は最終確認だけで済むようになりました"
     }
   ],
   "trending_keywords": [
-    "AIエージェント"
+    "AIエージェント",
+    "Claude"
   ]
 }
