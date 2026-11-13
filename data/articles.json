@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-11-12 11:41",
+  "updated_at": "2026-11-13 11:22",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "WebMCP Attack Lab: Can an E-Shop Hijack Your AI Agent?",
-      "title_ja": "WebMCP攻撃ラボ：ネットショップがあなたのAIエージェントを乗っ取る可能性",
-      "url": "https://dev.to/gramli/webmcp-attack-lab-can-an-e-shop-hijack-your-ai-agent-4oe5",
-      "likes": 118,
-      "comments": 93,
-      "published_at": "2026-11-05",
+      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
+      "title_ja": "AIによる生産性向上は本当？品質保証の現場から違う声",
+      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
+      "likes": 107,
+      "comments": 84,
+      "published_at": "2026-11-11",
       "lang": "en",
-      "score": 312.0,
+      "score": 293.0,
       "summary": [
-        "AIがネットでお買い物する時の安全性を検証",
-        "AIエージェントが悪質なサイトに騙されないよう対策",
-        "AIを使ったネットショッピングの安全性が高まる"
+        "AIによる仕事効率化が期待される一方、現場では違う実情が",
+        "品質保証など特定の分野では、AIの効果がまだ見えにくい",
+        "AI導入を考える際は、期待だけでなく現実的な課題も大切"
       ],
-      "highlight": "あなたのAIがネットで騙されるリスクを減らせるようになる"
+      "highlight": "AIが仕事の効率を上げるには、まだ解決すべき課題があるとわかります"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "「Claudeに悪口を言うとBAN」は本当か。公式の文面を読み比べたら、真逆に近い話でした",
-      "title_ja": "「Claudeに悪口を言うとBAN」は本当か。公式の文面を読み比べたら、真逆に近い話でした",
-      "url": "https://note.com/aromaria_ss/n/n7d909cefaff0",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+      "title_ja": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
+      "url": "https://zenn.dev/yuku/articles/45501469c9c044",
+      "likes": 125,
       "comments": 0,
       "published_at": "2026-11-12",
       "lang": "ja",
-      "score": 146.0,
+      "score": 143.0,
       "summary": [
-        "AIのClaudeに悪口を言うと、利用できなくなるという噂は間違いです",
-        "むしろAIはユーザーの正直な意見を聞こうとしていることが分かりました",
-        "このAIを、誰もがもっと安心して自由に使えるようになります"
+        "UbieがAIで新しい働き方へ",
+        "AIが社員の仕事を自動実行します",
+        "AIが身近になり働き方が変化"
       ],
-      "highlight": "AIへの誤解が解け、誰もがもっと自由にAIを使えるようになった"
+      "highlight": "AIが会社全体の仕事を自動でこなせるようになり、働き方が大きく変わる。"
     },
     {
       "rank": 3,
-      "source": "Zenn",
-      "title": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "title_ja": "タスク管理までAIエージェントに任せたら、確認待ちに答えるだけになった",
-      "url": "https://zenn.dev/kyumo1/articles/4c03a548cd6589",
-      "likes": 71,
-      "comments": 1,
-      "published_at": "2026-11-06",
+      "source": "note",
+      "title": "Opus 5.5とは？Fable 5.2との使い分け3つ",
+      "title_ja": "Opus 5.5とは？Fable 5.2との使い分け3つ",
+      "url": "https://note.com/rich_15/n/n9b2c659ceed9",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-13",
       "lang": "ja",
-      "score": 84.0,
+      "score": 56.0,
       "summary": [
-        "AIが仕事の段取りや管理を代行します",
-        "人は確認や最終判断に集中できるようになります",
-        "会社での働き方が大きく変わっていくでしょう"
+        "OpusとFableというAIの賢さの違いを解説",
+        "用途に応じて賢いAIを選べるようになる",
+        "私たちもAIを賢く選んで使えるようになる"
       ],
-      "highlight": "AIが仕事の段取りを全て考え実行し、人は最終確認だけで済むようになりました"
+      "highlight": "目的に合わせて最適なAIを選んで使えるようになった"
     }
   ],
-  "trending_keywords": [
-    "AIエージェント",
-    "Claude"
-  ]
+  "trending_keywords": []
 }
