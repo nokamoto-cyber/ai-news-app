@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-13 11:22",
+  "updated_at": "2026-11-14 10:58",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-      "title_ja": "AIによる生産性向上は本当？品質保証の現場から違う声",
+      "title_ja": "AIで仕事が楽になるって？品質チェックの現場は違うみたい",
       "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-      "likes": 107,
-      "comments": 84,
+      "likes": 108,
+      "comments": 110,
       "published_at": "2026-11-11",
       "lang": "en",
-      "score": 293.0,
+      "score": 336.0,
       "summary": [
-        "AIによる仕事効率化が期待される一方、現場では違う実情が",
-        "品質保証など特定の分野では、AIの効果がまだ見えにくい",
-        "AI導入を考える際は、期待だけでなく現実的な課題も大切"
+        "AIが仕事の効率を上げると期待されています。",
+        "しかし、製品の品質をチェックする現場は違う。",
+        "AI導入で逆に手間が増えるなどの課題も出ています。"
       ],
-      "highlight": "AIが仕事の効率を上げるには、まだ解決すべき課題があるとわかります"
+      "highlight": "AIは完璧ではなく、人の目で最終的に品質を確認する大切さが分かった。"
     },
     {
       "rank": 2,
@@ -25,36 +25,40 @@
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "title_ja": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/yuku/articles/45501469c9c044",
-      "likes": 125,
+      "likes": 153,
       "comments": 0,
       "published_at": "2026-11-12",
       "lang": "ja",
-      "score": 143.0,
+      "score": 161.0,
       "summary": [
-        "UbieがAIで新しい働き方へ",
-        "AIが社員の仕事を自動実行します",
-        "AIが身近になり働き方が変化"
+        "Ubieという会社が全社の仕事をAIで効率化",
+        "AIがまるで社員のように様々な業務を自動でこなせるように",
+        "私たちの働き方もAIで大きく変わるかもしれません"
       ],
-      "highlight": "AIが会社全体の仕事を自動でこなせるようになり、働き方が大きく変わる。"
+      "highlight": "会社全体の様々な仕事をAIがまるで社員のように自動でこなせるようになりました"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Opus 5.5とは？Fable 5.2との使い分け3つ",
-      "title_ja": "Opus 5.5とは？Fable 5.2との使い分け3つ",
-      "url": "https://note.com/rich_15/n/n9b2c659ceed9",
+      "title": "AIエージェントが買い物の支払いまで代行するChatGPT Walletの仕組みと試し方",
+      "title_ja": "AIエージェントが買い物の支払いまで代行するChatGPT Walletの仕組みと試し方",
+      "url": "https://note.com/ai_work_mate/n/n4cd4cfeb4738",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-13",
+      "published_at": "2026-11-14",
       "lang": "ja",
-      "score": 56.0,
+      "score": 76.0,
       "summary": [
-        "OpusとFableというAIの賢さの違いを解説",
-        "用途に応じて賢いAIを選べるようになる",
-        "私たちもAIを賢く選んで使えるようになる"
+        "AIがあなたの代わりに買い物をする話題",
+        "商品の選定から支払いまでAIが代行します",
+        "買い物がもっと楽になる未来が近づきます"
       ],
-      "highlight": "目的に合わせて最適なAIを選んで使えるようになった"
+      "highlight": "AIが、あなたの希望通りに買い物を済ませてくれるようになった"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT",
+    "AIエージェント"
+  ]
 }
