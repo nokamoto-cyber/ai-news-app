@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-14 10:58",
+  "updated_at": "2026-11-15 10:30",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-      "title_ja": "AIで仕事が楽になるって？品質チェックの現場は違うみたい",
+      "title_ja": "AIで仕事が楽になるって聞くけど、現場の声はちょっと違うみたい",
       "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-      "likes": 108,
+      "likes": 110,
       "comments": 110,
       "published_at": "2026-11-11",
       "lang": "en",
-      "score": 336.0,
+      "score": 338.0,
       "summary": [
-        "AIが仕事の効率を上げると期待されています。",
-        "しかし、製品の品質をチェックする現場は違う。",
-        "AI導入で逆に手間が増えるなどの課題も出ています。"
+        "AIが仕事を変える期待と現実の差を伝える",
+        "AIのミスを人が直す手間が増えることがあります",
+        "AIは完璧でなく人間との協力がより大切に"
       ],
-      "highlight": "AIは完璧ではなく、人の目で最終的に品質を確認する大切さが分かった。"
+      "highlight": "AIを使っても人の確認作業は減らず、仕事の質がより重要になりました"
     },
     {
       "rank": 2,
@@ -25,40 +25,40 @@
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "title_ja": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/yuku/articles/45501469c9c044",
-      "likes": 153,
+      "likes": 167,
       "comments": 0,
       "published_at": "2026-11-12",
       "lang": "ja",
-      "score": 161.0,
+      "score": 175.0,
       "summary": [
-        "Ubieという会社が全社の仕事をAIで効率化",
-        "AIがまるで社員のように様々な業務を自動でこなせるように",
-        "私たちの働き方もAIで大きく変わるかもしれません"
+        "Ubieという会社がAIで仕事のやり方を大きく変えようとしています。",
+        "AIが人の指示を受けて会社の多様な仕事を自動でこなせるようになります。",
+        "これは私たちの働き方や使うサービスを便利に変える可能性があります。"
       ],
-      "highlight": "会社全体の様々な仕事をAIがまるで社員のように自動でこなせるようになりました"
+      "highlight": "会社の誰もがAIの力を借りて、どんな仕事も自動で進められるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "AIエージェントが買い物の支払いまで代行するChatGPT Walletの仕組みと試し方",
-      "title_ja": "AIエージェントが買い物の支払いまで代行するChatGPT Walletの仕組みと試し方",
-      "url": "https://note.com/ai_work_mate/n/n4cd4cfeb4738",
+      "title": "【AIデザイン比較】Gemini・ChatGPT・MUSEで制作。あなたは買うならどっち？",
+      "title_ja": "【AIデザイン比較】Gemini・ChatGPT・MUSEで制作。あなたは買うならどっち？",
+      "url": "https://note.com/kubograth/n/n89f4ad5f6668",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-14",
+      "published_at": "2026-11-15",
       "lang": "ja",
-      "score": 76.0,
+      "score": 57.0,
       "summary": [
-        "AIがあなたの代わりに買い物をする話題",
-        "商品の選定から支払いまでAIが代行します",
-        "買い物がもっと楽になる未来が近づきます"
+        "AIがどんなデザインを作れるか比較する記事",
+        "AIが人の代わりにデザインを作れるように",
+        "私たちの身の回りのデザインが変わるかも"
       ],
-      "highlight": "AIが、あなたの希望通りに買い物を済ませてくれるようになった"
+      "highlight": "デザインの専門知識がなくても、AIが代わりに素晴らしいデザインを作れるようになった"
     }
   ],
   "trending_keywords": [
     "ChatGPT",
     "GPT",
-    "AIエージェント"
+    "Gemini"
   ]
 }
