@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-16 10:33",
+  "updated_at": "2026-11-17 13:19",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-      "title_ja": "AIで仕事がはかどるって聞くけど、品質チェックの現場では違う意見も出てるみたい",
+      "title_ja": "AIで仕事が楽になる？品質管理の現場は困惑",
       "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-      "likes": 111,
-      "comments": 110,
+      "likes": 112,
+      "comments": 112,
       "published_at": "2026-11-11",
       "lang": "en",
-      "score": 339.0,
+      "score": 344.0,
       "summary": [
-        "AIは仕事の効率を上げると期待されるが、実は課題もある",
-        "品質チェックの現場では、AIを使うと逆に手間が増えることも",
-        "AIを導入する際は良い面だけでなく、実際の困りごとも考える必要がある"
+        "AIが仕事の効率を上げると言われるけれど、",
+        "品質チェックの現場ではAIの不完全さで人間がより大変に",
+        "AIは完璧ではないと知ることが大切だと示唆している"
       ],
-      "highlight": "AIがなんでも自動的に良くしてくれるわけではなく、人間が品質をチェックする大切さが改めて分かった"
+      "highlight": "AIが期待通りに生産性を上げるとは限らず、使い方を見直すきっかけになる"
     },
     {
       "rank": 2,
@@ -25,36 +25,39 @@
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "title_ja": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/yuku/articles/45501469c9c044",
-      "likes": 190,
-      "comments": 0,
+      "likes": 206,
+      "comments": 1,
       "published_at": "2026-11-12",
       "lang": "ja",
-      "score": 198.0,
+      "score": 216.0,
       "summary": [
-        "Ubie社がAIを使い、会社の仕事を効率化する仕組みを作った。",
-        "社員がAIと協力し、より早く質の高い仕事ができるようになる。",
-        "AI活用が進み、私たちの仕事やサービスも良くなる未来へ。"
+        "Ubieが会社の仕事をAIで進化させる話です。",
+        "AIが社員の仕事の多くを自動でこなすようになります。",
+        "会社全体の働き方が変わり、便利なサービスが増えます。"
       ],
-      "highlight": "Ubieの全社員がAIを個人の仕事のパートナーとして活用できるようになった"
+      "highlight": "AIが会社全体で働くことで、私たちの生活をもっと便利にする新しいサービスがどんどん生まれるようになります。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "月額は同じで中身が変わった。10月のAIプラン変更",
-      "title_ja": "月額は同じで中身が変わった。10月のAIプラン変更",
-      "url": "https://note.com/kohaku_xox/n/ne3f22754f7e6",
+      "title": "ChatGPTに自分の利用料金を稼がせてみる。月3,000円の挑戦。",
+      "title_ja": "ChatGPTに自分の利用料金を稼がせてみる。月3,000円の挑戦。",
+      "url": "https://note.com/kurashi_work365/n/n7cd86bb4ba98",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-16",
+      "published_at": "2026-11-17",
       "lang": "ja",
-      "score": 69.0,
+      "score": 63.0,
       "summary": [
-        "AIサービスのお得な料金プランが変更されました。",
-        "毎月払うお金は同じなのに、使える内容が良くなります。",
-        "AIを使う人が、もっと便利でお得になるお知らせです。"
+        "AIのChatGPTを使って、月3,000円を稼ぎ、利用料金をまかなう挑戦を紹介。",
+        "AIがただの便利ツールではなく、お金を生み出す道具として使える可能性を提示。",
+        "AI活用に興味がある人や新しい収入源を探している人にとって役立つ情報です。"
       ],
-      "highlight": "毎月の料金は変わらないのに、AIがより賢く便利に使えるようになりました。"
+      "highlight": "誰でもAIを賢く使うことで、自分でお金を生み出せる時代が来ました。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT"
+  ]
 }
