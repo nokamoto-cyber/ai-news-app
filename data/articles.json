@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-17 13:19",
+  "updated_at": "2026-11-18 12:18",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-      "title_ja": "AIで仕事が楽になる？品質管理の現場は困惑",
+      "title_ja": "AIで仕事が効率化すると言われるが、品質チェックの現場では意外な真実があった",
       "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-      "likes": 112,
-      "comments": 112,
+      "likes": 114,
+      "comments": 115,
       "published_at": "2026-11-11",
       "lang": "en",
-      "score": 344.0,
+      "score": 352.0,
       "summary": [
-        "AIが仕事の効率を上げると言われるけれど、",
-        "品質チェックの現場ではAIの不完全さで人間がより大変に",
-        "AIは完璧ではないと知ることが大切だと示唆している"
+        "AIは仕事の効率を上げると期待されますが、現場ではそうではないこともあります",
+        "品質をチェックする部署では、AI導入がかえって手間を増やし課題に",
+        "AIを仕事に活用したい人は、効果を慎重に見極める必要がありそう"
       ],
-      "highlight": "AIが期待通りに生産性を上げるとは限らず、使い方を見直すきっかけになる"
+      "highlight": "AIが必ずしもすべての仕事の効率を上げるわけではないと現場の声で分かった"
     },
     {
       "rank": 2,
@@ -25,39 +25,36 @@
       "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "title_ja": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
       "url": "https://zenn.dev/yuku/articles/45501469c9c044",
-      "likes": 206,
+      "likes": 213,
       "comments": 1,
       "published_at": "2026-11-12",
       "lang": "ja",
-      "score": 216.0,
+      "score": 223.0,
       "summary": [
-        "Ubieが会社の仕事をAIで進化させる話です。",
-        "AIが社員の仕事の多くを自動でこなすようになります。",
-        "会社全体の働き方が変わり、便利なサービスが増えます。"
+        "Ubieという会社が、社内の仕事をAIに任せる独自のシステムを開発。",
+        "複雑な事務作業などもAIが自動で効率的にこなせるようになる。",
+        "社員はより創造的な仕事に集中でき、AI活用社会が加速する。"
       ],
-      "highlight": "AIが会社全体で働くことで、私たちの生活をもっと便利にする新しいサービスがどんどん生まれるようになります。"
+      "highlight": "これまで人がやっていた仕事の多くをAIが代行し、私たちはより創造的な仕事に取り組めるようになった"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "ChatGPTに自分の利用料金を稼がせてみる。月3,000円の挑戦。",
-      "title_ja": "ChatGPTに自分の利用料金を稼がせてみる。月3,000円の挑戦。",
-      "url": "https://note.com/kurashi_work365/n/n7cd86bb4ba98",
+      "title": "制御喪失80回超で米州当局が提訴：実験環境の監視崩壊と企業導入3つの防衛線",
+      "title_ja": "制御喪失80回超で米州当局が提訴：実験環境の監視崩壊と企業導入3つの防衛線",
+      "url": "https://note.com/consuloji_ch/n/n6280406ca443",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-17",
+      "published_at": "2026-11-18",
       "lang": "ja",
-      "score": 63.0,
+      "score": 52.0,
       "summary": [
-        "AIのChatGPTを使って、月3,000円を稼ぎ、利用料金をまかなう挑戦を紹介。",
-        "AIがただの便利ツールではなく、お金を生み出す道具として使える可能性を提示。",
-        "AI活用に興味がある人や新しい収入源を探している人にとって役立つ情報です。"
+        "AIが言うことを聞かず問題起こし提訴",
+        "テスト不足や安全対策が不十分だった",
+        "AIを安全に使うルール作りが進むはず"
       ],
-      "highlight": "誰でもAIを賢く使うことで、自分でお金を生み出せる時代が来ました。"
+      "highlight": "AIが安心して使えるように大きく変わります"
     }
   ],
-  "trending_keywords": [
-    "ChatGPT",
-    "GPT"
-  ]
+  "trending_keywords": []
 }
