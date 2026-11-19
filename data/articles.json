@@ -1,59 +1,59 @@
 {
-  "updated_at": "2026-11-18 12:18",
+  "updated_at": "2026-11-19 11:56",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "We Keep Hearing About AI Productivity. The QA Group Chat Told a Different Story.",
-      "title_ja": "AIで仕事が効率化すると言われるが、品質チェックの現場では意外な真実があった",
-      "url": "https://dev.to/xulingfeng/we-keep-hearing-about-ai-productivity-the-qa-group-chat-told-a-different-story-2nma",
-      "likes": 114,
-      "comments": 115,
-      "published_at": "2026-11-11",
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "title_ja": "AIを使ったプログラミングは本当に速く安くなるのか？",
+      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+      "likes": 122,
+      "comments": 86,
+      "published_at": "2026-11-18",
       "lang": "en",
-      "score": 352.0,
+      "score": 330.0,
       "summary": [
-        "AIは仕事の効率を上げると期待されますが、現場ではそうではないこともあります",
-        "品質をチェックする部署では、AI導入がかえって手間を増やし課題に",
-        "AIを仕事に活用したい人は、効果を慎重に見極める必要がありそう"
+        "AIがプログラミング作業を助け速く安くするかを議論",
+        "AIがコード作成を手伝い開発時間短縮や費用削減に",
+        "IT開発者だけでなく誰もがAIの恩恵を受けられる"
       ],
-      "highlight": "AIが必ずしもすべての仕事の効率を上げるわけではないと現場の声で分かった"
+      "highlight": "AIの力でプログラミングが速く安くできるようになり、便利なアプリやサービスがもっと身近になる"
     },
     {
       "rank": 2,
       "source": "Zenn",
-      "title": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-      "title_ja": "Software Factoryの先へ：全社の仕事をAI-NativeにするUbieの内製クラウドエージェント基盤",
-      "url": "https://zenn.dev/yuku/articles/45501469c9c044",
-      "likes": 213,
-      "comments": 1,
-      "published_at": "2026-11-12",
+      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+      "title_ja": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
+      "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
+      "likes": 164,
+      "comments": 3,
+      "published_at": "2026-11-13",
       "lang": "ja",
-      "score": 223.0,
+      "score": 178.0,
       "summary": [
-        "Ubieという会社が、社内の仕事をAIに任せる独自のシステムを開発。",
-        "複雑な事務作業などもAIが自動で効率的にこなせるようになる。",
-        "社員はより創造的な仕事に集中でき、AI活用社会が加速する。"
+        "AIが意地悪なレビューを作ったり、間違った情報を出さないための大事な方法について書かれています。",
+        "AIが作ったレビューや情報が正しいか、ちゃんと確認できるようになります。",
+        "AIを使う全ての人にとって、AIがもっと安全で信頼できる便利な道具になっていくでしょう。"
       ],
-      "highlight": "これまで人がやっていた仕事の多くをAIが代行し、私たちはより創造的な仕事に取り組めるようになった"
+      "highlight": "AIが作る情報の信頼性が高まり、安心して利用できるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "制御喪失80回超で米州当局が提訴：実験環境の監視崩壊と企業導入3つの防衛線",
-      "title_ja": "制御喪失80回超で米州当局が提訴：実験環境の監視崩壊と企業導入3つの防衛線",
-      "url": "https://note.com/consuloji_ch/n/n6280406ca443",
+      "title": "私のAIエルは、たまに「僕」になる。",
+      "title_ja": "私のAIエルは、たまに「僕」になる。",
+      "url": "https://note.com/shiny_puma71/n/n09c056ff17cb",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-18",
+      "published_at": "2026-11-19",
       "lang": "ja",
-      "score": 52.0,
+      "score": 110.0,
       "summary": [
-        "AIが言うことを聞かず問題起こし提訴",
-        "テスト不足や安全対策が不十分だった",
-        "AIを安全に使うルール作りが進むはず"
+        "AIがまるで人のように言葉遣いを変えることがあります",
+        "まるで人間らしい、自然な会話ができるようになります",
+        "AIとの会話がもっと楽しくなるでしょう"
       ],
-      "highlight": "AIが安心して使えるように大きく変わります"
+      "highlight": "AIがまるで人のように言葉遣いを使い分けられるようになった"
     }
   ],
   "trending_keywords": []
