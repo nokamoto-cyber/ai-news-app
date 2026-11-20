@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-11-19 11:56",
+  "updated_at": "2026-11-20 11:49",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "title_ja": "AIを使ったプログラミングは本当に速く安くなるのか？",
+      "title_ja": "AIによるプログラミングは本当に速くて安くなるのか？",
       "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-      "likes": 122,
-      "comments": 86,
+      "likes": 162,
+      "comments": 141,
       "published_at": "2026-11-18",
       "lang": "en",
-      "score": 330.0,
+      "score": 465.0,
       "summary": [
-        "AIがプログラミング作業を助け速く安くするかを議論",
-        "AIがコード作成を手伝い開発時間短縮や費用削減に",
-        "IT開発者だけでなく誰もがAIの恩恵を受けられる"
+        "AIがプログラム作りを手伝うことで",
+        "アプリ開発などが速く安くなる可能性",
+        "誰もが新しいサービスを作りやすくなる"
       ],
-      "highlight": "AIの力でプログラミングが速く安くできるようになり、便利なアプリやサービスがもっと身近になる"
+      "highlight": "AIがプログラミングの常識を変え、誰もが生活を豊かにする新しいサービスを簡単に作れるようになった。"
     },
     {
       "rank": 2,
       "source": "Zenn",
-      "title": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-      "title_ja": "【pstack】AIに敵対的レビューをさせるな。トークンは検証に使え",
-      "url": "https://zenn.dev/karamage/articles/5c3f8370b2b370",
-      "likes": 164,
-      "comments": 3,
-      "published_at": "2026-11-13",
+      "title": "ローカルLLM入門",
+      "title_ja": "ローカルLLM入門",
+      "url": "https://zenn.dev/tesla/articles/ff974c7456f4db",
+      "likes": 62,
+      "comments": 0,
+      "published_at": "2026-11-17",
       "lang": "ja",
-      "score": 178.0,
+      "score": 70.0,
       "summary": [
-        "AIが意地悪なレビューを作ったり、間違った情報を出さないための大事な方法について書かれています。",
-        "AIが作ったレビューや情報が正しいか、ちゃんと確認できるようになります。",
-        "AIを使う全ての人にとって、AIがもっと安全で信頼できる便利な道具になっていくでしょう。"
+        "この記事は、自分のパソコンで動くAIについて伝えています。",
+        "インターネットなしで使え、情報が外に漏れる心配もありません。",
+        "個人や会社でAIをもっと便利に、安心して使えるようになります。"
       ],
-      "highlight": "AIが作る情報の信頼性が高まり、安心して利用できるようになった。"
+      "highlight": "インターネットなしで、自分のパソコンだけでAIを使えるようになり、大切な情報も安全に守れるようになった。"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "私のAIエルは、たまに「僕」になる。",
-      "title_ja": "私のAIエルは、たまに「僕」になる。",
-      "url": "https://note.com/shiny_puma71/n/n09c056ff17cb",
+      "title": "実績ゼロから始める！ChatGPTで自分の小さな副業サービスを作る方法",
+      "title_ja": "実績ゼロから始める！ChatGPTで自分の小さな副業サービスを作る方法",
+      "url": "https://note.com/tasty_pipit5921/n/n639ff2e2f30b",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-19",
+      "published_at": "2026-11-20",
       "lang": "ja",
-      "score": 110.0,
+      "score": 66.0,
       "summary": [
-        "AIがまるで人のように言葉遣いを変えることがあります",
-        "まるで人間らしい、自然な会話ができるようになります",
-        "AIとの会話がもっと楽しくなるでしょう"
+        "実績がなくてもAIで副業を始める方法を説明",
+        "ChatGPTがあなたのサービス作りを助けます",
+        "副業を始めたい人に新しい選択肢を示します"
       ],
-      "highlight": "AIがまるで人のように言葉遣いを使い分けられるようになった"
+      "highlight": "経験ゼロでもAIを使って自分だけの副業サービスを作れるようになった"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "LLM",
+    "ChatGPT",
+    "GPT"
+  ]
 }
