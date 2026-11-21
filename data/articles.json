@@ -1,64 +1,62 @@
 {
-  "updated_at": "2026-11-20 11:49",
+  "updated_at": "2026-11-21 11:58",
   "articles": [
     {
       "rank": 1,
-      "source": "Dev.to",
-      "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "title_ja": "AIによるプログラミングは本当に速くて安くなるのか？",
-      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-      "likes": 162,
-      "comments": 141,
-      "published_at": "2026-11-18",
-      "lang": "en",
-      "score": 465.0,
+      "source": "note",
+      "title": "Muse Mailの正体！Gmailとの決定的な違い",
+      "title_ja": "Muse Mailの正体！Gmailとの決定的な違い",
+      "url": "https://note.com/999666hiromu/n/n098278d50bbd",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-21",
+      "lang": "ja",
+      "score": 571.0,
       "summary": [
-        "AIがプログラム作りを手伝うことで",
-        "アプリ開発などが速く安くなる可能性",
-        "誰もが新しいサービスを作りやすくなる"
+        "記事本文が提供されていないため、要約できません。",
+        "Muse MailとGmailの違いを具体的に説明できません。",
+        "記事本文の提供をお願いいたします。"
       ],
-      "highlight": "AIがプログラミングの常識を変え、誰もが生活を豊かにする新しいサービスを簡単に作れるようになった。"
+      "highlight": "記事本文がないため、何がすごいのかを伝えることができません。"
     },
     {
       "rank": 2,
+      "source": "Dev.to",
+      "title": "Is Coding with AI Actually Faster and Cheaper?",
+      "title_ja": "AIを使ったプログラミングは本当に速くて安いの？",
+      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
+      "likes": 199,
+      "comments": 179,
+      "published_at": "2026-11-18",
+      "lang": "en",
+      "score": 568.0,
+      "summary": [
+        "AIがプログラミングを手伝う話です",
+        "プログラム作りが速く安くなります",
+        "IT開発の未来が大きく変わります"
+      ],
+      "highlight": "AIがプログラミングの手間を減らすので、誰でも簡単に新しいアプリやサービスを作れるようになりました"
+    },
+    {
+      "rank": 3,
       "source": "Zenn",
       "title": "ローカルLLM入門",
       "title_ja": "ローカルLLM入門",
       "url": "https://zenn.dev/tesla/articles/ff974c7456f4db",
-      "likes": 62,
+      "likes": 65,
       "comments": 0,
       "published_at": "2026-11-17",
       "lang": "ja",
-      "score": 70.0,
+      "score": 73.0,
       "summary": [
-        "この記事は、自分のパソコンで動くAIについて伝えています。",
-        "インターネットなしで使え、情報が外に漏れる心配もありません。",
-        "個人や会社でAIをもっと便利に、安心して使えるようになります。"
+        "自分のパソコンやスマホでAIを動かす、新しい技術についての記事です。",
+        "インターネットに情報を送らずにAIを使えるので、個人情報も守られます。",
+        "AIをもっと安全に、身近に使えるようになる未来が期待されています。"
       ],
-      "highlight": "インターネットなしで、自分のパソコンだけでAIを使えるようになり、大切な情報も安全に守れるようになった。"
-    },
-    {
-      "rank": 3,
-      "source": "note",
-      "title": "実績ゼロから始める！ChatGPTで自分の小さな副業サービスを作る方法",
-      "title_ja": "実績ゼロから始める！ChatGPTで自分の小さな副業サービスを作る方法",
-      "url": "https://note.com/tasty_pipit5921/n/n639ff2e2f30b",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-20",
-      "lang": "ja",
-      "score": 66.0,
-      "summary": [
-        "実績がなくてもAIで副業を始める方法を説明",
-        "ChatGPTがあなたのサービス作りを助けます",
-        "副業を始めたい人に新しい選択肢を示します"
-      ],
-      "highlight": "経験ゼロでもAIを使って自分だけの副業サービスを作れるようになった"
+      "highlight": "自分のパソコンでAIを動かすことで、個人情報も安心して扱えるようになった。"
     }
   ],
   "trending_keywords": [
-    "LLM",
-    "ChatGPT",
-    "GPT"
+    "LLM"
   ]
 }
