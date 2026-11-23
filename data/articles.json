@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-11-22 10:53",
+  "updated_at": "2026-11-23 11:12",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "title_ja": "AIでプログラミングは本当に速く安くなる？",
+      "title_ja": "AIを使ったプログラミングは本当に速くて安くなるのか？",
       "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-      "likes": 228,
-      "comments": 190,
+      "likes": 242,
+      "comments": 218,
       "published_at": "2026-11-18",
       "lang": "en",
-      "score": 619.0,
+      "score": 689.0,
       "summary": [
-        "AIがプログラム開発を変える可能性",
-        "より速く安くプログラムが作れるか",
-        "IT企業やサービス開発者が注目"
+        "AIがプログラム開発を速く安くする？",
+        "アイデア出しから間違い探しまでAIが支援",
+        "新しいアプリが早く生まれ生活が便利に"
       ],
-      "highlight": "AIがプログラミングの常識を変え、より速く安く新しいものが作れるようになる"
+      "highlight": "AIによって、誰もが気軽にアプリ開発できるようになり、私たちの生活はもっと便利に変わるでしょう。"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "ChatGPTに何を聞けばいい？初心者が今日から使える10の質問【コピペOK】",
-      "title_ja": "ChatGPTに何を聞けばいい？初心者が今日から使える10の質問【コピペOK】",
-      "url": "https://note.com/peemaro_lab/n/n4cf4abde5442",
+      "title": "毎朝プロンプト(無料)",
+      "title_ja": "毎朝プロンプト(無料)",
+      "url": "https://note.com/osukesakka0416/n/n57eb7468641c",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-22",
+      "published_at": "2026-11-23",
       "lang": "ja",
-      "score": 109.0,
+      "score": 120.0,
       "summary": [
-        "ChatGPTの基本的な使い方を解説する",
-        "10個の質問例で今すぐ活用できる",
-        "初心者でも気軽にAIを使えるようになる"
+        "AIに指示する言葉が毎日無料で手に入る話",
+        "AIを毎日もっと便利に活用できるようになる",
+        "AIを使ってみたい人が毎日活用できる"
       ],
-      "highlight": "難しく考えずにAIを使いこなせるようになった"
+      "highlight": "毎日新しいAIの活用アイデアが手に入り、AIをより身近に使えるようになる"
     },
     {
       "rank": 3,
@@ -43,22 +43,20 @@
       "title": "ローカルLLM入門",
       "title_ja": "ローカルLLM入門",
       "url": "https://zenn.dev/tesla/articles/ff974c7456f4db",
-      "likes": 76,
+      "likes": 84,
       "comments": 0,
       "published_at": "2026-11-17",
       "lang": "ja",
-      "score": 84.0,
+      "score": 92.0,
       "summary": [
-        "AIを自分のパソコンで直接動かす技術",
-        "ネットなしでAIが使え個人情報も守られる",
-        "誰もがAIをもっと安全に使える未来が来る"
+        "1行目：この記事は、自分のパソコンでAIを動かす方法を紹介します。",
+        "2行目：ネットなしでAIが使え、個人情報も守られるようになります。",
+        "3行目：誰でもAIをもっと身近に使える未来が期待できます。"
       ],
-      "highlight": "誰でもAIを自分のパソコンで動かし、ネット不要で安全に使えるようになった"
+      "highlight": "インターネットにつながなくても、自分のパソコンでAIが動かせるようになった"
     }
   ],
   "trending_keywords": [
-    "ChatGPT",
-    "GPT",
     "LLM"
   ]
 }
