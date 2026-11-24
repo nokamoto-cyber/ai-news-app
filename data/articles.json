@@ -1,62 +1,63 @@
 {
-  "updated_at": "2026-11-23 11:12",
+  "updated_at": "2026-11-24 14:44",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "title_ja": "AIを使ったプログラミングは本当に速くて安くなるのか？",
+      "title_ja": "AIでのプログラミングは本当に速くて安いのか？",
       "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-      "likes": 242,
-      "comments": 218,
+      "likes": 254,
+      "comments": 249,
       "published_at": "2026-11-18",
       "lang": "en",
-      "score": 689.0,
+      "score": 763.0,
       "summary": [
-        "AIがプログラム開発を速く安くする？",
-        "アイデア出しから間違い探しまでAIが支援",
-        "新しいアプリが早く生まれ生活が便利に"
+        "AIがプログラムを作る手助けで、本当に時間やお金を節約できるかを議論。",
+        "プログラム作りが速くなり、もっと安くできるようになる期待がある。",
+        "アイデアを持つ人が手軽に形にでき、世の中が便利になる。"
       ],
-      "highlight": "AIによって、誰もが気軽にアプリ開発できるようになり、私たちの生活はもっと便利に変わるでしょう。"
+      "highlight": "AIがプログラム作りを手伝い、アイデアを素早く形にできるようになった。"
     },
     {
       "rank": 2,
-      "source": "note",
-      "title": "毎朝プロンプト(無料)",
-      "title_ja": "毎朝プロンプト(無料)",
-      "url": "https://note.com/osukesakka0416/n/n57eb7468641c",
-      "likes": 0,
-      "comments": 0,
-      "published_at": "2026-11-23",
-      "lang": "ja",
-      "score": 120.0,
-      "summary": [
-        "AIに指示する言葉が毎日無料で手に入る話",
-        "AIを毎日もっと便利に活用できるようになる",
-        "AIを使ってみたい人が毎日活用できる"
-      ],
-      "highlight": "毎日新しいAIの活用アイデアが手に入り、AIをより身近に使えるようになる"
-    },
-    {
-      "rank": 3,
       "source": "Zenn",
       "title": "ローカルLLM入門",
       "title_ja": "ローカルLLM入門",
       "url": "https://zenn.dev/tesla/articles/ff974c7456f4db",
-      "likes": 84,
+      "likes": 90,
       "comments": 0,
       "published_at": "2026-11-17",
       "lang": "ja",
-      "score": 92.0,
+      "score": 98.0,
       "summary": [
-        "1行目：この記事は、自分のパソコンでAIを動かす方法を紹介します。",
-        "2行目：ネットなしでAIが使え、個人情報も守られるようになります。",
-        "3行目：誰でもAIをもっと身近に使える未来が期待できます。"
+        "ネット不要で賢いAIを動かす方法",
+        "自分のスマホやPCで、安全にAIを使える",
+        "誰でも手軽にAIを使いこなせる未来が来る"
       ],
-      "highlight": "インターネットにつながなくても、自分のパソコンでAIが動かせるようになった"
+      "highlight": "インターネットにつなぐことなく、自分のパソコンやスマホで賢いAIを使えるようになった"
+    },
+    {
+      "rank": 3,
+      "source": "note",
+      "title": "Claude Codeの見張り（hook）は、止める前に「記録だけ」で動かす。うちの4本は、記録の期間なしで入れていた",
+      "title_ja": "Claude Codeの見張り（hook）は、止める前に「記録だけ」で動かす。うちの4本は、記録の期間なしで入れていた",
+      "url": "https://note.com/ai_works_room/n/ncc563ff6e643",
+      "likes": 0,
+      "comments": 0,
+      "published_at": "2026-11-24",
+      "lang": "ja",
+      "score": 65.0,
+      "summary": [
+        "AIがプログラムを開発する際の記録の大切さを伝えます。",
+        "途中で状況を記録することで、AIはより良いプログラムを作れます。",
+        "これにより、私たちが使うAIの信頼性がさらに高まります。"
+      ],
+      "highlight": "AIが私たちがより安心して使えるプログラムを作れるようになります。"
     }
   ],
   "trending_keywords": [
-    "LLM"
+    "LLM",
+    "Claude"
   ]
 }
