@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-11-24 14:44",
+  "updated_at": "2026-11-25 13:46",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
       "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "title_ja": "AIでのプログラミングは本当に速くて安いのか？",
+      "title_ja": "AIを使ったプログラミングは本当に速く安くなる？",
       "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
       "likes": 254,
-      "comments": 249,
+      "comments": 251,
       "published_at": "2026-11-18",
       "lang": "en",
-      "score": 763.0,
+      "score": 767.0,
       "summary": [
-        "AIがプログラムを作る手助けで、本当に時間やお金を節約できるかを議論。",
-        "プログラム作りが速くなり、もっと安くできるようになる期待がある。",
-        "アイデアを持つ人が手軽に形にでき、世の中が便利になる。"
+        "AIがプログラム作りをどう変えるか解説",
+        "AIがコード作成を手伝い作業効率が向上する",
+        "私たちの生活も便利になる可能性を秘める"
       ],
-      "highlight": "AIがプログラム作りを手伝い、アイデアを素早く形にできるようになった。"
+      "highlight": "AIの力で、難しいプログラム作りが誰でも速く、安くできる時代が始まる"
     },
     {
       "rank": 2,
       "source": "Zenn",
-      "title": "ローカルLLM入門",
-      "title_ja": "ローカルLLM入門",
-      "url": "https://zenn.dev/tesla/articles/ff974c7456f4db",
-      "likes": 90,
+      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+      "title_ja": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
+      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
+      "likes": 86,
       "comments": 0,
-      "published_at": "2026-11-17",
+      "published_at": "2026-11-21",
       "lang": "ja",
-      "score": 98.0,
+      "score": 94.0,
       "summary": [
-        "ネット不要で賢いAIを動かす方法",
-        "自分のスマホやPCで、安全にAIを使える",
-        "誰でも手軽にAIを使いこなせる未来が来る"
+        "AIに細かなチェックを任せず、大切なルールを教えるべき",
+        "AIが間違いを起こしにくく、もっと安全なシステムになる",
+        "私たちの暮らしのAIサービスが、より信頼できるようになる"
       ],
-      "highlight": "インターネットにつなぐことなく、自分のパソコンやスマホで賢いAIを使えるようになった"
+      "highlight": "AIが人間に決められた大切なルールを守り、より安全で信頼できるシステムが実現する"
     },
     {
       "rank": 3,
       "source": "note",
-      "title": "Claude Codeの見張り（hook）は、止める前に「記録だけ」で動かす。うちの4本は、記録の期間なしで入れていた",
-      "title_ja": "Claude Codeの見張り（hook）は、止める前に「記録だけ」で動かす。うちの4本は、記録の期間なしで入れていた",
-      "url": "https://note.com/ai_works_room/n/ncc563ff6e643",
+      "title": "資金調達総額1,000億円超！日中米の注目の新鋭AI企業が東京に集結。五大商社・テックジャイアントと語るAIのグローバル動向と最前線の実践",
+      "title_ja": "資金調達総額1,000億円超！日中米の注目の新鋭AI企業が東京に集結。五大商社・テックジャイアントと語るAIのグローバル動向と最前線の実践",
+      "url": "https://note.com/jlinkai/n/ne594f1242d48",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-24",
+      "published_at": "2026-11-25",
       "lang": "ja",
-      "score": 65.0,
+      "score": 57.0,
       "summary": [
-        "AIがプログラムを開発する際の記録の大切さを伝えます。",
-        "途中で状況を記録することで、AIはより良いプログラムを作れます。",
-        "これにより、私たちが使うAIの信頼性がさらに高まります。"
+        "世界中からすごいAI企業が東京に集結",
+        "AIで私たちの生活や仕事が便利になる",
+        "日本の社会や経済にも大きな影響がある"
       ],
-      "highlight": "AIが私たちがより安心して使えるプログラムを作れるようになります。"
+      "highlight": "AIの進化で私たちの生活や仕事が大きく変わり、便利な未来がやってくる"
     }
   ],
-  "trending_keywords": [
-    "LLM",
-    "Claude"
-  ]
+  "trending_keywords": []
 }
