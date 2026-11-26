@@ -1,60 +1,64 @@
 {
-  "updated_at": "2026-11-25 13:46",
+  "updated_at": "2026-11-26 12:56",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "Is Coding with AI Actually Faster and Cheaper?",
-      "title_ja": "AIを使ったプログラミングは本当に速く安くなる？",
-      "url": "https://dev.to/sylwia-lask/is-coding-with-ai-actually-faster-and-cheaper-2810",
-      "likes": 254,
-      "comments": 251,
-      "published_at": "2026-11-18",
+      "title": "The Chairs Are Back. The Coffee Is On. ☕",
+      "title_ja": "席が戻り、コーヒーも準備万端です。☕",
+      "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
+      "likes": 123,
+      "comments": 64,
+      "published_at": "2026-11-21",
       "lang": "en",
-      "score": 767.0,
+      "score": 262.0,
       "summary": [
-        "AIがプログラム作りをどう変えるか解説",
-        "AIがコード作成を手伝い作業効率が向上する",
-        "私たちの生活も便利になる可能性を秘める"
+        "記事本文が提供されていないため、",
+        "内容を分析して説明できませんでした。",
+        "そのため、具体的な要約はできません。"
       ],
-      "highlight": "AIの力で、難しいプログラム作りが誰でも速く、安くできる時代が始まる"
+      "highlight": "記事本文がないため、内容を要約できませんでした。"
     },
     {
       "rank": 2,
-      "source": "Zenn",
-      "title": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
-      "title_ja": "【TLA+】AIにテストケースを書かせるな。ルールを書け",
-      "url": "https://zenn.dev/karamage/articles/73027ee36796dc",
-      "likes": 86,
+      "source": "note",
+      "title": "ChatGPTとAivisSpeechで数学の解説動画を作ってみた。",
+      "title_ja": "ChatGPTとAivisSpeechで数学の解説動画を作ってみた。",
+      "url": "https://note.com/k_works_log/n/na46c77f85642",
+      "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-21",
+      "published_at": "2026-11-26",
       "lang": "ja",
-      "score": 94.0,
+      "score": 90.0,
       "summary": [
-        "AIに細かなチェックを任せず、大切なルールを教えるべき",
-        "AIが間違いを起こしにくく、もっと安全なシステムになる",
-        "私たちの暮らしのAIサービスが、より信頼できるようになる"
+        "AIを使って数学の解説動画を簡単に作成した話です。",
+        "専門的な知識がなくても、動画を自動で作れます。",
+        "教育現場や学習方法が大きく変わるきっかけになります。"
       ],
-      "highlight": "AIが人間に決められた大切なルールを守り、より安全で信頼できるシステムが実現する"
+      "highlight": "AIを使うことで、誰でも手軽に説明動画を作れるようになりました。"
     },
     {
       "rank": 3,
-      "source": "note",
-      "title": "資金調達総額1,000億円超！日中米の注目の新鋭AI企業が東京に集結。五大商社・テックジャイアントと語るAIのグローバル動向と最前線の実践",
-      "title_ja": "資金調達総額1,000億円超！日中米の注目の新鋭AI企業が東京に集結。五大商社・テックジャイアントと語るAIのグローバル動向と最前線の実践",
-      "url": "https://note.com/jlinkai/n/ne594f1242d48",
-      "likes": 0,
+      "source": "Zenn",
+      "title": "作って終わりにしない Claude Code 共通プラグイン運用の軌跡 〜AIで利用状況を分析・スキル棚卸し〜",
+      "title_ja": "作って終わりにしない Claude Code 共通プラグイン運用の軌跡 〜AIで利用状況を分析・スキル棚卸し〜",
+      "url": "https://zenn.dev/arie0703/articles/00-pub-08-claude-code-plugin-operations",
+      "likes": 1,
       "comments": 0,
-      "published_at": "2026-11-25",
+      "published_at": "2026-11-26",
       "lang": "ja",
-      "score": 57.0,
+      "score": 39.0,
       "summary": [
-        "世界中からすごいAI企業が東京に集結",
-        "AIで私たちの生活や仕事が便利になる",
-        "日本の社会や経済にも大きな影響がある"
+        "AIの便利な機能が、きちんと活用されているかをAI自身が分析する話です。",
+        "AIが、誰がどんな得意技を持っているか調べ、仕事が効率的になります。",
+        "AIを導入する企業が、より効果的な使い方を見つけるヒントになります。"
       ],
-      "highlight": "AIの進化で私たちの生活や仕事が大きく変わり、便利な未来がやってくる"
+      "highlight": "AIが、人がAIをどう使うかを分析し、チーム全体の働き方を劇的に改善できるようになった。"
     }
   ],
-  "trending_keywords": []
+  "trending_keywords": [
+    "ChatGPT",
+    "GPT",
+    "Claude"
+  ]
 }
