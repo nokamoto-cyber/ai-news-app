@@ -1,63 +1,60 @@
 {
-  "updated_at": "2026-11-27 12:56",
+  "updated_at": "2026-11-28 12:42",
   "articles": [
     {
       "rank": 1,
       "source": "Dev.to",
-      "title": "The Chairs Are Back. The Coffee Is On. ☕",
-      "title_ja": "椅子が戻ってきた。コーヒーは準備万端だ。☕",
-      "url": "https://dev.to/thethirdcup/the-chairs-are-back-the-coffee-is-on-243p",
-      "likes": 123,
-      "comments": 64,
-      "published_at": "2026-11-21",
+      "title": "I Built AI Test Automation. Today, I Went Back to Manual Testing.",
+      "title_ja": "AIによる自動テストから手動テストに戻った話",
+      "url": "https://dev.to/thethirdcup/i-built-ai-test-automation-today-i-went-back-to-manual-testing-mlh",
+      "likes": 101,
+      "comments": 111,
+      "published_at": "2026-11-26",
       "lang": "en",
-      "score": 262.0,
+      "score": 341.0,
       "summary": [
-        "この記事は本文が用意されていません。",
-        "そのため記事の具体的な内容は不明です。",
-        "読者の皆様への影響は判断できません。"
+        "AIで仕事を自動化することの難しさ",
+        "AIは完璧でなく人の目や感覚も必要",
+        "今後のAIとの付き合い方を考えるきっかけに"
       ],
-      "highlight": "記事本文がないため、何がすごいかはお伝えできません。"
+      "highlight": "AIが万能ではないと分かり、人の役割の重要性が再認識された"
     },
     {
       "rank": 2,
       "source": "note",
-      "title": "LLMの認識をめぐって",
-      "title_ja": "LLMの認識をめぐって",
-      "url": "https://note.com/tatsuya_history/n/nc60f60db55a8",
+      "title": "人類が167年解けなかったリーマン予想をAIが解いた。人間はまだ中身を読めていない",
+      "title_ja": "人類が167年解けなかったリーマン予想をAIが解いた。人間はまだ中身を読めていない",
+      "url": "https://note.com/nanairo5503/n/n809020e975a2",
       "likes": 0,
       "comments": 0,
-      "published_at": "2026-11-27",
+      "published_at": "2026-11-28",
       "lang": "ja",
-      "score": 98.0,
+      "score": 71.0,
       "summary": [
-        "記事の内容が書かれていません",
-        "そのため、詳細を説明できません",
-        "記事本文をご提供ください"
+        "AIが１６７年も解かれなかった数学の超難問を解決しました。",
+        "これは人間の常識を超えるAIの能力が証明された出来事です。",
+        "今後、AIがもっと多くの難しい問題解決に役立つでしょう。"
       ],
-      "highlight": "記事本文がないため、すごい点をお伝えできません"
+      "highlight": "人間が１６７年も解けなかった超難問を、AIが解決できるようになった。"
     },
     {
       "rank": 3,
       "source": "Zenn",
-      "title": "再現性のあるAI開発環境構築 #0 ―― 下ごしらえ: Claude Code 本体と ~/.claude の中身",
-      "title_ja": "再現性のあるAI開発環境構築 #0 ―― 下ごしらえ: Claude Code 本体と ~/.claude の中身",
-      "url": "https://zenn.dev/circularuins/articles/reproducible-ai-env-groundwork",
-      "likes": 0,
+      "title": "反AI寄りだったSES出身エンジニアが、ゴリゴリAI駆動開発のコンサルに入って感じたこと",
+      "title_ja": "反AI寄りだったSES出身エンジニアが、ゴリゴリAI駆動開発のコンサルに入って感じたこと",
+      "url": "https://zenn.dev/masa_vivo/articles/f859f5862da207",
+      "likes": 3,
       "comments": 0,
       "published_at": "2026-11-27",
       "lang": "ja",
-      "score": 43.0,
+      "score": 39.0,
       "summary": [
-        "AIを誰でも同じ環境で使うための準備を紹介",
-        "AIを安定して使える土台が作れるようになります",
-        "AIをもっと活用したい人に役立つ情報です"
+        "AIを否定していた人が、使う良さに気づいた",
+        "AIで仕事が驚くほど効率よく進む",
+        "AIは私たちの仕事を変える力がある"
       ],
-      "highlight": "誰でも同じようにAIを動かせる準備が整いました"
+      "highlight": "AIをうまく使うことで、仕事の質と速さが格段に上がり、働き方が大きく進化する"
     }
   ],
-  "trending_keywords": [
-    "LLM",
-    "Claude"
-  ]
+  "trending_keywords": []
 }
